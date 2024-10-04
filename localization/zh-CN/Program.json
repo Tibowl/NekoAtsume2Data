@@ -1,0 +1,11 @@
+{
+    "LangCode": "cn",
+    "Format": "{0}",
+    "FoodAskRefill": "要补充{0}\n吗？",
+    "FoodAskSet": "{0}を\nセットしますか？(中)",
+    "FoodAskChange": "要换成{0}\n吗？",
+    "ShopPage": "{0}/{1} page",
+    "ConfirmChangeYard": "要换{0}\n吗？",
+    "ConfirmChangeYardGoods": "要换成{0}\n吗？",
+    "MynekoEquipDialog2": ""
+}
