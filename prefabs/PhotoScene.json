@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "name": "PhotoScene",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "CaptureCamera",
+      "translation": [
+        0,
+        0,
+        -100
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

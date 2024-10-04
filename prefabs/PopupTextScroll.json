@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "name": "PopupTextScroll",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "ScrollRect",
+      "children": [
+        2,
+        4,
+        7
+      ]
+    },
+    {
+      "name": "Viewport",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Content"
+    },
+    {
+      "name": "Scrollbar Horizontal",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Scrollbar Vertical",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        9
+      ]
+    },
+    {
+      "name": "Handle",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Image"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

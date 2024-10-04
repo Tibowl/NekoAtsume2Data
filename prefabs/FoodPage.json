@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "name": "FoodPage",
+      "children": [
+        1,
+        6,
+        11,
+        16
+      ]
+    },
+    {
+      "name": "Cell0",
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "Cell1",
+      "children": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "Cell2",
+      "children": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "Cell3",
+      "children": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

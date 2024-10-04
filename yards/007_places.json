@@ -1,0 +1,246 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6311832482255821053
+  },
+  "m_Name": "007_places",
+  "places": [
+    {
+      "<Id>k__BackingField": 0,
+      "<Attribute>k__BackingField": 16,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -2.5300024,
+        "y": 0.8099998,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 1,
+      "<Attribute>k__BackingField": 0,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -5.2790008,
+        "y": -1.871,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 2,
+      "<Attribute>k__BackingField": 0,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -7.9970007,
+        "y": 0.24499999,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 3,
+      "<Attribute>k__BackingField": 0,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -14.498,
+        "y": -3.825,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 4,
+      "<Attribute>k__BackingField": 0,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -10.490001,
+        "y": -2.2450001,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        6
+      ]
+    },
+    {
+      "<Id>k__BackingField": 5,
+      "<Attribute>k__BackingField": 0,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -9.433001,
+        "y": -5.5589995,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        6
+      ]
+    },
+    {
+      "<Id>k__BackingField": 6,
+      "<Attribute>k__BackingField": 4,
+      "<FoodPlaceId>k__BackingField": 0,
+      "<Position>k__BackingField": {
+        "x": -10.057002,
+        "y": -4.106001,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        4,
+        5
+      ]
+    },
+    {
+      "<Id>k__BackingField": 10,
+      "<Attribute>k__BackingField": 17,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": -1.4000107,
+        "y": -6.1700025,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 11,
+      "<Attribute>k__BackingField": 1,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": -14.204,
+        "y": 2.149,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 12,
+      "<Attribute>k__BackingField": 1,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": -5.4140015,
+        "y": -6.618,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 13,
+      "<Attribute>k__BackingField": 1,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": 2.5470002,
+        "y": -6.3820004,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        16
+      ]
+    },
+    {
+      "<Id>k__BackingField": 14,
+      "<Attribute>k__BackingField": 1,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": -0.92999995,
+        "y": -3.91,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        16
+      ]
+    },
+    {
+      "<Id>k__BackingField": 15,
+      "<Attribute>k__BackingField": 1,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": 2.55,
+        "y": -1.016,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        16
+      ]
+    },
+    {
+      "<Id>k__BackingField": 16,
+      "<Attribute>k__BackingField": 5,
+      "<FoodPlaceId>k__BackingField": 10,
+      "<Position>k__BackingField": {
+        "x": 0.70000005,
+        "y": -2.87,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        14,
+        15
+      ]
+    },
+    {
+      "<Id>k__BackingField": 20,
+      "<Attribute>k__BackingField": 9,
+      "<FoodPlaceId>k__BackingField": -1,
+      "<Position>k__BackingField": {
+        "x": 9.27,
+        "y": -1.41,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 21,
+      "<Attribute>k__BackingField": 9,
+      "<FoodPlaceId>k__BackingField": -1,
+      "<Position>k__BackingField": {
+        "x": 13.45,
+        "y": -0.31,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": []
+    },
+    {
+      "<Id>k__BackingField": 22,
+      "<Attribute>k__BackingField": 9,
+      "<FoodPlaceId>k__BackingField": -1,
+      "<Position>k__BackingField": {
+        "x": 11.31,
+        "y": -4.31,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        24
+      ]
+    },
+    {
+      "<Id>k__BackingField": 23,
+      "<Attribute>k__BackingField": 9,
+      "<FoodPlaceId>k__BackingField": -1,
+      "<Position>k__BackingField": {
+        "x": 15.66,
+        "y": -2.8,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        24
+      ]
+    },
+    {
+      "<Id>k__BackingField": 24,
+      "<Attribute>k__BackingField": 13,
+      "<FoodPlaceId>k__BackingField": -1,
+      "<Position>k__BackingField": {
+        "x": 13.140001,
+        "y": -3.59,
+        "z": 0.0
+      },
+      "<CleanupPlaceIds>k__BackingField": [
+        22,
+        23
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "name": "FoodStockWindow",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "DefaultTextMeshPro"
+    },
+    {
+      "name": "Submit"
+    },
+    {
+      "name": "Stock1",
+      "children": [
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Plus"
+    },
+    {
+      "name": "Stock2",
+      "children": [
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Image"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

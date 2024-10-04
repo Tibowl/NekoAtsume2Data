@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "PageView",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "name": "RemodelContent",
+      "children": [
+        1,
+        2,
+        3,
+        6,
+        11
+      ]
+    },
+    {
+      "name": "LockImage"
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "PriceArea",
+      "children": [
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Niboshi"
+    },
+    {
+      "name": "Ticket"
+    },
+    {
+      "name": "PriceAreaOld",
+      "children": [
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Price",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Line"
+    },
+    {
+      "name": "Ticket"
+    },
+    {
+      "name": "HalfPrice"
+    },
+    {
+      "name": "Footprint"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

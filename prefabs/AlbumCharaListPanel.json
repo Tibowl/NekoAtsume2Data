@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "name": "AlbumCharaListPanel",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "MenuButton"
+    },
+    {
+      "name": "GardenButton"
+    },
+    {
+      "name": "BestButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

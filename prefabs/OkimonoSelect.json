@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "name": "OkimonoSelect",
+      "children": [
+        1,
+        2,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "name": "techoButton"
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "OkimonoSelectCell0",
+      "children": [
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Okimono",
+      "translation": [
+        0,
+        -60,
+        0
+      ]
+    },
+    {
+      "name": "OkimonoSelectCell1",
+      "children": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Okimono",
+      "translation": [
+        0,
+        -60,
+        0
+      ]
+    },
+    {
+      "name": "OkimonoSelectCell2",
+      "children": [
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Okimono",
+      "translation": [
+        0,
+        -60,
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

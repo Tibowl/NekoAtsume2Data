@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "name": "DefaultDropdown",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Arrow"
+    },
+    {
+      "name": "Template",
+      "children": [
+        4,
+        10
+      ]
+    },
+    {
+      "name": "Viewport",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Content",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Item",
+      "children": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Item Background"
+    },
+    {
+      "name": "Item Checkmark"
+    },
+    {
+      "name": "Item Label"
+    },
+    {
+      "name": "Scrollbar",
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        12
+      ]
+    },
+    {
+      "name": "Handle"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

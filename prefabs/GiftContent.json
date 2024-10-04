@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "name": "GiftContent",
+      "children": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Nameplate"
+    },
+    {
+      "name": "CharaIcon"
+    },
+    {
+      "name": "Gold",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Silver",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "GoodsIcon"
+    },
+    {
+      "name": "AcceptButton"
+    },
+    {
+      "name": "DateText",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

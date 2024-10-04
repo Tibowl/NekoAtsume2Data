@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "name": "GoodsCell",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "SizeIcon"
+    },
+    {
+      "name": "BreakIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "MyButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

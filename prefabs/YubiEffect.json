@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "YubiEffect"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

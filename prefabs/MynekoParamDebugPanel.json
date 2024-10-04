@@ -1,0 +1,377 @@
+{
+  "nodes": [
+    {
+      "name": "MynekoParamDebugPanel",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "SafeArea",
+      "children": [
+        2,
+        70
+      ]
+    },
+    {
+      "name": "Controls",
+      "children": [
+        3,
+        39,
+        45,
+        51,
+        54,
+        61,
+        68
+      ]
+    },
+    {
+      "name": "Grid",
+      "children": [
+        4,
+        9,
+        14,
+        19,
+        24,
+        29,
+        34
+      ]
+    },
+    {
+      "name": "MynekoPartsSelector0",
+      "children": [
+        5,
+        7
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "MynekoPartsSelector1",
+      "children": [
+        10,
+        12
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        13
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "MynekoPartsSelector2",
+      "children": [
+        15,
+        17
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        16
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "MynekoPartsSelector3",
+      "children": [
+        20,
+        22
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        21
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        23
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "MynekoPartsSelector4",
+      "children": [
+        25,
+        27
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        26
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        28
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "MynekoPartsSelector5",
+      "children": [
+        30,
+        32
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        31
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        33
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "MynekoPartsSelector6",
+      "children": [
+        35,
+        37
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        36
+      ]
+    },
+    {
+      "name": "LabelText"
+    },
+    {
+      "name": "Button",
+      "children": [
+        38
+      ]
+    },
+    {
+      "name": "ButtonText"
+    },
+    {
+      "name": "Horizontal",
+      "children": [
+        40,
+        42,
+        43
+      ]
+    },
+    {
+      "name": "LeftButton",
+      "children": [
+        41
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "AnimeName"
+    },
+    {
+      "name": "RightButton",
+      "children": [
+        44
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "Horizontal3",
+      "children": [
+        46,
+        48,
+        49
+      ]
+    },
+    {
+      "name": "LoadButton",
+      "children": [
+        47
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "NekoButton"
+    },
+    {
+      "name": "SaveButton",
+      "children": [
+        50
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "SettingToggle",
+      "children": [
+        52,
+        53
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Horizontal",
+      "children": [
+        55,
+        57,
+        59
+      ]
+    },
+    {
+      "name": "CloseButton",
+      "children": [
+        56
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "ClearButton",
+      "children": [
+        58
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "RandomButton",
+      "children": [
+        60
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "Horizontal2",
+      "children": [
+        62,
+        64,
+        66
+      ]
+    },
+    {
+      "name": "IconButton",
+      "children": [
+        63
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "StandIconButton",
+      "children": [
+        65
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "PartIconButton",
+      "children": [
+        67
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "AnimeButton",
+      "children": [
+        69
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "RawImage"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

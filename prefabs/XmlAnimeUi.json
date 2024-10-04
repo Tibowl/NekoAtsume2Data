@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "XmlAnimeUi"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

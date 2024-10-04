@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "RankingContent",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "RankText"
+    },
+    {
+      "name": "CatNameText"
+    },
+    {
+      "name": "GoodsNameText"
+    },
+    {
+      "name": "Image"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

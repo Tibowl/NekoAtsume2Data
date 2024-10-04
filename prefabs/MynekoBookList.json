@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "name": "MynekoBookList",
+      "children": [
+        1,
+        6,
+        11,
+        16
+      ]
+    },
+    {
+      "name": "Cell1",
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "DateText"
+    },
+    {
+      "name": "Cell2",
+      "children": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "DateText"
+    },
+    {
+      "name": "Cell3",
+      "children": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "DateText"
+    },
+    {
+      "name": "Cell4",
+      "children": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "DateText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

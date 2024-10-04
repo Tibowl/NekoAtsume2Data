@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "MessageWindow",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "ArrowDown"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

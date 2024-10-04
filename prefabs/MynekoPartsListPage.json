@@ -1,0 +1,89 @@
+{
+  "nodes": [
+    {
+      "name": "MynekoPartsListPage",
+      "children": [
+        1,
+        5,
+        9,
+        13
+      ]
+    },
+    {
+      "name": "Content0",
+      "children": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "PartsImageRoot"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "SettingImage"
+    },
+    {
+      "name": "Content1",
+      "children": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "PartsImageRoot"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "SettingImage"
+    },
+    {
+      "name": "Content2",
+      "children": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "PartsImageRoot"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "SettingImage"
+    },
+    {
+      "name": "Content3",
+      "children": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "name": "PartsImageRoot"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "SettingImage"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

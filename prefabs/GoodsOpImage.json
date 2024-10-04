@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "name": "GoodsOpImage",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Name"
+    },
+    {
+      "name": "Image",
+      "scale": [
+        0.7,
+        0.7,
+        1
+      ]
+    },
+    {
+      "name": "Niboshi",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Text",
+      "scale": [
+        1,
+        1.1999999,
+        1
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

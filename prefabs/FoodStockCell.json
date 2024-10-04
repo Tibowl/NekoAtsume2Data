@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "FoodStockCell",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Plus"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

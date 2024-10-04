@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "GoodsBreak2",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Header"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

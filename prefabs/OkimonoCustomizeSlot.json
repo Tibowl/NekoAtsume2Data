@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "OkimonoCustomizeSlot",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

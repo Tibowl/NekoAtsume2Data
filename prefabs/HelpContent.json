@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "name": "HelpContent",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Child",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Arrow",
+      "rotation": [
+        0,
+        0,
+        -0.7071068,
+        0.7071068
+      ]
+    },
+    {
+      "name": "Title"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+
+// Namespace: 
+public enum CatId 
+{
+	// Fields
+	public int value__; // 0x0
+	public const CatId Unknown = -1;
+	public const CatId Sironeko = 0;
+	public const CatId Kuroneko = 1;
+	public const CatId Sirokuro = 2;
+	public const CatId Haiiro = 3;
+	public const CatId Tobimike = 4;
+	public const CatId Chatora = 5;
+	public const CatId Sirochatora = 6;
+	public const CatId Mike = 7;
+	public const CatId Simamike = 8;
+	public const CatId Sabigara = 9;
+	public const CatId Hatiware = 10;
+	public const CatId Point = 11;
+	public const CatId Kutusita = 12;
+	public const CatId Haisiro = 13;
+	public const CatId Kijitora = 14;
+	public const CatId Sirokiji = 15;
+	public const CatId Sabatora = 16;
+	public const CatId Sirosaba = 17;
+	public const CatId Odd = 18;
+	public const CatId Puchi = 19;
+	public const CatId Tobey = 20;
+	public const CatId Chahachi = 21;
+	public const CatId Mugiwara = 22;
+	public const CatId Akage = 23;
+	public const CatId Cream = 24;
+	public const CatId Akasabi = 25;
+	public const CatId Sirotora = 26;
+	public const CatId Kurobuchi = 27;
+	public const CatId Kurotora = 28;
+	public const CatId Haihachi = 29;
+	public const CatId Siromike = 30;
+	public const CatId Haisabi = 31;
+	public const CatId Creamtora = 32;
+	public const CatId Choco = 33;
+	public const CatId Usumike = 34;
+	public const CatId Fujideko = 35;
+	public const CatId Torapoint = 36;
+	public const CatId Simapoint = 37;
+	public const CatId Chapoint = 38;
+	public const CatId Haipuchi = 39;
+	public const CatId Kurotobi = 40;
+	public const CatId Ginuzu = 41;
+	public const CatId Sirochauzu = 42;
+	public const CatId Tobigara = 43;
+	public const CatId Tatejima = 100;
+	public const CatId Nagagutu = 101;
+	public const CatId Prince = 102;
+	public const CatId Nabeneko = 103;
+	public const CatId Nekomata = 104;
+	public const CatId Koikoi = 105;
+	public const CatId Yamaneko = 106;
+	public const CatId Ekicho = 107;
+	public const CatId Manzoku = 108;
+	public const CatId Osamurai = 109;
+	public const CatId Amesyo = 110;
+	public const CatId Bistro = 111;
+	public const CatId Maromayu = 112;
+	public const CatId Sphin = 113;
+	public const CatId Cafe = 114;
+	public const CatId Kid = 115;
+	public const CatId Yukineko = 116;
+	public const CatId Sapphire = 117;
+	public const CatId Sebas = 118;
+	public const CatId Roger = 119;
+	public const CatId Shinobu = 120;
+	public const CatId Mikaduki = 121;
+	public const CatId Otetsudai = 122;
+	public const CatId Johoya = 123;
+	public const CatId Enquete = 124;
+	public const CatId Zukin = 125;
+	public const CatId Myneko1 = 701;
+	public const CatId Myneko2 = 702;
+	public const CatId Myneko3 = 703;
+	public const CatId Dog1 = 1001;
+}

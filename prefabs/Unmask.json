@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Unmask",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Unmask"
+    },
+    {
+      "name": "Image"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

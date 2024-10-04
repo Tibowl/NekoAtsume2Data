@@ -1,0 +1,8636 @@
+[
+  {
+    "Id": 10,
+    "ItemId": 1,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 20,
+    "ItemId": 2,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 30,
+    "ItemId": 3,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 40,
+    "ItemId": 4,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 10,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 50,
+    "ItemId": 5,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 10,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 60,
+    "ItemId": 6,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 70,
+    "ItemId": 7,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 1000,
+    "ItemId": 100,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_base",
+      "100"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1010,
+    "ItemId": 101,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_gum"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "01ball_gum_break",
+      "01ball_gum_break"
+    ],
+    "ActionIds2": [
+      0,
+      1
+    ],
+    "ActionWeights2": [
+      10,
+      5
+    ],
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1020,
+    "ItemId": 102,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_gum"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "01ball_gum_break",
+      "01ball_gum_break"
+    ],
+    "ActionIds2": [
+      0,
+      1
+    ],
+    "ActionWeights2": [
+      10,
+      5
+    ],
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1030,
+    "ItemId": 103,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_gum"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "01ball_gum_break",
+      "01ball_gum_break"
+    ],
+    "ActionIds2": [
+      0,
+      1
+    ],
+    "ActionWeights2": [
+      10,
+      5
+    ],
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1040,
+    "ItemId": 104,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_gum"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "01ball_gum_break",
+      "01ball_gum_break"
+    ],
+    "ActionIds2": [
+      0,
+      1
+    ],
+    "ActionWeights2": [
+      10,
+      5
+    ],
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1050,
+    "ItemId": 105,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_soccer"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "01ball_gum_break",
+      "01ball_gum_break"
+    ],
+    "ActionIds2": [
+      0,
+      1
+    ],
+    "ActionWeights2": [
+      10,
+      5
+    ],
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1060,
+    "ItemId": 106,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_pingpong"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1070,
+    "ItemId": 107,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_soccer"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1080,
+    "ItemId": 108,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_base"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1090,
+    "ItemId": 109,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_soccer"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1100,
+    "ItemId": 110,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_base"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1110,
+    "ItemId": 111,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_soccer",
+      "112"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "01ball_gum_break",
+      "01ball_gum_break"
+    ],
+    "ActionIds2": [
+      0,
+      1
+    ],
+    "ActionWeights2": [
+      10,
+      5
+    ],
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1120,
+    "ItemId": 112,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_paper",
+      "02danbo_paper"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "07fukuro_kami_break"
+    ],
+    "ActionIds2": [
+      1
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1130,
+    "ItemId": 113,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_s"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1140,
+    "ItemId": 114,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_s"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1150,
+    "ItemId": 115,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_s"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1160,
+    "ItemId": 116,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_m"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1170,
+    "ItemId": 117,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": [
+      10,
+      1,
+      1,
+      5,
+      1
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1180,
+    "ItemId": 118,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_car"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1190,
+    "ItemId": 119,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1200,
+    "ItemId": 120,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1201,
+    "ItemId": 120,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": -1.0
+  },
+  {
+    "Id": 1210,
+    "ItemId": 121,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1211,
+    "ItemId": 121,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1212,
+    "ItemId": 121,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 90,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1220,
+    "ItemId": 122,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1221,
+    "ItemId": 122,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.1
+  },
+  {
+    "Id": 1222,
+    "ItemId": 122,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_tachi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      2,
+      1,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1230,
+    "ItemId": 123,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1231,
+    "ItemId": 123,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1232,
+    "ItemId": 123,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      6
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1233,
+    "ItemId": 123,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "02danbo_m",
+      "107"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1240,
+    "ItemId": 124,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tsume_yoko"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1241,
+    "ItemId": 124,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tsume_yoko"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1250,
+    "ItemId": 125,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1260,
+    "ItemId": 126,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1270,
+    "ItemId": 127,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1280,
+    "ItemId": 128,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1290,
+    "ItemId": 129,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "109"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1300,
+    "ItemId": 130,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1310,
+    "ItemId": 131,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1320,
+    "ItemId": 132,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1330,
+    "ItemId": 133,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1340,
+    "ItemId": 134,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1350,
+    "ItemId": 135,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1360,
+    "ItemId": 136,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1370,
+    "ItemId": 137,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1380,
+    "ItemId": 138,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1390,
+    "ItemId": 139,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1400,
+    "ItemId": 140,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1410,
+    "ItemId": 141,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1420,
+    "ItemId": 142,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1430,
+    "ItemId": 143,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1440,
+    "ItemId": 144,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1450,
+    "ItemId": 145,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1460,
+    "ItemId": 146,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1470,
+    "ItemId": 147,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1480,
+    "ItemId": 148,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1490,
+    "ItemId": 149,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1500,
+    "ItemId": 150,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1510,
+    "ItemId": 151,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1520,
+    "ItemId": 152,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1530,
+    "ItemId": 153,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1540,
+    "ItemId": 154,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1550,
+    "ItemId": 155,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "102"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1560,
+    "ItemId": 156,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1561,
+    "ItemId": 156,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1570,
+    "ItemId": 157,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1571,
+    "ItemId": 157,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1580,
+    "ItemId": 158,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1581,
+    "ItemId": 158,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1590,
+    "ItemId": 159,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1591,
+    "ItemId": 159,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1600,
+    "ItemId": 160,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1601,
+    "ItemId": 160,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1610,
+    "ItemId": 161,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1611,
+    "ItemId": 161,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1620,
+    "ItemId": 162,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1630,
+    "ItemId": 163,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1640,
+    "ItemId": 164,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1650,
+    "ItemId": 165,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_nabe"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1660,
+    "ItemId": 166,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      3
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1670,
+    "ItemId": 167,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1680,
+    "ItemId": 168,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1690,
+    "ItemId": 169,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1691,
+    "ItemId": 169,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1692,
+    "ItemId": 169,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1700,
+    "ItemId": 170,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1710,
+    "ItemId": 171,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1720,
+    "ItemId": 172,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1730,
+    "ItemId": 173,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1740,
+    "ItemId": 174,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1750,
+    "ItemId": 175,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1760,
+    "ItemId": 176,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1770,
+    "ItemId": 177,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1780,
+    "ItemId": 178,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1781,
+    "ItemId": 178,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      1
+    ],
+    "GoodsAnimeId2": [
+      1,
+      1,
+      1
+    ],
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1790,
+    "ItemId": 179,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1791,
+    "ItemId": 179,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      1
+    ],
+    "GoodsAnimeId2": [
+      1,
+      1,
+      1
+    ],
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1800,
+    "ItemId": 180,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1801,
+    "ItemId": 180,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      1
+    ],
+    "GoodsAnimeId2": [
+      1,
+      1,
+      1
+    ],
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 1.0
+  },
+  {
+    "Id": 1810,
+    "ItemId": 181,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1811,
+    "ItemId": 181,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      1
+    ],
+    "GoodsAnimeId2": [
+      1,
+      1,
+      1
+    ],
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 1.0
+  },
+  {
+    "Id": 1820,
+    "ItemId": 182,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1821,
+    "ItemId": 182,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      1
+    ],
+    "GoodsAnimeId2": [
+      1,
+      1,
+      1
+    ],
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 1.0
+  },
+  {
+    "Id": 1830,
+    "ItemId": 183,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1840,
+    "ItemId": 184,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1850,
+    "ItemId": 185,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1860,
+    "ItemId": 186,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "116"
+    ],
+    "ActionIds": [
+      1,
+      2,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1870,
+    "ItemId": 187,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1880,
+    "ItemId": 188,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      1,
+      0,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1890,
+    "ItemId": 189,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1900,
+    "ItemId": 190,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1910,
+    "ItemId": 191,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1920,
+    "ItemId": 192,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 110,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1930,
+    "ItemId": 193,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1940,
+    "ItemId": 194,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1950,
+    "ItemId": 195,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1960,
+    "ItemId": 196,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1961,
+    "ItemId": 196,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1970,
+    "ItemId": 197,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1980,
+    "ItemId": 198,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_beads"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1990,
+    "ItemId": 199,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "108"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 1991,
+    "ItemId": 199,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2000,
+    "ItemId": 200,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "108"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      4
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2001,
+    "ItemId": 200,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2010,
+    "ItemId": 201,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "12hammock",
+      "12hammock",
+      "12hammock"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2020,
+    "ItemId": 202,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "12hammock",
+      "12hammock",
+      "12hammock"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2030,
+    "ItemId": 203,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "12hammock",
+      "12hammock",
+      "12hammock"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2040,
+    "ItemId": 204,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "12hammock",
+      "12hammock",
+      "12hammock"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2050,
+    "ItemId": 205,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2060,
+    "ItemId": 206,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2070,
+    "ItemId": 207,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2071,
+    "ItemId": 207,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2080,
+    "ItemId": 208,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2090,
+    "ItemId": 209,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2100,
+    "ItemId": 210,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "116"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2110,
+    "ItemId": 211,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2120,
+    "ItemId": 212,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2121,
+    "ItemId": 212,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 40,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2130,
+    "ItemId": 213,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2131,
+    "ItemId": 213,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 40,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2140,
+    "ItemId": 214,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 120,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2150,
+    "ItemId": 215,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2160,
+    "ItemId": 216,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2170,
+    "ItemId": 217,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2180,
+    "ItemId": 218,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "13blanket"
+    ],
+    "ActionIds": [
+      2,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2190,
+    "ItemId": 219,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "13blanket"
+    ],
+    "ActionIds": [
+      2,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2200,
+    "ItemId": 220,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "13blanket"
+    ],
+    "ActionIds": [
+      2,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2210,
+    "ItemId": 221,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2211,
+    "ItemId": 221,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2212,
+    "ItemId": 221,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2220,
+    "ItemId": 222,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2221,
+    "ItemId": 222,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2222,
+    "ItemId": 222,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2230,
+    "ItemId": 223,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2231,
+    "ItemId": 223,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2232,
+    "ItemId": 223,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2233,
+    "ItemId": 223,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2240,
+    "ItemId": 224,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2241,
+    "ItemId": 224,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2250,
+    "ItemId": 225,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2251,
+    "ItemId": 225,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2252,
+    "ItemId": 225,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2260,
+    "ItemId": 226,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2261,
+    "ItemId": 226,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2262,
+    "ItemId": 226,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2263,
+    "ItemId": 226,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2264,
+    "ItemId": 226,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2270,
+    "ItemId": 227,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2271,
+    "ItemId": 227,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2272,
+    "ItemId": 227,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2273,
+    "ItemId": 227,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2274,
+    "ItemId": 227,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2275,
+    "ItemId": 227,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2280,
+    "ItemId": 228,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2281,
+    "ItemId": 228,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 65,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2282,
+    "ItemId": 228,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2283,
+    "ItemId": 228,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2290,
+    "ItemId": 229,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2291,
+    "ItemId": 229,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2292,
+    "ItemId": 229,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2293,
+    "ItemId": 229,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2300,
+    "ItemId": 230,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2301,
+    "ItemId": 230,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2302,
+    "ItemId": 230,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2303,
+    "ItemId": 230,
+    "ConflictIndices": [
+      5,
+      6
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2304,
+    "ItemId": 230,
+    "ConflictIndices": [
+      5,
+      6
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2305,
+    "ItemId": 230,
+    "ConflictIndices": [
+      3,
+      4
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "117"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2306,
+    "ItemId": 230,
+    "ConflictIndices": [
+      3,
+      4
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "118"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2310,
+    "ItemId": 231,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2311,
+    "ItemId": 231,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2312,
+    "ItemId": 231,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "116"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2313,
+    "ItemId": 231,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2314,
+    "ItemId": 231,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 50,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2320,
+    "ItemId": 232,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2321,
+    "ItemId": 232,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2330,
+    "ItemId": 233,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2331,
+    "ItemId": 233,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2340,
+    "ItemId": 234,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2341,
+    "ItemId": 234,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      4
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2342,
+    "ItemId": 234,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      5
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2350,
+    "ItemId": 235,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2351,
+    "ItemId": 235,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      4
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2352,
+    "ItemId": 235,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      5
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2353,
+    "ItemId": 235,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      6
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2360,
+    "ItemId": 236,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2361,
+    "ItemId": 236,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2370,
+    "ItemId": 237,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2371,
+    "ItemId": 237,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2380,
+    "ItemId": 238,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2381,
+    "ItemId": 238,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2390,
+    "ItemId": 239,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      5
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2391,
+    "ItemId": 239,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2400,
+    "ItemId": 240,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2410,
+    "ItemId": 241,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2420,
+    "ItemId": 242,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2430,
+    "ItemId": 243,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2440,
+    "ItemId": 244,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_the",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": [
+      3,
+      1
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2450,
+    "ItemId": 245,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_hane",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": [
+      3,
+      1
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2460,
+    "ItemId": 246,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_the",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2470,
+    "ItemId": 247,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_the",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2480,
+    "ItemId": 248,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_the",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2490,
+    "ItemId": 249,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_nezumi",
+      "00kihon_nesoberi",
+      "101"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": [
+      3,
+      1,
+      1
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      -1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2500,
+    "ItemId": 250,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": [
+      3,
+      1
+    ],
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2510,
+    "ItemId": 251,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2520,
+    "ItemId": 252,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2530,
+    "ItemId": 253,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2540,
+    "ItemId": 254,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2550,
+    "ItemId": 255,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2560,
+    "ItemId": 256,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_bunbun",
+      "06jarashi_punch",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2570,
+    "ItemId": 257,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_punch",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2580,
+    "ItemId": 258,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_rail",
+      "107"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      -1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2590,
+    "ItemId": 259,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "11kotatsu",
+      "11kotatsu",
+      "11kotatsu"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2591,
+    "ItemId": 259,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "11kotatsu",
+      "11kotatsu",
+      "11kotatsu"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      3
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2592,
+    "ItemId": 259,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "11kotatsu"
+    ],
+    "ActionIds": [
+      4
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2593,
+    "ItemId": 259,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2600,
+    "ItemId": 260,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2601,
+    "ItemId": 260,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2602,
+    "ItemId": 260,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel"
+    ],
+    "ActionIds": [
+      5
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2603,
+    "ItemId": 260,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2610,
+    "ItemId": 261,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2611,
+    "ItemId": 261,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2612,
+    "ItemId": 261,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2613,
+    "ItemId": 261,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "103"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 65,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2620,
+    "ItemId": 262,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2630,
+    "ItemId": 263,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2640,
+    "ItemId": 264,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2641,
+    "ItemId": 264,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2642,
+    "ItemId": 264,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2650,
+    "ItemId": 265,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2651,
+    "ItemId": 265,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2652,
+    "ItemId": 265,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2660,
+    "ItemId": 266,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2661,
+    "ItemId": 266,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2662,
+    "ItemId": 266,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2670,
+    "ItemId": 267,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2671,
+    "ItemId": 267,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2672,
+    "ItemId": 267,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 60,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2680,
+    "ItemId": 268,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2690,
+    "ItemId": 269,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "07fukuro_kami"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "07fukuro_kami"
+    ],
+    "ActionIds2": [
+      0
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2700,
+    "ItemId": 270,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "07fukuro_kami"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "07fukuro_kami"
+    ],
+    "ActionIds2": [
+      0
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2710,
+    "ItemId": 271,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "07fukuro_kami"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "07fukuro_kami"
+    ],
+    "ActionIds2": [
+      0
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2720,
+    "ItemId": 272,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "07fukuro_kami"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "07fukuro_kami_break"
+    ],
+    "ActionIds2": [
+      1
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2730,
+    "ItemId": 273,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "07fukuro_vinyl"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2740,
+    "ItemId": 274,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_tsume_yoko"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2750,
+    "ItemId": 275,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2760,
+    "ItemId": 276,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_tsume_tate"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2770,
+    "ItemId": 277,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_nabe"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2780,
+    "ItemId": 278,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_nabe",
+      "103"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      -1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2790,
+    "ItemId": 279,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_kaodashi",
+      "06jarashi_mushi",
+      "01ball_base"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      1,
+      1,
+      2
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2800,
+    "ItemId": 280,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 120,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2810,
+    "ItemId": 281,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi",
+      "10hachi_nabe"
+    ],
+    "ActionIds": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2811,
+    "ItemId": 281,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "112"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2820,
+    "ItemId": 282,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2830,
+    "ItemId": 283,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2840,
+    "ItemId": 284,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2850,
+    "ItemId": 285,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 150,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2860,
+    "ItemId": 286,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 150,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2870,
+    "ItemId": 287,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 150,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2880,
+    "ItemId": 288,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2890,
+    "ItemId": 289,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2900,
+    "ItemId": 290,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2910,
+    "ItemId": 291,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2920,
+    "ItemId": 292,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2930,
+    "ItemId": 293,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2931,
+    "ItemId": 293,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2940,
+    "ItemId": 294,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_kingyo",
+      "10hachi_kingyo"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2950,
+    "ItemId": 295,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_kingyo"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2960,
+    "ItemId": 296,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "15bin_hana",
+      "111"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2970,
+    "ItemId": 297,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "15bin_hana"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 90,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2980,
+    "ItemId": 298,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2981,
+    "ItemId": 298,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "02danbo_s_hat",
+      "115"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      1,
+      -1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 2990,
+    "ItemId": 299,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3000,
+    "ItemId": 300,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3010,
+    "ItemId": 301,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3020,
+    "ItemId": 302,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3030,
+    "ItemId": 303,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3040,
+    "ItemId": 304,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_gum_break"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": [
+      "neko_walk"
+    ],
+    "ActionIds2": [
+      1
+    ],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3050,
+    "ItemId": 305,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3060,
+    "ItemId": 306,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi"
+    ],
+    "ActionIds": [
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": true,
+    "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 50000,
+    "ItemId": 5000,
+    "ConflictIndices": [],
+    "ActionNames": [],
+    "ActionIds": [],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 50010,
+    "ItemId": 5001,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_tachi",
+      "00kihon_tachi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "GomenSleep": false,
+    "Grooming": false,
+    "Z": 0.0
+  }
+]

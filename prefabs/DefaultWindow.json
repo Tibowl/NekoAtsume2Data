@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "DefaultWindow",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

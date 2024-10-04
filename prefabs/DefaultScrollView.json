@@ -1,0 +1,59 @@
+{
+  "nodes": [
+    {
+      "name": "DefaultScrollView",
+      "children": [
+        1,
+        3,
+        6
+      ]
+    },
+    {
+      "name": "Viewport",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Content"
+    },
+    {
+      "name": "Scrollbar Horizontal",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Scrollbar Vertical",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Handle"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "ShotButtons",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "MyButton1"
+    },
+    {
+      "name": "MyButton2"
+    },
+    {
+      "name": "MyButton3"
+    },
+    {
+      "name": "MyButton4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

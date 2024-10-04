@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "HelpAboutCourse",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Hooter"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

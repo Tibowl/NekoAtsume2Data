@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "BlackPanel",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "SafeArea"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

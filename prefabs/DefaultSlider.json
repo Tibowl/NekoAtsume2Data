@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "name": "DefaultSlider",
+      "children": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Foreground"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

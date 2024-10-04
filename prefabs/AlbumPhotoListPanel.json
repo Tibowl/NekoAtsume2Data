@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "name": "AlbumPhotoListPanel",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "CloseButton"
+    },
+    {
+      "name": "PageView",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

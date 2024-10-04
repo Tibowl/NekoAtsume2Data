@@ -1,0 +1,131 @@
+{
+  "nodes": [
+    {
+      "name": "ShotFrame",
+      "children": [
+        1,
+        2,
+        3,
+        7,
+        11,
+        15
+      ]
+    },
+    {
+      "name": "Mark"
+    },
+    {
+      "name": "ShotOrientationButton"
+    },
+    {
+      "name": "ShotFrameAnime1",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "ShotFrameAnime2",
+      "children": [
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071068,
+        0.7071068
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        9
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "ShotFrameAnime3",
+      "children": [
+        12
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        13
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        14
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "ShotFrameAnime4",
+      "children": [
+        16
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071068,
+        -0.7071068
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        17
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "Image2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

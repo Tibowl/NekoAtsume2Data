@@ -1,0 +1,165 @@
+{
+  "nodes": [
+    {
+      "name": "RemodelShopPage",
+      "children": [
+        1,
+        8,
+        15,
+        22
+      ]
+    },
+    {
+      "name": "Cell0",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "SelectLabel"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Cell1",
+      "children": [
+        9
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "SelectLabel"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Cell2",
+      "children": [
+        16
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "SelectLabel"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Cell3",
+      "children": [
+        23
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "SelectLabel"
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
