@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "name": "AlbumNameCell",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "CountText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

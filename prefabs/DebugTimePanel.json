@@ -1,0 +1,533 @@
+{
+  "nodes": [
+    {
+      "name": "DebugTimePanel",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "SafeArea",
+      "children": [
+        2,
+        7
+      ]
+    },
+    {
+      "name": "Layout",
+      "children": [
+        3,
+        5
+      ]
+    },
+    {
+      "name": "CancelButton",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "NowButton",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Layout",
+      "children": [
+        8,
+        12,
+        25,
+        38,
+        51,
+        64,
+        77,
+        90,
+        103
+      ]
+    },
+    {
+      "name": "Time",
+      "children": [
+        9
+      ]
+    },
+    {
+      "name": "Text Area",
+      "children": [
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Placeholder"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Year1",
+      "children": [
+        13,
+        14,
+        16,
+        22,
+        24
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        15
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        19
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        21
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        23
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Year2",
+      "children": [
+        26,
+        27,
+        29,
+        35,
+        37
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        28
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        30,
+        31,
+        33
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        32
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        34
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        36
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Month",
+      "children": [
+        39,
+        40,
+        42,
+        48,
+        50
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        41
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        43,
+        44,
+        46
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        45
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        47
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        49
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Day",
+      "children": [
+        52,
+        53,
+        55,
+        61,
+        63
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        54
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        56,
+        57,
+        59
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        58
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        60
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        62
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Hour",
+      "children": [
+        65,
+        66,
+        68,
+        74,
+        76
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        67
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        69,
+        70,
+        72
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        71
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        73
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        75
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Minute",
+      "children": [
+        78,
+        79,
+        81,
+        87,
+        89
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        80
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        82,
+        83,
+        85
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        84
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        86
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        88
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Second",
+      "children": [
+        91,
+        92,
+        94,
+        100,
+        102
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        93
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        95,
+        96,
+        98
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        97
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        99
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        101
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "SubmitButton",
+      "children": [
+        104
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

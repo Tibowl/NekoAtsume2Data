@@ -1,0 +1,136 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "003_otherplaces",
+	"m_PrefabAsset": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 7760508257677081948 },
+	"m_Structure": {
+		"places": [
+			{
+				"\u003cId\u003ek__BackingField": 0,
+				"\u003cAttribute\u003ek__BackingField": 8,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -5.075,
+					"y": 1.35,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
+				"\u003cId\u003ek__BackingField": 1,
+				"\u003cAttribute\u003ek__BackingField": 16,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 1.26,
+					"y": 2.19,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
+				"\u003cId\u003ek__BackingField": 2,
+				"\u003cAttribute\u003ek__BackingField": 32,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -0.67,
+					"y": -0.37,
+					"z": 192.5
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
+				"\u003cId\u003ek__BackingField": 10,
+				"\u003cAttribute\u003ek__BackingField": 64,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 6.21,
+					"y": -3.78,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
+				"\u003cId\u003ek__BackingField": 11,
+				"\u003cAttribute\u003ek__BackingField": 64,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -15.81,
+					"y": 0.53,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 1
+			},
+			{
+				"\u003cId\u003ek__BackingField": 20,
+				"\u003cAttribute\u003ek__BackingField": 256,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 2.16,
+					"y": -1.314,
+					"z": 183
+				},
+				"\u003cState\u003ek__BackingField": 1
+			},
+			{
+				"\u003cId\u003ek__BackingField": 30,
+				"\u003cAttribute\u003ek__BackingField": 128,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 2.2,
+					"y": -7.85,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 1
+			},
+			{
+				"\u003cId\u003ek__BackingField": 100,
+				"\u003cAttribute\u003ek__BackingField": 1024,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -5.5,
+					"y": 8,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
+				"\u003cId\u003ek__BackingField": 101,
+				"\u003cAttribute\u003ek__BackingField": 2048,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 1.99,
+					"y": -5,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 1
+			},
+			{
+				"\u003cId\u003ek__BackingField": 102,
+				"\u003cAttribute\u003ek__BackingField": 2048,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -11.9,
+					"y": 1.9999999,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 2
+			},
+			{
+				"\u003cId\u003ek__BackingField": 103,
+				"\u003cAttribute\u003ek__BackingField": 2048,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -14.200001,
+					"y": -5.2,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 3
+			},
+			{
+				"\u003cId\u003ek__BackingField": 104,
+				"\u003cAttribute\u003ek__BackingField": 2048,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -5.9,
+					"y": -1.5000001,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 4
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "name": "MynekoPartsListCell",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "PartsImageRoot"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "SettingImage"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

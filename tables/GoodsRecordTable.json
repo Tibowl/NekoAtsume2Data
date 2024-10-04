@@ -1,0 +1,1276 @@
+[
+  {
+    "Id": 1,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_karikari"
+    ],
+    "AnimeXmls": [
+      "08meshi_karikari"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 1,
+    "DisplayOrderInTrade": 0,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 2,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_karikari_high"
+    ],
+    "AnimeXmls": [
+      "08meshi_karikari_high"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 2,
+    "DisplayOrderInTrade": 0,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 30,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 3,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_nekokan"
+    ],
+    "AnimeXmls": [
+      "08meshi_nekokan"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 3,
+    "DisplayOrderInTrade": 0,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 3,
+    "StampCard": 0
+  },
+  {
+    "Id": 4,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_f00"
+    ],
+    "AnimeXmls": [
+      "08meshi_f00"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 4,
+    "DisplayOrderInTrade": 0,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 7,
+    "StampCard": 0
+  },
+  {
+    "Id": 5,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_nekokan_high"
+    ],
+    "AnimeXmls": [
+      "08meshi_nekokan_high"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 5,
+    "DisplayOrderInTrade": 0,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 12,
+    "StampCard": 0
+  },
+  {
+    "Id": 6,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_sashimi"
+    ],
+    "AnimeXmls": [
+      "08meshi_sashimi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 6,
+    "DisplayOrderInTrade": 0,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 5,
+    "StampCard": 0
+  },
+  {
+    "Id": 7,
+    "Attribute": 0,
+    "AnimePngs": [
+      "08meshi_sashimi2"
+    ],
+    "AnimeXmls": [
+      "08meshi_sashimi2"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 7,
+    "DisplayOrderInTrade": 4,
+    "Category": 1,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 750,
+    "Gold": 50,
+    "StampCard": 4
+  },
+  {
+    "Id": 100,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_base"
+    ],
+    "AnimeXmls": [
+      "01ball_base",
+      "01ball_base_sp"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 101,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 90,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 101,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_gum"
+    ],
+    "AnimeXmls": [
+      "01ball_gum"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 102,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 60,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 106,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_pingpong"
+    ],
+    "AnimeXmls": [
+      "01ball_pingpong"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 107,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 1300,
+    "RepairPattern": 1,
+    "Silver": 50,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 108,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_mochi"
+    ],
+    "AnimeXmls": [
+      "01ball_mochi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 109,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 80,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 109,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_keito"
+    ],
+    "AnimeXmls": [
+      "01ball_keito"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 110,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 500,
+    "RepairPattern": 0,
+    "Silver": 120,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 111,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_soccer_mari"
+    ],
+    "AnimeXmls": [
+      "01ball_soccer_mari",
+      "01ball_soccer_mari"
+    ],
+    "BackActionIds": [
+      -1,
+      1
+    ],
+    "FrontActionIds": [
+      -1,
+      0
+    ],
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 112,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 1800,
+    "RepairPattern": 1,
+    "Silver": 0,
+    "Gold": 25,
+    "StampCard": 0
+  },
+  {
+    "Id": 112,
+    "Attribute": 0,
+    "AnimePngs": [
+      "02danbo_paper"
+    ],
+    "AnimeXmls": [
+      "02danbo_paper"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 113,
+    "DisplayOrderInTrade": 0,
+    "Category": 1024,
+    "Toughness": 250,
+    "RepairPattern": 0,
+    "Silver": 40,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 115,
+    "Attribute": 0,
+    "AnimePngs": [
+      "02danbo_s"
+    ],
+    "AnimeXmls": [
+      "02danbo_s"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 116,
+    "DisplayOrderInTrade": 0,
+    "Category": 260,
+    "Toughness": 800,
+    "RepairPattern": 0,
+    "Silver": 70,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 116,
+    "Attribute": 0,
+    "AnimePngs": [
+      "02danbo_m"
+    ],
+    "AnimeXmls": [
+      "02danbo_m"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 117,
+    "DisplayOrderInTrade": 0,
+    "Category": 4,
+    "Toughness": 1000,
+    "RepairPattern": 3,
+    "Silver": 100,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 118,
+    "Attribute": 0,
+    "AnimePngs": [
+      "02danbo_car"
+    ],
+    "AnimeXmls": [
+      "02danbo_car"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 119,
+    "DisplayOrderInTrade": 0,
+    "Category": 4,
+    "Toughness": 1800,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 15,
+    "StampCard": 0
+  },
+  {
+    "Id": 121,
+    "Attribute": 1,
+    "AnimePngs": [
+      "02danbo_house"
+    ],
+    "AnimeXmls": [
+      "02danbo_house"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 122,
+    "DisplayOrderInTrade": 0,
+    "Category": 4,
+    "Toughness": 8100,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 40,
+    "StampCard": 0
+  },
+  {
+    "Id": 122,
+    "Attribute": 1,
+    "AnimePngs": [
+      "02danbo_shop"
+    ],
+    "AnimeXmls": [
+      "02danbo_shop"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrderInShop": 123,
+    "DisplayOrderInTrade": 0,
+    "Category": 4,
+    "Toughness": 8100,
+    "RepairPattern": 0,
+    "Silver": 2500,
+    "Gold": 50,
+    "StampCard": 0
+  },
+  {
+    "Id": 152,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bed01"
+    ],
+    "AnimeXmls": [
+      "03cushion_bed01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 153,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1300,
+    "RepairPattern": 0,
+    "Silver": 160,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 170,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_mokomoko"
+    ],
+    "AnimeXmls": [
+      "03cushion_mokomoko"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 171,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1300,
+    "RepairPattern": 0,
+    "Silver": 170,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 171,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_ume_beni"
+    ],
+    "AnimeXmls": [
+      "03cushion_ume_beni"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 172,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1800,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 13,
+    "StampCard": 0
+  },
+  {
+    "Id": 178,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_burger"
+    ],
+    "AnimeXmls": [
+      "03cushion_burger",
+      "03cushion_burger_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 179,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1800,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 14,
+    "StampCard": 0
+  },
+  {
+    "Id": 188,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03felt_dome_ak"
+    ],
+    "AnimeXmls": [
+      "03felt_dome_ak",
+      "03felt_dome_ak_pose01",
+      "03felt_dome_ak_pose02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 189,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1300,
+    "RepairPattern": 0,
+    "Silver": 350,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 198,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_beads"
+    ],
+    "AnimeXmls": [
+      "03cushion_beads"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 199,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1800,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 10,
+    "StampCard": 0
+  },
+  {
+    "Id": 222,
+    "Attribute": 1,
+    "AnimePngs": [
+      "12unbrella_beach"
+    ],
+    "AnimeXmls": [
+      "12unbrella_beach"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 223,
+    "DisplayOrderInTrade": 0,
+    "Category": 512,
+    "Toughness": 20400,
+    "RepairPattern": 0,
+    "Silver": 340,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 224,
+    "Attribute": 1,
+    "AnimePngs": [
+      "04tower_2dan"
+    ],
+    "AnimeXmls": [
+      "04tower_2dan"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 225,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 1000,
+    "RepairPattern": 0,
+    "Silver": 240,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 232,
+    "Attribute": 1,
+    "AnimePngs": [
+      "05tunnel_i"
+    ],
+    "AnimeXmls": [
+      "05tunnel_i"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 233,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 2600,
+    "RepairPattern": 0,
+    "Silver": 160,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 233,
+    "Attribute": 1,
+    "AnimePngs": [
+      "05tunnel_u"
+    ],
+    "AnimeXmls": [
+      "05tunnel_u"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 234,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 2600,
+    "RepairPattern": 0,
+    "Silver": 160,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 234,
+    "Attribute": 1,
+    "AnimePngs": [
+      "05tunnel_t"
+    ],
+    "AnimeXmls": [
+      "05tunnel_t"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 235,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 3900,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 244,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_the"
+    ],
+    "AnimeXmls": [
+      "06jarashi_the",
+      "06jarashi_the_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrderInShop": 245,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 800,
+    "RepairPattern": 1,
+    "Silver": 80,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 251,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_kerigurumi_nzm"
+    ],
+    "AnimeXmls": [
+      "06jarashi_kerigurumi_nzm",
+      "06jarashi_kerigurumi_nzm_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 252,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1000,
+    "RepairPattern": 0,
+    "Silver": 170,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 256,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_bunbun"
+    ],
+    "AnimeXmls": [
+      "06jarashi_bunbun",
+      "06jarashi_bunbun_pose01",
+      "06jarashi_bunbun_pose02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 257,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 2700,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 15,
+    "StampCard": 0
+  },
+  {
+    "Id": 258,
+    "Attribute": 1,
+    "AnimePngs": [
+      "06jarashi_rail"
+    ],
+    "AnimeXmls": [
+      "06jarashi_rail"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrderInShop": 259,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 20,
+    "StampCard": 0
+  },
+  {
+    "Id": 272,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_kami"
+    ],
+    "AnimeXmls": [
+      "07fukuro_kami"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 273,
+    "DisplayOrderInTrade": 0,
+    "Category": 1024,
+    "Toughness": 120,
+    "RepairPattern": 0,
+    "Silver": 30,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 273,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_vinyl"
+    ],
+    "AnimeXmls": [
+      "07fukuro_vinyl"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 274,
+    "DisplayOrderInTrade": 0,
+    "Category": 1024,
+    "Toughness": 100,
+    "RepairPattern": 1,
+    "Silver": 10,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 274,
+    "Attribute": 0,
+    "AnimePngs": [
+      "09tsume_yoko"
+    ],
+    "AnimeXmls": [
+      "09tsume_yoko"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 276,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 300,
+    "RepairPattern": 0,
+    "Silver": 180,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 275,
+    "Attribute": 0,
+    "AnimePngs": [
+      "09tsume_tate"
+    ],
+    "AnimeXmls": [
+      "09tsume_tate"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 277,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 800,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 277,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_kago"
+    ],
+    "AnimeXmls": [
+      "10hachi_kago"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 279,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 80,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 278,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_nabe"
+    ],
+    "AnimeXmls": [
+      "10hachi_nabe"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 17
+    },
+    "DisplayOrderInShop": 280,
+    "DisplayOrderInTrade": 0,
+    "Category": 384,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 20,
+    "StampCard": 0
+  },
+  {
+    "Id": 289,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_baketsu"
+    ],
+    "AnimeXmls": [
+      "10hachi_baketsu"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrderInShop": 291,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 60,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 294,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_kingyo"
+    ],
+    "AnimeXmls": [
+      "10hachi_kingyo",
+      "10hachi_kingyo_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 18
+    },
+    "DisplayOrderInShop": 296,
+    "DisplayOrderInTrade": 0,
+    "Category": 1088,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 10,
+    "StampCard": 0
+  },
+  {
+    "Id": 296,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_kabin"
+    ],
+    "AnimeXmls": [
+      "10hachi_kabin"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 26
+    },
+    "DisplayOrderInShop": 299,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 750,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 297,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_jokki"
+    ],
+    "AnimeXmls": [
+      "10hachi_jokki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 26
+    },
+    "DisplayOrderInShop": 298,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 45,
+    "StampCard": 0
+  },
+  {
+    "Id": 298,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_hat"
+    ],
+    "AnimeXmls": [
+      "10hachi_hat",
+      "10hachi_hat_pose01",
+      "10hachi_hat_pose01"
+    ],
+    "BackActionIds": [
+      -1,
+      -1,
+      1
+    ],
+    "FrontActionIds": [
+      -1,
+      -1,
+      0
+    ],
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 300,
+    "DisplayOrderInTrade": 0,
+    "Category": 1280,
+    "Toughness": 1300,
+    "RepairPattern": 0,
+    "Silver": 400,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 300,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03macaron_pink"
+    ],
+    "AnimeXmls": [
+      "03macaron_pink"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 302,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 304,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_tissue"
+    ],
+    "AnimeXmls": [
+      "10hachi_tissue"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrderInShop": 100,
+    "DisplayOrderInTrade": 0,
+    "Category": 1024,
+    "Toughness": 1,
+    "RepairPattern": 7,
+    "Silver": 20,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 305,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_ecobag"
+    ],
+    "AnimeXmls": [
+      "07fukuro_ecobag"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 275,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1950,
+    "RepairPattern": 2,
+    "Silver": 50,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 306,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_niboshi"
+    ],
+    "AnimeXmls": [
+      "10hachi_niboshi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 306,
+    "DisplayOrderInTrade": 0,
+    "Category": 1024,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 24,
+    "StampCard": 0
+  },
+  {
+    "Id": 5000,
+    "Attribute": 0,
+    "AnimePngs": [
+      "90ground"
+    ],
+    "AnimeXmls": [
+      "90ground"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 0,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 5001,
+    "Attribute": 0,
+    "AnimePngs": [
+      "90ground"
+    ],
+    "AnimeXmls": [
+      "90ground"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 0,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 5002,
+    "Attribute": 0,
+    "AnimePngs": [
+      "90ground"
+    ],
+    "AnimeXmls": [
+      "90ground"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": -1,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 0,
+    "Toughness": 0,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 0,
+    "StampCard": 0
+  }
+]

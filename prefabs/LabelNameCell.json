@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "LabelNameCell",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "LabelMark"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "name": "Nekonote14",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Image",
+      "scale": [
+        0.8,
+        0.8,
+        1
+      ]
+    },
+    {
+      "name": "Image (1)",
+      "scale": [
+        0.8,
+        0.8,
+        1
+      ]
+    },
+    {
+      "name": "Hooter"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "name": "NormalFishView",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Image",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

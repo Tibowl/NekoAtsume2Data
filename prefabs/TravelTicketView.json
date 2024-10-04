@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "name": "TravelTicketView",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Text",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "PlusButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

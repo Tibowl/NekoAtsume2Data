@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "name": "FoodGauge",
+      "children": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Foreground"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

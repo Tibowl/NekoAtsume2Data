@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "RenderTextureCamera"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

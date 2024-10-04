@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "name": "ShopCell",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Size"
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Count"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Stamp"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

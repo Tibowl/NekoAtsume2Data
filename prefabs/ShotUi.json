@@ -1,0 +1,163 @@
+{
+  "nodes": [
+    {
+      "name": "ShotUi",
+      "children": [
+        1,
+        20,
+        21
+      ]
+    },
+    {
+      "name": "ShotFrame",
+      "children": [
+        2,
+        3,
+        4,
+        8,
+        12,
+        16
+      ]
+    },
+    {
+      "name": "Mark"
+    },
+    {
+      "name": "ShotOrientationButton"
+    },
+    {
+      "name": "ShotFrameAnime1",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "ShotFrameAnime2",
+      "children": [
+        9
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071068,
+        0.7071068
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "ShotFrameAnime3",
+      "children": [
+        13
+      ],
+      "rotation": [
+        0,
+        0,
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        14
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        15
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "ShotFrameAnime4",
+      "children": [
+        17
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071068,
+        -0.7071068
+      ]
+    },
+    {
+      "name": "Image0",
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "Image1",
+      "children": [
+        19
+      ]
+    },
+    {
+      "name": "Image2"
+    },
+    {
+      "name": "CloseButton"
+    },
+    {
+      "name": "ShotButtons",
+      "children": [
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "name": "MyButton1"
+    },
+    {
+      "name": "MyButton2"
+    },
+    {
+      "name": "MyButton3"
+    },
+    {
+      "name": "MyButton4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

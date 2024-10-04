@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "AlbumLabelListPanel",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "CloseButton"
+    },
+    {
+      "name": "SettingButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

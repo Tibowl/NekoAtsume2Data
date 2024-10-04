@@ -1,0 +1,64 @@
+{
+  "nodes": [
+    {
+      "name": "PopupMyneko",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Myneko1",
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Myneko2",
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Myneko3",
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Myneko1"
+    },
+    {
+      "name": "Myneko2"
+    },
+    {
+      "name": "Myneko3"
+    },
+    {
+      "name": "Hooter"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

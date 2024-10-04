@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "MyTextButton",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "DefaultTextMeshPro"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

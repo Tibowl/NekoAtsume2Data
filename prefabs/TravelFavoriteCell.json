@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "name": "TravelFavoriteCell",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "PlayerName"
+    },
+    {
+      "name": "CatIcon"
+    },
+    {
+      "name": "MynekoLabel"
+    },
+    {
+      "name": "MynekoName"
+    },
+    {
+      "name": "DateLabel",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Date"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "name": "RemodelShopListPanel",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "SafeArea",
+      "children": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "CloseButton"
+    },
+    {
+      "name": "GoldShopButton"
+    },
+    {
+      "name": "PageView",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

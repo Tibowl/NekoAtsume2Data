@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "DebugButton",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "DefaultTextMeshPro(Clone)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

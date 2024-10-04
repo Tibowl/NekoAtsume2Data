@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "name": "DefaultGauge",
+      "children": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Foreground"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "nodes": [
+    {
+      "name": "WallpaperPage",
+      "children": [
+        1,
+        5,
+        9,
+        13
+      ]
+    },
+    {
+      "name": "Cell0",
+      "children": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "PriceText"
+    },
+    {
+      "name": "BoughtStamp"
+    },
+    {
+      "name": "Cell1",
+      "children": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "PriceText"
+    },
+    {
+      "name": "BoughtStamp"
+    },
+    {
+      "name": "Cell2",
+      "children": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "PriceText"
+    },
+    {
+      "name": "BoughtStamp"
+    },
+    {
+      "name": "Cell3",
+      "children": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "PriceText"
+    },
+    {
+      "name": "BoughtStamp"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

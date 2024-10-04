@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    {
+      "name": "GridScroll",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Scroller",
+      "children": [
+        2,
+        5,
+        8
+      ]
+    },
+    {
+      "name": "Viewport",
+      "children": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "DragArea"
+    },
+    {
+      "name": "Content"
+    },
+    {
+      "name": "Scrollbar Horizontal",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Scrollbar Vertical",
+      "children": [
+        9
+      ]
+    },
+    {
+      "name": "Sliding Area",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Handle"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

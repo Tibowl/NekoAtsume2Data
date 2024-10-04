@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "FoodCell",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

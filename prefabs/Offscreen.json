@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "name": "Offscreen",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Canvas",
+      "scale": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

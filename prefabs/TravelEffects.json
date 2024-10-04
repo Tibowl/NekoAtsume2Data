@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "name": "TravelEffects",
+      "children": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "name": "Title",
+      "children": [
+        2
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "Dot1",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Dot2",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Dot3"
+    },
+    {
+      "name": "Wheel",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Train"
+    },
+    {
+      "name": "Rail"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

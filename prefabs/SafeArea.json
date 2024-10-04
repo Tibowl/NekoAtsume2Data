@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "SafeArea"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

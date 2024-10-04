@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "name": "TrackingPanel",
+      "children": [
+        1,
+        2,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Window",
+      "children": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "CloseButton"
+    },
+    {
+      "name": "SettingButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

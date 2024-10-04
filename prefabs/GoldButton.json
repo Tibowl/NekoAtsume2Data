@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "name": "GoldButton",
+      "children": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Image",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Gold"
+    },
+    {
+      "name": "Image2",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Price"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

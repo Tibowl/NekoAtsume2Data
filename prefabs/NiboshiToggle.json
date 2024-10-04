@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "name": "NiboshiToggle",
+      "children": [
+        1,
+        4,
+        7
+      ]
+    },
+    {
+      "name": "Left",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "SilverNumberText"
+    },
+    {
+      "name": "Stomp"
+    },
+    {
+      "name": "Right",
+      "children": [
+        5,
+        6
+      ]
+    },
+    {
+      "name": "GoldNumberText"
+    },
+    {
+      "name": "Stomp"
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

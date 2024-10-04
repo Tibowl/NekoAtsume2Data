@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "name": "OkimonoSelectCell",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Okimono",
+      "translation": [
+        0,
+        -60,
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

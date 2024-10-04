@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "name": "RemodelShopCell",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "SelectLabel"
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

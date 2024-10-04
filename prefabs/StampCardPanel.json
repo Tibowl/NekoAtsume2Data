@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "name": "StampCardPanel",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "SafeArea",
+      "children": [
+        2,
+        21
+      ]
+    },
+    {
+      "name": "StampCard",
+      "children": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Stamps",
+      "children": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Stamp (1)"
+    },
+    {
+      "name": "Stamp (2)"
+    },
+    {
+      "name": "Stamp (3)"
+    },
+    {
+      "name": "Stamp (4)"
+    },
+    {
+      "name": "Stamp (5)"
+    },
+    {
+      "name": "Stamp (6)"
+    },
+    {
+      "name": "Stamp (7)"
+    },
+    {
+      "name": "Stamp (8)"
+    },
+    {
+      "name": "Stamp (9)"
+    },
+    {
+      "name": "Stamp (10)"
+    },
+    {
+      "name": "Stamp (11)"
+    },
+    {
+      "name": "Stamp (12)"
+    },
+    {
+      "name": "Stamp (13)"
+    },
+    {
+      "name": "Stamp (14)"
+    },
+    {
+      "name": "Stamp (15)"
+    },
+    {
+      "name": "StampCardCounter",
+      "children": [
+        22
+      ]
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

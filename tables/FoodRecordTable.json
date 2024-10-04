@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "DurationMinutes": 480,
+    "MementoRate": 0.2
+  },
+  {
+    "Id": 2,
+    "DurationMinutes": 360,
+    "MementoRate": 1.0
+  },
+  {
+    "Id": 3,
+    "DurationMinutes": 180,
+    "MementoRate": 1.2
+  },
+  {
+    "Id": 4,
+    "DurationMinutes": 180,
+    "MementoRate": 1.2
+  },
+  {
+    "Id": 5,
+    "DurationMinutes": 180,
+    "MementoRate": 2.0
+  },
+  {
+    "Id": 6,
+    "DurationMinutes": 180,
+    "MementoRate": 1.2
+  },
+  {
+    "Id": 7,
+    "DurationMinutes": 60,
+    "MementoRate": 1.2
+  }
+]

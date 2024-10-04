@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "name": "MynekoBookDetail",
+      "children": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        17,
+        19,
+        20
+      ]
+    },
+    {
+      "name": "NameField",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "NoPictureText"
+    },
+    {
+      "name": "PhotoFrame",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "PersonalityText"
+    },
+    {
+      "name": "PowerText"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "ColorText"
+    },
+    {
+      "name": "AlbumButton"
+    },
+    {
+      "name": "GoodsTexts",
+      "children": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "name": "GoodsText (1)"
+    },
+    {
+      "name": "GoodsText (2)"
+    },
+    {
+      "name": "GoodsText (3)"
+    },
+    {
+      "name": "MementoButton",
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "MementoImage",
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    {
+      "name": "ShareButton"
+    },
+    {
+      "name": "DateText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

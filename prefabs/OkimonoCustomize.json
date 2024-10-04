@@ -1,0 +1,191 @@
+{
+  "nodes": [
+    {
+      "name": "OkimonoCustomize",
+      "children": [
+        1,
+        2,
+        4,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Image",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "MynekoPreview"
+    },
+    {
+      "name": "Parts",
+      "children": [
+        5,
+        8,
+        11,
+        14,
+        17,
+        20,
+        23
+      ],
+      "scale": [
+        2.1404684,
+        2.1404684,
+        2.1404684
+      ]
+    },
+    {
+      "name": "Button0",
+      "children": [
+        6,
+        7
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Button1",
+      "children": [
+        9,
+        10
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Button2",
+      "children": [
+        12,
+        13
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Button3",
+      "children": [
+        15,
+        16
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Button4",
+      "children": [
+        18,
+        19
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Button5",
+      "children": [
+        21,
+        22
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Button6",
+      "children": [
+        24,
+        25
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "PartImageRoot"
+    },
+    {
+      "name": "PlusImage"
+    },
+    {
+      "name": "Text0"
+    },
+    {
+      "name": "Text1"
+    },
+    {
+      "name": "Text2"
+    },
+    {
+      "name": "SubmitButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

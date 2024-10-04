@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "name": "PopupOdekake5",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Hooter"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

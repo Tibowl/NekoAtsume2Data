@@ -1,0 +1,34 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "004_view",
+	"m_PrefabAsset": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": -7769162355007093764 },
+	"m_Structure": {
+		"areas": [
+			{
+				"x": 6.7750244,
+				"y": -9.45,
+				"width": 10,
+				"height": 18.9
+			},
+			{
+				"x": -4.525,
+				"y": -9.45,
+				"width": 22.299997,
+				"height": 18.9
+			},
+			{
+				"x": -17.75,
+				"y": -9.45,
+				"width": 35.5,
+				"height": 18.9
+			}
+		]
+	}
+}

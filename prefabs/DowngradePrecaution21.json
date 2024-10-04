@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "name": "DowngradePrecaution21",
+      "children": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Remaining",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Myneko1",
+      "scale": [
+        0.7,
+        0.7,
+        1
+      ]
+    },
+    {
+      "name": "Gone",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Myneko2",
+      "scale": [
+        0.7,
+        0.7,
+        1
+      ]
+    },
+    {
+      "name": "Hooter"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

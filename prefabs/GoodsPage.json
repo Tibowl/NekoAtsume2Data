@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "name": "GoodsPage",
+      "children": [
+        1,
+        8,
+        15,
+        22
+      ]
+    },
+    {
+      "name": "Cell0",
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "SizeIcon"
+    },
+    {
+      "name": "BreakIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "Cell1",
+      "children": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "SizeIcon"
+    },
+    {
+      "name": "BreakIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "Cell2",
+      "children": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "SizeIcon"
+    },
+    {
+      "name": "BreakIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    },
+    {
+      "name": "Cell3",
+      "children": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "ItemIcon"
+    },
+    {
+      "name": "SizeIcon"
+    },
+    {
+      "name": "BreakIcon"
+    },
+    {
+      "name": "PlaceStamp"
+    },
+    {
+      "name": "CountText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

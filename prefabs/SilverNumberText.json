@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "SilverNumberText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

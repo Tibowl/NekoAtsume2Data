@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "name": "CloseButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

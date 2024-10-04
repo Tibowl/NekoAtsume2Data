@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "name": "PhotoCell",
+      "children": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Thumbnail",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "SelectingImage"
+    },
+    {
+      "name": "Pin"
+    },
+    {
+      "name": "BestShot"
+    },
+    {
+      "name": "LabelImages",
+      "children": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Image (1)"
+    },
+    {
+      "name": "Image (2)"
+    },
+    {
+      "name": "Image (3)"
+    },
+    {
+      "name": "Image (4)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

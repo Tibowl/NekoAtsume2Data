@@ -1,0 +1,59 @@
+{
+  "nodes": [
+    {
+      "name": "PhotoDetail",
+      "children": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Frame",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "Date"
+    },
+    {
+      "name": "BestShotOn"
+    },
+    {
+      "name": "BestShotOff"
+    },
+    {
+      "name": "DeleteButton"
+    },
+    {
+      "name": "LabelButton"
+    },
+    {
+      "name": "MoveButton"
+    },
+    {
+      "name": "ShareButton"
+    },
+    {
+      "name": "BestShotButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

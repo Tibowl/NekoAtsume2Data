@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "MynekoBookListCell",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "DateText"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
