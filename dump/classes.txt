@@ -51,6 +51,7 @@ App.ClickDragEvent2
 App.ClickDragEvents
 App.ConnectScene
 App.Const
+App.Const.Gift
 App.Const.Item
 App.Const.Mail
 App.Const.Url
@@ -646,6 +647,7 @@ HpLib.TextExtensions.TmpTextExtensions
 HpLib.TextureExtensions.TextureExtentions
 HpLib.TextureScale
 HpLib.TextureScale.ThreadData
+HpLib.ThreadUtil
 HpLib.TimeDispAttribute
 HpLib.TimeStampMap
 HpLib.TimeStamps
