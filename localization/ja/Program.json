@@ -277,6 +277,7 @@
     "NekonoteDowngrade": "「{0}」から「{1}」に変更する場合\n次回更新からコース変更が適応されます\n詳しくは「注意事項」をご確認ください\n※未成年の方は保護者と一緒に購入してください",
     "NekonoteMynekoHelp1": "マイねこには<color=\"blue\">基本の毛色</color>が<color=\"blue\">3種類</color>あります。\n\nコースによってお迎えできるマイねこの\n基本の毛色は<color=\"blue\">固定</color>されています。",
     "NekonoteMynekoHelp2": "各コースに含まれるマイねこは以下の通りです\n\n<color=\"blue\">＜のんびりコース＞</color>\nマイねこ①\n\n<color=\"blue\">＜なかよしコース＞</color>\nマイねこ①、マイねこ②\n\n<color=\"blue\">＜まんぞくコース＞</color>\nマイねこ①、マイねこ②、マイねこ③",
+    "NekonoteRestoreComplete": "復元が完了しました",
     "DowngradePrecaution31Header": "<color=\"red\">※注意※</color>\n\n<color=\"blue\">まんぞくコース</color>→<color=\"blue\">のんびりコース</color>\nにコース変更する場合、\nにわさきにお迎えできるマイねこの数が\n少なくなります\n\n＜にわさきへお迎えできるマイねこの数＞\n変更前（まんぞくコース）：３匹\n変更後（のんびりコース）：<color=\"red\">１</color>匹",
     "DowngradePrecaution31Remaining": "<color=\"red\">＜にわさきに残るマイねこ＞</color>\nマイねこ①：{0}",
     "DowngradePrecaution31Gone": "<color=\"red\">＜にわさきからいなくなるマイねこ＞</color>\nマイねこ②：{0}\nマイねこ③：{1}",
