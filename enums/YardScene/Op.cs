@@ -21,6 +21,7 @@ public enum YardScene.Op
 	public const YardScene.Op TotalFrameMove = 850;
 	public const YardScene.Op TotalFrameZoom = 900;
 	public const YardScene.Op Memento = 1000;
+	public const YardScene.Op FoodChange = 1010;
 	public const YardScene.Op Travel = 1100;
 	public const YardScene.Op End = 2000;
 	public const YardScene.Op DebugSet = 3000;
