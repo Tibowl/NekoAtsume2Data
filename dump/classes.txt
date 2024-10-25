@@ -552,6 +552,7 @@ HpLib.Extra.NativeCallback
 HpLib.Extra.RendererUtil
 HpLib.Extra.RxUtil
 HpLib.Extra.TextureUtil
+HpLib.Extra.UniTaskUtil
 HpLib.FileUtil
 HpLib.FormattableVariable
 HpLib.FpsCounter

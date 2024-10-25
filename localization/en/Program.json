@@ -276,6 +276,7 @@
     "NekonoteDowngrade": "Changing from {0} to {1} will take effect in the next update.\nSee ｢Important Notice｣ for details. * Minors must purchase with a guardian.",
     "NekonoteMynekoHelp1": "Myneko has <color=\"blue\">3 basic fur colors</color>.\n\nThe basic fur colors available\nfor Myneko are <color=\"blue\">fixed</color> depending\non the course.",
     "NekonoteMynekoHelp2": "Each course includes the\nfollowing Myneko:\n\n<color=\"blue\">＜Leisurely course＞</color>\nMyneko ①\n\n<color=\"blue\">＜Friendly course＞</color>\nMyneko ①､ Myneko ②\n\n<color=\"blue\">＜Satisfactory course＞</color>\nMyneko ①､ Myneko ②､ Myneko ③",
+    "NekonoteRestoreComplete": "Restore complete.",
     "DowngradePrecaution31Header": "If changing from <color=\"blue\">Satisfactory course</color> to\nLeisurely course､ the number of Myneko you can\nwelcome to your yard will decrease.\n\n＜Number of Myneko＞\nBefore (Satisfactory course) : 3 cats\nAfter (Leisurely course) : <color=\"red\">1</color> cat",
     "DowngradePrecaution31Remaining": "<color=\"red\">＜Myneko Remaining＞</color>\nMyneko ①: {0}",
     "DowngradePrecaution31Gone": "<color=\"red\">＜Myneko Leaving＞</color>\nMyneko ②: {0}\nMyneko ③: {1}",
