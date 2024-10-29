@@ -269,6 +269,7 @@ App.PopupLauncher
 App.PopupMyneko
 App.PopupTextScroll
 App.PressButton
+App.Ranking
 App.RankingContent
 App.RankingItem
 App.RawImageUtil
@@ -342,6 +343,7 @@ App.SceneLoader
 App.ScrollView
 App.ScrollbarChecker
 App.ServerTime
+App.ServerTimeUpdater
 App.Settings
 App.Settings.FlagsMember
 App.Settings.SettingFlags
