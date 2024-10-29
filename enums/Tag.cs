@@ -36,4 +36,5 @@ public enum Tag
 	public const Tag Yard = 29;
 	public const Tag MyInput = 30;
 	public const Tag PopupDialog = 31;
+	public const Tag ServerTimeUpdater = 32;
 }
