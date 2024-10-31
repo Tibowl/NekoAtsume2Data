@@ -999,6 +999,54 @@
     "StampCard": 0
   },
   {
+    "Id": 290,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_baketsu_aka"
+    ],
+    "AnimeXmls": [
+      "10hachi_baketsu_aka"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 292,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 60,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
+    "Id": 291,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_baketsu_ki"
+    ],
+    "AnimeXmls": [
+      "10hachi_baketsu_ki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 293,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 2200,
+    "RepairPattern": 0,
+    "Silver": 60,
+    "Gold": 0,
+    "StampCard": 0
+  },
+  {
     "Id": 294,
     "Attribute": 0,
     "AnimePngs": [
