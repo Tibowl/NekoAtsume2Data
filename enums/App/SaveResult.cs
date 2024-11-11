@@ -11,4 +11,5 @@ public enum SaveResult
 	public const SaveResult EmptyPath = 4;
 	public const SaveResult SerializeError = 5;
 	public const SaveResult TestError = 6;
+	public const SaveResult WriteError = 7;
 }
