@@ -18,9 +18,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -42,9 +44,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 30,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -66,9 +70,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 3,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -90,9 +96,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 7,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -114,9 +122,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 12,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -138,9 +148,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 5,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -162,9 +174,11 @@
     "DisplayOrderInTrade": 4,
     "Category": 1,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 750,
     "Gold": 15,
+    "RepairSilver": -1,
     "StampCard": 4
   },
   {
@@ -187,9 +201,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 2,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 90,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -211,9 +227,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 2,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -235,9 +253,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 2,
     "Toughness": 1300,
+    "UsedToughness": -1,
     "RepairPattern": 1,
     "Silver": 50,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -259,9 +279,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 2,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 80,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -283,9 +305,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 2,
     "Toughness": 500,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 120,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -314,9 +338,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 2,
     "Toughness": 1800,
+    "UsedToughness": -1,
     "RepairPattern": 1,
     "Silver": 0,
     "Gold": 25,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -338,9 +364,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 250,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 40,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -362,9 +390,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 260,
     "Toughness": 800,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 70,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -386,9 +416,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 1000,
+    "UsedToughness": -1,
     "RepairPattern": 3,
     "Silver": 100,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -410,9 +442,63 @@
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 1800,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 15,
+    "RepairSilver": -1,
+    "StampCard": 0
+  },
+  {
+    "Id": 119,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10takarabako"
+    ],
+    "AnimeXmls": [
+      "10takarabako"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 120,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 2200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 400,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0
+  },
+  {
+    "Id": 120,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10takarabako_aka"
+    ],
+    "AnimeXmls": [
+      "10takarabako_aka"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 121,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 20,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -434,9 +520,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 8100,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 40,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -458,9 +546,37 @@
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 8100,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 2500,
     "Gold": 50,
+    "RepairSilver": -1,
+    "StampCard": 0
+  },
+  {
+    "Id": 129,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_zab_sakura"
+    ],
+    "AnimeXmls": [
+      "03cushion_zab_sakura"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "AnimeId": 0,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 130,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 220,
+    "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -482,9 +598,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 160,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -506,9 +624,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 170,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -530,9 +650,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 13,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -555,9 +677,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 14,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -581,9 +705,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 350,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -605,9 +731,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 10,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -629,9 +757,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 512,
     "Toughness": 20400,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 340,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -653,9 +783,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 1000,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 240,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -677,9 +809,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 2600,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 160,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -701,9 +835,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 2600,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 160,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -725,9 +861,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 3900,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 200,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -750,9 +888,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 800,
+    "UsedToughness": -1,
     "RepairPattern": 1,
     "Silver": 80,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -775,9 +915,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 1000,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 170,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -801,9 +943,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 2700,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 15,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -825,9 +969,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 20,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -849,9 +995,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 120,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 30,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -873,9 +1021,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 100,
+    "UsedToughness": -1,
     "RepairPattern": 1,
     "Silver": 10,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -897,9 +1047,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 300,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 180,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -921,9 +1073,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 800,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 200,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -945,9 +1099,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 80,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -969,9 +1125,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 384,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 20,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -993,9 +1151,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1017,9 +1177,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1041,9 +1203,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1066,9 +1230,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1088,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 10,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1090,9 +1256,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 750,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1114,9 +1282,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 45,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1148,9 +1318,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1280,
     "Toughness": 1300,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 400,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1172,9 +1344,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 2200,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 210,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1196,9 +1370,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 1,
+    "UsedToughness": -1,
     "RepairPattern": 7,
     "Silver": 20,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1220,9 +1396,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1950,
+    "UsedToughness": -1,
     "RepairPattern": 2,
     "Silver": 50,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1244,9 +1422,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 24,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1268,9 +1448,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 0,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1292,9 +1474,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 0,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   },
   {
@@ -1316,9 +1500,11 @@
     "DisplayOrderInTrade": 0,
     "Category": 0,
     "Toughness": 0,
+    "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0
   }
 ]
