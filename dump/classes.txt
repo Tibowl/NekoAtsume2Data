@@ -34,6 +34,8 @@ App.CaptureCamera
 App.CatAnime
 App.CatAnimeCapture
 App.CatAnimeLottery
+App.CatAnimeModifier
+App.CatAnimeName
 App.CatAnimeUiComponent
 App.CatAppearLottery
 App.CatDetail
@@ -100,6 +102,7 @@ App.GiftButton
 App.GiftCell
 App.GiftContent
 App.GiftScene
+App.GiftUtil
 App.GoUtil
 App.GoldButton
 App.GoldFishView
@@ -187,13 +190,15 @@ App.MemoryDatabase
 App.MenuAds
 App.MenuAds.AdReward
 App.MenuButton
-App.MessagePackConfig
 App.MessagePackUtil
 App.MoodAnswer
 App.MoodCategory
 App.MoodQuestion
 App.MultipleMode
 App.MyInput
+App.MyMessagePack
+App.MyMessagePack.Option
+App.MyMessagePack.Resolver
 App.MyPlayerPrefsUtil
 App.MyScrollRect
 App.MyStopwatch
@@ -302,7 +307,7 @@ App.Save.FavoriteResultExtensions
 App.Save.GameProgress
 App.Save.Gift
 App.Save.GiftData
-App.Save.GiftTypeExtensions
+App.Save.GiftTypeUtil
 App.Save.GoodsContext
 App.Save.GoodsStateUtil
 App.Save.ICatNote
@@ -368,6 +373,8 @@ App.Sound
 App.SoundAddress
 App.SoundManager
 App.SoundSelectAttribute
+App.SpecialFavorites
+App.SpecialFavoritesUtil
 App.SpecialGoodsRecord
 App.SpriteRendererExtensions
 App.SpriteUtil
