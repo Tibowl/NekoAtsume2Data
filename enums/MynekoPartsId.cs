@@ -123,6 +123,10 @@ public enum MynekoPartsId
 	public const MynekoPartsId Eye7 = 206;
 	public const MynekoPartsId Eye8 = 207;
 	public const MynekoPartsId Eye9 = 208;
+	public const MynekoPartsId Eye10 = 209;
+	public const MynekoPartsId Eye11 = 210;
+	public const MynekoPartsId Eye12 = 211;
+	public const MynekoPartsId Eye13 = 212;
 	public const MynekoPartsId Accessories1 = 300;
 	public const MynekoPartsId Accessories2 = 301;
 	public const MynekoPartsId Accessories3 = 302;
