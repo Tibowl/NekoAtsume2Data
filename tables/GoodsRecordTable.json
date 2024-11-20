@@ -1,6 +1,8 @@
 [
   {
     "Id": 1,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_karikari"
@@ -10,7 +12,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -23,10 +24,13 @@
     "Silver": 0,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 2,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_karikari_high"
@@ -36,7 +40,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -49,10 +52,13 @@
     "Silver": 30,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 3,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_nekokan"
@@ -62,7 +68,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -75,10 +80,13 @@
     "Silver": 0,
     "Gold": 3,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 4,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_f00"
@@ -88,7 +96,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -101,10 +108,13 @@
     "Silver": 0,
     "Gold": 7,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 5,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_nekokan_high"
@@ -114,7 +124,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -127,10 +136,13 @@
     "Silver": 0,
     "Gold": 12,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 6,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_sashimi"
@@ -140,7 +152,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -153,10 +164,13 @@
     "Silver": 0,
     "Gold": 5,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 7,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "08meshi_sashimi2"
@@ -166,7 +180,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 10
     },
@@ -179,10 +192,13 @@
     "Silver": 750,
     "Gold": 15,
     "RepairSilver": -1,
-    "StampCard": 4
+    "StampCard": 4,
+    "WarningKey": null
   },
   {
     "Id": 100,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_base"
@@ -193,7 +209,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 10
     },
@@ -206,10 +221,13 @@
     "Silver": 90,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 101,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_gum"
@@ -219,7 +237,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -232,10 +249,13 @@
     "Silver": 60,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 106,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_pingpong"
@@ -245,7 +265,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 0
     },
@@ -258,10 +277,41 @@
     "Silver": 50,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 107,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_soccer"
+    ],
+    "AnimeXmls": [
+      "01ball_soccer"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 26
+    },
+    "DisplayOrderInShop": 108,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 10,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 108,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_mochi"
@@ -271,7 +321,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -284,10 +333,13 @@
     "Silver": 80,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 109,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_keito"
@@ -297,7 +349,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -310,10 +361,13 @@
     "Silver": 120,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 111,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_soccer_mari"
@@ -330,7 +384,6 @@
       -1,
       0
     ],
-    "AnimeId": 0,
     "Mood": {
       "Data": 16
     },
@@ -343,10 +396,13 @@
     "Silver": 0,
     "Gold": 25,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 112,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "02danbo_paper"
@@ -356,7 +412,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 10
     },
@@ -369,10 +424,13 @@
     "Silver": 40,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 115,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "02danbo_s"
@@ -382,7 +440,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 0
     },
@@ -395,10 +452,13 @@
     "Silver": 70,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 116,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "02danbo_m"
@@ -408,7 +468,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 0
     },
@@ -421,10 +480,13 @@
     "Silver": 100,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 118,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "02danbo_car"
@@ -434,7 +496,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 24
     },
@@ -447,10 +508,13 @@
     "Silver": 0,
     "Gold": 15,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 119,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10takarabako"
@@ -460,7 +524,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -473,10 +536,13 @@
     "Silver": 400,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 120,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10takarabako_aka"
@@ -486,7 +552,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 24
     },
@@ -499,10 +564,13 @@
     "Silver": 0,
     "Gold": 20,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 121,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "02danbo_house"
@@ -512,7 +580,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 16
     },
@@ -525,10 +592,13 @@
     "Silver": 0,
     "Gold": 40,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 122,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "02danbo_shop"
@@ -538,7 +608,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 25
     },
@@ -551,10 +620,41 @@
     "Silver": 2500,
     "Gold": 50,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 124,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "09tsume_dinosaur"
+    ],
+    "AnimeXmls": [
+      "09tsume_dinosaur"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrderInShop": 125,
+    "DisplayOrderInTrade": 0,
+    "Category": 4,
+    "Toughness": 5400,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 999,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 129,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zab_sakura"
@@ -564,7 +664,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 0
     },
@@ -577,10 +676,13 @@
     "Silver": 220,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 152,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_bed01"
@@ -590,7 +692,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 10
     },
@@ -603,10 +704,13 @@
     "Silver": 160,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 170,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_mokomoko"
@@ -616,7 +720,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -629,10 +732,13 @@
     "Silver": 170,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 171,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_ume_beni"
@@ -642,7 +748,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 16
     },
@@ -655,10 +760,13 @@
     "Silver": 0,
     "Gold": 13,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 178,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_burger"
@@ -669,7 +777,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 24
     },
@@ -682,10 +789,13 @@
     "Silver": 0,
     "Gold": 14,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 188,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03felt_dome_ak"
@@ -697,7 +807,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -710,10 +819,13 @@
     "Silver": 350,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 198,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_beads"
@@ -723,7 +835,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 24
     },
@@ -736,10 +847,41 @@
     "Silver": 0,
     "Gold": 10,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 211,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_pyra"
+    ],
+    "AnimeXmls": [
+      "12hammock_pyra"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 212,
+    "DisplayOrderInTrade": 0,
+    "Category": 512,
+    "Toughness": 1300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 190,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 222,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "12unbrella_beach"
@@ -749,7 +891,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -762,10 +903,13 @@
     "Silver": 340,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 224,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tower_2dan"
@@ -775,7 +919,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -788,10 +931,13 @@
     "Silver": 240,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 232,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "05tunnel_i"
@@ -801,7 +947,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -814,10 +959,13 @@
     "Silver": 160,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 233,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "05tunnel_u"
@@ -827,7 +975,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -840,10 +987,13 @@
     "Silver": 160,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 234,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "05tunnel_t"
@@ -853,7 +1003,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -866,10 +1015,13 @@
     "Silver": 200,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 244,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_the"
@@ -880,7 +1032,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 1
     },
@@ -893,10 +1044,42 @@
     "Silver": 80,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 250,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_mushi"
+    ],
+    "AnimeXmls": [
+      "06jarashi_mushi",
+      "06jarashi_mushi_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 251,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1300,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 120,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 251,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_nzm"
@@ -907,7 +1090,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -920,10 +1102,13 @@
     "Silver": 170,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 256,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_bunbun"
@@ -935,7 +1120,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 24
     },
@@ -948,10 +1132,13 @@
     "Silver": 0,
     "Gold": 15,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 258,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "06jarashi_rail"
@@ -961,7 +1148,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 25
     },
@@ -974,10 +1160,13 @@
     "Silver": 0,
     "Gold": 20,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 272,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_kami"
@@ -987,7 +1176,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1000,10 +1188,13 @@
     "Silver": 30,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 273,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_vinyl"
@@ -1013,7 +1204,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 10
     },
@@ -1026,10 +1216,13 @@
     "Silver": 10,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": "Warning1"
   },
   {
     "Id": 274,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "09tsume_yoko"
@@ -1039,7 +1232,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1052,10 +1244,13 @@
     "Silver": 180,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 275,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "09tsume_tate"
@@ -1065,7 +1260,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1078,10 +1272,13 @@
     "Silver": 200,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 277,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_kago"
@@ -1091,7 +1288,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1104,10 +1300,13 @@
     "Silver": 80,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 278,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_nabe"
@@ -1117,7 +1316,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 17
     },
@@ -1130,10 +1328,41 @@
     "Silver": 0,
     "Gold": 20,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 288,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_ueki"
+    ],
+    "AnimeXmls": [
+      "10hachi_ueki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 290,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 130,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 289,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_baketsu"
@@ -1143,7 +1372,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 9
     },
@@ -1156,10 +1384,13 @@
     "Silver": 60,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 290,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_baketsu_aka"
@@ -1169,7 +1400,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1182,10 +1412,13 @@
     "Silver": 60,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 291,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_baketsu_ki"
@@ -1195,7 +1428,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1208,10 +1440,13 @@
     "Silver": 60,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 294,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_kingyo"
@@ -1222,7 +1457,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 18
     },
@@ -1235,10 +1469,13 @@
     "Silver": 0,
     "Gold": 10,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 296,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_kabin"
@@ -1248,7 +1485,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 26
     },
@@ -1261,10 +1497,13 @@
     "Silver": 750,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 297,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_jokki"
@@ -1274,7 +1513,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 26
     },
@@ -1287,10 +1525,13 @@
     "Silver": 0,
     "Gold": 45,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 298,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_hat"
@@ -1310,7 +1551,6 @@
       -1,
       0
     ],
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1323,10 +1563,13 @@
     "Silver": 400,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 300,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03macaron_pink"
@@ -1336,7 +1579,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1349,10 +1591,13 @@
     "Silver": 210,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 304,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_tissue"
@@ -1362,7 +1607,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 10
     },
@@ -1375,10 +1619,13 @@
     "Silver": 20,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 305,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_ecobag"
@@ -1388,7 +1635,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 8
     },
@@ -1401,10 +1647,13 @@
     "Silver": 50,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 306,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_niboshi"
@@ -1414,7 +1663,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": 0,
     "Mood": {
       "Data": 24
     },
@@ -1427,10 +1675,13 @@
     "Silver": 0,
     "Gold": 24,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 5000,
+    "IsNotForSale": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "90ground"
@@ -1440,7 +1691,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 0
     },
@@ -1453,10 +1703,13 @@
     "Silver": 0,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 5001,
+    "IsNotForSale": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "90ground"
@@ -1466,7 +1719,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 0
     },
@@ -1479,10 +1731,13 @@
     "Silver": 0,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   },
   {
     "Id": 5002,
+    "IsNotForSale": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "90ground"
@@ -1492,7 +1747,6 @@
     ],
     "BackActionIds": null,
     "FrontActionIds": null,
-    "AnimeId": -1,
     "Mood": {
       "Data": 0
     },
@@ -1505,6 +1759,7 @@
     "Silver": 0,
     "Gold": 0,
     "RepairSilver": -1,
-    "StampCard": 0
+    "StampCard": 0,
+    "WarningKey": null
   }
 ]
