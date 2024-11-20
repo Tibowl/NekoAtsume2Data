@@ -10,6 +10,8 @@ private enum DebugItemScreen.Op
 	public const DebugItemScreen.Op Clear = 3;
 	public const DebugItemScreen.Op Max = 4;
 	public const DebugItemScreen.Op Delete = 5;
-	public const DebugItemScreen.Op Break = 6;
-	public const DebugItemScreen.Op Repair = 7;
+	public const DebugItemScreen.Op New = 6;
+	public const DebugItemScreen.Op Break = 7;
+	public const DebugItemScreen.Op Repair = 8;
+	public const DebugItemScreen.Op RepairMenu = 9;
 }

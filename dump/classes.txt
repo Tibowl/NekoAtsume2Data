@@ -13,6 +13,7 @@ App.AppPath
 App.AppSoundSettings
 App.AppUrl
 App.AppUtil
+App.AppVersion
 App.AppendLabelSelector
 App.AssetAddress
 App.Att
@@ -57,7 +58,6 @@ App.Const.Gift
 App.Const.Item
 App.Const.Mail
 App.Const.Url
-App.Const.Version
 App.ContentChanger
 App.DataVersionExtension
 App.DatabaseBuilder
@@ -122,6 +122,7 @@ App.GoodsOpPanel
 App.GoodsRecord
 App.GoodsScene
 App.GoodsScene.FeelingPanel
+App.GoodsWarningButton
 App.GridBorder
 App.GridCell
 App.GridScroll
@@ -272,6 +273,7 @@ App.PlaySpaceVsWeather
 App.Popup
 App.PopupLauncher
 App.PopupMyneko
+App.PopupText
 App.PopupTextScroll
 App.PressButton
 App.Ranking
@@ -495,7 +497,6 @@ HpLib.Anime.AddressableAnimeLoader
 HpLib.Anime.AnimeActionData
 HpLib.Anime.AnimeFrameData
 HpLib.Anime.AnimeImageData
-HpLib.Anime.AnimeLoopCount
 HpLib.Anime.AnimeModuleData
 HpLib.Anime.AnimeSequenceData
 HpLib.Anime.AnimeSpriteData
