@@ -69,6 +69,7 @@
     "CatName123": "じょうほうやさん",
     "CatName124": "あんけーとさん",
     "CatName125": "ずきんさん",
+    "CatName126": "ふうらいぼうさん",
     "CatName701": "まいねこさん",
     "CatName702": "まいねこさん",
     "CatName703": "まいねこさん",
@@ -142,6 +143,7 @@
     "CatColor123": "目深帽子",
     "CatColor124": "星ぶち",
     "CatColor125": "ずきん",
+    "CatColor126": "126",
     "CatColor701": "ふしぎ",
     "CatColor702": "ふしぎ",
     "CatColor703": "ふしぎ",
@@ -215,6 +217,7 @@
     "CatChar123": "情報通",
     "CatChar124": "ひたむき",
     "CatChar125": "天真爛漫",
+    "CatChar126": "126",
     "CatPower701": "未知数",
     "CatPower702": "測定不能",
     "CatPower703": "謎",
@@ -288,6 +291,7 @@
     "TakaraName68": "メモ用紙",
     "TakaraName69": "クリップ付きの鉛筆",
     "TakaraName70": "ねこのてバッジ",
+    "TakaraName71": "ふうらいぼうさん",
     "TakaraComment1": "花がらの小さな首輪",
     "TakaraComment2": "柔らかな毛のブラシ",
     "TakaraComment3": "夜店で売られているあれ",
@@ -358,5 +362,6 @@
     "TakaraComment67": "おしゃれな模様の入ったコルク",
     "TakaraComment68": "番号のようなものが書かれている",
     "TakaraComment69": "紙にはさめる便利な鉛筆",
-    "TakaraComment70": "ねこのてサポート加入者に配られる\n金色のバッジ"
+    "TakaraComment70": "ねこのてサポート加入者に配られる\n金色のバッジ",
+    "TakaraComment71": "ふらいぼうさん"
 }

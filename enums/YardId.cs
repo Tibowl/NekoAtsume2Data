@@ -4,6 +4,7 @@ public enum YardId
 {
 	// Fields
 	public int value__; // 0x0
+	public const YardId Unknown = -1;
 	public const YardId Usual1 = 0;
 	public const YardId Usual2 = 1;
 	public const YardId Zen = 2;
