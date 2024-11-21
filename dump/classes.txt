@@ -1,3 +1,6 @@
+App.ActionId
+App.ActionId.Cat
+App.ActionId.Goods
 App.AdRemoteConfig
 App.AdRemoteConfig.AppAttributes
 App.AdRemoteConfig.UserAttributes
