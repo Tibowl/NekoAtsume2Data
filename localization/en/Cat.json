@@ -69,6 +69,7 @@
     "CatName123": "Informeow",
     "CatName124": "Survy",
     "CatName125": "Red Purrhood",
+    "CatName126": "Furaibo",
     "CatName701": "Myneko",
     "CatName702": "Myneko",
     "CatName703": "Myneko",
@@ -142,6 +143,7 @@
     "CatColor123": "Baker Boy Cap",
     "CatColor124": "Star pattern",
     "CatColor125": "Hood",
+    "CatColor126": "126",
     "CatColor701": "Magical",
     "CatColor702": "Fantasy",
     "CatColor703": "Transformable",
@@ -215,6 +217,7 @@
     "CatChar123": "Informant",
     "CatChar124": "Earnest",
     "CatChar125": "Pure",
+    "CatChar126": "126",
     "CatPower701": "Unknown",
     "CatPower702": "Inestimable",
     "CatPower703": "Mysterious",
@@ -288,6 +291,7 @@
     "TakaraName68": "Memo Pad",
     "TakaraName69": "Clip Pencil",
     "TakaraName70": "Cat Pin",
+    "TakaraName71": "Furaibo",
     "TakaraComment1": "A small collar with a flower\nprint pattern.",
     "TakaraComment2": "A soft brush for fur.",
     "TakaraComment3": "Something to wear at evening\nevents.",
@@ -358,5 +362,6 @@
     "TakaraComment67": "A cork with a stylish pattern.",
     "TakaraComment68": "A memo with something that looks\nlike numbers written on it.",
     "TakaraComment69": "A handy pencil in the shape\nof a paper clip.",
-    "TakaraComment70": "A gold badge given to\nmembers of Cat's Club."
+    "TakaraComment70": "A gold badge given to\nmembers of Cat's Club.",
+    "TakaraComment71": "Furaibo"
 }

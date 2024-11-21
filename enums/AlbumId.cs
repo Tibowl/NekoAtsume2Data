@@ -75,6 +75,7 @@ public enum AlbumId
 	public const AlbumId Johoya = 123;
 	public const AlbumId Enquete = 124;
 	public const AlbumId Zukin = 125;
+	public const AlbumId Furaibo = 126;
 	public const AlbumId Myneko1 = 701;
 	public const AlbumId Myneko2 = 702;
 	public const AlbumId Myneko3 = 703;
