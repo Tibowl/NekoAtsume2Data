@@ -25,6 +25,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -53,6 +54,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -81,6 +83,7 @@
     "Gold": 3,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -109,6 +112,7 @@
     "Gold": 7,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -137,6 +141,7 @@
     "Gold": 12,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -165,6 +170,7 @@
     "Gold": 5,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -184,15 +190,16 @@
       "Data": 10
     },
     "DisplayOrderInShop": 7,
-    "DisplayOrderInTrade": 4,
+    "DisplayOrderInTrade": 6,
     "Category": 1,
     "Toughness": 0,
     "UsedToughness": -1,
     "RepairPattern": 0,
-    "Silver": 750,
-    "Gold": 15,
+    "Silver": 2500,
+    "Gold": 50,
     "RepairSilver": -1,
     "StampCard": 4,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -222,6 +229,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -250,6 +258,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -278,12 +287,13 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
     "Id": 107,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_soccer"
@@ -306,6 +316,7 @@
     "Gold": 10,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -334,6 +345,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -362,6 +374,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -397,6 +410,7 @@
     "Gold": 25,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -425,6 +439,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -453,6 +468,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -481,6 +497,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -509,6 +526,7 @@
     "Gold": 15,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -537,6 +555,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -565,6 +584,7 @@
     "Gold": 20,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -593,6 +613,7 @@
     "Gold": 40,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -621,12 +642,13 @@
     "Gold": 50,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
     "Id": 124,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "09tsume_dinosaur"
@@ -649,6 +671,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -677,6 +700,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -705,6 +729,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -733,6 +758,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -761,6 +787,7 @@
     "Gold": 13,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -780,7 +807,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 179,
+    "DisplayOrderInShop": 180,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
@@ -790,6 +817,7 @@
     "Gold": 14,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -810,7 +838,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 189,
+    "DisplayOrderInShop": 190,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
@@ -820,6 +848,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -838,7 +867,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 199,
+    "DisplayOrderInShop": 200,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
@@ -848,12 +877,13 @@
     "Gold": 10,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
     "Id": 211,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_pyra"
@@ -866,7 +896,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 212,
+    "DisplayOrderInShop": 213,
     "DisplayOrderInTrade": 0,
     "Category": 512,
     "Toughness": 1300,
@@ -876,6 +906,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -894,7 +925,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 223,
+    "DisplayOrderInShop": 224,
     "DisplayOrderInTrade": 0,
     "Category": 512,
     "Toughness": 20400,
@@ -904,6 +935,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -922,7 +954,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 225,
+    "DisplayOrderInShop": 226,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 1000,
@@ -932,6 +964,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -950,7 +983,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 233,
+    "DisplayOrderInShop": 234,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 2600,
@@ -960,6 +993,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -978,7 +1012,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 234,
+    "DisplayOrderInShop": 235,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 2600,
@@ -988,6 +1022,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1006,7 +1041,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 235,
+    "DisplayOrderInShop": 236,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 3900,
@@ -1016,6 +1051,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1035,7 +1071,7 @@
     "Mood": {
       "Data": 1
     },
-    "DisplayOrderInShop": 245,
+    "DisplayOrderInShop": 246,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 800,
@@ -1045,12 +1081,13 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
     "Id": 250,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_mushi"
@@ -1064,7 +1101,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrderInShop": 251,
+    "DisplayOrderInShop": 252,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 1300,
@@ -1074,6 +1111,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1093,7 +1131,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 252,
+    "DisplayOrderInShop": 253,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 1000,
@@ -1103,6 +1141,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1123,7 +1162,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 257,
+    "DisplayOrderInShop": 258,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 2700,
@@ -1133,6 +1172,7 @@
     "Gold": 15,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1151,7 +1191,7 @@
     "Mood": {
       "Data": 25
     },
-    "DisplayOrderInShop": 259,
+    "DisplayOrderInShop": 260,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 0,
@@ -1161,6 +1201,7 @@
     "Gold": 20,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1179,7 +1220,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 273,
+    "DisplayOrderInShop": 274,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 120,
@@ -1189,6 +1230,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1207,7 +1249,7 @@
     "Mood": {
       "Data": 10
     },
-    "DisplayOrderInShop": 274,
+    "DisplayOrderInShop": 275,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 100,
@@ -1217,6 +1259,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": "Warning1"
   },
   {
@@ -1235,7 +1278,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 276,
+    "DisplayOrderInShop": 277,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 300,
@@ -1245,6 +1288,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1263,7 +1307,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 277,
+    "DisplayOrderInShop": 278,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 800,
@@ -1273,6 +1317,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1291,7 +1336,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 279,
+    "DisplayOrderInShop": 280,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1301,6 +1346,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1319,7 +1365,7 @@
     "Mood": {
       "Data": 17
     },
-    "DisplayOrderInShop": 280,
+    "DisplayOrderInShop": 281,
     "DisplayOrderInTrade": 0,
     "Category": 384,
     "Toughness": 0,
@@ -1329,12 +1375,13 @@
     "Gold": 20,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
     "Id": 288,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_ueki"
@@ -1347,7 +1394,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 290,
+    "DisplayOrderInShop": 291,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1357,6 +1404,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1375,7 +1423,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrderInShop": 291,
+    "DisplayOrderInShop": 292,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1385,6 +1433,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1403,7 +1452,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 292,
+    "DisplayOrderInShop": 293,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1413,6 +1462,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1431,7 +1481,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 293,
+    "DisplayOrderInShop": 294,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1441,6 +1491,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1460,7 +1511,7 @@
     "Mood": {
       "Data": 18
     },
-    "DisplayOrderInShop": 296,
+    "DisplayOrderInShop": 297,
     "DisplayOrderInTrade": 0,
     "Category": 1088,
     "Toughness": 0,
@@ -1470,6 +1521,7 @@
     "Gold": 10,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1488,7 +1540,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrderInShop": 299,
+    "DisplayOrderInShop": 300,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1498,6 +1550,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1516,7 +1569,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrderInShop": 298,
+    "DisplayOrderInShop": 299,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1526,6 +1579,7 @@
     "Gold": 45,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1554,7 +1608,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 300,
+    "DisplayOrderInShop": 301,
     "DisplayOrderInTrade": 0,
     "Category": 1280,
     "Toughness": 1300,
@@ -1564,6 +1618,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1582,7 +1637,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 302,
+    "DisplayOrderInShop": 304,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 2200,
@@ -1592,6 +1647,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1620,6 +1676,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1638,7 +1695,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 275,
+    "DisplayOrderInShop": 276,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1950,
@@ -1648,6 +1705,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1666,7 +1724,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 306,
+    "DisplayOrderInShop": 308,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 0,
@@ -1676,6 +1734,66 @@
     "Gold": 24,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 307,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_sandogasa"
+    ],
+    "AnimeXmls": [
+      "10hachi_sandogasa",
+      "10hachi_sandogasa_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 302,
+    "DisplayOrderInTrade": 1,
+    "Category": 1280,
+    "Toughness": 3800,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 0,
+    "RepairSilver": 30,
+    "StampCard": 1,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 308,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_ticket"
+    ],
+    "AnimeXmls": [
+      "03cushion_ticket"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 175,
+    "DisplayOrderInTrade": 2,
+    "Category": 8,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 0,
+    "RepairSilver": 30,
+    "StampCard": 1,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1704,6 +1822,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1732,6 +1851,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   },
   {
@@ -1760,6 +1880,7 @@
     "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
+    "SalesRoute": 0,
     "WarningKey": null
   }
 ]
