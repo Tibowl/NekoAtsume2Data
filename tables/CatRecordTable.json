@@ -700,6 +700,16 @@
     "GroomingRate": 0
   },
   {
+    "Id": 126,
+    "Type": 1,
+    "MementoId": 71,
+    "Power": 250,
+    "WeatherImpact": 0,
+    "Niboshi": 0,
+    "GomenneRate": 0,
+    "GroomingRate": 0
+  },
+  {
     "Id": 701,
     "Type": 2,
     "MementoId": 0,

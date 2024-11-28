@@ -24,7 +24,7 @@
     "Gold": 7,
     "StampCard": 1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 1
+    "DisplayOrderInTrade": 3
   },
   {
     "Id": 104,
@@ -33,7 +33,7 @@
     "Gold": 17,
     "StampCard": 2,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 2
+    "DisplayOrderInTrade": 4
   },
   {
     "Id": 105,
@@ -42,7 +42,7 @@
     "Gold": 30,
     "StampCard": 3,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 3
+    "DisplayOrderInTrade": 5
   },
   {
     "Id": 106,

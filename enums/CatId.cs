@@ -75,6 +75,7 @@ public enum CatId
 	public const CatId Johoya = 123;
 	public const CatId Enquete = 124;
 	public const CatId Zukin = 125;
+	public const CatId Furaibo = 126;
 	public const CatId Myneko1 = 701;
 	public const CatId Myneko2 = 702;
 	public const CatId Myneko3 = 703;
