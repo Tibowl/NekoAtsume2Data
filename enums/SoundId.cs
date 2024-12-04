@@ -19,6 +19,7 @@ public enum SoundId
 	public const SoundId se_sentaku = 13;
 	public const SoundId se_shutter = 14;
 	public const SoundId se_dog = 15;
+	public const SoundId se_repair = 16;
 	public const SoundId bgm_main = 100;
 	public const SoundId bgm_main_2 = 101;
 	public const SoundId bgm_org = 102;

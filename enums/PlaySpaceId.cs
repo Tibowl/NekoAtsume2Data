@@ -40,5 +40,5 @@ public enum PlaySpaceId
 	public const PlaySpaceId BigCussion_L = 1990;
 	public const PlaySpaceId BigCussion_White_L = 2000;
 	public const PlaySpaceId Ground1 = 50000;
-	public const PlaySpaceId Ground2 = 50010;
+	public const PlaySpaceId MynekoGround = 50010;
 }
