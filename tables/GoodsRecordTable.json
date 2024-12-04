@@ -516,7 +516,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 119,
+    "DisplayOrderInShop": 120,
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 1800,
@@ -545,7 +545,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 120,
+    "DisplayOrderInShop": 122,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -574,7 +574,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 121,
+    "DisplayOrderInShop": 123,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -603,7 +603,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrderInShop": 122,
+    "DisplayOrderInShop": 124,
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 8100,
@@ -632,7 +632,7 @@
     "Mood": {
       "Data": 25
     },
-    "DisplayOrderInShop": 123,
+    "DisplayOrderInShop": 125,
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 8100,
@@ -661,7 +661,7 @@
     "Mood": {
       "Data": 25
     },
-    "DisplayOrderInShop": 125,
+    "DisplayOrderInShop": 128,
     "DisplayOrderInTrade": 0,
     "Category": 4,
     "Toughness": 5400,
@@ -690,7 +690,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrderInShop": 130,
+    "DisplayOrderInShop": 133,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
@@ -719,7 +719,7 @@
     "Mood": {
       "Data": 10
     },
-    "DisplayOrderInShop": 153,
+    "DisplayOrderInShop": 162,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
@@ -748,7 +748,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 171,
+    "DisplayOrderInShop": 181,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
@@ -777,7 +777,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrderInShop": 172,
+    "DisplayOrderInShop": 182,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
@@ -807,7 +807,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 180,
+    "DisplayOrderInShop": 194,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
@@ -838,7 +838,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 190,
+    "DisplayOrderInShop": 208,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1300,
@@ -867,7 +867,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 200,
+    "DisplayOrderInShop": 220,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1800,
@@ -896,7 +896,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 213,
+    "DisplayOrderInShop": 235,
     "DisplayOrderInTrade": 0,
     "Category": 512,
     "Toughness": 1300,
@@ -904,6 +904,36 @@
     "RepairPattern": 0,
     "Silver": 190,
     "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 216,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_kutusita_b"
+    ],
+    "AnimeXmls": [
+      "12hammock_kutusita_b",
+      "12hammock_kutusita_b_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 246,
+    "DisplayOrderInTrade": 0,
+    "Category": 384,
+    "Toughness": 1800,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 12,
     "RepairSilver": -1,
     "StampCard": 0,
     "SalesRoute": 0,
@@ -925,7 +955,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 224,
+    "DisplayOrderInShop": 256,
     "DisplayOrderInTrade": 0,
     "Category": 512,
     "Toughness": 20400,
@@ -954,7 +984,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 226,
+    "DisplayOrderInShop": 258,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 1000,
@@ -962,6 +992,35 @@
     "RepairPattern": 0,
     "Silver": 240,
     "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 227,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "04tower_extreme"
+    ],
+    "AnimeXmls": [
+      "04tower_extreme"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 261,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 34000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 2500,
+    "Gold": 50,
     "RepairSilver": -1,
     "StampCard": 0,
     "SalesRoute": 0,
@@ -983,7 +1042,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 234,
+    "DisplayOrderInShop": 271,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 2600,
@@ -1012,7 +1071,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 235,
+    "DisplayOrderInShop": 272,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 2600,
@@ -1041,7 +1100,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 236,
+    "DisplayOrderInShop": 273,
     "DisplayOrderInTrade": 0,
     "Category": 16,
     "Toughness": 3900,
@@ -1071,7 +1130,7 @@
     "Mood": {
       "Data": 1
     },
-    "DisplayOrderInShop": 246,
+    "DisplayOrderInShop": 293,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 800,
@@ -1101,7 +1160,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrderInShop": 252,
+    "DisplayOrderInShop": 299,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 1300,
@@ -1131,7 +1190,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 253,
+    "DisplayOrderInShop": 300,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 1000,
@@ -1162,7 +1221,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 258,
+    "DisplayOrderInShop": 308,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 2700,
@@ -1191,7 +1250,7 @@
     "Mood": {
       "Data": 25
     },
-    "DisplayOrderInShop": 260,
+    "DisplayOrderInShop": 313,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 0,
@@ -1199,6 +1258,64 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 20,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 262,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "11yutanpo"
+    ],
+    "AnimeXmls": [
+      "11yutanpo"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 318,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Toughness": 1300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 120,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 265,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "11stove"
+    ],
+    "AnimeXmls": [
+      "11stove"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 321,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 600,
+    "Gold": 0,
     "RepairSilver": -1,
     "StampCard": 0,
     "SalesRoute": 0,
@@ -1220,7 +1337,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 274,
+    "DisplayOrderInShop": 328,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 120,
@@ -1249,7 +1366,7 @@
     "Mood": {
       "Data": 10
     },
-    "DisplayOrderInShop": 275,
+    "DisplayOrderInShop": 329,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 100,
@@ -1278,7 +1395,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 277,
+    "DisplayOrderInShop": 331,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 300,
@@ -1307,7 +1424,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 278,
+    "DisplayOrderInShop": 332,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 800,
@@ -1336,7 +1453,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 280,
+    "DisplayOrderInShop": 334,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1365,7 +1482,7 @@
     "Mood": {
       "Data": 17
     },
-    "DisplayOrderInShop": 281,
+    "DisplayOrderInShop": 335,
     "DisplayOrderInTrade": 0,
     "Category": 384,
     "Toughness": 0,
@@ -1394,7 +1511,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 291,
+    "DisplayOrderInShop": 347,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1423,7 +1540,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrderInShop": 292,
+    "DisplayOrderInShop": 348,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1452,7 +1569,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 293,
+    "DisplayOrderInShop": 349,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1481,7 +1598,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 294,
+    "DisplayOrderInShop": 350,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 2200,
@@ -1511,7 +1628,7 @@
     "Mood": {
       "Data": 18
     },
-    "DisplayOrderInShop": 297,
+    "DisplayOrderInShop": 360,
     "DisplayOrderInTrade": 0,
     "Category": 1088,
     "Toughness": 0,
@@ -1540,7 +1657,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrderInShop": 300,
+    "DisplayOrderInShop": 365,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1569,7 +1686,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrderInShop": 299,
+    "DisplayOrderInShop": 364,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1608,7 +1725,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 301,
+    "DisplayOrderInShop": 366,
     "DisplayOrderInTrade": 0,
     "Category": 1280,
     "Toughness": 1300,
@@ -1637,7 +1754,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 304,
+    "DisplayOrderInShop": 369,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 2200,
@@ -1695,7 +1812,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 276,
+    "DisplayOrderInShop": 330,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1950,
@@ -1724,7 +1841,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 308,
+    "DisplayOrderInShop": 373,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 0,
@@ -1740,7 +1857,7 @@
   {
     "Id": 307,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_sandogasa"
@@ -1754,23 +1871,23 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrderInShop": 302,
+    "DisplayOrderInShop": 367,
     "DisplayOrderInTrade": 1,
     "Category": 1280,
     "Toughness": 3800,
     "UsedToughness": -1,
     "RepairPattern": 0,
-    "Silver": 0,
+    "Silver": 400,
     "Gold": 0,
     "RepairSilver": 30,
     "StampCard": 1,
-    "SalesRoute": 0,
+    "SalesRoute": 1,
     "WarningKey": null
   },
   {
     "Id": 308,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_ticket"
@@ -1783,17 +1900,17 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 175,
+    "DisplayOrderInShop": 185,
     "DisplayOrderInTrade": 2,
     "Category": 8,
     "Toughness": 2700,
     "UsedToughness": -1,
     "RepairPattern": 0,
-    "Silver": 0,
+    "Silver": 120,
     "Gold": 0,
     "RepairSilver": 30,
     "StampCard": 1,
-    "SalesRoute": 0,
+    "SalesRoute": 1,
     "WarningKey": null
   },
   {

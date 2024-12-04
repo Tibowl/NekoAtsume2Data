@@ -123,6 +123,7 @@ App.GoodsList
 App.GoodsOpImage
 App.GoodsOpPanel
 App.GoodsRecord
+App.GoodsRepair
 App.GoodsScene
 App.GoodsScene.FeelingPanel
 App.GoodsWarningButton

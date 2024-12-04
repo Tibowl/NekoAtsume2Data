@@ -1,5 +1,6 @@
 
 // Namespace: 
+[Flags]
 public enum CatAnimeModifier.OverrideAnime 
 {
 	// Fields

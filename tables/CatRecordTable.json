@@ -7,7 +7,8 @@
     "WeatherImpact": 100,
     "Niboshi": 90,
     "GomenneRate": 3,
-    "GroomingRate": 5
+    "GroomingRate": 5,
+    "ActiveMonths": null
   },
   {
     "Id": 1,
@@ -17,7 +18,8 @@
     "WeatherImpact": 100,
     "Niboshi": 120,
     "GomenneRate": 1,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 2,
@@ -27,7 +29,8 @@
     "WeatherImpact": 30,
     "Niboshi": 85,
     "GomenneRate": 5,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 3,
@@ -37,7 +40,8 @@
     "WeatherImpact": 0,
     "Niboshi": 130,
     "GomenneRate": 4,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 4,
@@ -47,7 +51,8 @@
     "WeatherImpact": 10,
     "Niboshi": 70,
     "GomenneRate": 20,
-    "GroomingRate": 4
+    "GroomingRate": 4,
+    "ActiveMonths": null
   },
   {
     "Id": 5,
@@ -57,7 +62,8 @@
     "WeatherImpact": 70,
     "Niboshi": 300,
     "GomenneRate": 0,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 6,
@@ -67,7 +73,8 @@
     "WeatherImpact": 20,
     "Niboshi": 100,
     "GomenneRate": 2,
-    "GroomingRate": 4
+    "GroomingRate": 4,
+    "ActiveMonths": null
   },
   {
     "Id": 7,
@@ -77,7 +84,8 @@
     "WeatherImpact": 100,
     "Niboshi": 75,
     "GomenneRate": 0,
-    "GroomingRate": 5
+    "GroomingRate": 5,
+    "ActiveMonths": null
   },
   {
     "Id": 8,
@@ -87,7 +95,8 @@
     "WeatherImpact": 80,
     "Niboshi": 95,
     "GomenneRate": 0,
-    "GroomingRate": 6
+    "GroomingRate": 6,
+    "ActiveMonths": null
   },
   {
     "Id": 9,
@@ -97,7 +106,8 @@
     "WeatherImpact": 0,
     "Niboshi": 80,
     "GomenneRate": 0,
-    "GroomingRate": 1
+    "GroomingRate": 1,
+    "ActiveMonths": null
   },
   {
     "Id": 10,
@@ -107,7 +117,8 @@
     "WeatherImpact": 100,
     "Niboshi": 110,
     "GomenneRate": 0,
-    "GroomingRate": 4
+    "GroomingRate": 4,
+    "ActiveMonths": null
   },
   {
     "Id": 11,
@@ -117,7 +128,8 @@
     "WeatherImpact": 100,
     "Niboshi": 150,
     "GomenneRate": 1,
-    "GroomingRate": 5
+    "GroomingRate": 5,
+    "ActiveMonths": null
   },
   {
     "Id": 12,
@@ -127,7 +139,8 @@
     "WeatherImpact": 30,
     "Niboshi": 90,
     "GomenneRate": 0,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 13,
@@ -137,7 +150,8 @@
     "WeatherImpact": 100,
     "Niboshi": 350,
     "GomenneRate": 0,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 14,
@@ -147,7 +161,8 @@
     "WeatherImpact": 50,
     "Niboshi": 230,
     "GomenneRate": 5,
-    "GroomingRate": 5
+    "GroomingRate": 5,
+    "ActiveMonths": null
   },
   {
     "Id": 15,
@@ -157,7 +172,8 @@
     "WeatherImpact": 100,
     "Niboshi": 85,
     "GomenneRate": 3,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 16,
@@ -167,7 +183,8 @@
     "WeatherImpact": 40,
     "Niboshi": 190,
     "GomenneRate": 7,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 17,
@@ -177,7 +194,8 @@
     "WeatherImpact": 100,
     "Niboshi": 200,
     "GomenneRate": 15,
-    "GroomingRate": 1
+    "GroomingRate": 1,
+    "ActiveMonths": null
   },
   {
     "Id": 18,
@@ -187,7 +205,8 @@
     "WeatherImpact": 100,
     "Niboshi": 140,
     "GomenneRate": 1,
-    "GroomingRate": 1
+    "GroomingRate": 1,
+    "ActiveMonths": null
   },
   {
     "Id": 19,
@@ -197,7 +216,8 @@
     "WeatherImpact": 100,
     "Niboshi": 180,
     "GomenneRate": 0,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 20,
@@ -207,7 +227,8 @@
     "WeatherImpact": 25,
     "Niboshi": 115,
     "GomenneRate": 3,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 21,
@@ -217,7 +238,8 @@
     "WeatherImpact": 50,
     "Niboshi": 100,
     "GomenneRate": 0,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 22,
@@ -227,7 +249,8 @@
     "WeatherImpact": 30,
     "Niboshi": 70,
     "GomenneRate": 15,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 23,
@@ -237,7 +260,8 @@
     "WeatherImpact": 100,
     "Niboshi": 125,
     "GomenneRate": 8,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 24,
@@ -247,7 +271,8 @@
     "WeatherImpact": 10,
     "Niboshi": 400,
     "GomenneRate": 1,
-    "GroomingRate": 10
+    "GroomingRate": 10,
+    "ActiveMonths": null
   },
   {
     "Id": 25,
@@ -257,7 +282,8 @@
     "WeatherImpact": 150,
     "Niboshi": 75,
     "GomenneRate": 0,
-    "GroomingRate": 7
+    "GroomingRate": 7,
+    "ActiveMonths": null
   },
   {
     "Id": 26,
@@ -267,7 +293,8 @@
     "WeatherImpact": 0,
     "Niboshi": 105,
     "GomenneRate": 3,
-    "GroomingRate": 4
+    "GroomingRate": 4,
+    "ActiveMonths": null
   },
   {
     "Id": 27,
@@ -277,7 +304,8 @@
     "WeatherImpact": 100,
     "Niboshi": 140,
     "GomenneRate": 6,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 28,
@@ -287,7 +315,8 @@
     "WeatherImpact": 100,
     "Niboshi": 95,
     "GomenneRate": 0,
-    "GroomingRate": 1
+    "GroomingRate": 1,
+    "ActiveMonths": null
   },
   {
     "Id": 29,
@@ -297,7 +326,8 @@
     "WeatherImpact": 0,
     "Niboshi": 70,
     "GomenneRate": 2,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 30,
@@ -307,7 +337,8 @@
     "WeatherImpact": 50,
     "Niboshi": 95,
     "GomenneRate": 3,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 31,
@@ -317,7 +348,8 @@
     "WeatherImpact": 100,
     "Niboshi": 130,
     "GomenneRate": 5,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 32,
@@ -327,7 +359,8 @@
     "WeatherImpact": 20,
     "Niboshi": 120,
     "GomenneRate": 30,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 33,
@@ -337,7 +370,8 @@
     "WeatherImpact": 100,
     "Niboshi": 75,
     "GomenneRate": 0,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 34,
@@ -347,7 +381,8 @@
     "WeatherImpact": 50,
     "Niboshi": 58,
     "GomenneRate": 38,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 35,
@@ -357,7 +392,8 @@
     "WeatherImpact": 150,
     "Niboshi": 70,
     "GomenneRate": 3,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 36,
@@ -367,7 +403,8 @@
     "WeatherImpact": 100,
     "Niboshi": 90,
     "GomenneRate": 1,
-    "GroomingRate": 1
+    "GroomingRate": 1,
+    "ActiveMonths": null
   },
   {
     "Id": 37,
@@ -377,7 +414,8 @@
     "WeatherImpact": 100,
     "Niboshi": 60,
     "GomenneRate": 3,
-    "GroomingRate": 4
+    "GroomingRate": 4,
+    "ActiveMonths": null
   },
   {
     "Id": 38,
@@ -387,7 +425,8 @@
     "WeatherImpact": 100,
     "Niboshi": 160,
     "GomenneRate": 20,
-    "GroomingRate": 4
+    "GroomingRate": 4,
+    "ActiveMonths": null
   },
   {
     "Id": 39,
@@ -397,7 +436,8 @@
     "WeatherImpact": 100,
     "Niboshi": 65,
     "GomenneRate": 3,
-    "GroomingRate": 12
+    "GroomingRate": 12,
+    "ActiveMonths": null
   },
   {
     "Id": 40,
@@ -407,7 +447,8 @@
     "WeatherImpact": 255,
     "Niboshi": 255,
     "GomenneRate": 10,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 41,
@@ -417,7 +458,8 @@
     "WeatherImpact": 100,
     "Niboshi": 120,
     "GomenneRate": 10,
-    "GroomingRate": 2
+    "GroomingRate": 2,
+    "ActiveMonths": null
   },
   {
     "Id": 42,
@@ -427,7 +469,8 @@
     "WeatherImpact": 150,
     "Niboshi": 130,
     "GomenneRate": 5,
-    "GroomingRate": 5
+    "GroomingRate": 5,
+    "ActiveMonths": null
   },
   {
     "Id": 43,
@@ -437,7 +480,8 @@
     "WeatherImpact": 50,
     "Niboshi": 80,
     "GomenneRate": 30,
-    "GroomingRate": 3
+    "GroomingRate": 3,
+    "ActiveMonths": null
   },
   {
     "Id": 100,
@@ -447,7 +491,8 @@
     "WeatherImpact": 0,
     "Niboshi": 400,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 101,
@@ -457,7 +502,8 @@
     "WeatherImpact": 0,
     "Niboshi": 300,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 102,
@@ -467,7 +513,8 @@
     "WeatherImpact": 0,
     "Niboshi": 950,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 103,
@@ -477,7 +524,8 @@
     "WeatherImpact": 0,
     "Niboshi": 250,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 104,
@@ -487,7 +535,8 @@
     "WeatherImpact": 50,
     "Niboshi": 700,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 105,
@@ -497,7 +546,8 @@
     "WeatherImpact": 0,
     "Niboshi": 1400,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 106,
@@ -507,7 +557,8 @@
     "WeatherImpact": 0,
     "Niboshi": 200,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 107,
@@ -517,7 +568,8 @@
     "WeatherImpact": 0,
     "Niboshi": 500,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 108,
@@ -527,7 +579,8 @@
     "WeatherImpact": 0,
     "Niboshi": 900,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 109,
@@ -537,7 +590,8 @@
     "WeatherImpact": 0,
     "Niboshi": 80,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 110,
@@ -547,7 +601,8 @@
     "WeatherImpact": 0,
     "Niboshi": 900,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 111,
@@ -557,7 +612,8 @@
     "WeatherImpact": 0,
     "Niboshi": 150,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 112,
@@ -567,7 +623,8 @@
     "WeatherImpact": 0,
     "Niboshi": 630,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 113,
@@ -577,7 +634,8 @@
     "WeatherImpact": 0,
     "Niboshi": 400,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 114,
@@ -587,7 +645,8 @@
     "WeatherImpact": 30,
     "Niboshi": 290,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 115,
@@ -597,7 +656,8 @@
     "WeatherImpact": 0,
     "Niboshi": 77,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 116,
@@ -607,7 +667,8 @@
     "WeatherImpact": 100,
     "Niboshi": 350,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 117,
@@ -617,7 +678,8 @@
     "WeatherImpact": 100,
     "Niboshi": 15,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 118,
@@ -627,7 +689,8 @@
     "WeatherImpact": 100,
     "Niboshi": 1200,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 119,
@@ -637,7 +700,8 @@
     "WeatherImpact": 0,
     "Niboshi": 200,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 120,
@@ -647,7 +711,8 @@
     "WeatherImpact": 0,
     "Niboshi": 450,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 121,
@@ -657,7 +722,8 @@
     "WeatherImpact": 0,
     "Niboshi": 400,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 122,
@@ -667,7 +733,8 @@
     "WeatherImpact": 0,
     "Niboshi": 22,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 123,
@@ -677,7 +744,8 @@
     "WeatherImpact": 0,
     "Niboshi": 70,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 124,
@@ -687,7 +755,8 @@
     "WeatherImpact": 0,
     "Niboshi": 70,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 125,
@@ -697,7 +766,8 @@
     "WeatherImpact": 0,
     "Niboshi": 0,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 126,
@@ -707,7 +777,8 @@
     "WeatherImpact": 0,
     "Niboshi": 0,
     "GomenneRate": 0,
-    "GroomingRate": 0
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 701,
@@ -717,7 +788,8 @@
     "WeatherImpact": 0,
     "Niboshi": 0,
     "GomenneRate": 10,
-    "GroomingRate": 10
+    "GroomingRate": 10,
+    "ActiveMonths": null
   },
   {
     "Id": 702,
@@ -727,7 +799,8 @@
     "WeatherImpact": 0,
     "Niboshi": 0,
     "GomenneRate": 10,
-    "GroomingRate": 10
+    "GroomingRate": 10,
+    "ActiveMonths": null
   },
   {
     "Id": 703,
@@ -737,6 +810,7 @@
     "WeatherImpact": 0,
     "Niboshi": 0,
     "GomenneRate": 10,
-    "GroomingRate": 10
+    "GroomingRate": 10,
+    "ActiveMonths": null
   }
 ]
