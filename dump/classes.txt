@@ -27,9 +27,10 @@ App.BackScroller
 App.BackgroundData
 App.BackupPanel
 App.BgPart
+App.BgPartExtensions.BgPartUtil
 App.Bgm
 App.BgmCell
-App.BgmIdExtensions
+App.BgmIdUtil
 App.BgmMenu
 App.ButtonExtensions.ButtonExtensions
 App.ButtonUtil
@@ -37,6 +38,7 @@ App.CameraFade
 App.CaptureCamera
 App.CatAnime
 App.CatAnimeCapture
+App.CatAnimeIdUtil
 App.CatAnimeLottery
 App.CatAnimeModifier
 App.CatAnimeName
@@ -111,6 +113,7 @@ App.GoldButton
 App.GoldFishView
 App.GoodsAnime
 App.GoodsAnime2
+App.GoodsAnimeIdUtil
 App.GoodsCategorySet
 App.GoodsCategoryUnitExtensions
 App.GoodsCategoryUnitUtil
@@ -141,13 +144,11 @@ App.HelpRecord
 App.HelpScene
 App.HttpClient
 App.IAdData
-App.ICatRecord
 App.ILabelSelector
 App.INekonoteState
 App.INekonoteStateUtil
 App.IPurchaseItem
 App.IPurchaseItemExtensions
-App.ISaveData
 App.ISelectMode
 App.IShopItem
 App.IShopItemExtentions
@@ -566,6 +567,8 @@ HpLib.Extra.NativeCallback
 HpLib.Extra.RendererUtil
 HpLib.Extra.RxUtil
 HpLib.Extra.TextureUtil
+HpLib.Extra.TextureUtil.ActiveRenderTextureScope
+HpLib.Extra.TextureUtil.TemporaryRenderTexture
 HpLib.Extra.UniTaskUtil
 HpLib.FileUtil
 HpLib.FormattableVariable
