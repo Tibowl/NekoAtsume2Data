@@ -31,9 +31,6 @@
       "name": "Size"
     },
     {
-      "name": "New"
-    },
-    {
       "name": "Icon"
     },
     {
@@ -46,6 +43,9 @@
         1.2,
         1
       ]
+    },
+    {
+      "name": "New"
     },
     {
       "name": "Text"
@@ -75,9 +75,6 @@
       "name": "Size"
     },
     {
-      "name": "New"
-    },
-    {
       "name": "Icon"
     },
     {
@@ -90,6 +87,9 @@
         1.2,
         1
       ]
+    },
+    {
+      "name": "New"
     },
     {
       "name": "Text"
@@ -119,9 +119,6 @@
       "name": "Size"
     },
     {
-      "name": "New"
-    },
-    {
       "name": "Icon"
     },
     {
@@ -134,6 +131,9 @@
         1.2,
         1
       ]
+    },
+    {
+      "name": "New"
     },
     {
       "name": "Text"
@@ -163,9 +163,6 @@
       "name": "Size"
     },
     {
-      "name": "New"
-    },
-    {
       "name": "Icon"
     },
     {
@@ -178,6 +175,9 @@
         1.2,
         1
       ]
+    },
+    {
+      "name": "New"
     },
     {
       "name": "Text"

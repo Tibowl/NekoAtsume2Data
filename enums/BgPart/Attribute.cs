@@ -14,4 +14,5 @@ public enum BgPart.Attribute
 	public const BgPart.Attribute Tv = 32;
 	public const BgPart.Attribute SummerExchange = 64;
 	public const BgPart.Attribute Unexpanded = 128;
+	public const BgPart.Attribute WinterExchange = 256;
 }

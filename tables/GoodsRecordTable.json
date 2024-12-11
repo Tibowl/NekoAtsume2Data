@@ -227,7 +227,7 @@
     "RepairPattern": 0,
     "Silver": 90,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 10,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -256,7 +256,7 @@
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 10,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -285,7 +285,7 @@
     "RepairPattern": 1,
     "Silver": 50,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 12,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -314,7 +314,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 10,
-    "RepairSilver": -1,
+    "RepairSilver": 45,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -343,7 +343,7 @@
     "RepairPattern": 0,
     "Silver": 80,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 10,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -372,7 +372,7 @@
     "RepairPattern": 0,
     "Silver": 120,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -408,7 +408,7 @@
     "RepairPattern": 1,
     "Silver": 0,
     "Gold": 25,
-    "RepairSilver": -1,
+    "RepairSilver": 156,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -437,7 +437,7 @@
     "RepairPattern": 0,
     "Silver": 40,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -466,7 +466,7 @@
     "RepairPattern": 0,
     "Silver": 70,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -495,7 +495,7 @@
     "RepairPattern": 3,
     "Silver": 100,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 50,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -524,7 +524,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 15,
-    "RepairSilver": -1,
+    "RepairSilver": 30,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -553,7 +553,7 @@
     "RepairPattern": 0,
     "Silver": 400,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 60,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -611,7 +611,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 40,
-    "RepairSilver": -1,
+    "RepairSilver": 70,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -640,7 +640,7 @@
     "RepairPattern": 0,
     "Silver": 2500,
     "Gold": 50,
-    "RepairSilver": -1,
+    "RepairSilver": 80,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -669,7 +669,7 @@
     "RepairPattern": 0,
     "Silver": 999,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 60,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -698,7 +698,36 @@
     "RepairPattern": 0,
     "Silver": 220,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 30,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 141,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_hunwari04"
+    ],
+    "AnimeXmls": [
+      "03cushion_hunwari04"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 145,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": 0,
+    "RepairSilver": 15,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -727,7 +756,7 @@
     "RepairPattern": 0,
     "Silver": 160,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 35,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -756,7 +785,7 @@
     "RepairPattern": 0,
     "Silver": 170,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 30,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -785,7 +814,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 13,
-    "RepairSilver": -1,
+    "RepairSilver": 40,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -815,7 +844,36 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 14,
-    "RepairSilver": -1,
+    "RepairSilver": 50,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 183,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_dome"
+    ],
+    "AnimeXmls": [
+      "03cushion_dome"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 203,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 0,
+    "Gold": 15,
+    "RepairSilver": 70,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -846,7 +904,36 @@
     "RepairPattern": 0,
     "Silver": 350,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 30,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 197,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_special"
+    ],
+    "AnimeXmls": [
+      "03cushion_special"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrderInShop": 219,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1800,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 20,
+    "RepairSilver": 45,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -875,7 +962,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 10,
-    "RepairSilver": -1,
+    "RepairSilver": 50,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -904,7 +991,7 @@
     "RepairPattern": 0,
     "Silver": 190,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 35,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -912,7 +999,7 @@
   {
     "Id": 216,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_kutusita_b"
@@ -934,7 +1021,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 12,
-    "RepairSilver": -1,
+    "RepairSilver": 40,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -963,7 +1050,7 @@
     "RepairPattern": 0,
     "Silver": 340,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 60,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -992,7 +1079,7 @@
     "RepairPattern": 0,
     "Silver": 240,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 60,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1000,7 +1087,7 @@
   {
     "Id": 227,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tower_extreme"
@@ -1021,7 +1108,7 @@
     "RepairPattern": 0,
     "Silver": 2500,
     "Gold": 50,
-    "RepairSilver": -1,
+    "RepairSilver": 160,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1050,7 +1137,7 @@
     "RepairPattern": 0,
     "Silver": 160,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 20,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1079,7 +1166,7 @@
     "RepairPattern": 0,
     "Silver": 160,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 20,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1108,7 +1195,7 @@
     "RepairPattern": 0,
     "Silver": 200,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 30,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1138,7 +1225,37 @@
     "RepairPattern": 1,
     "Silver": 80,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 245,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_hane"
+    ],
+    "AnimeXmls": [
+      "06jarashi_hane",
+      "06jarashi_hane_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 294,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 800,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 100,
+    "Gold": 0,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1168,7 +1285,7 @@
     "RepairPattern": 1,
     "Silver": 120,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 20,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1198,7 +1315,7 @@
     "RepairPattern": 0,
     "Silver": 170,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 25,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1229,7 +1346,7 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 15,
-    "RepairSilver": -1,
+    "RepairSilver": 50,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1264,9 +1381,38 @@
     "WarningKey": null
   },
   {
-    "Id": 262,
+    "Id": 259,
     "IsNotForSale": false,
     "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "11kotatsu"
+    ],
+    "AnimeXmls": [
+      "11kotatsu"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 315,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Toughness": 27200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 3000,
+    "Gold": 60,
+    "RepairSilver": 120,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 262,
+    "IsNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "11yutanpo"
@@ -1284,10 +1430,10 @@
     "Category": 128,
     "Toughness": 1300,
     "UsedToughness": -1,
-    "RepairPattern": 0,
+    "RepairPattern": 1,
     "Silver": 120,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 30,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1295,7 +1441,7 @@
   {
     "Id": 265,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "11stove"
@@ -1345,7 +1491,7 @@
     "RepairPattern": 0,
     "Silver": 30,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1374,7 +1520,7 @@
     "RepairPattern": 1,
     "Silver": 10,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": "Warning1"
@@ -1403,7 +1549,7 @@
     "RepairPattern": 0,
     "Silver": 180,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1432,7 +1578,7 @@
     "RepairPattern": 0,
     "Silver": 200,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1461,7 +1607,7 @@
     "RepairPattern": 0,
     "Silver": 80,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 10,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1548,7 +1694,7 @@
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 15,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1577,7 +1723,7 @@
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 15,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1606,7 +1752,7 @@
     "RepairPattern": 0,
     "Silver": 60,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 15,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1733,7 +1879,7 @@
     "RepairPattern": 0,
     "Silver": 400,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 40,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1762,7 +1908,7 @@
     "RepairPattern": 0,
     "Silver": 210,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 40,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1791,7 +1937,7 @@
     "RepairPattern": 7,
     "Silver": 20,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 0,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1820,7 +1966,7 @@
     "RepairPattern": 2,
     "Silver": 50,
     "Gold": 0,
-    "RepairSilver": -1,
+    "RepairSilver": 25,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1879,7 +2025,7 @@
     "RepairPattern": 0,
     "Silver": 400,
     "Gold": 0,
-    "RepairSilver": 30,
+    "RepairSilver": 40,
     "StampCard": 1,
     "SalesRoute": 1,
     "WarningKey": null

@@ -2,7 +2,7 @@
   {
     "Id": 0,
     "Type": 0,
-    "MementoId": 1,
+    "MementoIdInt": 1,
     "Power": 80,
     "WeatherImpact": 100,
     "Niboshi": 90,
@@ -13,7 +13,7 @@
   {
     "Id": 1,
     "Type": 0,
-    "MementoId": 2,
+    "MementoIdInt": 2,
     "Power": 140,
     "WeatherImpact": 100,
     "Niboshi": 120,
@@ -24,7 +24,7 @@
   {
     "Id": 2,
     "Type": 0,
-    "MementoId": 3,
+    "MementoIdInt": 3,
     "Power": 75,
     "WeatherImpact": 30,
     "Niboshi": 85,
@@ -35,7 +35,7 @@
   {
     "Id": 3,
     "Type": 0,
-    "MementoId": 4,
+    "MementoIdInt": 4,
     "Power": 50,
     "WeatherImpact": 0,
     "Niboshi": 130,
@@ -46,7 +46,7 @@
   {
     "Id": 4,
     "Type": 0,
-    "MementoId": 5,
+    "MementoIdInt": 5,
     "Power": 120,
     "WeatherImpact": 10,
     "Niboshi": 70,
@@ -57,7 +57,7 @@
   {
     "Id": 5,
     "Type": 0,
-    "MementoId": 6,
+    "MementoIdInt": 6,
     "Power": 150,
     "WeatherImpact": 70,
     "Niboshi": 300,
@@ -68,7 +68,7 @@
   {
     "Id": 6,
     "Type": 0,
-    "MementoId": 7,
+    "MementoIdInt": 7,
     "Power": 90,
     "WeatherImpact": 20,
     "Niboshi": 100,
@@ -79,7 +79,7 @@
   {
     "Id": 7,
     "Type": 0,
-    "MementoId": 8,
+    "MementoIdInt": 8,
     "Power": 50,
     "WeatherImpact": 100,
     "Niboshi": 75,
@@ -90,7 +90,7 @@
   {
     "Id": 8,
     "Type": 0,
-    "MementoId": 9,
+    "MementoIdInt": 9,
     "Power": 40,
     "WeatherImpact": 80,
     "Niboshi": 95,
@@ -101,7 +101,7 @@
   {
     "Id": 9,
     "Type": 0,
-    "MementoId": 10,
+    "MementoIdInt": 10,
     "Power": 180,
     "WeatherImpact": 0,
     "Niboshi": 80,
@@ -112,7 +112,7 @@
   {
     "Id": 10,
     "Type": 0,
-    "MementoId": 11,
+    "MementoIdInt": 11,
     "Power": 150,
     "WeatherImpact": 100,
     "Niboshi": 110,
@@ -123,7 +123,7 @@
   {
     "Id": 11,
     "Type": 0,
-    "MementoId": 12,
+    "MementoIdInt": 12,
     "Power": 170,
     "WeatherImpact": 100,
     "Niboshi": 150,
@@ -134,7 +134,7 @@
   {
     "Id": 12,
     "Type": 0,
-    "MementoId": 13,
+    "MementoIdInt": 13,
     "Power": 70,
     "WeatherImpact": 30,
     "Niboshi": 90,
@@ -145,7 +145,7 @@
   {
     "Id": 13,
     "Type": 0,
-    "MementoId": 14,
+    "MementoIdInt": 14,
     "Power": 100,
     "WeatherImpact": 100,
     "Niboshi": 350,
@@ -156,7 +156,7 @@
   {
     "Id": 14,
     "Type": 0,
-    "MementoId": 15,
+    "MementoIdInt": 15,
     "Power": 140,
     "WeatherImpact": 50,
     "Niboshi": 230,
@@ -167,7 +167,7 @@
   {
     "Id": 15,
     "Type": 0,
-    "MementoId": 16,
+    "MementoIdInt": 16,
     "Power": 30,
     "WeatherImpact": 100,
     "Niboshi": 85,
@@ -178,7 +178,7 @@
   {
     "Id": 16,
     "Type": 0,
-    "MementoId": 17,
+    "MementoIdInt": 17,
     "Power": 160,
     "WeatherImpact": 40,
     "Niboshi": 190,
@@ -189,7 +189,7 @@
   {
     "Id": 17,
     "Type": 0,
-    "MementoId": 18,
+    "MementoIdInt": 18,
     "Power": 0,
     "WeatherImpact": 100,
     "Niboshi": 200,
@@ -200,7 +200,7 @@
   {
     "Id": 18,
     "Type": 0,
-    "MementoId": 19,
+    "MementoIdInt": 19,
     "Power": 165,
     "WeatherImpact": 100,
     "Niboshi": 140,
@@ -211,7 +211,7 @@
   {
     "Id": 19,
     "Type": 0,
-    "MementoId": 20,
+    "MementoIdInt": 20,
     "Power": 80,
     "WeatherImpact": 100,
     "Niboshi": 180,
@@ -222,7 +222,7 @@
   {
     "Id": 20,
     "Type": 0,
-    "MementoId": 21,
+    "MementoIdInt": 21,
     "Power": 155,
     "WeatherImpact": 25,
     "Niboshi": 115,
@@ -233,7 +233,7 @@
   {
     "Id": 21,
     "Type": 0,
-    "MementoId": 22,
+    "MementoIdInt": 22,
     "Power": 45,
     "WeatherImpact": 50,
     "Niboshi": 100,
@@ -244,7 +244,7 @@
   {
     "Id": 22,
     "Type": 0,
-    "MementoId": 35,
+    "MementoIdInt": 35,
     "Power": 125,
     "WeatherImpact": 30,
     "Niboshi": 70,
@@ -255,7 +255,7 @@
   {
     "Id": 23,
     "Type": 0,
-    "MementoId": 36,
+    "MementoIdInt": 36,
     "Power": 60,
     "WeatherImpact": 100,
     "Niboshi": 125,
@@ -266,7 +266,7 @@
   {
     "Id": 24,
     "Type": 0,
-    "MementoId": 37,
+    "MementoIdInt": 37,
     "Power": 45,
     "WeatherImpact": 10,
     "Niboshi": 400,
@@ -277,7 +277,7 @@
   {
     "Id": 25,
     "Type": 0,
-    "MementoId": 38,
+    "MementoIdInt": 38,
     "Power": 80,
     "WeatherImpact": 150,
     "Niboshi": 75,
@@ -288,7 +288,7 @@
   {
     "Id": 26,
     "Type": 0,
-    "MementoId": 39,
+    "MementoIdInt": 39,
     "Power": 130,
     "WeatherImpact": 0,
     "Niboshi": 105,
@@ -299,7 +299,7 @@
   {
     "Id": 27,
     "Type": 0,
-    "MementoId": 40,
+    "MementoIdInt": 40,
     "Power": 40,
     "WeatherImpact": 100,
     "Niboshi": 140,
@@ -310,7 +310,7 @@
   {
     "Id": 28,
     "Type": 0,
-    "MementoId": 42,
+    "MementoIdInt": 42,
     "Power": 75,
     "WeatherImpact": 100,
     "Niboshi": 95,
@@ -321,7 +321,7 @@
   {
     "Id": 29,
     "Type": 0,
-    "MementoId": 43,
+    "MementoIdInt": 43,
     "Power": 140,
     "WeatherImpact": 0,
     "Niboshi": 70,
@@ -332,7 +332,7 @@
   {
     "Id": 30,
     "Type": 0,
-    "MementoId": 46,
+    "MementoIdInt": 46,
     "Power": 195,
     "WeatherImpact": 50,
     "Niboshi": 95,
@@ -343,7 +343,7 @@
   {
     "Id": 31,
     "Type": 0,
-    "MementoId": 47,
+    "MementoIdInt": 47,
     "Power": 35,
     "WeatherImpact": 100,
     "Niboshi": 130,
@@ -354,7 +354,7 @@
   {
     "Id": 32,
     "Type": 0,
-    "MementoId": 50,
+    "MementoIdInt": 50,
     "Power": 10,
     "WeatherImpact": 20,
     "Niboshi": 120,
@@ -365,7 +365,7 @@
   {
     "Id": 33,
     "Type": 0,
-    "MementoId": 51,
+    "MementoIdInt": 51,
     "Power": 90,
     "WeatherImpact": 100,
     "Niboshi": 75,
@@ -376,7 +376,7 @@
   {
     "Id": 34,
     "Type": 0,
-    "MementoId": 54,
+    "MementoIdInt": 54,
     "Power": 45,
     "WeatherImpact": 50,
     "Niboshi": 58,
@@ -387,7 +387,7 @@
   {
     "Id": 35,
     "Type": 0,
-    "MementoId": 55,
+    "MementoIdInt": 55,
     "Power": 60,
     "WeatherImpact": 150,
     "Niboshi": 70,
@@ -398,7 +398,7 @@
   {
     "Id": 36,
     "Type": 0,
-    "MementoId": 57,
+    "MementoIdInt": 57,
     "Power": 115,
     "WeatherImpact": 100,
     "Niboshi": 90,
@@ -409,7 +409,7 @@
   {
     "Id": 37,
     "Type": 0,
-    "MementoId": 58,
+    "MementoIdInt": 58,
     "Power": 15,
     "WeatherImpact": 100,
     "Niboshi": 60,
@@ -420,7 +420,7 @@
   {
     "Id": 38,
     "Type": 0,
-    "MementoId": 60,
+    "MementoIdInt": 60,
     "Power": 155,
     "WeatherImpact": 100,
     "Niboshi": 160,
@@ -431,7 +431,7 @@
   {
     "Id": 39,
     "Type": 0,
-    "MementoId": 61,
+    "MementoIdInt": 61,
     "Power": 80,
     "WeatherImpact": 100,
     "Niboshi": 65,
@@ -442,7 +442,7 @@
   {
     "Id": 40,
     "Type": 0,
-    "MementoId": 63,
+    "MementoIdInt": 63,
     "Power": 65,
     "WeatherImpact": 255,
     "Niboshi": 255,
@@ -453,7 +453,7 @@
   {
     "Id": 41,
     "Type": 0,
-    "MementoId": 64,
+    "MementoIdInt": 64,
     "Power": 105,
     "WeatherImpact": 100,
     "Niboshi": 120,
@@ -464,7 +464,7 @@
   {
     "Id": 42,
     "Type": 0,
-    "MementoId": 65,
+    "MementoIdInt": 65,
     "Power": 99,
     "WeatherImpact": 150,
     "Niboshi": 130,
@@ -475,7 +475,7 @@
   {
     "Id": 43,
     "Type": 0,
-    "MementoId": 66,
+    "MementoIdInt": 66,
     "Power": 205,
     "WeatherImpact": 50,
     "Niboshi": 80,
@@ -486,7 +486,7 @@
   {
     "Id": 100,
     "Type": 1,
-    "MementoId": 23,
+    "MementoIdInt": 23,
     "Power": 28,
     "WeatherImpact": 0,
     "Niboshi": 400,
@@ -497,7 +497,7 @@
   {
     "Id": 101,
     "Type": 1,
-    "MementoId": 24,
+    "MementoIdInt": 24,
     "Power": 30,
     "WeatherImpact": 0,
     "Niboshi": 300,
@@ -508,7 +508,7 @@
   {
     "Id": 102,
     "Type": 1,
-    "MementoId": 25,
+    "MementoIdInt": 25,
     "Power": 70,
     "WeatherImpact": 0,
     "Niboshi": 950,
@@ -519,7 +519,7 @@
   {
     "Id": 103,
     "Type": 1,
-    "MementoId": 26,
+    "MementoIdInt": 26,
     "Power": 111,
     "WeatherImpact": 0,
     "Niboshi": 250,
@@ -530,7 +530,7 @@
   {
     "Id": 104,
     "Type": 1,
-    "MementoId": 27,
+    "MementoIdInt": 27,
     "Power": 222,
     "WeatherImpact": 50,
     "Niboshi": 700,
@@ -541,7 +541,7 @@
   {
     "Id": 105,
     "Type": 1,
-    "MementoId": 28,
+    "MementoIdInt": 28,
     "Power": 20,
     "WeatherImpact": 0,
     "Niboshi": 1400,
@@ -552,7 +552,7 @@
   {
     "Id": 106,
     "Type": 1,
-    "MementoId": 29,
+    "MementoIdInt": 29,
     "Power": 40,
     "WeatherImpact": 0,
     "Niboshi": 200,
@@ -563,7 +563,7 @@
   {
     "Id": 107,
     "Type": 1,
-    "MementoId": 30,
+    "MementoIdInt": 30,
     "Power": 50,
     "WeatherImpact": 0,
     "Niboshi": 500,
@@ -574,7 +574,7 @@
   {
     "Id": 108,
     "Type": 1,
-    "MementoId": 31,
+    "MementoIdInt": 31,
     "Power": 130,
     "WeatherImpact": 0,
     "Niboshi": 900,
@@ -585,7 +585,7 @@
   {
     "Id": 109,
     "Type": 1,
-    "MementoId": 32,
+    "MementoIdInt": 32,
     "Power": 250,
     "WeatherImpact": 0,
     "Niboshi": 80,
@@ -596,7 +596,7 @@
   {
     "Id": 110,
     "Type": 1,
-    "MementoId": 33,
+    "MementoIdInt": 33,
     "Power": 100,
     "WeatherImpact": 0,
     "Niboshi": 900,
@@ -607,7 +607,7 @@
   {
     "Id": 111,
     "Type": 1,
-    "MementoId": 34,
+    "MementoIdInt": 34,
     "Power": 30,
     "WeatherImpact": 0,
     "Niboshi": 150,
@@ -618,7 +618,7 @@
   {
     "Id": 112,
     "Type": 1,
-    "MementoId": 41,
+    "MementoIdInt": 41,
     "Power": 150,
     "WeatherImpact": 0,
     "Niboshi": 630,
@@ -629,7 +629,7 @@
   {
     "Id": 113,
     "Type": 1,
-    "MementoId": 44,
+    "MementoIdInt": 44,
     "Power": 230,
     "WeatherImpact": 0,
     "Niboshi": 400,
@@ -640,7 +640,7 @@
   {
     "Id": 114,
     "Type": 1,
-    "MementoId": 45,
+    "MementoIdInt": 45,
     "Power": 180,
     "WeatherImpact": 30,
     "Niboshi": 290,
@@ -651,7 +651,7 @@
   {
     "Id": 115,
     "Type": 1,
-    "MementoId": 48,
+    "MementoIdInt": 48,
     "Power": 250,
     "WeatherImpact": 0,
     "Niboshi": 77,
@@ -662,7 +662,7 @@
   {
     "Id": 116,
     "Type": 1,
-    "MementoId": 49,
+    "MementoIdInt": 49,
     "Power": 5,
     "WeatherImpact": 100,
     "Niboshi": 350,
@@ -673,7 +673,7 @@
   {
     "Id": 117,
     "Type": 1,
-    "MementoId": 52,
+    "MementoIdInt": 52,
     "Power": 20,
     "WeatherImpact": 100,
     "Niboshi": 15,
@@ -684,7 +684,7 @@
   {
     "Id": 118,
     "Type": 1,
-    "MementoId": 53,
+    "MementoIdInt": 53,
     "Power": 210,
     "WeatherImpact": 100,
     "Niboshi": 1200,
@@ -695,7 +695,7 @@
   {
     "Id": 119,
     "Type": 1,
-    "MementoId": 56,
+    "MementoIdInt": 56,
     "Power": 66,
     "WeatherImpact": 0,
     "Niboshi": 200,
@@ -706,7 +706,7 @@
   {
     "Id": 120,
     "Type": 1,
-    "MementoId": 59,
+    "MementoIdInt": 59,
     "Power": 195,
     "WeatherImpact": 0,
     "Niboshi": 450,
@@ -717,7 +717,7 @@
   {
     "Id": 121,
     "Type": 1,
-    "MementoId": 62,
+    "MementoIdInt": 62,
     "Power": 200,
     "WeatherImpact": 0,
     "Niboshi": 400,
@@ -728,7 +728,7 @@
   {
     "Id": 122,
     "Type": 3,
-    "MementoId": 70,
+    "MementoIdInt": 70,
     "Power": 122,
     "WeatherImpact": 0,
     "Niboshi": 22,
@@ -739,7 +739,7 @@
   {
     "Id": 123,
     "Type": 1,
-    "MementoId": 68,
+    "MementoIdInt": 68,
     "Power": 500,
     "WeatherImpact": 0,
     "Niboshi": 70,
@@ -750,7 +750,7 @@
   {
     "Id": 124,
     "Type": 1,
-    "MementoId": 69,
+    "MementoIdInt": 69,
     "Power": 40,
     "WeatherImpact": 0,
     "Niboshi": 70,
@@ -761,7 +761,7 @@
   {
     "Id": 125,
     "Type": 1,
-    "MementoId": 67,
+    "MementoIdInt": 67,
     "Power": 30,
     "WeatherImpact": 0,
     "Niboshi": 0,
@@ -772,7 +772,7 @@
   {
     "Id": 126,
     "Type": 1,
-    "MementoId": 71,
+    "MementoIdInt": 71,
     "Power": 250,
     "WeatherImpact": 0,
     "Niboshi": 0,
@@ -783,7 +783,7 @@
   {
     "Id": 701,
     "Type": 2,
-    "MementoId": 0,
+    "MementoIdInt": 0,
     "Power": 0,
     "WeatherImpact": 0,
     "Niboshi": 0,
@@ -794,7 +794,7 @@
   {
     "Id": 702,
     "Type": 2,
-    "MementoId": 0,
+    "MementoIdInt": 0,
     "Power": 0,
     "WeatherImpact": 0,
     "Niboshi": 0,
@@ -805,7 +805,7 @@
   {
     "Id": 703,
     "Type": 2,
-    "MementoId": 0,
+    "MementoIdInt": 0,
     "Power": 0,
     "WeatherImpact": 0,
     "Niboshi": 0,

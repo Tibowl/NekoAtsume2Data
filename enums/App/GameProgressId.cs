@@ -9,4 +9,5 @@ public enum GameProgressId
 	public const GameProgressId RewardAdsDate = 2;
 	public const GameProgressId NekonoteTutorial = 3;
 	public const GameProgressId HelpCount = 4;
+	public const GameProgressId MikadukiPowderUsage = 5;
 }
