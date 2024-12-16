@@ -70,6 +70,7 @@
     "CatName124": "Survy",
     "CatName125": "Red Purrhood",
     "CatName126": "Vago",
+    "CatName127": "Purrin",
     "CatName701": "Myneko",
     "CatName702": "Myneko",
     "CatName703": "Myneko",
@@ -144,6 +145,7 @@
     "CatColor124": "Star pattern",
     "CatColor125": "Hood",
     "CatColor126": "Sandogasa",
+    "CatColor127": "Santa Suit",
     "CatColor701": "Magical",
     "CatColor702": "Fantasy",
     "CatColor703": "Transformable",
@@ -218,6 +220,7 @@
     "CatChar124": "Earnest",
     "CatChar125": "Pure",
     "CatChar126": "Drifting",
+    "CatChar127": "Compassionate",
     "CatPower701": "Unknown",
     "CatPower702": "Inestimable",
     "CatPower703": "Mysterious",
@@ -292,6 +295,7 @@
     "TakaraName69": "Clip Pencil",
     "TakaraName70": "Cat Pin",
     "TakaraName71": "Thin Twig",
+    "TakaraName72": "Tattered letter",
     "TakaraComment1": "A small collar with a flower\nprint pattern.",
     "TakaraComment2": "A soft brush for fur.",
     "TakaraComment3": "Something to wear at evening\nevents.",
@@ -363,5 +367,6 @@
     "TakaraComment68": "A memo with something that looks\nlike numbers written on it.",
     "TakaraComment69": "A handy pencil in the shape\nof a paper clip.",
     "TakaraComment70": "A gold badge given to\nmembers of Cat's Club.",
-    "TakaraComment71": "A thin branch with leaves, the\ntip has slightly changed color."
+    "TakaraComment71": "A thin branch with leaves, the\ntip has slightly changed color.",
+    "TakaraComment72": "The letter is worn and crumpled\nfrom being opened many times."
 }

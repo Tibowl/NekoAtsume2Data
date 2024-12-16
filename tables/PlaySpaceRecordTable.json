@@ -3705,7 +3705,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0
   },
   {
@@ -4420,7 +4420,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0
   },
   {
@@ -4447,7 +4447,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0
   },
   {
@@ -4474,7 +4474,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0
   },
   {
@@ -8659,6 +8659,116 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
+    "Z": 0.0
+  },
+  {
+    "Id": 3090,
+    "ItemId": 309,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 3100,
+    "ItemId": 310,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 3110,
+    "ItemId": 311,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 70,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 3120,
+    "ItemId": 312,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 120,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0
+  },
+  {
+    "Id": 3130,
+    "ItemId": 313,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 120,
+    "Gomenne": false,
+    "Grooming": false,
     "Z": 0.0
   },
   {
