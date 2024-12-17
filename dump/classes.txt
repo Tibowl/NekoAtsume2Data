@@ -236,12 +236,15 @@ App.NekonoteSelectPanel
 App.NewsScene
 App.NiboshiToggle
 App.NormalFishView
+App.NtpTime
+App.NtpTime.NtpPacket
 App.OkimonoCustomize
 App.OkimonoCustomizeSlot
 App.OkimonoSelect
 App.OkimonoSelectCell
 App.OptionMenu
 App.OrthographicCameraRangeGizmo
+App.OtherCat
 App.OtherPlaceAttributeExtensions
 App.OtherPlaceConfig
 App.OtherPlaceConfigSync
@@ -355,6 +358,8 @@ App.SceneLoader
 App.ScrollView
 App.ScrollbarChecker
 App.ServerTime
+App.ServerTimeSourceListUtil
+App.ServerTimeSourceUtil
 App.ServerTimeUpdater
 App.Settings
 App.Settings.FlagsMember

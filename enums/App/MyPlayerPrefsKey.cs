@@ -10,4 +10,5 @@ public enum MyPlayerPrefsKey
 	public const MyPlayerPrefsKey GDPR = 3;
 	public const MyPlayerPrefsKey Locale = 4;
 	public const MyPlayerPrefsKey BackupAutoUpload = 5;
+	public const MyPlayerPrefsKey ServerTimeSourceRank = 6;
 }

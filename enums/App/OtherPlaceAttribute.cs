@@ -18,5 +18,6 @@ public enum OtherPlaceAttribute
 	public const OtherPlaceAttribute MynekoGoodsPos = 512;
 	public const OtherPlaceAttribute RemodelPreviewOrigin = 1024;
 	public const OtherPlaceAttribute RemodelPreviewSlot = 2048;
+	public const OtherPlaceAttribute Santa = 4096;
 	public const OtherPlaceAttribute All = -1;
 }
