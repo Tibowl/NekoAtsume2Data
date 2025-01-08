@@ -38,6 +38,7 @@ App.CameraFade
 App.CaptureCamera
 App.CatAnime
 App.CatAnimeCapture
+App.CatAnimeEnv
 App.CatAnimeIdUtil
 App.CatAnimeLottery
 App.CatAnimeModifier
@@ -88,6 +89,7 @@ App.FileReadWriteTest
 App.FingerHistory
 App.FishView
 App.Flick
+App.FlyerLottery
 App.FoodCell
 App.FoodPage
 App.FoodRecord
@@ -149,6 +151,7 @@ App.INekonoteState
 App.INekonoteStateUtil
 App.IPurchaseItem
 App.IPurchaseItemExtensions
+App.ISaveSlotPaths
 App.ISelectMode
 App.IShopItem
 App.IShopItemExtentions
@@ -175,6 +178,7 @@ App.LanguageCodeExtension
 App.LayerIdSelectAttribute
 App.LayoutGroupExtensions
 App.LayoutGroupUtil
+App.LoadPolicyUtil
 App.LoadResultExtensions
 App.LoadingScene
 App.LocaleUtil
@@ -206,6 +210,7 @@ App.MyMessagePack
 App.MyMessagePack.Option
 App.MyMessagePack.Resolver
 App.MyPlayerPrefsUtil
+App.MySaveSlotPaths
 App.MyScrollRect
 App.MyStopwatch
 App.MynekoBookDetail
@@ -245,6 +250,7 @@ App.OkimonoSelectCell
 App.OptionMenu
 App.OrthographicCameraRangeGizmo
 App.OtherCat
+App.OtherCatAnimeEnv
 App.OtherPlaceAttributeExtensions
 App.OtherPlaceConfig
 App.OtherPlaceConfigSync
@@ -353,6 +359,8 @@ App.Save.YardStatus
 App.Save.YardStatusMap
 App.SaveFile
 App.SaveFileUtil
+App.SaveSlotController
+App.SaveSlotStatusUtil
 App.Saving
 App.SceneLoader
 App.ScrollView
@@ -436,7 +444,12 @@ App.ToggleExtensions.ToggleExtensions
 App.ToggleUtil
 App.TrackingConfigScene
 App.TrackingPanel
+App.TransferCodePanel
+App.TransferDownloadPanel
+App.TransferFailedPanel
+App.TransferMainPanel
 App.TransferScene
+App.TransferUploadPanel
 App.Transition
 App.TravelEffects
 App.TravelFavoriteCell

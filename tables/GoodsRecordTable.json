@@ -378,6 +378,35 @@
     "WarningKey": null
   },
   {
+    "Id": 110,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_capsule"
+    ],
+    "AnimeXmls": [
+      "01ball_capsule"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 111,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 30,
+    "Gold": 0,
+    "RepairSilver": 15,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
     "Id": 111,
     "IsNotForSale": false,
     "IsNew": false,
@@ -820,6 +849,64 @@
     "WarningKey": null
   },
   {
+    "Id": 176,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_beads_sakuramochi"
+    ],
+    "AnimeXmls": [
+      "03cushion_beads_sakuramochi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 191,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2400,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 12,
+    "RepairSilver": 50,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 177,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_beads_kashiwamochi"
+    ],
+    "AnimeXmls": [
+      "03cushion_beads_kashiwamochi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 2
+    },
+    "DisplayOrderInShop": 192,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1900,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 300,
+    "Gold": 0,
+    "RepairSilver": 40,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
     "Id": 178,
     "IsNotForSale": false,
     "IsNew": false,
@@ -905,6 +992,35 @@
     "Silver": 350,
     "Gold": 0,
     "RepairSilver": 30,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 195,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_cocoon_pink"
+    ],
+    "AnimeXmls": [
+      "03cushion_cocoon_pink"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 217,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1900,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 550,
+    "Gold": 0,
+    "RepairSilver": 50,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1961,7 +2077,7 @@
     "DisplayOrderInShop": 330,
     "DisplayOrderInTrade": 0,
     "Category": 256,
-    "Toughness": 1950,
+    "Toughness": 3900,
     "UsedToughness": -1,
     "RepairPattern": 2,
     "Silver": 50,
@@ -2062,7 +2178,7 @@
   {
     "Id": 309,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_baketsu_Xmas01"
@@ -2091,7 +2207,7 @@
   {
     "Id": 310,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_baketsu_Xmas02"
@@ -2120,7 +2236,7 @@
   {
     "Id": 311,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_baketsu_Xmas03"
@@ -2149,7 +2265,7 @@
   {
     "Id": 312,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_santa"
@@ -2178,7 +2294,7 @@
   {
     "Id": 313,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_tonakai"

@@ -15,10 +15,12 @@ public enum GoodsId
 	public const GoodsId MikadukiPowder = 8;
 	public const GoodsId Baseball = 100;
 	public const GoodsId RubberBallRed = 101;
+	public const GoodsId RubberBallYellow = 102;
 	public const GoodsId PingPongBall = 106;
 	public const GoodsId SoccerBall = 107;
 	public const GoodsId StressReliever = 108;
 	public const GoodsId BallOfYarn = 109;
+	public const GoodsId ToyCapsule = 110;
 	public const GoodsId TemariBall = 111;
 	public const GoodsId CakeBox = 112;
 	public const GoodsId ShoppingBoxSmall = 115;
@@ -34,9 +36,12 @@ public enum GoodsId
 	public const GoodsId FluffyBedWhite = 152;
 	public const GoodsId FluffyCushion = 170;
 	public const GoodsId UmeCushionRed = 171;
+	public const GoodsId SakuraMochiCushion = 176;
+	public const GoodsId OakMochiCushion = 177;
 	public const GoodsId BurgerCushion = 178;
 	public const GoodsId DomedCushion = 183;
 	public const GoodsId PlumCocoon = 188;
+	public const GoodsId EggBedPink = 195;
 	public const GoodsId LuxuryCushion = 197;
 	public const GoodsId BeadedCushion = 198;
 	public const GoodsId BigCushion = 199;
@@ -56,6 +61,7 @@ public enum GoodsId
 	public const GoodsId GripesMmouse = 251;
 	public const GoodsId AutomaticBunbunmaru = 256;
 	public const GoodsId RailHereAndThere = 258;
+	public const GoodsId Kotatsu = 259;
 	public const GoodsId HotWaterBottle = 262;
 	public const GoodsId Stove = 265;
 	public const GoodsId PaperBag = 272;
@@ -75,6 +81,9 @@ public enum GoodsId
 	public const GoodsId WesternHats = 298;
 	public const GoodsId CatMacaroonPpink = 300;
 	public const GoodsId Tissue = 304;
+	public const GoodsId CatCushion = 372;
+	public const GoodsId BlizzardTent = 420;
+	public const GoodsId BureauWithPot = 462;
 	public const GoodsId Ground1 = 5000;
 	public const GoodsId MynekoGround = 5001;
 	public const GoodsId FollowGround = 5002;

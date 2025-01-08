@@ -4,7 +4,7 @@ public enum LoadResult
 {
 	// Fields
 	public int value__; // 0x0
-	public const LoadResult Succeeded = 0;
+	public const LoadResult Succeed = 0;
 	public const LoadResult AlreadyLoaded = 1;
 	public const LoadResult NotAllowed = 2;
 	public const LoadResult EmptyPath = 3;
@@ -15,5 +15,6 @@ public enum LoadResult
 	public const LoadResult SaveFileNotFound = 8;
 	public const LoadResult EmptyFileContent = 9;
 	public const LoadResult TestError = 10;
-	public const LoadResult InspectFailed = 11;
+	public const LoadResult ReadError = 11;
+	public const LoadResult InspectFailed = 12;
 }
