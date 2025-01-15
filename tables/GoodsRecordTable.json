@@ -380,7 +380,7 @@
   {
     "Id": 110,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_capsule"
@@ -704,6 +704,35 @@
     "WarningKey": null
   },
   {
+    "Id": 128,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_zab_chirimen"
+    ],
+    "AnimeXmls": [
+      "03cushion_zab_chirimen"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 132,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 20,
+    "RepairSilver": 40,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
     "Id": 129,
     "IsNotForSale": false,
     "IsNew": false,
@@ -720,6 +749,35 @@
       "Data": 0
     },
     "DisplayOrderInShop": 133,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 220,
+    "Gold": 0,
+    "RepairSilver": 30,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 131,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_zab_yuki"
+    ],
+    "AnimeXmls": [
+      "03cushion_zab_yuki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrderInShop": 135,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 1700,
@@ -851,7 +909,7 @@
   {
     "Id": 176,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_beads_sakuramochi"
@@ -880,7 +938,7 @@
   {
     "Id": 177,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_beads_kashiwamochi"
@@ -999,7 +1057,7 @@
   {
     "Id": 195,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_cocoon_pink"
@@ -1372,6 +1430,36 @@
     "Silver": 100,
     "Gold": 0,
     "RepairSilver": 0,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 249,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_nezumi"
+    ],
+    "AnimeXmls": [
+      "06jarashi_nezumi",
+      "06jarashi_nezumi_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 298,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1400,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 140,
+    "Gold": 0,
+    "RepairSilver": 20,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1752,6 +1840,36 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 20,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 281,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_wan"
+    ],
+    "AnimeXmls": [
+      "10hachi_wan",
+      "10hachi_wan_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 338,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 25,
     "RepairSilver": -1,
     "StampCard": 0,
     "SalesRoute": 0,

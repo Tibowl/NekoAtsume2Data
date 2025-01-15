@@ -1,9 +1,6 @@
 App.ActionId
 App.ActionId.Cat
 App.ActionId.Goods
-App.AdRemoteConfig
-App.AdRemoteConfig.AppAttributes
-App.AdRemoteConfig.UserAttributes
 App.AddressableFilerUtil
 App.AlbumCharaListPanel
 App.AlbumLabelListPanel
@@ -90,6 +87,7 @@ App.FingerHistory
 App.FishView
 App.Flick
 App.FlyerLottery
+App.FlyerLottery2
 App.FoodCell
 App.FoodPage
 App.FoodRecord
@@ -169,6 +167,7 @@ App.InputFieldUtil
 App.InspectResultUtil
 App.Int32FormatterForJson
 App.InvitationWindow
+App.KeyInvalidator
 App.LabelNameCell
 App.LabelPhotoList
 App.LabelSetting
@@ -210,6 +209,7 @@ App.MyMessagePack
 App.MyMessagePack.Option
 App.MyMessagePack.Resolver
 App.MyPlayerPrefsUtil
+App.MyRemoteConfig
 App.MySaveSlotPaths
 App.MyScrollRect
 App.MyStopwatch
@@ -306,6 +306,9 @@ App.RemodelShopListPanel
 App.RemodelShopPage
 App.RemoteAdData
 App.RemoteConfigEnvironmentId
+App.RemoteConfigUtil
+App.RemoteConfigUtil.AppAttributes
+App.RemoteConfigUtil.UserAttributes
 App.RenderTextureCamera
 App.RichOutline
 App.RtlText
@@ -472,6 +475,7 @@ App.TutorialCameraSettings
 App.UIUtil
 App.UiImageExtensions
 App.UnitySceneSelectAttribute
+App.UnityServicesUtil
 App.UnityTestScene
 App.ViewConfig
 App.WallpaperCell
