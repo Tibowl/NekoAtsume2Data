@@ -47,8 +47,10 @@ public enum GoodsJaId
 	public const GoodsJaId テントピラミッド = 211;
 	public const GoodsJaId ぼんぼんくつした = 216;
 	public const GoodsJaId ビーチパラソル = 222;
+	public const GoodsJaId メルヘンパラソル = 223;
 	public const GoodsJaId _２段式タワー = 224;
 	public const GoodsJaId アスレチックEX = 227;
+	public const GoodsJaId ビッグスイーツタワー = 230;
 	public const GoodsJaId トンネルI型 = 232;
 	public const GoodsJaId トンネルU型 = 233;
 	public const GoodsJaId トンネルT型 = 234;

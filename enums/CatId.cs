@@ -49,6 +49,7 @@ public enum CatId
 	public const CatId Ginuzu = 41;
 	public const CatId Sirochauzu = 42;
 	public const CatId Tobigara = 43;
+	public const CatId SiroOdd = 44;
 	public const CatId Tatejima = 100;
 	public const CatId Nagagutu = 101;
 	public const CatId Prince = 102;

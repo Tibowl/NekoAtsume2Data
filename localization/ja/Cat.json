@@ -43,6 +43,7 @@
     "CatName41": "ぎんうずさん",
     "CatName42": "しろちゃうずさん",
     "CatName43": "とびがらさん",
+    "CatName44": "しろおっどさん",
     "CatName100": "たてじまさん",
     "CatName101": "ながぐつさん",
     "CatName102": "ぷりんすさん",
@@ -118,6 +119,7 @@
     "CatColor41": "クラシック(銀)",
     "CatColor42": "クラシック(白茶)",
     "CatColor43": "とびがら",
+    "CatColor44": "白(オッドアイ)",
     "CatColor100": "縦縞",
     "CatColor101": "チョビヒゲ",
     "CatColor102": "ペルシャ",
@@ -193,6 +195,7 @@
     "CatChar41": "甘え上手",
     "CatChar42": "気分屋",
     "CatChar43": "おてんば",
+    "CatChar44": "繊細",
     "CatChar100": "熱狂",
     "CatChar101": "策略家",
     "CatChar102": "王族の佇まい",
@@ -296,6 +299,7 @@
     "TakaraName70": "ねこのてバッジ",
     "TakaraName71": "細い枝",
     "TakaraName72": "くたくたの手紙",
+    "TakaraName73": "ブレスレット",
     "TakaraComment1": "花がらの小さな首輪",
     "TakaraComment2": "柔らかな毛のブラシ",
     "TakaraComment3": "夜店で売られているあれ",
@@ -368,5 +372,6 @@
     "TakaraComment69": "紙にはさめる便利な鉛筆",
     "TakaraComment70": "ねこのてサポート加入者に配られる\n金色のバッジ",
     "TakaraComment71": "葉っぱがついた細い枝\n少し色が変わっているところがある",
-    "TakaraComment72": "何度も開いたからか\n紙がくたくたになっている"
+    "TakaraComment72": "何度も開いたからか\n紙がくたくたになっている",
+    "TakaraComment73": "綺麗な石のブレスレット"
 }

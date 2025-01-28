@@ -231,6 +231,8 @@
     "GoodsName311": "X'mas bucket (Red)",
     "GoodsName312": "Santa Kokeshi",
     "GoodsName313": "Reindeer Kokeshi",
+    "GoodsName314": "Kick Toy (Snake)",
+    "GoodsName315": "Kick Toy (Tsuchinoko)",
     "GoodsShop1": "　",
     "GoodsShop3": "A sumptuous canned combo of fresh tuna,\nbonito, and sardines. Sure to boost your\npowers of cat attraction!",
     "GoodsShop6": "Sashimi sliced from only the freshest\nfish, with the wasabi and garnish removed.\nFor cats with expensive tastes.",
@@ -459,6 +461,8 @@
     "GoodsShop311": "A versatile bucket with a\nwinter-themed design, perfect for\nsnow play or as a candy holder.",
     "GoodsShop312": "A playful vase crafted by\na ceramic artist, with a design\nthat makes the heart dance.",
     "GoodsShop313": "A playful vase crafted by\na ceramic artist, with a design\nthat makes the heart dance.",
+    "GoodsShop314": "A stuffed animal that’s more fun to kick\nthan hug thanks to its long, skinny body.",
+    "GoodsShop315": "A stuffed animal that’s more fun to kick\nthan hug thanks to its long, skinny body.",
     "GoodsYard1": "Hardly a fancy feast, but it tastes okay\nfor cheap chow. Guaranteed to contain a\nminimum of byproducts and fillers.",
     "GoodsYard3": "As if by magic, cats seem to appear\nfrom thin air as soon as they hear\nthe pull-top pop.",
     "GoodsYard6": "Not for everyone, but the smell is hard\nto resist! Beloved by certain rare cats.",
@@ -680,5 +684,7 @@
     "GoodsYard311": "Buckets like this always come in handy,\nalthough it's hard finding a place to\nput them.",
     "GoodsYard312": "A uniquely shaped ceramic vase.\nWhile its practicality as a vase is limited,\nit sparks curiosity and expectation.",
     "GoodsYard313": "A uniquely shaped ceramic vase.\nWhile its practicality as a vase is limited,\nit sparks curiosity and expectation.",
+    "GoodsYard314": "A snake-shaped toy that triggers a\ncat's batting instincts.",
+    "GoodsYard315": "A tsuchinoko-shaped toy that triggers a\ncat's batting instincts.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

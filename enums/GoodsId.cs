@@ -52,9 +52,11 @@ public enum GoodsId
 	public const GoodsId PyramidTent = 211;
 	public const GoodsId BomBomSocks = 216;
 	public const GoodsId BeachParasol = 222;
+	public const GoodsId FairyTaleParasol = 223;
 	public const GoodsId Tower2 = 224;
 	public const GoodsId Tower3 = 225;
 	public const GoodsId AthleticEX = 227;
+	public const GoodsId BigSweetsTower = 230;
 	public const GoodsId BureauWithPot = 231;
 	public const GoodsId TunnelI = 232;
 	public const GoodsId TunnelU = 233;

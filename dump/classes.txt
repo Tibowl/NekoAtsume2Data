@@ -120,7 +120,8 @@ App.GoodsCategoryUnitUtil
 App.GoodsCategoryUtil
 App.GoodsCell
 App.GoodsFilter
-App.GoodsFilter.CategoryPair
+App.GoodsFilterPanel
+App.GoodsFilterPanel.CategoryPair
 App.GoodsIconUtil
 App.GoodsList
 App.GoodsOpImage
@@ -177,6 +178,7 @@ App.LanguageCodeExtension
 App.LayerIdSelectAttribute
 App.LayoutGroupExtensions
 App.LayoutGroupUtil
+App.LetterRecord
 App.LoadPolicyUtil
 App.LoadResultExtensions
 App.LoadingScene
@@ -238,7 +240,9 @@ App.NekonoteMenuButton
 App.NekonotePrecautionPanel
 App.NekonoteScene
 App.NekonoteSelectPanel
+App.NewsOldScene
 App.NewsScene
+App.NewsSceneTypeUtil
 App.NiboshiToggle
 App.NormalFishView
 App.NtpTime
@@ -421,6 +425,7 @@ App.Tables.CatVsFoodTable
 App.Tables.FoodRecordTable
 App.Tables.GoodsRecordTable
 App.Tables.HelpRecordTable
+App.Tables.LetterRecordTable
 App.Tables.MynekoPartsRecordTable
 App.Tables.PersonTable
 App.Tables.PlaySpaceRecordTable
