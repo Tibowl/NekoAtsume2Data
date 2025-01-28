@@ -49,6 +49,7 @@ public enum AlbumId
 	public const AlbumId Ginuzu = 41;
 	public const AlbumId Sirochauzu = 42;
 	public const AlbumId Tobigara = 43;
+	public const AlbumId SiroOdd = 44;
 	public const AlbumId Tatejima = 100;
 	public const AlbumId Nagagutu = 101;
 	public const AlbumId Prince = 102;

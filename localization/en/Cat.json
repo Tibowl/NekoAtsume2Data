@@ -43,6 +43,7 @@
     "CatName41": "Quicksilver",
     "CatName42": "Maple",
     "CatName43": "Caramel",
+    "CatName44": "Crystal",
     "CatName100": "Joe DiMeowgio",
     "CatName101": "Senor Don Gato",
     "CatName102": "Xerxes IX",
@@ -118,6 +119,7 @@
     "CatColor41": "Silverpoint",
     "CatColor42": "Orange & White Bullseye",
     "CatColor43": "Spotted",
+    "CatColor44": "White w/Odd Eyes",
     "CatColor100": "Baseball Jersey",
     "CatColor101": "Mustachioed",
     "CatColor102": "Persian",
@@ -193,6 +195,7 @@
     "CatChar41": "Mooch",
     "CatChar42": "Moody",
     "CatChar43": "Tomboy",
+    "CatChar44": "Glass Heart",
     "CatChar100": "Team Player",
     "CatChar101": "Scheming",
     "CatChar102": "Regal",
@@ -296,6 +299,7 @@
     "TakaraName70": "Cat Pin",
     "TakaraName71": "Thin Twig",
     "TakaraName72": "Tattered letter",
+    "TakaraName73": "Bracelet",
     "TakaraComment1": "A small collar with a flower\nprint pattern.",
     "TakaraComment2": "A soft brush for fur.",
     "TakaraComment3": "Something to wear at evening\nevents.",
@@ -368,5 +372,6 @@
     "TakaraComment69": "A handy pencil in the shape\nof a paper clip.",
     "TakaraComment70": "A gold badge given to\nmembers of Cat's Club.",
     "TakaraComment71": "A thin branch with leaves, the\ntip has slightly changed color.",
-    "TakaraComment72": "The letter is worn and crumpled\nfrom being opened many times."
+    "TakaraComment72": "The letter is worn and crumpled\nfrom being opened many times.",
+    "TakaraComment73": "A bracelet with beautiful stones."
 }

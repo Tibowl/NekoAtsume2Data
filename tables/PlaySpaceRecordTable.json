@@ -15,7 +15,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 20,
@@ -33,7 +34,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 30,
@@ -51,7 +53,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 40,
@@ -69,7 +72,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 50,
@@ -87,7 +91,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 60,
@@ -105,7 +110,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 70,
@@ -123,7 +129,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1000,
@@ -150,7 +157,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1010,
@@ -181,7 +189,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1020,
@@ -212,7 +221,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1030,
@@ -243,7 +253,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1040,
@@ -274,7 +285,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1050,
@@ -305,7 +317,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1060,
@@ -327,7 +340,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1070,
@@ -349,7 +363,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1080,
@@ -371,7 +386,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1090,
@@ -393,7 +409,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1100,
@@ -415,7 +432,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1110,
@@ -451,7 +469,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1120,
@@ -479,7 +498,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1130,
@@ -501,7 +521,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1140,
@@ -523,7 +544,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1150,
@@ -545,7 +567,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1160,
@@ -567,7 +590,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1170,
@@ -603,7 +627,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1180,
@@ -625,7 +650,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1190,
@@ -653,7 +679,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1200,
@@ -681,7 +708,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1201,
@@ -703,7 +731,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": -1.0
+    "Z": -1.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1210,
@@ -735,7 +764,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1211,
@@ -759,7 +789,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1212,
@@ -783,7 +814,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1220,
@@ -815,7 +847,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1221,
@@ -843,7 +876,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.1
+    "Z": 0.1,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1222,
@@ -875,7 +909,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1230,
@@ -897,7 +932,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1231,
@@ -929,7 +965,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1232,
@@ -955,7 +992,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1233,
@@ -979,7 +1017,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1240,
@@ -1009,7 +1048,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1241,
@@ -1039,7 +1079,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1250,
@@ -1069,7 +1110,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1260,
@@ -1099,7 +1141,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1270,
@@ -1129,7 +1172,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1280,
@@ -1159,7 +1203,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1290,
@@ -1191,7 +1236,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1300,
@@ -1221,7 +1267,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1310,
@@ -1251,7 +1298,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1320,
@@ -1281,7 +1329,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1330,
@@ -1311,7 +1360,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1340,
@@ -1341,7 +1391,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1350,
@@ -1371,7 +1422,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1360,
@@ -1401,7 +1453,8 @@
     "Niboshi": 80,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1370,
@@ -1431,7 +1484,8 @@
     "Niboshi": 80,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1380,
@@ -1461,7 +1515,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1390,
@@ -1491,7 +1546,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1400,
@@ -1521,7 +1577,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1410,
@@ -1551,7 +1608,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1420,
@@ -1581,7 +1639,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1430,
@@ -1611,7 +1670,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1440,
@@ -1641,7 +1701,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1450,
@@ -1671,7 +1732,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1460,
@@ -1701,7 +1763,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1470,
@@ -1731,7 +1794,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1480,
@@ -1761,7 +1825,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1490,
@@ -1789,7 +1854,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1500,
@@ -1817,7 +1883,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1510,
@@ -1845,7 +1912,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1520,
@@ -1875,7 +1943,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1530,
@@ -1905,7 +1974,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1540,
@@ -1935,7 +2005,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1550,
@@ -1967,7 +2038,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1560,
@@ -1993,7 +2065,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1561,
@@ -2023,7 +2096,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1570,
@@ -2049,7 +2123,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1571,
@@ -2079,7 +2154,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1580,
@@ -2105,7 +2181,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1581,
@@ -2135,7 +2212,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1590,
@@ -2161,7 +2239,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1591,
@@ -2191,7 +2270,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1600,
@@ -2217,7 +2297,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1601,
@@ -2247,7 +2328,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1610,
@@ -2273,7 +2355,8 @@
     "Niboshi": 80,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1611,
@@ -2303,7 +2386,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1620,
@@ -2333,7 +2417,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1630,
@@ -2363,7 +2448,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1640,
@@ -2393,7 +2479,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1650,
@@ -2415,7 +2502,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1660,
@@ -2442,7 +2530,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1670,
@@ -2472,7 +2561,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1680,
@@ -2502,7 +2592,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1690,
@@ -2532,7 +2623,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1691,
@@ -2562,7 +2654,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1692,
@@ -2592,7 +2685,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1700,
@@ -2622,7 +2716,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1710,
@@ -2652,7 +2747,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1720,
@@ -2682,7 +2778,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1730,
@@ -2712,7 +2809,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1740,
@@ -2742,7 +2840,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1750,
@@ -2772,7 +2871,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1760,
@@ -2802,7 +2902,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1770,
@@ -2832,7 +2933,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1780,
@@ -2856,7 +2958,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1781,
@@ -2894,7 +2997,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1790,
@@ -2918,7 +3022,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1791,
@@ -2956,7 +3061,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1800,
@@ -2980,7 +3086,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1801,
@@ -3018,7 +3125,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 1.0
+    "Z": 1.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1810,
@@ -3042,7 +3150,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1811,
@@ -3080,7 +3189,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 1.0
+    "Z": 1.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1820,
@@ -3104,7 +3214,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1821,
@@ -3142,7 +3253,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 1.0
+    "Z": 1.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1830,
@@ -3174,7 +3286,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1840,
@@ -3206,7 +3319,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1850,
@@ -3238,7 +3352,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1860,
@@ -3264,7 +3379,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1870,
@@ -3290,7 +3406,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1880,
@@ -3336,7 +3453,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1890,
@@ -3382,7 +3500,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1900,
@@ -3428,7 +3547,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1910,
@@ -3474,7 +3594,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1920,
@@ -3520,7 +3641,8 @@
     "Niboshi": 110,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1930,
@@ -3546,7 +3668,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1940,
@@ -3572,7 +3695,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1950,
@@ -3598,7 +3722,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1960,
@@ -3624,7 +3749,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1961,
@@ -3646,7 +3772,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": true
   },
   {
     "Id": 1970,
@@ -3676,7 +3803,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1980,
@@ -3706,7 +3834,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1990,
@@ -3745,7 +3874,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 1991,
@@ -3775,7 +3905,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2000,
@@ -3814,7 +3945,8 @@
     "Niboshi": 75,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2001,
@@ -3844,7 +3976,8 @@
     "Niboshi": 75,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2010,
@@ -3870,7 +4003,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2020,
@@ -3896,7 +4030,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2030,
@@ -3922,7 +4057,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2040,
@@ -3948,7 +4084,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2050,
@@ -3978,7 +4115,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2060,
@@ -4008,7 +4146,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2070,
@@ -4038,7 +4177,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2071,
@@ -4068,7 +4208,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2080,
@@ -4094,7 +4235,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2090,
@@ -4120,7 +4262,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2100,
@@ -4148,7 +4291,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2110,
@@ -4174,7 +4318,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2120,
@@ -4200,7 +4345,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2121,
@@ -4230,7 +4376,8 @@
     "Niboshi": 40,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2130,
@@ -4256,7 +4403,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2131,
@@ -4286,7 +4434,8 @@
     "Niboshi": 40,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2140,
@@ -4313,7 +4462,8 @@
     "Niboshi": 120,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2150,
@@ -4340,7 +4490,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2160,
@@ -4367,7 +4518,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2170,
@@ -4394,7 +4546,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2180,
@@ -4421,7 +4574,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2190,
@@ -4448,7 +4602,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2200,
@@ -4475,7 +4630,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2210,
@@ -4505,7 +4661,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2211,
@@ -4535,7 +4692,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2212,
@@ -4567,7 +4725,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2220,
@@ -4597,7 +4756,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2221,
@@ -4627,7 +4787,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2222,
@@ -4659,10 +4820,79 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2230,
+    "ItemId": 223,
+    "ConflictIndices": [
+      3,
+      4
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 2231,
+    "ItemId": 223,
+    "ConflictIndices": [
+      3,
+      4
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_nesoberi_dark",
+      "00kihon_suwari_dark",
+      "00kihon_suwari_dark"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": true,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 2232,
     "ItemId": 223,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4689,74 +4919,18 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
-  },
-  {
-    "Id": 2231,
-    "ItemId": 223,
-    "ConflictIndices": [],
-    "ActionNames": [
-      "00kihon_nesoberi_dark",
-      "00kihon_nesoberi_dark",
-      "00kihon_nesoberi_dark",
-      "00kihon_suwari_dark",
-      "00kihon_suwari_dark"
-    ],
-    "ActionIds": [
-      0,
-      1,
-      2,
-      0,
-      1
-    ],
-    "ActionWeights": null,
-    "ActionNames2": null,
-    "ActionIds2": null,
-    "ActionWeights2": null,
-    "GoodsAnimeId": null,
-    "GoodsAnimeId2": null,
-    "Charm": 100,
-    "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
-    "Z": 0.0
-  },
-  {
-    "Id": 2232,
-    "ItemId": 223,
-    "ConflictIndices": [],
-    "ActionNames": [
-      "00kihon_nesoberi_dark",
-      "00kihon_nesoberi_dark",
-      "00kihon_nesoberi_dark",
-      "00kihon_suwari_dark",
-      "00kihon_suwari_dark"
-    ],
-    "ActionIds": [
-      0,
-      1,
-      2,
-      0,
-      1
-    ],
-    "ActionWeights": null,
-    "ActionNames2": null,
-    "ActionIds2": null,
-    "ActionWeights2": null,
-    "GoodsAnimeId": null,
-    "GoodsAnimeId2": null,
-    "Charm": 100,
-    "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2233,
     "ItemId": 223,
-    "ConflictIndices": [],
+    "ConflictIndices": [
+      0,
+      1
+    ],
     "ActionNames": [
-      "00kihon_nesoberi"
+      "00kihon_suwari"
     ],
     "ActionIds": [
       0
@@ -4771,7 +4945,34 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": true
+  },
+  {
+    "Id": 2234,
+    "ItemId": 223,
+    "ConflictIndices": [
+      0,
+      1
+    ],
+    "ActionNames": [
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": true
   },
   {
     "Id": 2240,
@@ -4803,7 +5004,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2241,
@@ -4833,7 +5035,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2250,
@@ -4865,7 +5068,8 @@
     "Niboshi": 70,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2251,
@@ -4897,7 +5101,8 @@
     "Niboshi": 70,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2252,
@@ -4929,7 +5134,8 @@
     "Niboshi": 70,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2260,
@@ -4961,7 +5167,8 @@
     "Niboshi": 60,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2261,
@@ -4993,7 +5200,8 @@
     "Niboshi": 60,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2262,
@@ -5025,7 +5233,8 @@
     "Niboshi": 60,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2263,
@@ -5049,7 +5258,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2264,
@@ -5081,7 +5291,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2270,
@@ -5113,7 +5324,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2271,
@@ -5143,7 +5355,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2272,
@@ -5167,7 +5380,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2273,
@@ -5199,7 +5413,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2274,
@@ -5223,7 +5438,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2275,
@@ -5253,7 +5469,8 @@
     "Niboshi": 60,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2280,
@@ -5277,7 +5494,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2281,
@@ -5301,7 +5519,8 @@
     "Niboshi": 65,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2282,
@@ -5327,7 +5546,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2283,
@@ -5355,7 +5575,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2290,
@@ -5387,7 +5608,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2291,
@@ -5419,7 +5641,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2292,
@@ -5451,7 +5674,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2293,
@@ -5483,7 +5707,8 @@
     "Niboshi": 50,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2300,
@@ -5513,7 +5738,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2301,
@@ -5543,7 +5769,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2302,
@@ -5573,7 +5800,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2303,
@@ -5606,7 +5834,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2304,
@@ -5639,7 +5868,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2305,
@@ -5649,7 +5879,7 @@
       4
     ],
     "ActionNames": [
-      "00kihon_nesoberi",
+      "00kihon_suwari",
       "117"
     ],
     "ActionIds": [
@@ -5666,7 +5896,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": true
   },
   {
     "Id": 2306,
@@ -5676,7 +5907,7 @@
       4
     ],
     "ActionNames": [
-      "00kihon_nesoberi",
+      "00kihon_suwari",
       "118"
     ],
     "ActionIds": [
@@ -5693,7 +5924,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": true
   },
   {
     "Id": 2310,
@@ -5725,7 +5957,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2311,
@@ -5749,7 +5982,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2312,
@@ -5777,7 +6011,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2313,
@@ -5799,7 +6034,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2314,
@@ -5821,7 +6057,8 @@
     "Niboshi": 50,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2320,
@@ -5847,7 +6084,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2321,
@@ -5869,7 +6107,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2330,
@@ -5895,7 +6134,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2331,
@@ -5921,7 +6161,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2340,
@@ -5947,7 +6188,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2341,
@@ -5969,7 +6211,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2342,
@@ -5991,7 +6234,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2350,
@@ -6017,7 +6261,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2351,
@@ -6039,7 +6284,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2352,
@@ -6061,7 +6307,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2353,
@@ -6083,7 +6330,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2360,
@@ -6109,7 +6357,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2361,
@@ -6131,7 +6380,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2370,
@@ -6157,7 +6407,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2371,
@@ -6179,7 +6430,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2380,
@@ -6205,7 +6457,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2381,
@@ -6231,7 +6484,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2390,
@@ -6253,7 +6507,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2391,
@@ -6279,7 +6534,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2400,
@@ -6305,7 +6561,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2410,
@@ -6331,7 +6588,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2420,
@@ -6357,7 +6615,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2430,
@@ -6383,7 +6642,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2440,
@@ -6413,7 +6673,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2450,
@@ -6443,7 +6704,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2460,
@@ -6470,7 +6732,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2470,
@@ -6497,7 +6760,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2480,
@@ -6524,7 +6788,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2490,
@@ -6558,7 +6823,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2500,
@@ -6588,7 +6854,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2510,
@@ -6615,7 +6882,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2520,
@@ -6642,7 +6910,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2530,
@@ -6669,7 +6938,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2540,
@@ -6696,7 +6966,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2550,
@@ -6723,7 +6994,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2560,
@@ -6753,7 +7025,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2570,
@@ -6780,7 +7053,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2580,
@@ -6807,7 +7081,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2590,
@@ -6833,7 +7108,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2591,
@@ -6859,7 +7135,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2592,
@@ -6881,7 +7158,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2593,
@@ -6911,7 +7189,8 @@
     "Niboshi": 60,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2600,
@@ -6938,7 +7217,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2601,
@@ -6962,7 +7242,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2602,
@@ -6984,7 +7265,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2603,
@@ -7010,7 +7292,8 @@
     "Niboshi": 60,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2610,
@@ -7040,7 +7323,8 @@
     "Niboshi": 90,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2611,
@@ -7070,7 +7354,8 @@
     "Niboshi": 90,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2612,
@@ -7100,7 +7385,8 @@
     "Niboshi": 90,
     "Gomenne": true,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2613,
@@ -7124,7 +7410,8 @@
     "Niboshi": 65,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": true
   },
   {
     "Id": 2620,
@@ -7154,7 +7441,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2630,
@@ -7184,7 +7472,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2640,
@@ -7214,7 +7503,8 @@
     "Niboshi": 75,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2641,
@@ -7244,7 +7534,8 @@
     "Niboshi": 75,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2642,
@@ -7274,7 +7565,8 @@
     "Niboshi": 75,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2650,
@@ -7304,7 +7596,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2651,
@@ -7334,7 +7627,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2652,
@@ -7364,7 +7658,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2660,
@@ -7394,7 +7689,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2661,
@@ -7424,7 +7720,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2662,
@@ -7454,7 +7751,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2670,
@@ -7484,7 +7782,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2671,
@@ -7514,7 +7813,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2672,
@@ -7544,7 +7844,8 @@
     "Niboshi": 60,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2680,
@@ -7571,7 +7872,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2690,
@@ -7597,7 +7899,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2700,
@@ -7623,7 +7926,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2710,
@@ -7649,7 +7953,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2720,
@@ -7675,7 +7980,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2730,
@@ -7697,7 +8003,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2740,
@@ -7719,7 +8026,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2750,
@@ -7741,7 +8049,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2760,
@@ -7763,7 +8072,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2770,
@@ -7785,7 +8095,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2780,
@@ -7812,7 +8123,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2790,
@@ -7848,7 +8160,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2800,
@@ -7870,7 +8183,8 @@
     "Niboshi": 120,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2810,
@@ -7903,16 +8217,19 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2811,
     "ItemId": 281,
     "ConflictIndices": [],
     "ActionNames": [
+      "01ball_pingpong_break",
       "00kihon_nesoberi"
     ],
     "ActionIds": [
+      0,
       0
     ],
     "ActionWeights": null,
@@ -7925,7 +8242,8 @@
     "Niboshi": 75,
     "Gomenne": false,
     "Grooming": false,
-    "Z": -1.0
+    "Z": -1.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2820,
@@ -7947,7 +8265,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2830,
@@ -7969,7 +8288,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2840,
@@ -7991,7 +8311,8 @@
     "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2850,
@@ -8013,7 +8334,8 @@
     "Niboshi": 150,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2860,
@@ -8035,7 +8357,8 @@
     "Niboshi": 150,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2870,
@@ -8057,7 +8380,8 @@
     "Niboshi": 150,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2880,
@@ -8079,7 +8403,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2890,
@@ -8101,7 +8426,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2900,
@@ -8123,7 +8449,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2910,
@@ -8145,7 +8472,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2920,
@@ -8167,7 +8495,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2930,
@@ -8199,7 +8528,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2931,
@@ -8231,7 +8561,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2940,
@@ -8258,7 +8589,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2950,
@@ -8280,7 +8612,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2960,
@@ -8304,7 +8637,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2970,
@@ -8326,7 +8660,8 @@
     "Niboshi": 90,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2980,
@@ -8350,7 +8685,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2981,
@@ -8379,7 +8715,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 2990,
@@ -8405,7 +8742,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3000,
@@ -8431,7 +8769,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3010,
@@ -8457,7 +8796,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3020,
@@ -8483,7 +8823,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3030,
@@ -8509,7 +8850,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3040,
@@ -8535,7 +8877,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3050,
@@ -8557,7 +8900,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3060,
@@ -8579,7 +8923,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3070,
@@ -8603,7 +8948,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3071,
@@ -8629,7 +8975,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3080,
@@ -8659,7 +9006,8 @@
     "Niboshi": 100,
     "Gomenne": true,
     "Grooming": true,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3090,
@@ -8681,7 +9029,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3100,
@@ -8703,7 +9052,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3110,
@@ -8725,7 +9075,8 @@
     "Niboshi": 70,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3120,
@@ -8747,7 +9098,8 @@
     "Niboshi": 120,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 3130,
@@ -8769,7 +9121,64 @@
     "Niboshi": 120,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3140,
+    "ItemId": 314,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3150,
+    "ItemId": 315,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_kerigurumi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 50000,
@@ -8787,7 +9196,8 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 50010,
@@ -8819,6 +9229,7 @@
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
-    "Z": 0.0
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   }
 ]

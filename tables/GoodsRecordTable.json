@@ -706,7 +706,7 @@
   {
     "Id": 128,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zab_chirimen"
@@ -764,7 +764,7 @@
   {
     "Id": 131,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zab_yuki"
@@ -1437,7 +1437,7 @@
   {
     "Id": 249,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_nezumi"
@@ -1542,7 +1542,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 308,
+    "DisplayOrderInShop": 310,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 2000,
@@ -1571,7 +1571,7 @@
     "Mood": {
       "Data": 25
     },
-    "DisplayOrderInShop": 313,
+    "DisplayOrderInShop": 315,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 0,
@@ -1600,7 +1600,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrderInShop": 315,
+    "DisplayOrderInShop": 317,
     "DisplayOrderInTrade": 0,
     "Category": 128,
     "Toughness": 33000,
@@ -1629,7 +1629,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrderInShop": 318,
+    "DisplayOrderInShop": 320,
     "DisplayOrderInTrade": 0,
     "Category": 128,
     "Toughness": 1550,
@@ -1658,7 +1658,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrderInShop": 321,
+    "DisplayOrderInShop": 323,
     "DisplayOrderInTrade": 0,
     "Category": 128,
     "Toughness": 0,
@@ -1687,7 +1687,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 328,
+    "DisplayOrderInShop": 330,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 120,
@@ -1716,7 +1716,7 @@
     "Mood": {
       "Data": 10
     },
-    "DisplayOrderInShop": 329,
+    "DisplayOrderInShop": 331,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 100,
@@ -1745,7 +1745,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 331,
+    "DisplayOrderInShop": 333,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 300,
@@ -1774,7 +1774,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 332,
+    "DisplayOrderInShop": 334,
     "DisplayOrderInTrade": 0,
     "Category": 32,
     "Toughness": 1100,
@@ -1803,7 +1803,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 334,
+    "DisplayOrderInShop": 336,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1500,
@@ -1832,7 +1832,7 @@
     "Mood": {
       "Data": 17
     },
-    "DisplayOrderInShop": 335,
+    "DisplayOrderInShop": 337,
     "DisplayOrderInTrade": 0,
     "Category": 384,
     "Toughness": 0,
@@ -1848,7 +1848,7 @@
   {
     "Id": 281,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_wan"
@@ -1862,7 +1862,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrderInShop": 338,
+    "DisplayOrderInShop": 340,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1891,7 +1891,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 347,
+    "DisplayOrderInShop": 349,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -1920,7 +1920,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrderInShop": 348,
+    "DisplayOrderInShop": 350,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1900,
@@ -1949,7 +1949,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 349,
+    "DisplayOrderInShop": 351,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1900,
@@ -1978,7 +1978,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 350,
+    "DisplayOrderInShop": 352,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1900,
@@ -2008,7 +2008,7 @@
     "Mood": {
       "Data": 18
     },
-    "DisplayOrderInShop": 360,
+    "DisplayOrderInShop": 362,
     "DisplayOrderInTrade": 0,
     "Category": 1088,
     "Toughness": 0,
@@ -2037,7 +2037,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrderInShop": 365,
+    "DisplayOrderInShop": 367,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -2066,7 +2066,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrderInShop": 364,
+    "DisplayOrderInShop": 366,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -2105,7 +2105,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 366,
+    "DisplayOrderInShop": 368,
     "DisplayOrderInTrade": 0,
     "Category": 1280,
     "Toughness": 2300,
@@ -2134,7 +2134,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 369,
+    "DisplayOrderInShop": 371,
     "DisplayOrderInTrade": 0,
     "Category": 8,
     "Toughness": 2000,
@@ -2192,7 +2192,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 330,
+    "DisplayOrderInShop": 332,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 3900,
@@ -2221,7 +2221,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 373,
+    "DisplayOrderInShop": 375,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
     "Toughness": 0,
@@ -2251,7 +2251,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrderInShop": 367,
+    "DisplayOrderInShop": 369,
     "DisplayOrderInTrade": 1,
     "Category": 1280,
     "Toughness": 3400,
@@ -2309,7 +2309,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrderInShop": 351,
+    "DisplayOrderInShop": 353,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1900,
@@ -2338,7 +2338,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrderInShop": 352,
+    "DisplayOrderInShop": 354,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1900,
@@ -2367,7 +2367,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrderInShop": 353,
+    "DisplayOrderInShop": 355,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 1900,
@@ -2396,7 +2396,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 345,
+    "DisplayOrderInShop": 347,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -2425,7 +2425,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrderInShop": 346,
+    "DisplayOrderInShop": 348,
     "DisplayOrderInTrade": 0,
     "Category": 256,
     "Toughness": 0,
@@ -2434,6 +2434,66 @@
     "Silver": 0,
     "Gold": 45,
     "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 314,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_kerigurumi_snake"
+    ],
+    "AnimeXmls": [
+      "06jarashi_kerigurumi_snake",
+      "06jarashi_kerigurumi_snake_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 305,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": 0,
+    "RepairSilver": 35,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 315,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_kerigurumi_tsuchinoko"
+    ],
+    "AnimeXmls": [
+      "06jarashi_kerigurumi_tsuchinoko",
+      "06jarashi_kerigurumi_tsuchinoko_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrderInShop": 306,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": 0,
+    "RepairSilver": 35,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
