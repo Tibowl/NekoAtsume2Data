@@ -29,6 +29,7 @@ App.Bgm
 App.BgmCell
 App.BgmIdUtil
 App.BgmMenu
+App.BrokenGoodsTutorial
 App.ButtonExtensions.ButtonExtensions
 App.ButtonUtil
 App.CameraFade
@@ -122,6 +123,7 @@ App.GoodsCell
 App.GoodsFilter
 App.GoodsFilterPanel
 App.GoodsFilterPanel.CategoryPair
+App.GoodsFilterWindow
 App.GoodsIconUtil
 App.GoodsList
 App.GoodsOpImage
@@ -251,6 +253,7 @@ App.OkimonoCustomize
 App.OkimonoCustomizeSlot
 App.OkimonoSelect
 App.OkimonoSelectCell
+App.OldGoodsFilterWindow
 App.OptionMenu
 App.OrthographicCameraRangeGizmo
 App.OtherCat
@@ -380,6 +383,7 @@ App.Settings
 App.Settings.FlagsMember
 App.Settings.SettingFlags
 App.ShopCell
+App.ShopFilterWindow
 App.ShopGoldScene
 App.ShopList
 App.ShopPage
@@ -767,6 +771,7 @@ MyDebug.TestFoodSetting
 MyDebug.TestGiftData
 MyDebug.TestGiftListUi
 MyDebug.TestGoodsAnime2Menu
+MyDebug.TestGoodsFilter
 MyDebug.TestGoodsMenu
 MyDebug.TestGridScroll
 MyDebug.TestGridScroll.GiftCell
