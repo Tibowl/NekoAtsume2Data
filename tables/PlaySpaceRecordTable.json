@@ -450,15 +450,18 @@
     "ActionWeights": null,
     "ActionNames2": [
       "01ball_gum_break",
-      "01ball_gum_break"
+      "01ball_gum_break",
+      "112"
     ],
     "ActionIds2": [
       0,
-      1
+      1,
+      3
     ],
     "ActionWeights2": [
       10,
-      5
+      5,
+      1
     ],
     "GoodsAnimeId": [
       0,
@@ -3757,7 +3760,7 @@
     "ItemId": 196,
     "ConflictIndices": [],
     "ActionNames": [
-      "00kihon_nesoberi"
+      "00kihon_suwari"
     ],
     "ActionIds": [
       0

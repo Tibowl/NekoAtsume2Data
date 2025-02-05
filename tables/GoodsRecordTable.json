@@ -1084,6 +1084,35 @@
     "WarningKey": null
   },
   {
+    "Id": 196,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_cocoon_yozora"
+    ],
+    "AnimeXmls": [
+      "03cushion_cocoon_yozora"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrderInShop": 218,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 38,
+    "RepairSilver": 50,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
     "Id": 197,
     "IsNotForSale": false,
     "IsNew": false,
@@ -1136,6 +1165,35 @@
     "RepairPattern": 0,
     "Silver": 0,
     "Gold": 10,
+    "RepairSilver": 50,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 204,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_3"
+    ],
+    "AnimeXmls": [
+      "12hammock_3"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 226,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 0,
+    "Gold": 35,
     "RepairSilver": 50,
     "StampCard": 0,
     "SalesRoute": 0,
@@ -1283,6 +1341,35 @@
     "Silver": 2500,
     "Gold": 50,
     "RepairSilver": 160,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 230,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "04tower_sweets_big"
+    ],
+    "AnimeXmls": [
+      "04tower_sweets_big"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrderInShop": 268,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 900,
+    "Gold": 0,
+    "RepairSilver": -1,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -2441,7 +2528,7 @@
   {
     "Id": 314,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_snake"
@@ -2471,7 +2558,7 @@
   {
     "Id": 315,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_tsuchinoko"
