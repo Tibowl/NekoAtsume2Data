@@ -170,6 +170,7 @@ App.InputFieldUtil
 App.InspectResultUtil
 App.Int32FormatterForJson
 App.InvitationWindow
+App.JohoyaPresent
 App.KeyInvalidator
 App.LabelNameCell
 App.LabelPhotoList
@@ -181,6 +182,7 @@ App.LayerIdSelectAttribute
 App.LayoutGroupExtensions
 App.LayoutGroupUtil
 App.LetterRecord
+App.LetterRewardIdExtensions
 App.LoadPolicyUtil
 App.LoadResultExtensions
 App.LoadingScene
