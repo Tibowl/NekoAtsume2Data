@@ -820,6 +820,93 @@
     "WarningKey": null
   },
   {
+    "Id": 149,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_kinoko_1"
+    ],
+    "AnimeXmls": [
+      "03cushion_kinoko_1"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 155,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": 0,
+    "RepairSilver": 45,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 150,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_kinoko_2"
+    ],
+    "AnimeXmls": [
+      "03cushion_kinoko_2"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrderInShop": 156,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": 0,
+    "RepairSilver": 45,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 151,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_kinoko_3"
+    ],
+    "AnimeXmls": [
+      "03cushion_kinoko_3"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrderInShop": 157,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": 0,
+    "RepairSilver": 45,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
     "Id": 152,
     "IsNotForSale": false,
     "IsNew": false,
@@ -1086,7 +1173,7 @@
   {
     "Id": 196,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_cocoon_yozora"
@@ -1173,7 +1260,7 @@
   {
     "Id": 204,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_3"
@@ -1195,6 +1282,35 @@
     "Silver": 0,
     "Gold": 35,
     "RepairSilver": 50,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 205,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_tart_chocolate"
+    ],
+    "AnimeXmls": [
+      "03cushion_tart_chocolate"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 227,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1900,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 290,
+    "Gold": 0,
+    "RepairSilver": 30,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
@@ -1348,7 +1464,7 @@
   {
     "Id": 230,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tower_sweets_big"
@@ -1457,6 +1573,35 @@
     "Silver": 200,
     "Gold": 0,
     "RepairSilver": 30,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 240,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "05tunnel_corne"
+    ],
+    "AnimeXmls": [
+      "05tunnel_corne"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 280,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 350,
+    "Gold": 0,
+    "RepairSilver": 40,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
