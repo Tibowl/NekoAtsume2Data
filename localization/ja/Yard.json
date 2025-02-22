@@ -7,6 +7,7 @@
     "YardName5": "カリカリ西部劇",
     "YardName6": "スイーツガーデン",
     "YardName7": "カフェスペース",
+    "YardName8": "フラワーガーデン",
     "YardGoodsName11": "ござ①",
     "YardGoodsName12": "ござ②",
     "YardGoodsName13": "ござ③",
@@ -102,5 +103,17 @@
     "YardGoodsName733": "家具③",
     "YardGoodsName741": "カーペット①",
     "YardGoodsName742": "カーペット②",
-    "YardGoodsName743": "カーペット③"
+    "YardGoodsName743": "カーペット③",
+    "YardGoodsName811": "小道と柵①",
+    "YardGoodsName812": "小道と柵②",
+    "YardGoodsName813": "小道と柵③",
+    "YardGoodsName821": "庭デザイン①",
+    "YardGoodsName822": "庭デザイン②",
+    "YardGoodsName823": "庭デザイン③",
+    "YardGoodsName831": "壁①",
+    "YardGoodsName832": "壁②",
+    "YardGoodsName833": "壁③",
+    "YardGoodsName841": "床①",
+    "YardGoodsName842": "床②",
+    "YardGoodsName843": "床③"
 }

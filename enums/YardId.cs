@@ -13,4 +13,5 @@ public enum YardId
 	public const YardId Western = 5;
 	public const YardId Sweets = 6;
 	public const YardId Cafe = 7;
+	public const YardId Flower = 8;
 }

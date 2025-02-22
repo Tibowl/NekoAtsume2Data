@@ -1,0 +1,266 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_EditorClassIdentifier": "",
+	"m_EditorHideFlags": 0,
+	"m_Enabled": 1,
+	"m_GameObject": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "008_places",
+	"m_PrefabAsset": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 0 },
+	"m_Script": { "m_Collection": "cab-03993f92c41aa5b4a46ad02386f7c865", "m_PathID": 6311832482255821053 },
+	"m_Structure": {
+		"places": [
+			{
+				"\u003cId\u003ek__BackingField": 0,
+				"\u003cAttribute\u003ek__BackingField": 16,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -5.5,
+					"y": -7.8,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 1,
+				"\u003cAttribute\u003ek__BackingField": 0,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -3.54,
+					"y": -5.758,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 2,
+				"\u003cAttribute\u003ek__BackingField": 0,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -3.122,
+					"y": -2.923,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 3,
+				"\u003cAttribute\u003ek__BackingField": 0,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 1.153,
+					"y": -4.772,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 4,
+				"\u003cAttribute\u003ek__BackingField": 0,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 3.682,
+					"y": -1.488,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					6
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 5,
+				"\u003cAttribute\u003ek__BackingField": 0,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 1.945,
+					"y": 0.731,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					6
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 6,
+				"\u003cAttribute\u003ek__BackingField": 4,
+				"\u003cFoodPlaceId\u003ek__BackingField": 0,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 2.85,
+					"y": -0.86,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					4,
+					5
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 10,
+				"\u003cAttribute\u003ek__BackingField": 17,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -6.4389997,
+					"y": 1.88,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 11,
+				"\u003cAttribute\u003ek__BackingField": 1,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -7.154,
+					"y": -0.869,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 12,
+				"\u003cAttribute\u003ek__BackingField": 1,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -10.173,
+					"y": -4.218,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 13,
+				"\u003cAttribute\u003ek__BackingField": 1,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -15.104,
+					"y": -4.31,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 14,
+				"\u003cAttribute\u003ek__BackingField": 1,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -11.867,
+					"y": -1.564,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					16
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 15,
+				"\u003cAttribute\u003ek__BackingField": 1,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -15.428,
+					"y": -0.552,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					16
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 16,
+				"\u003cAttribute\u003ek__BackingField": 5,
+				"\u003cFoodPlaceId\u003ek__BackingField": 10,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -13.130003,
+					"y": -0.9000001,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					14,
+					15
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 20,
+				"\u003cAttribute\u003ek__BackingField": 9,
+				"\u003cFoodPlaceId\u003ek__BackingField": -1,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 13.6,
+					"y": -5.37,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 21,
+				"\u003cAttribute\u003ek__BackingField": 9,
+				"\u003cFoodPlaceId\u003ek__BackingField": -1,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 9.3,
+					"y": -6.9,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 22,
+				"\u003cAttribute\u003ek__BackingField": 9,
+				"\u003cFoodPlaceId\u003ek__BackingField": -1,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 11.65,
+					"y": -3.17,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					24
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 23,
+				"\u003cAttribute\u003ek__BackingField": 9,
+				"\u003cFoodPlaceId\u003ek__BackingField": -1,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 14.5,
+					"y": -1.1,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					24
+				]
+			},
+			{
+				"\u003cId\u003ek__BackingField": 24,
+				"\u003cAttribute\u003ek__BackingField": 13,
+				"\u003cFoodPlaceId\u003ek__BackingField": -1,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 13.4,
+					"y": -1.09,
+					"z": 0
+				},
+				"\u003cCleanupPlaceIds\u003ek__BackingField": [
+					22,
+					23
+				]
+			}
+		]
+	}
+}

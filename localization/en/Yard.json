@@ -7,6 +7,7 @@
     "YardName5": "Western Style",
     "YardName6": "Sugary Style",
     "YardName7": "Cafe Style",
+    "YardName8": "Flower Garden",
     "YardGoodsName11": "Straw mat 1",
     "YardGoodsName12": "Straw mat 2",
     "YardGoodsName13": "Straw mat 3",
@@ -102,5 +103,17 @@
     "YardGoodsName733": "Furniture 3",
     "YardGoodsName741": "Rug 1",
     "YardGoodsName742": "Rug 2",
-    "YardGoodsName743": "Rug 3"
+    "YardGoodsName743": "Rug 3",
+    "YardGoodsName811": "Walkway and fence 1",
+    "YardGoodsName812": "Walkway and fence 2",
+    "YardGoodsName813": "Walkway and fence 3",
+    "YardGoodsName821": "Garden Style 1",
+    "YardGoodsName822": "Garden Style 2",
+    "YardGoodsName823": "Garden Style 3",
+    "YardGoodsName831": "Wall 1",
+    "YardGoodsName832": "Wall 2",
+    "YardGoodsName833": "Wall 3",
+    "YardGoodsName841": "Floor 1",
+    "YardGoodsName842": "Floor 2",
+    "YardGoodsName843": "Floor 3"
 }

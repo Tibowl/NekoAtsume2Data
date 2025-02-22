@@ -1372,5 +1372,197 @@
     ],
     "Silver": 5000,
     "Gold": 100
+  },
+  {
+    "Id": 811,
+    "YardIdInt": 8,
+    "SlotId": 1,
+    "Index": 1,
+    "BgPartNames": [
+      "Gate",
+      "Gate2"
+    ],
+    "SpriteNames": [
+      "03_c1_1",
+      "09_c1_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 812,
+    "YardIdInt": 8,
+    "SlotId": 1,
+    "Index": 2,
+    "BgPartNames": [
+      "Gate",
+      "Gate2"
+    ],
+    "SpriteNames": [
+      "03_c1_2",
+      "09_c1_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 813,
+    "YardIdInt": 8,
+    "SlotId": 1,
+    "Index": 3,
+    "BgPartNames": [
+      "Gate",
+      "Gate2"
+    ],
+    "SpriteNames": [
+      "03_c1_3",
+      "09_c1_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 821,
+    "YardIdInt": 8,
+    "SlotId": 2,
+    "Index": 1,
+    "BgPartNames": [
+      "Garden",
+      "GardenSnow",
+      "Garden2",
+      "Garden2Snow"
+    ],
+    "SpriteNames": [
+      "04_c2_1",
+      "04_c2_1_snow",
+      "17_c2_1",
+      "17_c2_1_snow"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 822,
+    "YardIdInt": 8,
+    "SlotId": 2,
+    "Index": 2,
+    "BgPartNames": [
+      "Garden",
+      "GardenSnow",
+      "Garden2",
+      "Garden2Snow"
+    ],
+    "SpriteNames": [
+      "04_c2_2",
+      "04_c2_2_snow",
+      "17_c2_2",
+      "17_c2_2_snow"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 823,
+    "YardIdInt": 8,
+    "SlotId": 2,
+    "Index": 3,
+    "BgPartNames": [
+      "Garden",
+      "GardenSnow",
+      "Garden2",
+      "Garden2Snow"
+    ],
+    "SpriteNames": [
+      "04_c2_3",
+      "04_c2_3_snow",
+      "17_c2_3",
+      "17_c2_3_snow"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 831,
+    "YardIdInt": 8,
+    "SlotId": 3,
+    "Index": 1,
+    "BgPartNames": [
+      "Wall"
+    ],
+    "SpriteNames": [
+      "11_c3_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 832,
+    "YardIdInt": 8,
+    "SlotId": 3,
+    "Index": 2,
+    "BgPartNames": [
+      "Wall"
+    ],
+    "SpriteNames": [
+      "11_c3_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 833,
+    "YardIdInt": 8,
+    "SlotId": 3,
+    "Index": 3,
+    "BgPartNames": [
+      "Wall"
+    ],
+    "SpriteNames": [
+      "11_c3_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 841,
+    "YardIdInt": 8,
+    "SlotId": 4,
+    "Index": 1,
+    "BgPartNames": [
+      "Floor"
+    ],
+    "SpriteNames": [
+      "12_c4_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 842,
+    "YardIdInt": 8,
+    "SlotId": 4,
+    "Index": 2,
+    "BgPartNames": [
+      "Floor"
+    ],
+    "SpriteNames": [
+      "12_c4_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 843,
+    "YardIdInt": 8,
+    "SlotId": 4,
+    "Index": 3,
+    "BgPartNames": [
+      "Floor"
+    ],
+    "SpriteNames": [
+      "12_c4_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
   }
 ]

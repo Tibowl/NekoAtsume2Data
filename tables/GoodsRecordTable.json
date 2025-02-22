@@ -822,7 +822,7 @@
   {
     "Id": 149,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_kinoko_1"
@@ -851,7 +851,7 @@
   {
     "Id": 150,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_kinoko_2"
@@ -880,7 +880,7 @@
   {
     "Id": 151,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_kinoko_3"
@@ -1289,7 +1289,7 @@
   {
     "Id": 205,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_tart_chocolate"
@@ -1580,7 +1580,7 @@
   {
     "Id": 240,
     "IsNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "05tunnel_corne"
@@ -2726,6 +2726,94 @@
     "Silver": 200,
     "Gold": 0,
     "RepairSilver": 35,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 316,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_kinsai"
+    ],
+    "AnimeXmls": [
+      "03cushion_kinsai"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 153,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2860,
+    "UsedToughness": -1,
+    "RepairPattern": 3,
+    "Silver": 0,
+    "Gold": 50,
+    "RepairSilver": 312,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 317,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_balloon"
+    ],
+    "AnimeXmls": [
+      "06jarashi_balloon",
+      "06jarashi_balloon_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrderInShop": 312,
+    "DisplayOrderInTrade": 0,
+    "Category": 1024,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": 0,
+    "RepairSilver": -1,
+    "StampCard": 0,
+    "SalesRoute": 0,
+    "WarningKey": null
+  },
+  {
+    "Id": 318,
+    "IsNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_koban"
+    ],
+    "AnimeXmls": [
+      "03cushion_koban"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrderInShop": 152,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1980,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 0,
+    "Gold": 22,
+    "RepairSilver": 70,
     "StampCard": 0,
     "SalesRoute": 0,
     "WarningKey": null
