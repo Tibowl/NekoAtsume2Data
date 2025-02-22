@@ -233,6 +233,9 @@
     "GoodsName313": "Reindeer Kokeshi",
     "GoodsName314": "Kick Toy (Snake)",
     "GoodsName315": "Kick Toy (Tsuchinoko)",
+    "GoodsName316": "Kinsai Mat",
+    "GoodsName317": "Kitty Balloon",
+    "GoodsName318": "Koban Mat",
     "GoodsShop1": "　",
     "GoodsShop3": "A sumptuous canned combo of fresh tuna,\nbonito, and sardines. Sure to boost your\npowers of cat attraction!",
     "GoodsShop6": "Sashimi sliced from only the freshest\nfish, with the wasabi and garnish removed.\nFor cats with expensive tastes.",
@@ -463,6 +466,9 @@
     "GoodsShop313": "A playful vase crafted by\na ceramic artist, with a design\nthat makes the heart dance.",
     "GoodsShop314": "A stuffed animal that’s more fun to kick\nthan hug thanks to its long, skinny body.",
     "GoodsShop315": "A stuffed animal that’s more fun to kick\nthan hug thanks to its long, skinny body.",
+    "GoodsShop316": "A masterpiece by an artisan using\ntraditional 'gold decoration,'\nelegantly adorning the cat.",
+    "GoodsShop317": "These adorable cat-shaped balloons are\nthe perfect decoration for a party!",
+    "GoodsShop318": "A mat in the shape of an old\nJapanese gold coin.\nIt looks solid but is soft.",
     "GoodsYard1": "Hardly a fancy feast, but it tastes okay\nfor cheap chow. Guaranteed to contain a\nminimum of byproducts and fillers.",
     "GoodsYard3": "As if by magic, cats seem to appear\nfrom thin air as soon as they hear\nthe pull-top pop.",
     "GoodsYard6": "Not for everyone, but the smell is hard\nto resist! Beloved by certain rare cats.",
@@ -686,5 +692,8 @@
     "GoodsYard313": "A uniquely shaped ceramic vase.\nWhile its practicality as a vase is limited,\nit sparks curiosity and expectation.",
     "GoodsYard314": "A snake-shaped toy that triggers a\ncat's batting instincts.",
     "GoodsYard315": "A tsuchinoko-shaped toy that triggers a\ncat's batting instincts.",
+    "GoodsYard316": "A beautiful, elegant mat with a cute\ncat depicted in gold decoration,\nsparkling with glitter.",
+    "GoodsYard317": "Cat-shaped balloons.\nUnexpectedly durable.",
+    "GoodsYard318": "This combination of mat and\ncat is said to be reminiscent of a\nJapanese proverb.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

@@ -34,6 +34,9 @@ public enum GoodsId
 	public const GoodsId SakuraCushion = 129;
 	public const GoodsId ShirayukiCushion = 131;
 	public const GoodsId CushionYellow = 141;
+	public const GoodsId MushroomCushionRed = 149;
+	public const GoodsId MushroomCushionBlue = 150;
+	public const GoodsId MushroomCushionGreen = 151;
 	public const GoodsId FluffyBedWhite = 152;
 	public const GoodsId FluffyCushion = 170;
 	public const GoodsId UmeCushionRed = 171;
@@ -44,10 +47,13 @@ public enum GoodsId
 	public const GoodsId CatCushion = 186;
 	public const GoodsId PlumCocoon = 188;
 	public const GoodsId EggBedPink = 195;
+	public const GoodsId EggBedNight = 196;
 	public const GoodsId LuxuryCushion = 197;
 	public const GoodsId BeadedCushion = 198;
 	public const GoodsId BigCushion = 199;
 	public const GoodsId BigCushionWhite = 200;
+	public const GoodsId LuxuryHammock = 204;
+	public const GoodsId ChocolateTartBed = 205;
 	public const GoodsId BlizzardTent = 210;
 	public const GoodsId PyramidTent = 211;
 	public const GoodsId BomBomSocks = 216;
@@ -61,6 +67,7 @@ public enum GoodsId
 	public const GoodsId TunnelI = 232;
 	public const GoodsId TunnelU = 233;
 	public const GoodsId TunnelT = 234;
+	public const GoodsId ChocoCoronetTunnel = 240;
 	public const GoodsId Catnip = 244;
 	public const GoodsId FeatherNappy = 245;
 	public const GoodsId Mouse = 249;
