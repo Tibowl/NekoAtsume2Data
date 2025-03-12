@@ -63,6 +63,8 @@ App.Const.Item
 App.Const.Mail
 App.Const.Url
 App.ContentChanger
+App.CutHandle
+App.CutOutPanel
 App.DataVersionExtension
 App.DatabaseBuilder
 App.DateTimeFormatterForJson
@@ -81,11 +83,11 @@ App.DropdownExtensions.DropdownExtensions
 App.DropdownUtil
 App.EnumDictionary
 App.ExternalShare
-App.FNVHash
 App.FavoritesList
 App.FileReadWriteTest
 App.FingerHistory
 App.FishView
+App.FixedTime
 App.Flick
 App.FlyerLottery
 App.FlyerLottery2
@@ -115,9 +117,6 @@ App.GoldFishView
 App.GoodsAnime
 App.GoodsAnime2
 App.GoodsAnimeIdUtil
-App.GoodsCategorySet
-App.GoodsCategoryUnitExtensions
-App.GoodsCategoryUnitUtil
 App.GoodsCategoryUtil
 App.GoodsCell
 App.GoodsFilter
@@ -158,6 +157,7 @@ App.IShopItem
 App.IShopItemExtentions
 App.ISoundSettings
 App.IStopwatch
+App.ITimeWeather
 App.IUserCameraSettings
 App.IWeather
 App.IdSelectAttribute
@@ -179,6 +179,8 @@ App.LabelSettingContent
 App.LangSelect
 App.LanguageCodeExtension
 App.LayerIdSelectAttribute
+App.LayerList
+App.LayerListHandle
 App.LayoutGroupExtensions
 App.LayoutGroupUtil
 App.LetterRecord
@@ -244,6 +246,8 @@ App.NekonoteMenuButton
 App.NekonotePrecautionPanel
 App.NekonoteScene
 App.NekonoteSelectPanel
+App.NewDataPanel
+App.NewDataPreviewPanel
 App.NewsOldScene
 App.NewsScene
 App.NewsSceneTypeUtil
@@ -256,7 +260,9 @@ App.OkimonoCustomizeSlot
 App.OkimonoSelect
 App.OkimonoSelectCell
 App.OldGoodsFilterWindow
+App.OldShopFilterWindow
 App.OptionMenu
+App.OptionMenuLayout
 App.OrthographicCameraRangeGizmo
 App.OtherCat
 App.OtherCatAnimeEnv
@@ -363,6 +369,11 @@ App.Save.ReceiptMessageString
 App.Save.ReceiptMessageWallpaper
 App.Save.SaveData
 App.Save.SavedSettings
+App.Save.SealBookData
+App.Save.SealData
+App.Save.SealDecorationData
+App.Save.SealItemData
+App.Save.SealPhotoData
 App.Save.TimeData
 App.Save.TravelData
 App.Save.Wallet
@@ -377,6 +388,12 @@ App.Saving
 App.SceneLoader
 App.ScrollView
 App.ScrollbarChecker
+App.SealBookScene
+App.SealCreator
+App.SealLayer
+App.SealLayerHandle
+App.SealShopPanel
+App.ServerRequestStopwatch
 App.ServerTime
 App.ServerTimeSourceListUtil
 App.ServerTimeSourceUtil
@@ -453,7 +470,6 @@ App.TextUtil
 App.Texture2dCache
 App.TimeFormatString
 App.TimeUtil
-App.TimeWeather
 App.ToggleExtensions.ToggleExtensions
 App.ToggleUtil
 App.TrackingConfigScene
@@ -594,6 +610,7 @@ HpLib.EnumStates
 HpLib.EnumUtil
 HpLib.EnumerableExtensions.EnumerableExtensions
 HpLib.Enumeration
+HpLib.ErrorTime
 HpLib.Extra.ExFileUtil
 HpLib.Extra.FileManager
 HpLib.Extra.NativeCallback
@@ -750,6 +767,7 @@ MyDebug.DebugTapEffect
 MyDebug.DebugTimeScreen
 MyDebug.DebugTravelDataPanel
 MyDebug.DebugWallpaperScreen
+MyDebug.DebugWeatherScreen
 MyDebug.Filer
 MyDebug.GoodsAnimeAddressChecker
 MyDebug.GridButtons

@@ -14,4 +14,5 @@ public enum GoodsStatusFilter
 	public const GoodsStatusFilter Break = 32;
 	public const GoodsStatusFilter Repair = 64;
 	public const GoodsStatusFilter NewArrival = 128;
+	public const GoodsStatusFilter LimitedMonth = 256;
 }
