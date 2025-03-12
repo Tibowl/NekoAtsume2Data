@@ -4,23 +4,23 @@
     "LocalizedItemImage": "00niwasaki_kakuchou",
     "Silver": 5000,
     "Gold": 180,
-    "StampCard": 0,
+    "StampCard": -1,
     "DisplayOrderInShop": 10000,
     "DisplayOrderInTrade": 0
   },
   {
     "Id": 2,
     "LocalizedItemImage": null,
-    "Silver": 0,
+    "Silver": -1,
     "Gold": 10,
-    "StampCard": 0,
+    "StampCard": -1,
     "DisplayOrderInShop": 80,
     "DisplayOrderInTrade": 0
   },
   {
     "Id": 103,
     "LocalizedItemImage": null,
-    "Silver": 0,
+    "Silver": -1,
     "Gold": 7,
     "StampCard": 1,
     "DisplayOrderInShop": 0,
@@ -29,7 +29,7 @@
   {
     "Id": 104,
     "LocalizedItemImage": null,
-    "Silver": 0,
+    "Silver": -1,
     "Gold": 17,
     "StampCard": 2,
     "DisplayOrderInShop": 0,
@@ -38,7 +38,7 @@
   {
     "Id": 105,
     "LocalizedItemImage": null,
-    "Silver": 0,
+    "Silver": -1,
     "Gold": 30,
     "StampCard": 3,
     "DisplayOrderInShop": 0,
@@ -47,9 +47,9 @@
   {
     "Id": 106,
     "LocalizedItemImage": null,
-    "Silver": 0,
+    "Silver": -1,
     "Gold": 12,
-    "StampCard": 0,
+    "StampCard": -1,
     "DisplayOrderInShop": 0,
     "DisplayOrderInTrade": 0
   }
