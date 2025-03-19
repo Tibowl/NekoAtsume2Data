@@ -272,6 +272,7 @@ App.OtherPlaceConfigSync
 App.OtherPlaceConfigs
 App.PageView
 App.Panel
+App.Panel2
 App.PanelStack
 App.PanelUtil
 App.PanoramaPhotoSavePanel
@@ -676,6 +677,8 @@ HpLib.ObjectDestructionList
 HpLib.ObjectExtensions.ObjectExtensions
 HpLib.Offscreen
 HpLib.OneTimeAction
+HpLib.PersistentInt
+HpLib.PersistentJson
 HpLib.PinchInOut
 HpLib.PinchInOut2
 HpLib.Pos2

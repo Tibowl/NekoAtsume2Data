@@ -37,4 +37,5 @@ public enum Tag
 	public const Tag MyInput = 30;
 	public const Tag PopupDialog = 31;
 	public const Tag ServerTimeUpdater = 32;
+	public const Tag UiPanel2 = 33;
 }
