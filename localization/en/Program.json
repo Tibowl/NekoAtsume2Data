@@ -44,6 +44,8 @@
     "BulkBuyConfirm": "Purchase a 【{0}】\n{1}-pack?",
     "SelectFish": "Select the fish to use.",
     "GoldFishHistory": "GoldFish {0}",
+    "LimitedTime": "en期間限定！",
+    "LimitedTime2": "＜en期間限定！{0}月末まで＞",
     "TidyupDecide": "Save current state\nand finish tidying up?",
     "TidyupCancel": "Stop tidying up?\n* It will return to the\n   state before tidying up.",
     "TidyupReset": "Would you like to return\nthe tidied goodie?",

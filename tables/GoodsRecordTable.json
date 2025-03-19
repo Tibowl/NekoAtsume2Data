@@ -723,7 +723,7 @@
   {
     "Id": 123,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "02danbo_choochoo"
@@ -907,6 +907,37 @@
     "WarningKey": null
   },
   {
+    "Id": 148,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_yotsuba"
+    ],
+    "AnimeXmls": [
+      "03cushion_yotsuba"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 154,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1400,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 120,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
     "Id": 149,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -1025,6 +1056,37 @@
     "Silver": 160,
     "Gold": -1,
     "RepairSilver": 35,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 160,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12cube_tree"
+    ],
+    "AnimeXmls": [
+      "12cube_tree"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 171,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 5500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 400,
+    "Gold": -1,
+    "RepairSilver": 50,
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
@@ -1187,6 +1249,38 @@
     "WarningKey": null
   },
   {
+    "Id": 179,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_pancake"
+    ],
+    "AnimeXmls": [
+      "03cushion_pancake",
+      "03cushion_pancake_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 195,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 3000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 15,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
     "Id": 183,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -1253,7 +1347,7 @@
   {
     "Id": 189,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03felt_dome_ki"
@@ -1286,7 +1380,7 @@
   {
     "Id": 190,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03felt_dome_mi"
@@ -1435,6 +1529,68 @@
     "Silver": -1,
     "Gold": 10,
     "RepairSilver": 50,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 201,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_1"
+    ],
+    "AnimeXmls": [
+      "12hammock_1"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 223,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1550,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 202,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_2"
+    ],
+    "AnimeXmls": [
+      "12hammock_2"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 224,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1550,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": -1,
+    "RepairSilver": 35,
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,

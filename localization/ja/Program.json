@@ -45,6 +45,8 @@
     "BulkBuyConfirm": "【{0}】{1}個セットを\n購入しますか？",
     "SelectFish": "使うにぼしを選んでください",
     "GoldFishHistory": "金にぼし {0}",
+    "LimitedTime": "期間限定！",
+    "LimitedTime2": "＜期間限定！{0}月末まで＞",
     "TidyupDecide": "現在の状態を保存して\nおかたづけを終わりますか？",
     "TidyupCancel": "おかたづけをやめますか？\n※おかたづけ前の状態に戻ります",
     "TidyupReset": "おかたづけしたグッズを\n元に戻しますか？",
