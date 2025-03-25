@@ -92,6 +92,16 @@
 				"\u003cState\u003ek__BackingField": 0
 			},
 			{
+				"\u003cId\u003ek__BackingField": 32,
+				"\u003cAttribute\u003ek__BackingField": 8192,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": -0.17,
+					"y": 0.02,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
 				"\u003cId\u003ek__BackingField": 100,
 				"\u003cAttribute\u003ek__BackingField": 1024,
 				"\u003cPosition\u003ek__BackingField": {

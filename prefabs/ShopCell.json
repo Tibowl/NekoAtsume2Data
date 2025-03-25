@@ -15,7 +15,7 @@
         5,
         6,
         7,
-        8,
+        13,
         14
       ]
     },
@@ -40,16 +40,13 @@
       "name": "New"
     },
     {
-      "name": "Text"
-    },
-    {
       "name": "LimitedTime",
       "children": [
+        8,
         9,
         10,
         11,
-        12,
-        13
+        12
       ]
     },
     {
@@ -66,6 +63,9 @@
     },
     {
       "name": "LimitedTime"
+    },
+    {
+      "name": "Text"
     },
     {
       "name": "Stamp"
