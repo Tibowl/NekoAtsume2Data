@@ -2067,7 +2067,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2125,7 +2125,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2183,7 +2183,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2241,7 +2241,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2298,8 +2298,8 @@
     "GoodsAnimeId2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "Gomenne": false,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2330,7 +2330,7 @@
     "Charm": 100,
     "Niboshi": 100,
     "Gomenne": false,
-    "Grooming": false,
+    "Grooming": true,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2356,8 +2356,8 @@
     "GoodsAnimeId2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": true,
-    "Grooming": true,
+    "Gomenne": false,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -2388,7 +2388,7 @@
     "Charm": 100,
     "Niboshi": 80,
     "Gomenne": false,
-    "Grooming": false,
+    "Grooming": true,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
@@ -9274,6 +9274,99 @@
     "Grooming": true,
     "Z": 0.0,
     "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3190,
+    "ItemId": 319,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3200,
+    "ItemId": 320,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3201,
+    "ItemId": 320,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "128"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 1.0,
+    "ShouldOmitMyneko": true
   },
   {
     "Id": 50000,

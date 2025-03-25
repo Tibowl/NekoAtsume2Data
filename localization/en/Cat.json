@@ -72,6 +72,7 @@
     "CatName125": "Red Purrhood",
     "CatName126": "Vago",
     "CatName127": "Purrin",
+    "CatName128": "Sunny",
     "CatName701": "Myneko",
     "CatName702": "Myneko",
     "CatName703": "Myneko",
@@ -148,6 +149,7 @@
     "CatColor125": "Hood",
     "CatColor126": "Sandogasa",
     "CatColor127": "Santa Suit",
+    "CatColor128": "Egg shell",
     "CatColor701": "Magical",
     "CatColor702": "Fantasy",
     "CatColor703": "Transformable",
@@ -224,6 +226,7 @@
     "CatChar125": "Pure",
     "CatChar126": "Drifting",
     "CatChar127": "Compassionate",
+    "CatChar128": "Humorous",
     "CatPower701": "Unknown",
     "CatPower702": "Inestimable",
     "CatPower703": "Mysterious",
@@ -300,6 +303,7 @@
     "TakaraName71": "Thin Twig",
     "TakaraName72": "Tattered letter",
     "TakaraName73": "Bracelet",
+    "TakaraName74": "Colorful Egg",
     "TakaraComment1": "A small collar with a flower\nprint pattern.",
     "TakaraComment2": "A soft brush for fur.",
     "TakaraComment3": "Something to wear at evening\nevents.",
@@ -373,5 +377,6 @@
     "TakaraComment70": "A gold badge given to\nmembers of Cat's Club.",
     "TakaraComment71": "A thin branch with leaves, the\ntip has slightly changed color.",
     "TakaraComment72": "The letter is worn and crumpled\nfrom being opened many times.",
-    "TakaraComment73": "A bracelet with beautiful stones."
+    "TakaraComment73": "A bracelet with beautiful stones.",
+    "TakaraComment74": "An egg with a painted floral pattern."
 }

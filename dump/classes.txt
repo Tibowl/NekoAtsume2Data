@@ -68,7 +68,7 @@ App.CutOutPanel
 App.DataVersionExtension
 App.DatabaseBuilder
 App.DateTimeFormatterForJson
-App.DebugTimePanel
+App.DebugTimeEditor
 App.DebugTimeSlider
 App.DeepLink
 App.DefaultToggleGroup

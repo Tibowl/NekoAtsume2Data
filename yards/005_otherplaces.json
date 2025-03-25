@@ -91,6 +91,16 @@
       "<State>k__BackingField": 0
     },
     {
+      "<Id>k__BackingField": 32,
+      "<Attribute>k__BackingField": 8192,
+      "<Position>k__BackingField": {
+        "x": -8.52,
+        "y": 1.36,
+        "z": 0.0
+      },
+      "<State>k__BackingField": 0
+    },
+    {
       "<Id>k__BackingField": 100,
       "<Attribute>k__BackingField": 1024,
       "<Position>k__BackingField": {

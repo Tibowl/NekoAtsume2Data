@@ -909,7 +909,7 @@
   {
     "Id": 148,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_yotsuba"
@@ -1064,7 +1064,7 @@
   {
     "Id": 160,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12cube_tree"
@@ -1251,7 +1251,7 @@
   {
     "Id": 179,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_pancake"
@@ -1537,7 +1537,7 @@
   {
     "Id": 201,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_1"
@@ -1568,7 +1568,7 @@
   {
     "Id": 202,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_2"
@@ -3261,6 +3261,80 @@
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 319,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03narikiri_usagi"
+    ],
+    "AnimeXmls": [
+      "03narikiri_usagi",
+      "03narikiri_usagi_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrder": 288,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "WarningKey": null
+  },
+  {
+    "Id": 320,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03narikiri_usagidx"
+    ],
+    "AnimeXmls": [
+      "03narikiri_usagidx",
+      "03narikiri_usagidx_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 289,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 3660,
+    "UsedToughness": -1,
+    "RepairPattern": 2,
+    "Silver": -1,
+    "Gold": 40,
+    "RepairSilver": 100,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
     "WarningKey": null
   },
   {

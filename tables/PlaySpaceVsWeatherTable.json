@@ -2085,5 +2085,31 @@
   {
     "Id": 3180,
     "Dict": {}
+  },
+  {
+    "Id": 3190,
+    "Dict": {
+      "Spring": 40,
+      "Summer": -10,
+      "Autum": -10,
+      "Winter": -10,
+      "Snow": -70,
+      "Burning": -70
+    }
+  },
+  {
+    "Id": 3200,
+    "Dict": {
+      "Spring": 40,
+      "Summer": -10,
+      "Autum": -10,
+      "Winter": -10,
+      "Snow": -70,
+      "Burning": -70
+    }
+  },
+  {
+    "Id": 3201,
+    "Dict": {}
   }
 ]
