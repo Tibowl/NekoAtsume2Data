@@ -2329,7 +2329,7 @@
     "GoodsAnimeId2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
+    "Gomenne": true,
     "Grooming": true,
     "Z": 0.0,
     "ShouldOmitMyneko": false
@@ -2387,7 +2387,7 @@
     "GoodsAnimeId2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
+    "Gomenne": true,
     "Grooming": true,
     "Z": 0.0,
     "ShouldOmitMyneko": false
