@@ -17,7 +17,7 @@ App.AppVersion
 App.AppendLabelSelector
 App.AssetAddress
 App.Att
-App.AttStatusUtil
+App.Att.PlayerPrefs
 App.AutoBackup
 App.AutoSaver
 App.BackScroller
@@ -61,6 +61,8 @@ App.Const
 App.Const.Gift
 App.Const.Item
 App.Const.Mail
+App.Const.Time
+App.Const.Timeout
 App.Const.Url
 App.ContentChanger
 App.CutHandle
@@ -177,7 +179,6 @@ App.LabelPhotoList
 App.LabelSetting
 App.LabelSettingContent
 App.LangSelect
-App.LanguageCodeExtension
 App.LayerIdSelectAttribute
 App.LayerList
 App.LayerListHandle
@@ -441,7 +442,6 @@ App.Support
 App.SupportSetting
 App.SupportSetting.Data
 App.SwapMode
-App.SystemLanguageExtension
 App.SystemStopwatch
 App.Tables.CatRecordTable
 App.Tables.CatVsCatTable
@@ -762,7 +762,7 @@ MyDebug.DebugMenu
 MyDebug.DebugMoneyScreen
 MyDebug.DebugPhotoSavePanel
 MyDebug.DebugRemodelScreen
-MyDebug.DebugSaveScreen
+MyDebug.DebugSaveDataScreen
 MyDebug.DebugSceneScreen
 MyDebug.DebugServerTimeScreen
 MyDebug.DebugSoundPanel

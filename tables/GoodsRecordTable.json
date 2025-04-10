@@ -566,6 +566,37 @@
     "WarningKey": null
   },
   {
+    "Id": 117,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "02danbo_ringo"
+    ],
+    "AnimeXmls": [
+      "02danbo_ringo"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 2
+    },
+    "DisplayOrder": 118,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 4,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 90,
+    "Gold": -1,
+    "RepairSilver": 10,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
     "Id": 118,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -1087,6 +1118,37 @@
     "Silver": 400,
     "Gold": -1,
     "RepairSilver": 50,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 161,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12cube_bamboo"
+    ],
+    "AnimeXmls": [
+      "12cube_bamboo"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrder": 172,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 5500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 380,
+    "Gold": -1,
+    "RepairSilver": 60,
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
@@ -1659,6 +1721,37 @@
     "WarningKey": null
   },
   {
+    "Id": 206,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_tart_egg"
+    ],
+    "AnimeXmls": [
+      "03cushion_tart_egg"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 228,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1900,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 290,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
     "Id": 211,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -1684,6 +1777,38 @@
     "Silver": 190,
     "Gold": -1,
     "RepairSilver": 35,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 214,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bambooshoot"
+    ],
+    "AnimeXmls": [
+      "03cushion_bambooshoot",
+      "03cushion_bambooshoot_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrder": 243,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2750,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 23,
+    "RepairSilver": 50,
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
@@ -3266,7 +3391,7 @@
   {
     "Id": 319,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03narikiri_usagi"
@@ -3303,7 +3428,7 @@
   {
     "Id": 320,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03narikiri_usagidx"
