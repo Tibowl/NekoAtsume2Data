@@ -107,7 +107,6 @@ App.GameNekonoteState
 App.GameTime
 App.GameWeather
 App.GardenButton
-App.GenerateMynekoTexture
 App.GiftButton
 App.GiftCell
 App.GiftContent
@@ -163,7 +162,6 @@ App.ITimeWeather
 App.IUserCameraSettings
 App.IWeather
 App.IdSelectAttribute
-App.IllustScene
 App.ImageSwitcher
 App.ImageUtil
 App.ImmutableBuilder
@@ -174,6 +172,7 @@ App.Int32FormatterForJson
 App.InvitationWindow
 App.JohoyaPresent
 App.KeyInvalidator
+App.LabelEditWindow
 App.LabelNameCell
 App.LabelPhotoList
 App.LabelSetting
@@ -226,7 +225,7 @@ App.MynekoBookDetail
 App.MynekoBookList
 App.MynekoBookListCell
 App.MynekoCustomizeScene
-App.MynekoIllustScene
+App.MynekoNoteScene
 App.MynekoParameter
 App.MynekoPartsIdUtil
 App.MynekoPartsKindUtil
@@ -237,6 +236,7 @@ App.MynekoPartsRecordExtension
 App.MynekoPartsSelector
 App.MynekoPartsSlotTypeUtil
 App.MynekoPartsUtil
+App.MynekoTextureGenerator
 App.NekonoteConfirmationPanel
 App.NekonoteCourseUtil
 App.NekonoteDetailPanel
@@ -254,6 +254,7 @@ App.NewsScene
 App.NewsSceneTypeUtil
 App.NiboshiToggle
 App.NormalFishView
+App.NoteScene
 App.NtpTime
 App.NtpTime.NtpPacket
 App.OkimonoCustomize
