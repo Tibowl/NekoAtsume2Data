@@ -280,9 +280,40 @@
     "WarningKey": null
   },
   {
-    "Id": 104,
+    "Id": 102,
     "IsForceNotForSale": false,
     "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_gum_ki"
+    ],
+    "AnimeXmls": [
+      "01ball_gum_ki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 103,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 60,
+    "Gold": -1,
+    "RepairSilver": 10,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 104,
+    "IsForceNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_gum_suika"
@@ -1785,7 +1816,7 @@
   {
     "Id": 207,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "03cushion_chair"
@@ -1871,6 +1902,38 @@
     "Silver": -1,
     "Gold": 23,
     "RepairSilver": 50,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 215,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_kutusita"
+    ],
+    "AnimeXmls": [
+      "12hammock_kutusita",
+      "12hammock_kutusita_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 245,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 384,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 110,
+    "Gold": -1,
+    "RepairSilver": 30,
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
@@ -2317,6 +2380,38 @@
     "WarningKey": null
   },
   {
+    "Id": 252,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_kerigurumi_skn"
+    ],
+    "AnimeXmls": [
+      "06jarashi_kerigurumi_skn",
+      "06jarashi_kerigurumi_skn_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrder": 301,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 170,
+    "Gold": -1,
+    "RepairSilver": 25,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
     "Id": 256,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -2352,7 +2447,7 @@
   {
     "Id": 257,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_butterfly"
@@ -2583,7 +2678,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 333,
+    "DisplayOrder": 334,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -2614,7 +2709,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 334,
+    "DisplayOrder": 335,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -2645,7 +2740,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 336,
+    "DisplayOrder": 337,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2676,7 +2771,7 @@
     "Mood": {
       "Data": 17
     },
-    "DisplayOrder": 337,
+    "DisplayOrder": 338,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 384,
@@ -2708,7 +2803,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 340,
+    "DisplayOrder": 341,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2726,7 +2821,7 @@
   {
     "Id": 282,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_tsubo"
@@ -2739,7 +2834,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 341,
+    "DisplayOrder": 342,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2770,7 +2865,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 349,
+    "DisplayOrder": 350,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2801,7 +2896,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrder": 350,
+    "DisplayOrder": 351,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2832,7 +2927,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 351,
+    "DisplayOrder": 352,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2863,7 +2958,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 352,
+    "DisplayOrder": 353,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2895,7 +2990,7 @@
     "Mood": {
       "Data": 18
     },
-    "DisplayOrder": 362,
+    "DisplayOrder": 363,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1088,
@@ -2926,7 +3021,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrder": 367,
+    "DisplayOrder": 368,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2957,7 +3052,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrder": 366,
+    "DisplayOrder": 367,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -2998,7 +3093,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 368,
+    "DisplayOrder": 369,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1280,
@@ -3029,7 +3124,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 371,
+    "DisplayOrder": 372,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 8,
@@ -3122,7 +3217,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 375,
+    "DisplayOrder": 376,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
@@ -3154,7 +3249,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrder": 369,
+    "DisplayOrder": 370,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 1,
     "Category": 1280,
@@ -3216,7 +3311,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrder": 353,
+    "DisplayOrder": 354,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -3247,7 +3342,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrder": 354,
+    "DisplayOrder": 355,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -3278,7 +3373,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 355,
+    "DisplayOrder": 356,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -3309,7 +3404,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 347,
+    "DisplayOrder": 348,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -3340,7 +3435,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 348,
+    "DisplayOrder": 349,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -3585,6 +3680,37 @@
       5,
       6
     ],
+    "WarningKey": null
+  },
+  {
+    "Id": 321,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_ecobag_i"
+    ],
+    "AnimeXmls": [
+      "07fukuro_ecobag_i"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 333,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 3900,
+    "UsedToughness": -1,
+    "RepairPattern": 2,
+    "Silver": 50,
+    "Gold": -1,
+    "RepairSilver": 25,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
     "WarningKey": null
   },
   {
