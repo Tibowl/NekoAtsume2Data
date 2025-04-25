@@ -172,11 +172,11 @@ App.Int32FormatterForJson
 App.InvitationWindow
 App.JohoyaPresent
 App.KeyInvalidator
+App.LabelEditListCell
 App.LabelEditWindow
 App.LabelNameCell
 App.LabelPhotoList
 App.LabelSetting
-App.LabelSettingContent
 App.LangSelect
 App.LayerIdSelectAttribute
 App.LayerList
@@ -620,6 +620,7 @@ HpLib.Extra.RendererUtil
 HpLib.Extra.RxUtil
 HpLib.Extra.TextureUtil
 HpLib.Extra.TextureUtil.ActiveRenderTextureScope
+HpLib.Extra.TextureUtil.TemporaryActiveRenderTextureScope
 HpLib.Extra.TextureUtil.TemporaryRenderTexture
 HpLib.Extra.UniTaskUtil
 HpLib.FileUtil
