@@ -242,6 +242,7 @@
     "PlayerNgWord": "Cannot send the invitation\ndue to inappropriate words\nin the player name.",
     "MynekoNgWord": "Myneko's name contains\ninappropriate words､ so the\ndefault name will be shown.",
     "OdekakeShareText": "Visit my yard! → {0}\nDon't have the app? Click here → {1}\n#NekoAtsume #NekoAtsume2",
+    "NoFavorite": "No favorite",
     "OkimonoDialog": "A cute Cat Ornament\nthat's easy to customize.",
     "MynekoEquipDialog1": "Remove\n{0}?",
     "MynekoEquipDialog2": "It will look like this.\nIs that okay?",

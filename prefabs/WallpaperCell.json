@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "name": "WallpaperCell",
+      "children": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "PriceText"
+    },
+    {
+      "name": "BoughtStamp"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
