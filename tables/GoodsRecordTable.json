@@ -282,7 +282,7 @@
   {
     "Id": 102,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_gum_ki"
@@ -963,6 +963,99 @@
     "Silver": 220,
     "Gold": -1,
     "RepairSilver": 30,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 138,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_hunwari01"
+    ],
+    "AnimeXmls": [
+      "03cushion_hunwari01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 142,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": -1,
+    "RepairSilver": 15,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 139,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_hunwari02"
+    ],
+    "AnimeXmls": [
+      "03cushion_hunwari02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 143,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": -1,
+    "RepairSilver": 15,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 140,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_hunwari03"
+    ],
+    "AnimeXmls": [
+      "03cushion_hunwari03"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 144,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": -1,
+    "RepairSilver": 15,
     "StampCard": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
@@ -1910,7 +2003,7 @@
   {
     "Id": 215,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_kutusita"
@@ -2382,7 +2475,7 @@
   {
     "Id": 252,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_skn"
@@ -3685,7 +3778,7 @@
   {
     "Id": 321,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_ecobag_i"

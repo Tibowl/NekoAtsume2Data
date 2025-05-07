@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "name": "DebugTimeSlider",
+      "children": [
+        1,
+        2,
+        3,
+        9,
+        11
+      ]
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Slider",
+      "children": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "name": "Background"
+    },
+    {
+      "name": "Fill Area",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Fill"
+    },
+    {
+      "name": "Handle Slide Area",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Handle"
+    },
+    {
+      "name": "Minus",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    },
+    {
+      "name": "Plus",
+      "children": [
+        12
+      ]
+    },
+    {
+      "name": "Text (TMP)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

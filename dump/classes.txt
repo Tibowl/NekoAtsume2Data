@@ -67,7 +67,6 @@ App.Const.Url
 App.ContentChanger
 App.CutHandle
 App.CutOutPanel
-App.DataVersionExtension
 App.DatabaseBuilder
 App.DateTimeFormatterForJson
 App.DebugTimeEditor
@@ -249,9 +248,7 @@ App.NekonoteScene
 App.NekonoteSelectPanel
 App.NewDataPanel
 App.NewDataPreviewPanel
-App.NewsOldScene
 App.NewsScene
-App.NewsSceneTypeUtil
 App.NiboshiToggle
 App.NormalFishView
 App.NoteScene
@@ -661,7 +658,7 @@ HpLib.LocalizedStringExtensions.LocalizedStringEventExtensions
 HpLib.LocalizedStringExtensions.LocalizedStringExtensions
 HpLib.LocalizedStringExtensions.StringLocalizeExtensions
 HpLib.Log
-HpLib.LogDisabling
+HpLib.Log.DisableScope
 HpLib.LogFilter
 HpLib.LoopIterator
 HpLib.MaterialExtensions.MaterialExtensions
@@ -692,6 +689,7 @@ HpLib.RectExtensions.RectExtensions
 HpLib.RegularSingletonInstanciator
 HpLib.ResistanceEnumStates
 HpLib.ResourceUtil
+HpLib.ScreenUnitConverter
 HpLib.ScreenUtil
 HpLib.SerializableKeyValuePair
 HpLib.SerializableValueTuple
@@ -737,7 +735,8 @@ HpLib.UnlimitedQueue
 HpLib.UnlimitedStack
 HpLib.Util
 HpLib.ValueWithSave
-HpLib.VectorExtensions.VectorExtensions
+HpLib.VectorExtensions.Vector2Extensions
+HpLib.VectorExtensions.Vector3Extensions
 HpLib.VectorUtil
 HpLib.WithIndex
 HpLib.Xorshift
