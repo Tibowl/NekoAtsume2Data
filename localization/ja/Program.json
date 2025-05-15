@@ -118,7 +118,7 @@
     "WallBuy": "この【かべがみ】を\n購入しますか？",
     "WallBuyFailed": "【金にぼし】が足りません…",
     "WallBuySuccess": "【かべがみ】を購入しました",
-    "WallBuySuccess2": "一度購入した【かべがみ】\nは何度でも購入できます",
+    "WallBuySuccess2": "一度購入した【かべがみ】\nは何度でも保存できます",
     "WallpaperSaved": "かべがみを端末へ保存しました\n※保存されていない場合は\nヘルプ＞おかいもの をご確認ください",
     "WallpaperNotSaved": "かべがみの保存に失敗しました\n※ヘルプ＞おかいもの をご確認ください",
     "WallpaperReceipt": "かべがみ{0}",

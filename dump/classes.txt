@@ -689,7 +689,7 @@ HpLib.RectExtensions.RectExtensions
 HpLib.RegularSingletonInstanciator
 HpLib.ResistanceEnumStates
 HpLib.ResourceUtil
-HpLib.ScreenUnitConverter
+HpLib.ScreenUnit
 HpLib.ScreenUtil
 HpLib.SerializableKeyValuePair
 HpLib.SerializableValueTuple

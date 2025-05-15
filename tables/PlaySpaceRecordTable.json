@@ -3864,6 +3864,39 @@
     "ActionNames2": null,
     "ActionIds2": null,
     "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 1991,
+    "ItemId": 199,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "108"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
     "GoodsAnimeId": [
       0,
       0,
@@ -3876,13 +3909,13 @@
     "Charm": 100,
     "Niboshi": 80,
     "Gomenne": false,
-    "Grooming": false,
+    "Grooming": true,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
   {
-    "Id": 1991,
-    "ItemId": 199,
+    "Id": 2000,
+    "ItemId": 200,
     "ConflictIndices": [],
     "ActionNames": [
       "00kihon_nesoberi",
@@ -3905,14 +3938,14 @@
     "GoodsAnimeId": null,
     "GoodsAnimeId2": null,
     "Charm": 100,
-    "Niboshi": 80,
+    "Niboshi": 75,
     "Gomenne": false,
-    "Grooming": true,
+    "Grooming": false,
     "Z": 0.0,
     "ShouldOmitMyneko": false
   },
   {
-    "Id": 2000,
+    "Id": 2001,
     "ItemId": 200,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3943,37 +3976,6 @@
       0,
       -1
     ],
-    "GoodsAnimeId2": null,
-    "Charm": 100,
-    "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
-    "Z": 0.0,
-    "ShouldOmitMyneko": false
-  },
-  {
-    "Id": 2001,
-    "ItemId": 200,
-    "ConflictIndices": [],
-    "ActionNames": [
-      "00kihon_nesoberi",
-      "00kihon_nesoberi",
-      "00kihon_nesoberi",
-      "00kihon_suwari",
-      "00kihon_suwari"
-    ],
-    "ActionIds": [
-      0,
-      1,
-      2,
-      0,
-      1
-    ],
-    "ActionWeights": null,
-    "ActionNames2": null,
-    "ActionIds2": null,
-    "ActionWeights2": null,
-    "GoodsAnimeId": null,
     "GoodsAnimeId2": null,
     "Charm": 100,
     "Niboshi": 75,

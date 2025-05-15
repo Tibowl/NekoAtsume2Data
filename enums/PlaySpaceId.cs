@@ -37,8 +37,10 @@ public enum PlaySpaceId
 	public const PlaySpaceId CardboardHouse1 = 1211;
 	public const PlaySpaceId CardboardHouse2 = 1212;
 	public const PlaySpaceId ShirayukiCussion = 1310;
-	public const PlaySpaceId BigCussion_L = 1990;
-	public const PlaySpaceId BigCussion_White_L = 2000;
+	public const PlaySpaceId BigCussionL = 1990;
+	public const PlaySpaceId BigCussionR = 1991;
+	public const PlaySpaceId BigCussionWhiteL = 2000;
+	public const PlaySpaceId BigCussionWhiteR = 2001;
 	public const PlaySpaceId Ground1 = 50000;
 	public const PlaySpaceId MynekoGround = 50010;
 }
