@@ -44,6 +44,7 @@
     "CatName42": "Maple",
     "CatName43": "Caramel",
     "CatName44": "Crystal",
+    "CatName45": "Goldie",
     "CatName100": "Joe DiMeowgio",
     "CatName101": "Senor Don Gato",
     "CatName102": "Xerxes IX",
@@ -121,6 +122,7 @@
     "CatColor42": "Orange & White Bullseye",
     "CatColor43": "Spotted",
     "CatColor44": "White w/Odd Eyes",
+    "CatColor45": "Champagne",
     "CatColor100": "Baseball Jersey",
     "CatColor101": "Mustachioed",
     "CatColor102": "Persian",
@@ -198,6 +200,7 @@
     "CatChar42": "Moody",
     "CatChar43": "Tomboy",
     "CatChar44": "Glass Heart",
+    "CatChar45": "Forgiving",
     "CatChar100": "Team Player",
     "CatChar101": "Scheming",
     "CatChar102": "Regal",
@@ -304,6 +307,7 @@
     "TakaraName72": "Tattered letter",
     "TakaraName73": "Bracelet",
     "TakaraName74": "Colorful Egg",
+    "TakaraName75": "Snack Lid",
     "TakaraComment1": "A small collar with a flower\nprint pattern.",
     "TakaraComment2": "A soft brush for fur.",
     "TakaraComment3": "Something to wear at evening\nevents.",
@@ -378,5 +382,6 @@
     "TakaraComment71": "A thin branch with leaves, the\ntip has slightly changed color.",
     "TakaraComment72": "The letter is worn and crumpled\nfrom being opened many times.",
     "TakaraComment73": "A bracelet with beautiful stones.",
-    "TakaraComment74": "An egg with a painted floral pattern."
+    "TakaraComment74": "An egg with a painted\nfloral pattern.",
+    "TakaraComment75": "A fancy snack tin lid\nthat's too nice to toss."
 }

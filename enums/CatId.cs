@@ -50,6 +50,7 @@ public enum CatId
 	public const CatId Sirochauzu = 42;
 	public const CatId Tobigara = 43;
 	public const CatId SiroOdd = 44;
+	public const CatId Gold = 45;
 	public const CatId Tatejima = 100;
 	public const CatId Nagagutu = 101;
 	public const CatId Prince = 102;
@@ -83,4 +84,6 @@ public enum CatId
 	public const CatId Myneko2 = 702;
 	public const CatId Myneko3 = 703;
 	public const CatId Dog1 = 1001;
+	public const CatId Dog2 = 1002;
+	public const CatId Dog3 = 1003;
 }

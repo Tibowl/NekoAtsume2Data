@@ -1312,7 +1312,7 @@
   {
     "Id": 165,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_aluminabe"
@@ -1343,7 +1343,7 @@
   {
     "Id": 166,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_alumitsubo"
@@ -1817,7 +1817,7 @@
   {
     "Id": 199,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_big"
@@ -2034,7 +2034,7 @@
   {
     "Id": 208,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_tento"
@@ -2316,7 +2316,7 @@
   {
     "Id": 231,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tansu"

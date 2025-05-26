@@ -13,5 +13,6 @@ private enum DebugItemScreen.Op
 	public const DebugItemScreen.Op Break = 6;
 	public const DebugItemScreen.Op Repair = 7;
 	public const DebugItemScreen.Op RepairMenu = 8;
-	public const DebugItemScreen.Op Dispose = 9;
+	public const DebugItemScreen.Op RebuyMenu = 9;
+	public const DebugItemScreen.Op Dispose = 10;
 }

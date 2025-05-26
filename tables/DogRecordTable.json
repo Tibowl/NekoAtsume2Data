@@ -1,0 +1,86 @@
+[
+  {
+    "DogIdInt": 0,
+    "YardIdInt": 0,
+    "DogPlaceIdInt": 0,
+    "AppearRate": 1,
+    "SpriteName": "dog_1"
+  },
+  {
+    "DogIdInt": 0,
+    "YardIdInt": 0,
+    "DogPlaceIdInt": 1,
+    "AppearRate": 1,
+    "SpriteName": "dog_2"
+  },
+  {
+    "DogIdInt": 0,
+    "YardIdInt": 1,
+    "DogPlaceIdInt": 0,
+    "AppearRate": 1,
+    "SpriteName": "dog_1"
+  },
+  {
+    "DogIdInt": 0,
+    "YardIdInt": 1,
+    "DogPlaceIdInt": 1,
+    "AppearRate": 1,
+    "SpriteName": "dog_2"
+  },
+  {
+    "DogIdInt": 1,
+    "YardIdInt": 0,
+    "DogPlaceIdInt": 0,
+    "AppearRate": 1,
+    "SpriteName": "dog_1_2"
+  },
+  {
+    "DogIdInt": 1,
+    "YardIdInt": 0,
+    "DogPlaceIdInt": 1,
+    "AppearRate": 1,
+    "SpriteName": "dog_2_2"
+  },
+  {
+    "DogIdInt": 1,
+    "YardIdInt": 1,
+    "DogPlaceIdInt": 0,
+    "AppearRate": 1,
+    "SpriteName": "dog_1_2"
+  },
+  {
+    "DogIdInt": 1,
+    "YardIdInt": 1,
+    "DogPlaceIdInt": 1,
+    "AppearRate": 1,
+    "SpriteName": "dog_2_2"
+  },
+  {
+    "DogIdInt": 2,
+    "YardIdInt": 0,
+    "DogPlaceIdInt": 0,
+    "AppearRate": 1,
+    "SpriteName": "dog_1_3"
+  },
+  {
+    "DogIdInt": 2,
+    "YardIdInt": 0,
+    "DogPlaceIdInt": 1,
+    "AppearRate": 1,
+    "SpriteName": "dog_2_3"
+  },
+  {
+    "DogIdInt": 2,
+    "YardIdInt": 1,
+    "DogPlaceIdInt": 0,
+    "AppearRate": 1,
+    "SpriteName": "dog_1_3"
+  },
+  {
+    "DogIdInt": 2,
+    "YardIdInt": 1,
+    "DogPlaceIdInt": 1,
+    "AppearRate": 1,
+    "SpriteName": "dog_2_3"
+  }
+]
