@@ -44,6 +44,7 @@
     "CatName42": "しろちゃうずさん",
     "CatName43": "とびがらさん",
     "CatName44": "しろおっどさん",
+    "CatName45": "ごーるどさん",
     "CatName100": "たてじまさん",
     "CatName101": "ながぐつさん",
     "CatName102": "ぷりんすさん",
@@ -121,6 +122,7 @@
     "CatColor42": "クラシック(白茶)",
     "CatColor43": "とびがら",
     "CatColor44": "白(オッドアイ)",
+    "CatColor45": "ゴールド",
     "CatColor100": "縦縞",
     "CatColor101": "チョビヒゲ",
     "CatColor102": "ペルシャ",
@@ -198,6 +200,7 @@
     "CatChar42": "気分屋",
     "CatChar43": "おてんば",
     "CatChar44": "繊細",
+    "CatChar45": "寛容",
     "CatChar100": "熱狂",
     "CatChar101": "策略家",
     "CatChar102": "王族の佇まい",
@@ -304,6 +307,7 @@
     "TakaraName72": "くたくたの手紙",
     "TakaraName73": "ブレスレット",
     "TakaraName74": "カラフルなたまご",
+    "TakaraName75": "お菓子缶のフタ",
     "TakaraComment1": "花がらの小さな首輪",
     "TakaraComment2": "柔らかな毛のブラシ",
     "TakaraComment3": "夜店で売られているあれ",
@@ -378,5 +382,6 @@
     "TakaraComment71": "葉っぱがついた細い枝\n少し色が変わっているところがある",
     "TakaraComment72": "何度も開いたからか\n紙がくたくたになっている",
     "TakaraComment73": "綺麗な石のブレスレット",
-    "TakaraComment74": "花の模様が描かれているたまご"
+    "TakaraComment74": "花の模様が描かれているたまご",
+    "TakaraComment75": "ちょっと高そうなお菓子の缶のフタ"
 }
