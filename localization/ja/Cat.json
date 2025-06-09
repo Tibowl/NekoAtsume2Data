@@ -74,6 +74,7 @@
     "CatName126": "ふうらいぼうさん",
     "CatName127": "さんたさん",
     "CatName128": "たまごさん",
+    "CatName129": "おまつりさん",
     "CatName701": "まいねこさん",
     "CatName702": "まいねこさん",
     "CatName703": "まいねこさん",
@@ -152,6 +153,7 @@
     "CatColor126": "三度笠",
     "CatColor127": "サンタ服",
     "CatColor128": "殻",
+    "CatColor129": "法被",
     "CatColor701": "ふしぎ",
     "CatColor702": "ふしぎ",
     "CatColor703": "ふしぎ",
@@ -230,6 +232,7 @@
     "CatChar126": "流浪",
     "CatChar127": "温厚篤実",
     "CatChar128": "ユーモア",
+    "CatChar129": "祭魂",
     "CatPower701": "未知数",
     "CatPower702": "測定不能",
     "CatPower703": "謎",
@@ -308,6 +311,7 @@
     "TakaraName73": "ブレスレット",
     "TakaraName74": "カラフルなたまご",
     "TakaraName75": "お菓子缶のフタ",
+    "TakaraName76": "アイスの棒",
     "TakaraComment1": "花がらの小さな首輪",
     "TakaraComment2": "柔らかな毛のブラシ",
     "TakaraComment3": "夜店で売られているあれ",
@@ -383,5 +387,6 @@
     "TakaraComment72": "何度も開いたからか\n紙がくたくたになっている",
     "TakaraComment73": "綺麗な石のブレスレット",
     "TakaraComment74": "花の模様が描かれているたまご",
-    "TakaraComment75": "ちょっと高そうなお菓子の缶のフタ"
+    "TakaraComment75": "ちょっと高そうなお菓子の缶のフタ",
+    "TakaraComment76": "「あたり」と書いてある"
 }

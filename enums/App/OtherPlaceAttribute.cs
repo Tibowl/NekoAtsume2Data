@@ -20,5 +20,6 @@ public enum OtherPlaceAttribute
 	public const OtherPlaceAttribute RemodelPreviewSlot = 2048;
 	public const OtherPlaceAttribute Santa = 4096;
 	public const OtherPlaceAttribute Tamago = 8192;
+	public const OtherPlaceAttribute Omaturi = 16384;
 	public const OtherPlaceAttribute All = -1;
 }

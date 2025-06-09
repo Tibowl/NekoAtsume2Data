@@ -39,4 +39,5 @@ public enum Tag
 	public const Tag ServerTimeUpdater = 32;
 	public const Tag UiPanel2 = 33;
 	public const Tag FishView = 34;
+	public const Tag PhotoBuildQueue = 35;
 }

@@ -131,6 +131,8 @@ public enum GoodsJaId
 	public const GoodsJaId なりきりうさぎ = 319;
 	public const GoodsJaId なりきりうさぎDX = 320;
 	public const GoodsJaId エコバッグｱｲﾎﾞﾘｰ = 321;
+	public const GoodsJaId ラタンのベッド = 322;
+	public const GoodsJaId リゾートベッド = 323;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;
