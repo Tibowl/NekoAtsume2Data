@@ -9394,6 +9394,85 @@
     "ShouldOmitMyneko": false
   },
   {
+    "Id": 3220,
+    "ItemId": 322,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": true,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3230,
+    "ItemId": 323,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": true,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3231,
+    "ItemId": 323,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "129"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 1.0,
+    "ShouldOmitMyneko": true
+  },
+  {
     "Id": 50000,
     "ItemId": 5000,
     "ConflictIndices": [],

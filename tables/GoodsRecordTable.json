@@ -3963,6 +3963,76 @@
     "WarningKey": null
   },
   {
+    "Id": 322,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bed_rattan"
+    ],
+    "AnimeXmls": [
+      "03cushion_bed_rattan"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 230,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2480,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 100,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      6,
+      7,
+      8
+    ],
+    "WarningKey": null
+  },
+  {
+    "Id": 323,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bed_rattandx"
+    ],
+    "AnimeXmls": [
+      "03cushion_bed_rattandx"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrder": 231,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 3660,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": -1,
+    "Gold": 40,
+    "RepairSilver": 200,
+    "StampCard": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      6,
+      7,
+      8
+    ],
+    "WarningKey": null
+  },
+  {
     "Id": 5000,
     "IsForceNotForSale": true,
     "IsNew": false,

@@ -1,5 +1,5 @@
 
-// Namespace: App.Save
+// Namespace: App
 public enum BuyResult 
 {
 	// Fields

@@ -120,6 +120,7 @@ public enum GoodsId
 	public const GoodsId WesternHats = 298;
 	public const GoodsId CatMacaroonPpink = 300;
 	public const GoodsId Tissue = 304;
+	public const GoodsId ResortBed = 323;
 	public const GoodsId Ground1 = 5000;
 	public const GoodsId MynekoGround = 5001;
 	public const GoodsId FollowGround = 5002;

@@ -239,6 +239,8 @@
     "GoodsName319": "Bunny Bed",
     "GoodsName320": "Bunny Bed DX",
     "GoodsName321": "Eco Bag (Pastel)",
+    "GoodsName322": "Rattan Bed",
+    "GoodsName323": "Resort Bed",
     "GoodsShop1": "　",
     "GoodsShop3": "A sumptuous canned combo of fresh tuna,\nbonito, and sardines. Sure to boost your\npowers of cat attraction!",
     "GoodsShop6": "Sashimi sliced from only the freshest\nfish, with the wasabi and garnish removed.\nFor cats with expensive tastes.",
@@ -475,6 +477,8 @@
     "GoodsShop319": "<Sales Period: Until the end of June>\nTransform fully when snugly fitted!?\nCute bunny-shaped bed.",
     "GoodsShop320": "<Sales Period: Until the end of June>\nTransform fully when snugly fitted!?\nColorful bunny-shaped bed.",
     "GoodsShop321": "A handy-sized eco bag,\ntear-resistant and durable.\nPerfect for shopping!",
+    "GoodsShop322": "<Sales Period: Until the end of August>\nA breezy bed made of rattan — perfect\nfor adding a touch of summer charm.",
+    "GoodsShop323": "<Sales Period: Until the end of August>\nA breezy rattan bed featuring\neye-catching tropical-inspired details.",
     "GoodsYard1": "Hardly a fancy feast, but it tastes okay\nfor cheap chow. Guaranteed to contain a\nminimum of byproducts and fillers.",
     "GoodsYard3": "As if by magic, cats seem to appear\nfrom thin air as soon as they hear\nthe pull-top pop.",
     "GoodsYard6": "Not for everyone, but the smell is hard\nto resist! Beloved by certain rare cats.",
@@ -704,5 +708,7 @@
     "GoodsYard319": "<Spring Limited Edition>\nA snug bunny-shaped bed.\nTransformation is up to the cat.",
     "GoodsYard320": "<Spring Limited Edition>\nA spring-inspired bunny-shaped bed.\nTransformation depends on the cat.",
     "GoodsYard321": "A perfectly sized eco-bag you\ncan't help but want to fit into.",
+    "GoodsYard322": "<Summer Limited Edition>\nA lightweight and durable rattan bed,\nhighly breathable for a comfy rest.",
+    "GoodsYard323": "<Summer Limited Edition>\nA bed with elegant decorations,\nfeels like a tropical resort escape.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

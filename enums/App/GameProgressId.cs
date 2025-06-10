@@ -10,4 +10,5 @@ public enum GameProgressId
 	public const GameProgressId NekonoteTutorial = 3;
 	public const GameProgressId HelpCount = 4;
 	public const GameProgressId MikadukiPowderUsage = 5;
+	public const GameProgressId LimitedGoodsPopupVersion = 6;
 }

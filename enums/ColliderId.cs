@@ -11,6 +11,8 @@ public enum ColliderId
 	public const ColliderId Figure = 100;
 	public const ColliderId Dog = 101;
 	public const ColliderId Cat0 = 500;
+	public const ColliderId Cat1 = 501;
+	public const ColliderId Cat2 = 502;
 	public const ColliderId CatMin = 500;
 	public const ColliderId CatMax = 600;
 	public const ColliderId PlaceMark = 1000;

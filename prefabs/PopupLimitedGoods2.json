@@ -3,11 +3,25 @@
     {
       "name": "PopupLimitedGoods2",
       "children": [
-        1
+        1,
+        4
       ]
     },
     {
-      "name": "Header"
+      "name": "Header",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Label"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Footer"
     }
   ],
   "scene": 0,

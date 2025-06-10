@@ -6,5 +6,5 @@ public enum MyLocale
 	public int value__; // 0x0
 	public const MyLocale ja = 0;
 	public const MyLocale en = 1;
-	public const MyLocale zh_CN = 2;
+	public const MyLocale ko = 2;
 }
