@@ -26,6 +26,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -57,6 +59,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -88,6 +92,8 @@
     "Gold": 3,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -119,6 +125,8 @@
     "Gold": 7,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -150,6 +158,8 @@
     "Gold": 12,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -181,6 +191,8 @@
     "Gold": 5,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -212,6 +224,8 @@
     "Gold": 50,
     "RepairSilver": -1,
     "StampCard": 4,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -244,6 +258,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -275,6 +291,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -306,6 +324,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -337,6 +357,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -368,6 +390,8 @@
     "Gold": -1,
     "RepairSilver": 12,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -399,6 +423,8 @@
     "Gold": 10,
     "RepairSilver": 45,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -430,6 +456,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -461,6 +489,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -492,6 +522,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -530,6 +562,8 @@
     "Gold": 25,
     "RepairSilver": 156,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -561,6 +595,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -592,6 +628,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -623,6 +661,8 @@
     "Gold": -1,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -654,6 +694,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -685,6 +727,8 @@
     "Gold": 15,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -716,6 +760,8 @@
     "Gold": -1,
     "RepairSilver": 60,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -747,6 +793,8 @@
     "Gold": 20,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -778,6 +826,8 @@
     "Gold": 40,
     "RepairSilver": 70,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -809,6 +859,8 @@
     "Gold": 50,
     "RepairSilver": 80,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -840,6 +892,8 @@
     "Gold": 60,
     "RepairSilver": 90,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -871,6 +925,8 @@
     "Gold": -1,
     "RepairSilver": 60,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -902,6 +958,8 @@
     "Gold": 20,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -933,6 +991,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -964,6 +1024,74 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 136,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_sunoko_dark"
+    ],
+    "AnimeXmls": [
+      "03cushion_sunoko_dark"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 140,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2650,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 240,
+    "Gold": -1,
+    "RepairSilver": 60,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 137,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_sunoko_light"
+    ],
+    "AnimeXmls": [
+      "03cushion_sunoko_light"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 141,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2650,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 280,
+    "Gold": -1,
+    "RepairSilver": 70,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -995,6 +1123,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1026,6 +1156,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1057,6 +1189,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1088,6 +1222,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1119,6 +1255,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1150,6 +1288,8 @@
     "Gold": -1,
     "RepairSilver": 45,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1181,6 +1321,8 @@
     "Gold": -1,
     "RepairSilver": 45,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1212,6 +1354,8 @@
     "Gold": -1,
     "RepairSilver": 45,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1243,6 +1387,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1274,6 +1420,8 @@
     "Gold": -1,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1305,6 +1453,8 @@
     "Gold": -1,
     "RepairSilver": 60,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1336,6 +1486,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1368,6 +1520,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1399,6 +1553,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1430,6 +1586,8 @@
     "Gold": 13,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1461,6 +1619,8 @@
     "Gold": 12,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1492,6 +1652,8 @@
     "Gold": -1,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1524,6 +1686,8 @@
     "Gold": 14,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1556,6 +1720,8 @@
     "Gold": 15,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1587,6 +1753,8 @@
     "Gold": 15,
     "RepairSilver": 70,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1620,6 +1788,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1653,6 +1823,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1686,6 +1858,78 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 191,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03felt_dome_mu"
+    ],
+    "AnimeXmls": [
+      "03felt_dome_mu",
+      "03felt_dome_mu_pose01",
+      "03felt_dome_mu_pose02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 211,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1850,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 350,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 192,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03felt_dome_strawberry"
+    ],
+    "AnimeXmls": [
+      "03felt_dome_strawberry",
+      "03felt_dome_strawberry_pose01",
+      "03felt_dome_strawberry_pose02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 212,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 15,
+    "RepairSilver": 40,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1717,6 +1961,8 @@
     "Gold": -1,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1748,6 +1994,8 @@
     "Gold": 38,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1779,6 +2027,8 @@
     "Gold": 20,
     "RepairSilver": 45,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1810,6 +2060,8 @@
     "Gold": 10,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1841,6 +2093,41 @@
     "Gold": 25,
     "RepairSilver": 70,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 200,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_big_02"
+    ],
+    "AnimeXmls": [
+      "03cushion_big_02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 26
+    },
+    "DisplayOrder": 222,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 4600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 700,
+    "Gold": -1,
+    "RepairSilver": 70,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1872,6 +2159,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1903,6 +2192,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1934,6 +2225,8 @@
     "Gold": 35,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1965,6 +2258,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -1996,6 +2291,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2027,6 +2324,8 @@
     "Gold": -1,
     "RepairSilver": 375,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2058,6 +2357,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2089,6 +2390,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2121,6 +2424,8 @@
     "Gold": 23,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2153,6 +2458,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2185,6 +2492,8 @@
     "Gold": 12,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2216,6 +2525,8 @@
     "Gold": -1,
     "RepairSilver": 60,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2247,6 +2558,8 @@
     "Gold": -1,
     "RepairSilver": 60,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2278,6 +2591,8 @@
     "Gold": 50,
     "RepairSilver": 160,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2309,6 +2624,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2340,6 +2657,8 @@
     "Gold": -1,
     "RepairSilver": 80,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2371,6 +2690,8 @@
     "Gold": -1,
     "RepairSilver": 20,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2402,6 +2723,8 @@
     "Gold": -1,
     "RepairSilver": 20,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2433,6 +2756,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2464,6 +2789,8 @@
     "Gold": -1,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2496,6 +2823,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2528,6 +2857,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2560,6 +2891,8 @@
     "Gold": -1,
     "RepairSilver": 20,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2592,6 +2925,8 @@
     "Gold": -1,
     "RepairSilver": 20,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2624,6 +2959,8 @@
     "Gold": -1,
     "RepairSilver": 25,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2656,6 +2993,8 @@
     "Gold": -1,
     "RepairSilver": 25,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2689,6 +3028,8 @@
     "Gold": 15,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2721,6 +3062,8 @@
     "Gold": 12,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2752,6 +3095,8 @@
     "Gold": 20,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2783,6 +3128,8 @@
     "Gold": 60,
     "RepairSilver": 120,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2814,6 +3161,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2845,6 +3194,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2876,6 +3227,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2907,6 +3260,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": "Warning1"
@@ -2938,6 +3293,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -2969,6 +3326,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3000,6 +3359,8 @@
     "Gold": -1,
     "RepairSilver": 10,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3031,6 +3392,8 @@
     "Gold": 20,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3063,6 +3426,8 @@
     "Gold": 25,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3094,6 +3459,8 @@
     "Gold": 15,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3125,6 +3492,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3156,6 +3525,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3187,6 +3558,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3218,6 +3591,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3250,6 +3625,8 @@
     "Gold": 10,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3281,6 +3658,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3312,6 +3691,8 @@
     "Gold": 45,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3353,6 +3734,8 @@
     "Gold": -1,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3384,6 +3767,8 @@
     "Gold": -1,
     "RepairSilver": 40,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3415,6 +3800,8 @@
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3446,6 +3833,8 @@
     "Gold": -1,
     "RepairSilver": 25,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3477,6 +3866,8 @@
     "Gold": 24,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3509,6 +3900,8 @@
     "Gold": -1,
     "RepairSilver": 40,
     "StampCard": 1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 1,
     "SellableMonths": null,
     "WarningKey": null
@@ -3540,6 +3933,8 @@
     "Gold": -1,
     "RepairSilver": 30,
     "StampCard": 1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 1,
     "SellableMonths": null,
     "WarningKey": null
@@ -3571,6 +3966,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3602,6 +3999,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3633,6 +4032,8 @@
     "Gold": -1,
     "RepairSilver": 15,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3664,6 +4065,8 @@
     "Gold": 45,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3695,6 +4098,8 @@
     "Gold": 45,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3727,6 +4132,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3759,6 +4166,8 @@
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3790,6 +4199,8 @@
     "Gold": 50,
     "RepairSilver": 312,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3822,6 +4233,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3853,6 +4266,8 @@
     "Gold": 22,
     "RepairSilver": 70,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3885,6 +4300,8 @@
     "Gold": -1,
     "RepairSilver": 50,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": [
       3,
@@ -3922,6 +4339,8 @@
     "Gold": 40,
     "RepairSilver": 100,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": [
       3,
@@ -3958,6 +4377,8 @@
     "Gold": -1,
     "RepairSilver": 25,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -3965,7 +4386,7 @@
   {
     "Id": 322,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_bed_rattan"
@@ -3989,6 +4410,8 @@
     "Gold": -1,
     "RepairSilver": 100,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": [
       6,
@@ -4000,7 +4423,7 @@
   {
     "Id": 323,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_bed_rattandx"
@@ -4024,6 +4447,8 @@
     "Gold": 40,
     "RepairSilver": 200,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": [
       6,
@@ -4059,6 +4484,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -4090,6 +4517,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null
@@ -4121,6 +4550,8 @@
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": 0,
     "SalesRoute": 0,
     "SellableMonths": null,
     "WarningKey": null

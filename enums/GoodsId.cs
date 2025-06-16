@@ -37,6 +37,8 @@ public enum GoodsId
 	public const GoodsId ChirimenCushion = 128;
 	public const GoodsId SakuraCushion = 129;
 	public const GoodsId ShirayukiCushion = 131;
+	public const GoodsId PineCushion = 136;
+	public const GoodsId JapaneseCypressCushion = 137;
 	public const GoodsId CushionBeige = 138;
 	public const GoodsId CushionPink = 139;
 	public const GoodsId CushionBrown = 140;
@@ -61,6 +63,8 @@ public enum GoodsId
 	public const GoodsId PlumCocoon = 188;
 	public const GoodsId OrangeCocoon = 189;
 	public const GoodsId MelonCocoon = 190;
+	public const GoodsId BerryCocoon = 191;
+	public const GoodsId StrawberryCocoon = 192;
 	public const GoodsId EggBedPink = 195;
 	public const GoodsId EggBedNight = 196;
 	public const GoodsId LuxuryCushion = 197;

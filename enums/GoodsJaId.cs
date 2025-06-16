@@ -36,6 +36,8 @@ public enum GoodsJaId
 	public const GoodsJaId ちりめん座布団 = 128;
 	public const GoodsJaId さくら座布団 = 129;
 	public const GoodsJaId しらゆき座布団 = 131;
+	public const GoodsJaId 松すのこ = 136;
+	public const GoodsJaId 桧すのこ = 137;
 	public const GoodsJaId クッションﾍﾞｰｼﾞｭ = 138;
 	public const GoodsJaId クッションﾋﾟﾝｸ = 139;
 	public const GoodsJaId クッションﾌﾞﾗｳﾝ = 140;
@@ -59,11 +61,14 @@ public enum GoodsJaId
 	public const GoodsJaId プラムコクーン = 188;
 	public const GoodsJaId オレンジコクーン = 189;
 	public const GoodsJaId メロンコクーン = 190;
+	public const GoodsJaId ベリーコクーン = 191;
+	public const GoodsJaId いちごコクーン = 192;
 	public const GoodsJaId たまごベッドﾋﾟﾝｸ = 195;
 	public const GoodsJaId たまごベッド夜 = 196;
 	public const GoodsJaId 高級クッション = 197;
 	public const GoodsJaId ビーズクッション = 198;
 	public const GoodsJaId ビッグクッション = 199;
+	public const GoodsJaId ビッグクッション白 = 200;
 	public const GoodsJaId ハンモック黄 = 201;
 	public const GoodsJaId ハンモック桃 = 202;
 	public const GoodsJaId 高級ハンモック = 204;
