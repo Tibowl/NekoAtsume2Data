@@ -34,6 +34,7 @@ App.BgmMenu
 App.BrokenGoodsTutorial
 App.ButtonExtensions.ButtonExtensions
 App.ButtonUtil
+App.BuyResultExtensions
 App.CameraFade
 App.CaptureCamera
 App.CatAnime
@@ -182,7 +183,7 @@ App.LabelEditWindow
 App.LabelNameCell
 App.LabelPhotoList
 App.LabelSetting
-App.LangSelect
+App.LanguageMenu
 App.LayerIdSelectAttribute
 App.LayerList
 App.LayerListHandle
@@ -312,6 +313,7 @@ App.PopupMyneko
 App.PopupText
 App.PopupTextScroll
 App.PressButton
+App.PurchaseCurrencyUtil
 App.Ranking
 App.RankingContent
 App.RankingItem
@@ -424,10 +426,13 @@ App.ServerTimeUpdater
 App.Settings
 App.Settings.FlagsMember
 App.Settings.SettingFlags
+App.ShopAkindoMainUi
+App.ShopAkindoScene
 App.ShopCell
 App.ShopFilterWindow
 App.ShopGoldScene
 App.ShopList
+App.ShopMainUi
 App.ShopPage
 App.ShopPurchase
 App.ShopScene
@@ -488,6 +493,7 @@ App.Test.TestPageView
 App.TestDebugTimePanel
 App.TestSceneSelectAttribute
 App.TestToggleButton
+App.TextExtensions
 App.TextScrollView
 App.TextScrollViewPanel
 App.TextUtil
