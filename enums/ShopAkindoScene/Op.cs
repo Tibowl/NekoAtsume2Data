@@ -6,5 +6,6 @@ public enum ShopAkindoScene.Op
 	public int value__; // 0x0
 	public const ShopAkindoScene.Op Init = 0;
 	public const ShopAkindoScene.Op Main = 100;
+	public const ShopAkindoScene.Op Iap = 200;
 	public const ShopAkindoScene.Op End = 500;
 }

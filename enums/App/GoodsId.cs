@@ -1,5 +1,5 @@
 
-// Namespace: 
+// Namespace: App
 public enum GoodsId 
 {
 	// Fields
@@ -93,6 +93,7 @@ public enum GoodsId
 	public const GoodsId TunnelI = 232;
 	public const GoodsId TunnelU = 233;
 	public const GoodsId TunnelT = 234;
+	public const GoodsId VerticalTunnels = 235;
 	public const GoodsId ChocoCoronetTunnel = 240;
 	public const GoodsId Catnip = 244;
 	public const GoodsId FeatherNappy = 245;
@@ -100,6 +101,9 @@ public enum GoodsId
 	public const GoodsId Dragonfly = 250;
 	public const GoodsId GripesMmouse = 251;
 	public const GoodsId Fish = 252;
+	public const GoodsId GeledRabbit = 253;
+	public const GoodsId GurigurumiSaury = 254;
+	public const GoodsId GurigurumiThai = 255;
 	public const GoodsId AutomaticBunbunmaru = 256;
 	public const GoodsId ButterflyPotty = 257;
 	public const GoodsId RailHereAndThere = 258;
