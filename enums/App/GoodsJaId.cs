@@ -1,5 +1,5 @@
 
-// Namespace: 
+// Namespace: App
 public enum GoodsJaId 
 {
 	// Fields
@@ -88,6 +88,7 @@ public enum GoodsJaId
 	public const GoodsJaId トンネルI型 = 232;
 	public const GoodsJaId トンネルU型 = 233;
 	public const GoodsJaId トンネルT型 = 234;
+	public const GoodsJaId 立体型トンネル = 235;
 	public const GoodsJaId チョココロネトンネル = 240;
 	public const GoodsJaId ねこじゃらし = 244;
 	public const GoodsJaId 羽根じゃらし = 245;
@@ -95,6 +96,9 @@ public enum GoodsJaId
 	public const GoodsJaId トンボくん = 250;
 	public const GoodsJaId けりぐるみねずみ = 251;
 	public const GoodsJaId けりぐるみお魚 = 252;
+	public const GoodsJaId けりぐるみうさぎ = 253;
+	public const GoodsJaId けりぐるみサンマ = 254;
+	public const GoodsJaId けりぐるみタイ = 255;
 	public const GoodsJaId 自動ぶんぶん丸 = 256;
 	public const GoodsJaId 蝶々じゃらし = 257;
 	public const GoodsJaId あっちこっちレール = 258;

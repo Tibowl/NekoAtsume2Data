@@ -1,5 +1,5 @@
 
-// Namespace: 
+// Namespace: App
 public enum ShinobuActionType 
 {
 	// Fields

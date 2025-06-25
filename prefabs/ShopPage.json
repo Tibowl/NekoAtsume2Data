@@ -4,9 +4,9 @@
       "name": "ShopPage",
       "children": [
         1,
-        16,
-        31,
-        46
+        17,
+        33,
+        49
       ]
     },
     {
@@ -25,7 +25,8 @@
         7,
         8,
         14,
-        15
+        15,
+        16
       ]
     },
     {
@@ -80,22 +81,26 @@
       "name": "Stamp"
     },
     {
+      "name": "Mask"
+    },
+    {
       "name": "ShopCell1",
       "children": [
-        17
+        18
       ]
     },
     {
       "name": "Window",
       "children": [
-        18,
         19,
         20,
         21,
         22,
         23,
-        29,
-        30
+        24,
+        30,
+        31,
+        32
       ]
     },
     {
@@ -121,11 +126,11 @@
     {
       "name": "LimitedTime",
       "children": [
-        24,
         25,
         26,
         27,
-        28
+        28,
+        29
       ]
     },
     {
@@ -150,55 +155,59 @@
       "name": "Stamp"
     },
     {
+      "name": "Mask"
+    },
+    {
       "name": "ShopCell2",
       "children": [
-        32
+        34
       ]
     },
     {
       "name": "Window",
       "children": [
-        33,
-        34,
         35,
         36,
         37,
         38,
+        39,
+        40,
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "name": "Size"
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Count"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "New"
+    },
+    {
+      "name": "LimitedTime",
+      "children": [
+        41,
+        42,
+        43,
         44,
         45
       ]
     },
     {
-      "name": "Size"
-    },
-    {
-      "name": "Icon"
-    },
-    {
-      "name": "Count"
-    },
-    {
-      "name": "Price",
-      "scale": [
-        1,
-        1.2,
-        1
-      ]
-    },
-    {
-      "name": "New"
-    },
-    {
-      "name": "LimitedTime",
-      "children": [
-        39,
-        40,
-        41,
-        42,
-        43
-      ]
-    },
-    {
       "name": "LimitedTime"
     },
     {
@@ -220,22 +229,26 @@
       "name": "Stamp"
     },
     {
+      "name": "Mask"
+    },
+    {
       "name": "ShopCell3",
       "children": [
-        47
+        50
       ]
     },
     {
       "name": "Window",
       "children": [
-        48,
-        49,
-        50,
         51,
         52,
         53,
-        59,
-        60
+        54,
+        55,
+        56,
+        62,
+        63,
+        64
       ]
     },
     {
@@ -261,11 +274,11 @@
     {
       "name": "LimitedTime",
       "children": [
-        54,
-        55,
-        56,
         57,
-        58
+        58,
+        59,
+        60,
+        61
       ]
     },
     {
@@ -288,6 +301,9 @@
     },
     {
       "name": "Stamp"
+    },
+    {
+      "name": "Mask"
     }
   ],
   "scene": 0,

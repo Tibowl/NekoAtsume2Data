@@ -31,6 +31,8 @@
     "ClockError": "Your clock has reversed since your\nlast play session. The game will not\nupdate until {0}.",
     "ReceivedDate": "Received date",
     "NoGifts": "No gifts.",
+    "Coin": "Coin",
+    "OmiyageVoucher": "Voucher",
     "GoodsBuyConfirm": "Purchase\n{0}?",
     "GoodsBuySuccess": "Purchased\n{0}!",
     "GoodsBuyFailedNoMoney": "You don't have enough\n{0}...",
