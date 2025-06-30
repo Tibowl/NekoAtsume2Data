@@ -8,6 +8,7 @@
     "YardName6": "スイーツガーデン",
     "YardName7": "カフェスペース",
     "YardName8": "フラワーガーデン",
+    "YardName9": "リゾートスタイル",
     "YardGoodsName11": "ござ①",
     "YardGoodsName12": "ござ②",
     "YardGoodsName13": "ござ③",
@@ -115,5 +116,17 @@
     "YardGoodsName833": "壁③",
     "YardGoodsName841": "床①",
     "YardGoodsName842": "床②",
-    "YardGoodsName843": "床③"
+    "YardGoodsName843": "床③",
+    "YardGoodsName911": "プール①",
+    "YardGoodsName912": "プール②",
+    "YardGoodsName913": "プール③",
+    "YardGoodsName921": "壁①",
+    "YardGoodsName922": "壁②",
+    "YardGoodsName923": "壁③",
+    "YardGoodsName931": "床①",
+    "YardGoodsName932": "床②",
+    "YardGoodsName933": "床③",
+    "YardGoodsName941": "玄関①",
+    "YardGoodsName942": "玄関②",
+    "YardGoodsName943": "玄関③"
 }

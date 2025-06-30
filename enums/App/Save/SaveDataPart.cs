@@ -10,13 +10,14 @@ public enum SaveDataPart
 	public const SaveDataPart CameraData = 3;
 	public const SaveDataPart CatStatus = 4;
 	public const SaveDataPart CatBook = 5;
-	public const SaveDataPart Album = 6;
-	public const SaveDataPart Gift = 7;
-	public const SaveDataPart Inventry = 8;
-	public const SaveDataPart YardStatus = 9;
-	public const SaveDataPart Progress = 10;
-	public const SaveDataPart Wallpaper = 11;
-	public const SaveDataPart Settings = 12;
-	public const SaveDataPart News = 13;
-	public const SaveDataPart Travel = 14;
+	public const SaveDataPart CatBookEquipStatus = 6;
+	public const SaveDataPart Album = 7;
+	public const SaveDataPart Gift = 8;
+	public const SaveDataPart Inventry = 9;
+	public const SaveDataPart YardStatus = 10;
+	public const SaveDataPart Progress = 11;
+	public const SaveDataPart Wallpaper = 12;
+	public const SaveDataPart Settings = 13;
+	public const SaveDataPart News = 14;
+	public const SaveDataPart Travel = 15;
 }

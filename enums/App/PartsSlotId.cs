@@ -12,4 +12,6 @@ public enum PartsSlotId
 	public const PartsSlotId Eye = 4;
 	public const PartsSlotId Accessory = 5;
 	public const PartsSlotId Stand = 6;
+	public const PartsSlotId Start = 0;
+	public const PartsSlotId End = 6;
 }

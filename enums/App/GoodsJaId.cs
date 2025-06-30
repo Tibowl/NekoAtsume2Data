@@ -36,6 +36,8 @@ public enum GoodsJaId
 	public const GoodsJaId ちりめん座布団 = 128;
 	public const GoodsJaId さくら座布団 = 129;
 	public const GoodsJaId しらゆき座布団 = 131;
+	public const GoodsJaId い草座布団赤 = 132;
+	public const GoodsJaId い草座布団紺 = 133;
 	public const GoodsJaId 松すのこ = 136;
 	public const GoodsJaId 桧すのこ = 137;
 	public const GoodsJaId クッションﾍﾞｰｼﾞｭ = 138;
@@ -49,6 +51,7 @@ public enum GoodsJaId
 	public const GoodsJaId ふんわりベッド白 = 152;
 	public const GoodsJaId 切り株ハウス = 160;
 	public const GoodsJaId 竹筒やしき = 161;
+	public const GoodsJaId 極冷アルミプレート = 164;
 	public const GoodsJaId アルミボウル = 165;
 	public const GoodsJaId アルミポット = 166;
 	public const GoodsJaId もこもこクッション = 170;
@@ -76,6 +79,7 @@ public enum GoodsJaId
 	public const GoodsJaId エッグタルトベッド = 206;
 	public const GoodsJaId アンティークチェア = 207;
 	public const GoodsJaId ナチュラルテント = 208;
+	public const GoodsJaId テントブリザード = 210;
 	public const GoodsJaId テントピラミッド = 211;
 	public const GoodsJaId タケノコロケット = 214;
 	public const GoodsJaId あったかくつした = 215;

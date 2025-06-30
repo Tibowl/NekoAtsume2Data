@@ -1093,6 +1093,76 @@
     "WarningKey": null
   },
   {
+    "Id": 132,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_igusa_aka"
+    ],
+    "AnimeXmls": [
+      "03cushion_igusa_aka"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 136,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 72,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 133,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_igusa_kon"
+    ],
+    "AnimeXmls": [
+      "03cushion_igusa_kon"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrder": 137,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 72,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 136,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -1538,6 +1608,41 @@
     "Silver": 380,
     "Gold": -1,
     "RepairSilver": 60,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 164,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_alumi"
+    ],
+    "AnimeXmls": [
+      "03cushion_alumi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrder": 175,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 64,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 150,
+    "Gold": -1,
+    "RepairSilver": -1,
     "StampCard": -1,
     "Coin": -1,
     "OmiyageVoucher": -1,
@@ -2506,6 +2611,41 @@
     "WarningKey": null
   },
   {
+    "Id": 210,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_tento_2"
+    ],
+    "AnimeXmls": [
+      "12hammock_tento_2"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 234,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 576,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 190,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 211,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -2931,7 +3071,7 @@
   {
     "Id": 235,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "05tunnel_3d"
@@ -3217,7 +3357,7 @@
   {
     "Id": 253,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_usg"
@@ -3253,7 +3393,7 @@
   {
     "Id": 254,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_snm"
@@ -3289,7 +3429,7 @@
   {
     "Id": 255,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kerigurumi_tai"

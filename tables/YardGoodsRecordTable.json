@@ -1,6 +1,7 @@
 [
   {
     "Id": 11,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 1,
     "Index": 1,
@@ -15,6 +16,7 @@
   },
   {
     "Id": 12,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 1,
     "Index": 2,
@@ -29,6 +31,7 @@
   },
   {
     "Id": 13,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 1,
     "Index": 3,
@@ -43,6 +46,7 @@
   },
   {
     "Id": 21,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 2,
     "Index": 1,
@@ -57,6 +61,7 @@
   },
   {
     "Id": 22,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 2,
     "Index": 2,
@@ -71,6 +76,7 @@
   },
   {
     "Id": 23,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 2,
     "Index": 3,
@@ -85,6 +91,7 @@
   },
   {
     "Id": 31,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 3,
     "Index": 1,
@@ -99,6 +106,7 @@
   },
   {
     "Id": 32,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 3,
     "Index": 2,
@@ -113,6 +121,7 @@
   },
   {
     "Id": 33,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 3,
     "Index": 3,
@@ -127,6 +136,7 @@
   },
   {
     "Id": 41,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 4,
     "Index": 1,
@@ -141,6 +151,7 @@
   },
   {
     "Id": 42,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 4,
     "Index": 2,
@@ -155,6 +166,7 @@
   },
   {
     "Id": 43,
+    "IsForceNotForSale": false,
     "YardIdInt": 0,
     "SlotId": 4,
     "Index": 3,
@@ -169,6 +181,7 @@
   },
   {
     "Id": 111,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 1,
     "Index": 1,
@@ -183,6 +196,7 @@
   },
   {
     "Id": 112,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 1,
     "Index": 2,
@@ -197,6 +211,7 @@
   },
   {
     "Id": 113,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 1,
     "Index": 3,
@@ -211,6 +226,7 @@
   },
   {
     "Id": 121,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 2,
     "Index": 1,
@@ -225,6 +241,7 @@
   },
   {
     "Id": 122,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 2,
     "Index": 2,
@@ -239,6 +256,7 @@
   },
   {
     "Id": 123,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 2,
     "Index": 3,
@@ -253,6 +271,7 @@
   },
   {
     "Id": 131,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 3,
     "Index": 1,
@@ -267,6 +286,7 @@
   },
   {
     "Id": 132,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 3,
     "Index": 2,
@@ -281,6 +301,7 @@
   },
   {
     "Id": 133,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 3,
     "Index": 3,
@@ -295,6 +316,7 @@
   },
   {
     "Id": 141,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 4,
     "Index": 1,
@@ -309,6 +331,7 @@
   },
   {
     "Id": 142,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 4,
     "Index": 2,
@@ -323,6 +346,7 @@
   },
   {
     "Id": 143,
+    "IsForceNotForSale": false,
     "YardIdInt": 1,
     "SlotId": 4,
     "Index": 3,
@@ -337,6 +361,7 @@
   },
   {
     "Id": 211,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 1,
     "Index": 1,
@@ -351,6 +376,7 @@
   },
   {
     "Id": 212,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 1,
     "Index": 2,
@@ -365,6 +391,7 @@
   },
   {
     "Id": 213,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 1,
     "Index": 3,
@@ -379,6 +406,7 @@
   },
   {
     "Id": 221,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 2,
     "Index": 1,
@@ -393,6 +421,7 @@
   },
   {
     "Id": 222,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 2,
     "Index": 2,
@@ -407,6 +436,7 @@
   },
   {
     "Id": 223,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 2,
     "Index": 3,
@@ -421,6 +451,7 @@
   },
   {
     "Id": 231,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 3,
     "Index": 1,
@@ -435,6 +466,7 @@
   },
   {
     "Id": 232,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 3,
     "Index": 2,
@@ -449,6 +481,7 @@
   },
   {
     "Id": 233,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 3,
     "Index": 3,
@@ -463,6 +496,7 @@
   },
   {
     "Id": 241,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 4,
     "Index": 1,
@@ -477,6 +511,7 @@
   },
   {
     "Id": 242,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 4,
     "Index": 2,
@@ -491,6 +526,7 @@
   },
   {
     "Id": 243,
+    "IsForceNotForSale": false,
     "YardIdInt": 2,
     "SlotId": 4,
     "Index": 3,
@@ -505,6 +541,7 @@
   },
   {
     "Id": 311,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 1,
     "Index": 1,
@@ -519,6 +556,7 @@
   },
   {
     "Id": 312,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 1,
     "Index": 2,
@@ -533,6 +571,7 @@
   },
   {
     "Id": 313,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 1,
     "Index": 3,
@@ -547,6 +586,7 @@
   },
   {
     "Id": 321,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 2,
     "Index": 1,
@@ -561,6 +601,7 @@
   },
   {
     "Id": 322,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 2,
     "Index": 2,
@@ -575,6 +616,7 @@
   },
   {
     "Id": 323,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 2,
     "Index": 3,
@@ -589,6 +631,7 @@
   },
   {
     "Id": 331,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 3,
     "Index": 1,
@@ -603,6 +646,7 @@
   },
   {
     "Id": 332,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 3,
     "Index": 2,
@@ -617,6 +661,7 @@
   },
   {
     "Id": 333,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 3,
     "Index": 3,
@@ -631,6 +676,7 @@
   },
   {
     "Id": 341,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 4,
     "Index": 1,
@@ -645,6 +691,7 @@
   },
   {
     "Id": 342,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 4,
     "Index": 2,
@@ -659,6 +706,7 @@
   },
   {
     "Id": 343,
+    "IsForceNotForSale": false,
     "YardIdInt": 3,
     "SlotId": 4,
     "Index": 3,
@@ -673,6 +721,7 @@
   },
   {
     "Id": 411,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 1,
     "Index": 1,
@@ -689,6 +738,7 @@
   },
   {
     "Id": 412,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 1,
     "Index": 2,
@@ -705,6 +755,7 @@
   },
   {
     "Id": 413,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 1,
     "Index": 3,
@@ -721,6 +772,7 @@
   },
   {
     "Id": 421,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 2,
     "Index": 1,
@@ -735,6 +787,7 @@
   },
   {
     "Id": 422,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 2,
     "Index": 2,
@@ -749,6 +802,7 @@
   },
   {
     "Id": 423,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 2,
     "Index": 3,
@@ -763,6 +817,7 @@
   },
   {
     "Id": 431,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 3,
     "Index": 1,
@@ -777,6 +832,7 @@
   },
   {
     "Id": 432,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 3,
     "Index": 2,
@@ -791,6 +847,7 @@
   },
   {
     "Id": 433,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 3,
     "Index": 3,
@@ -805,6 +862,7 @@
   },
   {
     "Id": 441,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 4,
     "Index": 1,
@@ -819,6 +877,7 @@
   },
   {
     "Id": 442,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 4,
     "Index": 2,
@@ -833,6 +892,7 @@
   },
   {
     "Id": 443,
+    "IsForceNotForSale": false,
     "YardIdInt": 4,
     "SlotId": 4,
     "Index": 3,
@@ -847,6 +907,7 @@
   },
   {
     "Id": 511,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 1,
     "Index": 1,
@@ -861,6 +922,7 @@
   },
   {
     "Id": 512,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 1,
     "Index": 2,
@@ -875,6 +937,7 @@
   },
   {
     "Id": 513,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 1,
     "Index": 3,
@@ -889,6 +952,7 @@
   },
   {
     "Id": 521,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 2,
     "Index": 1,
@@ -903,6 +967,7 @@
   },
   {
     "Id": 522,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 2,
     "Index": 2,
@@ -917,6 +982,7 @@
   },
   {
     "Id": 523,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 2,
     "Index": 3,
@@ -931,6 +997,7 @@
   },
   {
     "Id": 531,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 3,
     "Index": 1,
@@ -951,6 +1018,7 @@
   },
   {
     "Id": 532,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 3,
     "Index": 2,
@@ -971,6 +1039,7 @@
   },
   {
     "Id": 533,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 3,
     "Index": 3,
@@ -991,6 +1060,7 @@
   },
   {
     "Id": 541,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 4,
     "Index": 1,
@@ -1007,6 +1077,7 @@
   },
   {
     "Id": 542,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 4,
     "Index": 2,
@@ -1023,6 +1094,7 @@
   },
   {
     "Id": 543,
+    "IsForceNotForSale": false,
     "YardIdInt": 5,
     "SlotId": 4,
     "Index": 3,
@@ -1039,6 +1111,7 @@
   },
   {
     "Id": 611,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 1,
     "Index": 1,
@@ -1053,6 +1126,7 @@
   },
   {
     "Id": 612,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 1,
     "Index": 2,
@@ -1067,6 +1141,7 @@
   },
   {
     "Id": 613,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 1,
     "Index": 3,
@@ -1081,6 +1156,7 @@
   },
   {
     "Id": 621,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 2,
     "Index": 1,
@@ -1095,6 +1171,7 @@
   },
   {
     "Id": 622,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 2,
     "Index": 2,
@@ -1109,6 +1186,7 @@
   },
   {
     "Id": 623,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 2,
     "Index": 3,
@@ -1123,6 +1201,7 @@
   },
   {
     "Id": 631,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 3,
     "Index": 1,
@@ -1137,6 +1216,7 @@
   },
   {
     "Id": 632,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 3,
     "Index": 2,
@@ -1151,6 +1231,7 @@
   },
   {
     "Id": 633,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 3,
     "Index": 3,
@@ -1165,6 +1246,7 @@
   },
   {
     "Id": 641,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 4,
     "Index": 1,
@@ -1179,6 +1261,7 @@
   },
   {
     "Id": 642,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 4,
     "Index": 2,
@@ -1193,6 +1276,7 @@
   },
   {
     "Id": 643,
+    "IsForceNotForSale": false,
     "YardIdInt": 6,
     "SlotId": 4,
     "Index": 3,
@@ -1207,6 +1291,7 @@
   },
   {
     "Id": 711,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 1,
     "Index": 1,
@@ -1221,6 +1306,7 @@
   },
   {
     "Id": 712,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 1,
     "Index": 2,
@@ -1235,6 +1321,7 @@
   },
   {
     "Id": 713,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 1,
     "Index": 3,
@@ -1249,6 +1336,7 @@
   },
   {
     "Id": 721,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 2,
     "Index": 1,
@@ -1263,6 +1351,7 @@
   },
   {
     "Id": 722,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 2,
     "Index": 2,
@@ -1277,6 +1366,7 @@
   },
   {
     "Id": 723,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 2,
     "Index": 3,
@@ -1291,6 +1381,7 @@
   },
   {
     "Id": 731,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 3,
     "Index": 1,
@@ -1305,6 +1396,7 @@
   },
   {
     "Id": 732,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 3,
     "Index": 2,
@@ -1319,6 +1411,7 @@
   },
   {
     "Id": 733,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 3,
     "Index": 3,
@@ -1333,6 +1426,7 @@
   },
   {
     "Id": 741,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 4,
     "Index": 1,
@@ -1347,6 +1441,7 @@
   },
   {
     "Id": 742,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 4,
     "Index": 2,
@@ -1361,6 +1456,7 @@
   },
   {
     "Id": 743,
+    "IsForceNotForSale": false,
     "YardIdInt": 7,
     "SlotId": 4,
     "Index": 3,
@@ -1375,6 +1471,7 @@
   },
   {
     "Id": 811,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 1,
     "Index": 1,
@@ -1391,6 +1488,7 @@
   },
   {
     "Id": 812,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 1,
     "Index": 2,
@@ -1407,6 +1505,7 @@
   },
   {
     "Id": 813,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 1,
     "Index": 3,
@@ -1423,6 +1522,7 @@
   },
   {
     "Id": 821,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 2,
     "Index": 1,
@@ -1443,6 +1543,7 @@
   },
   {
     "Id": 822,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 2,
     "Index": 2,
@@ -1463,6 +1564,7 @@
   },
   {
     "Id": 823,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 2,
     "Index": 3,
@@ -1483,6 +1585,7 @@
   },
   {
     "Id": 831,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 3,
     "Index": 1,
@@ -1497,6 +1600,7 @@
   },
   {
     "Id": 832,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 3,
     "Index": 2,
@@ -1511,6 +1615,7 @@
   },
   {
     "Id": 833,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 3,
     "Index": 3,
@@ -1525,6 +1630,7 @@
   },
   {
     "Id": 841,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 4,
     "Index": 1,
@@ -1539,6 +1645,7 @@
   },
   {
     "Id": 842,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 4,
     "Index": 2,
@@ -1553,6 +1660,7 @@
   },
   {
     "Id": 843,
+    "IsForceNotForSale": false,
     "YardIdInt": 8,
     "SlotId": 4,
     "Index": 3,
@@ -1561,6 +1669,192 @@
     ],
     "SpriteNames": [
       "12_c4_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 911,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 1,
+    "Index": 1,
+    "BgPartNames": [
+      "Pool"
+    ],
+    "SpriteNames": [
+      "02_c1_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 912,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 1,
+    "Index": 2,
+    "BgPartNames": [
+      "Pool"
+    ],
+    "SpriteNames": [
+      "02_c1_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 913,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 1,
+    "Index": 3,
+    "BgPartNames": [
+      "Pool"
+    ],
+    "SpriteNames": [
+      "02_c1_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 921,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 2,
+    "Index": 1,
+    "BgPartNames": [
+      "Wall"
+    ],
+    "SpriteNames": [
+      "04_c2_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 922,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 2,
+    "Index": 2,
+    "BgPartNames": [
+      "Wall"
+    ],
+    "SpriteNames": [
+      "04_c2_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 923,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 2,
+    "Index": 3,
+    "BgPartNames": [
+      "Wall"
+    ],
+    "SpriteNames": [
+      "04_c2_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 931,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 3,
+    "Index": 1,
+    "BgPartNames": [
+      "Floor",
+      "Floor2"
+    ],
+    "SpriteNames": [
+      "05_c3_1",
+      "06_c3_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 932,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 3,
+    "Index": 2,
+    "BgPartNames": [
+      "Floor",
+      "Floor2"
+    ],
+    "SpriteNames": [
+      "05_c3_2",
+      "06_c3_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 933,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 3,
+    "Index": 3,
+    "BgPartNames": [
+      "Floor",
+      "Floor2"
+    ],
+    "SpriteNames": [
+      "05_c3_3",
+      "06_c3_3"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 941,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 4,
+    "Index": 1,
+    "BgPartNames": [
+      "Entrance"
+    ],
+    "SpriteNames": [
+      "07_c4_1"
+    ],
+    "Silver": -1,
+    "Gold": -1
+  },
+  {
+    "Id": 942,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 4,
+    "Index": 2,
+    "BgPartNames": [
+      "Entrance"
+    ],
+    "SpriteNames": [
+      "07_c4_2"
+    ],
+    "Silver": 5000,
+    "Gold": 100
+  },
+  {
+    "Id": 943,
+    "IsForceNotForSale": true,
+    "YardIdInt": 9,
+    "SlotId": 4,
+    "Index": 3,
+    "BgPartNames": [
+      "Entrance"
+    ],
+    "SpriteNames": [
+      "07_c4_3"
     ],
     "Silver": 5000,
     "Gold": 100
