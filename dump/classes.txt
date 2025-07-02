@@ -10,6 +10,7 @@ App.AlbumNameCell
 App.AlbumPhotoListPanel
 App.AlbumScene
 App.AlbumSceneUtil
+App.AndroidUtil
 App.AppSoundSettings
 App.AppUrl
 App.AppUtil
@@ -156,6 +157,8 @@ App.HelpContent
 App.HelpPowerUtil
 App.HelpRecord
 App.HelpScene
+App.HpJavaToUnityCallback
+App.HpJavaToUnityCallbackExtensions
 App.IAdData
 App.IKeyFsm
 App.ILabelSelector
@@ -286,6 +289,7 @@ App.OtherCat
 App.OtherCatAnimeEnv
 App.OtherPlaceAttributeExtensions
 App.OtherPlaceConfig
+App.OtherPlaceConfigGizmo
 App.OtherPlaceConfigSync
 App.OtherPlaceConfigs
 App.PageView
@@ -294,6 +298,7 @@ App.Panel2
 App.PanelStack
 App.PanelUtil
 App.PanoramaPhotoSavePanel
+App.PartsSlotIdUtil
 App.PauseLoader
 App.PhoneUtil
 App.PhotoBuildQueue
@@ -310,6 +315,7 @@ App.PhotoUtil
 App.PhotoUtil.ImageParam
 App.PlaceAttributeExtensions
 App.PlaceConfig
+App.PlaceConfigGizmo
 App.PlaceConfigSync
 App.PlaceConfigs
 App.PlaySpaceLottery
@@ -324,6 +330,7 @@ App.PopupLauncher
 App.PopupMyneko
 App.PopupText
 App.PopupTextScroll
+App.PositionEditor
 App.PrefabId
 App.PressButton
 App.PurchaseCurrencyUtil
@@ -460,6 +467,8 @@ App.ShotOrientationExtensions
 App.ShotUi
 App.ShowWeb
 App.Sku
+App.SkuIdUtil
+App.SkuStr
 App.SliderExtensions.SliderExtensions
 App.SliderUtil
 App.SnowCalender
@@ -472,6 +481,7 @@ App.SpecialFlagUtil
 App.SpecialGoodsRecord
 App.SpriteAtlasId
 App.SpriteId
+App.SpritePositionEditor
 App.SpriteRendererExtensions
 App.SpriteUtil
 App.StackFsm
@@ -550,6 +560,7 @@ App.UnitySceneExtensions
 App.UnityServicesUtil
 App.UnityTestScene
 App.ViewConfig
+App.ViewConfigGizmo
 App.WallpaperCell
 App.WallpaperChecker
 App.WallpaperDetailUi
@@ -708,6 +719,7 @@ HpLib.JsonUtilityExtension.JsonUtilityExtension
 HpLib.KeyValueList
 HpLib.LimitedQueue
 HpLib.LinearLayoutDrawer
+HpLib.ListExtensions.LinkedListExtensions
 HpLib.ListExtensions.ListExtensions
 HpLib.Log
 HpLib.Log.DisableScope

@@ -37,6 +37,8 @@ public enum GoodsId
 	public const GoodsId ChirimenCushion = 128;
 	public const GoodsId SakuraCushion = 129;
 	public const GoodsId ShirayukiCushion = 131;
+	public const GoodsId IgusaZabutonRed = 132;
+	public const GoodsId IgusaZabutonNavy = 133;
 	public const GoodsId PineCushion = 136;
 	public const GoodsId JapaneseCypressCushion = 137;
 	public const GoodsId CushionBeige = 138;
@@ -50,6 +52,7 @@ public enum GoodsId
 	public const GoodsId FluffyBedWhite = 152;
 	public const GoodsId StumpHouse = 160;
 	public const GoodsId BambooTubeHouse = 161;
+	public const GoodsId UltraCoolAluminumPlate = 164;
 	public const GoodsId AluminumBowl = 165;
 	public const GoodsId AluminumPot = 166;
 	public const GoodsId FluffyCushion = 170;
