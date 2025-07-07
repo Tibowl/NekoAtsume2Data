@@ -103,7 +103,7 @@
   },
   {
     "Id": 9,
-    "IsForceNotForSale": true,
+    "IsForceNotForSale": false,
     "Silver": 15000,
     "Gold": 300
   }

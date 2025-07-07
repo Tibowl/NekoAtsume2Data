@@ -1095,7 +1095,7 @@
   {
     "Id": 132,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_igusa_aka"
@@ -1130,7 +1130,7 @@
   {
     "Id": 133,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_igusa_kon"
@@ -1620,7 +1620,7 @@
   {
     "Id": 164,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_alumi"
@@ -2613,7 +2613,7 @@
   {
     "Id": 210,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_tento_2"
@@ -4846,8 +4846,7 @@
     "SellableMonths": [
       3,
       4,
-      5,
-      6
+      5
     ],
     "UnlockGoods": null,
     "WarningKey": null
@@ -4887,8 +4886,7 @@
     "SellableMonths": [
       3,
       4,
-      5,
-      6
+      5
     ],
     "UnlockGoods": null,
     "WarningKey": null

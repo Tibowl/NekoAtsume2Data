@@ -8,6 +8,7 @@
     "YardName6": "스위트 가든",
     "YardName7": "카페공간",
     "YardName8": "꽃 정원",
+    "YardName9": "고양이 리조트",
     "YardGoodsName11": "돗자리①",
     "YardGoodsName12": "돗자리②",
     "YardGoodsName13": "돗자리③",
@@ -115,5 +116,17 @@
     "YardGoodsName833": "벽③",
     "YardGoodsName841": "바닥①",
     "YardGoodsName842": "바닥②",
-    "YardGoodsName843": "바닥③"
+    "YardGoodsName843": "바닥③",
+    "YardGoodsName911": "배경①",
+    "YardGoodsName912": "배경②",
+    "YardGoodsName913": "배경③",
+    "YardGoodsName921": "벽①",
+    "YardGoodsName922": "벽②",
+    "YardGoodsName923": "벽③",
+    "YardGoodsName931": "지붕 & 실내①",
+    "YardGoodsName932": "지붕 & 실내①",
+    "YardGoodsName933": "지붕 & 실내①",
+    "YardGoodsName941": "데크①",
+    "YardGoodsName942": "데크②",
+    "YardGoodsName943": "데크③"
 }

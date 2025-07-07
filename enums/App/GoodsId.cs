@@ -132,6 +132,15 @@ public enum GoodsId
 	public const GoodsId CatMacaroonPpink = 300;
 	public const GoodsId Tissue = 304;
 	public const GoodsId ResortBed = 323;
+	public const GoodsId OmiyageTest1 = 3000;
+	public const GoodsId OmiyageTest2 = 3001;
+	public const GoodsId OmiyageTest3 = 3002;
+	public const GoodsId OmiyageTest4 = 3003;
+	public const GoodsId CompleteTest1 = 3004;
+	public const GoodsId OmiyageTest5 = 3005;
+	public const GoodsId OmiyageTest6 = 3006;
+	public const GoodsId OmiyageTest7 = 3007;
+	public const GoodsId CompleteTest2 = 3008;
 	public const GoodsId Ground1 = 5000;
 	public const GoodsId MynekoGround = 5001;
 	public const GoodsId FollowGround = 5002;

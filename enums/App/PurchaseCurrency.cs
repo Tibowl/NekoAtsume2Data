@@ -11,6 +11,7 @@ public enum PurchaseCurrency
 	public const PurchaseCurrency StampCard = 4;
 	public const PurchaseCurrency Coin = 8;
 	public const PurchaseCurrency OmiyageVoucher = 16;
+	public const PurchaseCurrency Iap = 32;
 	public const PurchaseCurrency AllFish = 3;
 	public const PurchaseCurrency AkindoShop = 24;
 }

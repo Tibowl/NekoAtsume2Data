@@ -14,10 +14,11 @@
         4,
         5,
         6,
-        7,
-        13,
-        14,
-        15
+        8,
+        9,
+        15,
+        16,
+        17
       ]
     },
     {
@@ -38,16 +39,25 @@
       ]
     },
     {
+      "name": "IapPrice",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Price"
+    },
+    {
       "name": "New"
     },
     {
       "name": "LimitedTime",
       "children": [
-        8,
-        9,
         10,
         11,
-        12
+        12,
+        13,
+        14
       ]
     },
     {
@@ -72,7 +82,13 @@
       "name": "Stamp"
     },
     {
-      "name": "Mask"
+      "name": "Mask",
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "LockIcon"
     }
   ],
   "scene": 0,
