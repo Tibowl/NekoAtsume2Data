@@ -4,9 +4,9 @@
       "name": "ShopPage",
       "children": [
         1,
-        17,
-        33,
-        49
+        20,
+        39,
+        58
       ]
     },
     {
@@ -23,87 +23,14 @@
         5,
         6,
         7,
-        8,
-        14,
-        15,
-        16
-      ]
-    },
-    {
-      "name": "Size"
-    },
-    {
-      "name": "Icon"
-    },
-    {
-      "name": "Count"
-    },
-    {
-      "name": "Price",
-      "scale": [
-        1,
-        1.2,
-        1
-      ]
-    },
-    {
-      "name": "New"
-    },
-    {
-      "name": "LimitedTime",
-      "children": [
         9,
         10,
-        11,
-        12,
-        13
-      ]
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "Text"
-    },
-    {
-      "name": "Stamp"
-    },
-    {
-      "name": "Mask"
-    },
-    {
-      "name": "ShopCell1",
-      "children": [
+        16,
+        17,
         18
       ]
     },
     {
-      "name": "Window",
-      "children": [
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        30,
-        31,
-        32
-      ]
-    },
-    {
       "name": "Size"
     },
     {
@@ -121,16 +48,25 @@
       ]
     },
     {
+      "name": "IapPrice",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Price"
+    },
+    {
       "name": "New"
     },
     {
       "name": "LimitedTime",
       "children": [
-        25,
-        26,
-        27,
-        28,
-        29
+        11,
+        12,
+        13,
+        14,
+        15
       ]
     },
     {
@@ -155,26 +91,33 @@
       "name": "Stamp"
     },
     {
-      "name": "Mask"
+      "name": "Mask",
+      "children": [
+        19
+      ]
     },
     {
-      "name": "ShopCell2",
+      "name": "LockIcon"
+    },
+    {
+      "name": "ShopCell1",
       "children": [
-        34
+        21
       ]
     },
     {
       "name": "Window",
       "children": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
         35,
         36,
-        37,
-        38,
-        39,
-        40,
-        46,
-        47,
-        48
+        37
       ]
     },
     {
@@ -195,60 +138,76 @@
       ]
     },
     {
+      "name": "IapPrice",
+      "children": [
+        27
+      ]
+    },
+    {
+      "name": "Price"
+    },
+    {
       "name": "New"
     },
     {
       "name": "LimitedTime",
+      "children": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Mask",
+      "children": [
+        38
+      ]
+    },
+    {
+      "name": "LockIcon"
+    },
+    {
+      "name": "ShopCell2",
+      "children": [
+        40
+      ]
+    },
+    {
+      "name": "Window",
       "children": [
         41,
         42,
         43,
         44,
-        45
-      ]
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "LimitedTime"
-    },
-    {
-      "name": "Text"
-    },
-    {
-      "name": "Stamp"
-    },
-    {
-      "name": "Mask"
-    },
-    {
-      "name": "ShopCell3",
-      "children": [
-        50
-      ]
-    },
-    {
-      "name": "Window",
-      "children": [
-        51,
-        52,
-        53,
+        45,
+        47,
+        48,
         54,
         55,
-        56,
-        62,
-        63,
-        64
+        56
       ]
     },
     {
@@ -269,16 +228,25 @@
       ]
     },
     {
+      "name": "IapPrice",
+      "children": [
+        46
+      ]
+    },
+    {
+      "name": "Price"
+    },
+    {
       "name": "New"
     },
     {
       "name": "LimitedTime",
       "children": [
-        57,
-        58,
-        59,
-        60,
-        61
+        49,
+        50,
+        51,
+        52,
+        53
       ]
     },
     {
@@ -303,7 +271,103 @@
       "name": "Stamp"
     },
     {
-      "name": "Mask"
+      "name": "Mask",
+      "children": [
+        57
+      ]
+    },
+    {
+      "name": "LockIcon"
+    },
+    {
+      "name": "ShopCell3",
+      "children": [
+        59
+      ]
+    },
+    {
+      "name": "Window",
+      "children": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        66,
+        67,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "name": "Size"
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Count"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.2,
+        1
+      ]
+    },
+    {
+      "name": "IapPrice",
+      "children": [
+        65
+      ]
+    },
+    {
+      "name": "Price"
+    },
+    {
+      "name": "New"
+    },
+    {
+      "name": "LimitedTime",
+      "children": [
+        68,
+        69,
+        70,
+        71,
+        72
+      ]
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "LimitedTime"
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Mask",
+      "children": [
+        76
+      ]
+    },
+    {
+      "name": "LockIcon"
     }
   ],
   "scene": 0,

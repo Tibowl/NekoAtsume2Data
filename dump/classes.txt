@@ -300,6 +300,7 @@ App.PanelUtil
 App.PanoramaPhotoSavePanel
 App.PartsSlotIdUtil
 App.PauseLoader
+App.PendingTx
 App.PhoneUtil
 App.PhotoBuildQueue
 App.PhotoCamera
@@ -446,6 +447,7 @@ App.ServerTimeUpdater
 App.Settings
 App.Settings.FlagsMember
 App.Settings.SettingFlags
+App.ShinobuUtil
 App.ShopAkindoCommonUi
 App.ShopAkindoIapUi
 App.ShopAkindoMainUi
@@ -615,6 +617,7 @@ HpLib.Anime.AnimeModuleData
 HpLib.Anime.AnimeSequenceData
 HpLib.Anime.AnimeSpriteData
 HpLib.Anime.IXmlAnimeGraphic
+HpLib.Anime.MyLabelAttribute
 HpLib.Anime.Texture2dLoader
 HpLib.Anime.VerticesOrder
 HpLib.Anime.XmlAnime

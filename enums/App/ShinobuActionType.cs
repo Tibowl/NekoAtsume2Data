@@ -7,4 +7,5 @@ public enum ShinobuActionType
 	public const ShinobuActionType Teisatsu = 0;
 	public const ShinobuActionType OnmitsuRight = 1;
 	public const ShinobuActionType OnmitsuLeft = 2;
+	public const ShinobuActionType OnmitsuRight2 = 3;
 }
