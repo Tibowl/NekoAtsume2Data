@@ -54,6 +54,7 @@ public enum GoodsJaId
 	public const GoodsJaId 極冷アルミプレート = 164;
 	public const GoodsJaId アルミボウル = 165;
 	public const GoodsJaId アルミポット = 166;
+	public const GoodsJaId マンタマット = 168;
 	public const GoodsJaId もこもこクッション = 170;
 	public const GoodsJaId ウメクッション紅 = 171;
 	public const GoodsJaId 桜餅クッション = 176;
@@ -66,6 +67,8 @@ public enum GoodsJaId
 	public const GoodsJaId メロンコクーン = 190;
 	public const GoodsJaId ベリーコクーン = 191;
 	public const GoodsJaId いちごコクーン = 192;
+	public const GoodsJaId たまごベッドﾎﾜｲﾄ = 193;
+	public const GoodsJaId たまごベッドﾌﾞﾗｯｸ = 194;
 	public const GoodsJaId たまごベッドﾋﾟﾝｸ = 195;
 	public const GoodsJaId たまごベッド夜 = 196;
 	public const GoodsJaId 高級クッション = 197;
@@ -86,6 +89,7 @@ public enum GoodsJaId
 	public const GoodsJaId ぼんぼんくつした = 216;
 	public const GoodsJaId ビーチパラソル = 222;
 	public const GoodsJaId _２段式タワー = 224;
+	public const GoodsJaId アスレチックタワー = 226;
 	public const GoodsJaId アスレチックEX = 227;
 	public const GoodsJaId ビッグスイーツタワー = 230;
 	public const GoodsJaId 壷つき和箪笥 = 231;

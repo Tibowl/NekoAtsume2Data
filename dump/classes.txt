@@ -138,12 +138,13 @@ App.GoodsIconUtil
 App.GoodsIdUtil
 App.GoodsList
 App.GoodsOpImage
-App.GoodsOpPanel
 App.GoodsOpPanel2
 App.GoodsRebuy
 App.GoodsRecord
 App.GoodsRepair
 App.GoodsScene
+App.GoodsSceneArgs
+App.GoodsSceneDebugArgs
 App.GoodsWarningButton
 App.GridBorder
 App.GridCell
@@ -175,7 +176,7 @@ App.IStopwatch
 App.ITimeWeather
 App.IUserCameraSettings
 App.IWeather
-App.IYardSetMode
+App.IYardPlaceMode
 App.ImageSwitcher
 App.ImageUtil
 App.ImmutableBuilder
@@ -201,6 +202,7 @@ App.LetterRecord
 App.LetterRewardIdExtensions
 App.LoadPolicyUtil
 App.LoadResultExtensions
+App.LoadingPanel
 App.LoadingScene
 App.LocalizationUtil
 App.LocalizeSpriteAddressEvent
@@ -236,6 +238,7 @@ App.MyMessagePack
 App.MyMessagePack.Option
 App.MyMessagePack.Resolver
 App.MyPlayerPrefsUtil
+App.MyPurchasingModule
 App.MyRemoteConfig
 App.MySaveSlotPaths
 App.MyScrollRect
@@ -377,6 +380,7 @@ App.Save.GoodsStateUtil
 App.Save.ICatNote
 App.Save.IGoodsStatus
 App.Save.IPhotoPart
+App.Save.IapPlatformUtil
 App.Save.Inventory
 App.Save.InvitationData
 App.Save.LabelColorList
@@ -407,6 +411,7 @@ App.Save.SaveDataGift
 App.Save.SaveDataGoods
 App.Save.SaveDataGoodsOnYard
 App.Save.SaveDataGoodsSpecial
+App.Save.SaveDataItem
 App.Save.SaveDataMementos
 App.Save.SaveDataMyneko
 App.Save.SaveDataNekonote
@@ -452,6 +457,8 @@ App.ShopAkindoCommonUi
 App.ShopAkindoIapUi
 App.ShopAkindoMainUi
 App.ShopAkindoScene
+App.ShopAkindoSceneArgs
+App.ShopAkindoSceneDebugArgs
 App.ShopCell
 App.ShopFilterWindow
 App.ShopGoldScene
@@ -460,6 +467,8 @@ App.ShopMainUi
 App.ShopPage
 App.ShopPurchase
 App.ShopScene
+App.ShopSceneArgs
+App.ShopSceneDebugArgs
 App.ShotButtons
 App.ShotFrame
 App.ShotFrame3d
@@ -543,6 +552,8 @@ App.TravelFavoriteCell
 App.TravelFavoritePanel
 App.TravelMainPanel
 App.TravelScene
+App.TravelSceneArgs
+App.TravelSceneDebugArgs
 App.TravelSharePanel
 App.TravelStampPanel
 App.TravelTicketCell
@@ -582,8 +593,12 @@ App.YardFigurePanel
 App.YardGoodsIdUtil
 App.YardGoodsRecord
 App.YardIdUtil
+App.YardInitialStateUtil
 App.YardMainUi
 App.YardPlace
+App.YardPlaceModeFromAkindo
+App.YardPlaceModeFromGoods
+App.YardPlaceModeFromShop
 App.YardPlacePositionGizmo
 App.YardPlacePositionGizmoStateUtil
 App.YardPos
@@ -593,11 +608,10 @@ App.YardPos.Goods
 App.YardProgress
 App.YardRangeUtil
 App.YardRecord
-App.YardRepairPanel
 App.YardRepairPanel2
 App.YardScene
-App.YardSceneGoodsSetMode
-App.YardSceneShopSetMode
+App.YardSceneArgs
+App.YardSceneDebugArgs
 App.YardUtil
 App.YubiEffect
 App.YubiEffectWorld
@@ -666,6 +680,7 @@ HpLib.DropOutStackAlt
 HpLib.EnumCounterStates
 HpLib.EnumEquatable
 HpLib.EnumExtensions.EnumExtensions
+HpLib.EnumFlagsExtensions.EnumFlagsExtensions
 HpLib.EnumHandlers
 HpLib.EnumStateSet
 HpLib.EnumStates
@@ -819,6 +834,7 @@ MyDebug.ButtonScrollPanelFactory
 MyDebug.DebugButton
 MyDebug.DebugFetchTransfer
 MyDebug.DebugIapInfoPanel
+MyDebug.DebugItemConfigScreen
 MyDebug.DebugMenu
 MyDebug.DebugPhotoSavePanel
 MyDebug.DebugTapEffect

@@ -12,10 +12,10 @@ public enum TutorialProgress
 	public const TutorialProgress shop2 = 5;
 	public const TutorialProgress shop3 = 6;
 	public const TutorialProgress shopEnd = 7;
-	public const TutorialProgress setStart = 8;
-	public const TutorialProgress set2 = 9;
-	public const TutorialProgress set3 = 10;
-	public const TutorialProgress setEnd = 11;
+	public const TutorialProgress placeStart = 8;
+	public const TutorialProgress place2 = 9;
+	public const TutorialProgress place3 = 10;
+	public const TutorialProgress placeEnd = 11;
 	public const TutorialProgress loadEnd = 12;
 	public const TutorialProgress End = 20;
 }

@@ -55,6 +55,7 @@ public enum GoodsId
 	public const GoodsId UltraCoolAluminumPlate = 164;
 	public const GoodsId AluminumBowl = 165;
 	public const GoodsId AluminumPot = 166;
+	public const GoodsId MantaGelMat = 168;
 	public const GoodsId FluffyCushion = 170;
 	public const GoodsId UmeCushionRed = 171;
 	public const GoodsId SakuraMochiCushion = 176;
@@ -68,6 +69,8 @@ public enum GoodsId
 	public const GoodsId MelonCocoon = 190;
 	public const GoodsId BerryCocoon = 191;
 	public const GoodsId StrawberryCocoon = 192;
+	public const GoodsId EggBedWhite = 193;
+	public const GoodsId EggBedBlack = 194;
 	public const GoodsId EggBedPink = 195;
 	public const GoodsId EggBedNight = 196;
 	public const GoodsId LuxuryCushion = 197;
@@ -90,6 +93,7 @@ public enum GoodsId
 	public const GoodsId FairyTaleParasol = 223;
 	public const GoodsId Tower2 = 224;
 	public const GoodsId Tower3 = 225;
+	public const GoodsId AthleticTower = 226;
 	public const GoodsId AthleticEX = 227;
 	public const GoodsId BigSweetsTower = 230;
 	public const GoodsId BureauWithPot = 231;
