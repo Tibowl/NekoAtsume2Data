@@ -1726,7 +1726,7 @@
   {
     "Id": 168,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03manta"
@@ -2193,7 +2193,7 @@
   {
     "Id": 193,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_cocoon_green"
@@ -2228,7 +2228,7 @@
   {
     "Id": 194,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_cocoon_modern"
@@ -2966,7 +2966,7 @@
   {
     "Id": 226,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tower_athletic"
@@ -5142,6 +5142,330 @@
       8
     ],
     "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3000,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_gum"
+    ],
+    "AnimeXmls": [
+      "01ball_gum"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3000,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 2,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 10,
+    "OmiyageVoucher": 1,
+    "IapId": 1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3001,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_gum_ki"
+    ],
+    "AnimeXmls": [
+      "01ball_gum_ki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3001,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 20,
+    "OmiyageVoucher": 1,
+    "IapId": 2,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3002,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_gum_ao"
+    ],
+    "AnimeXmls": [
+      "01ball_gum_ao"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3002,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 30,
+    "OmiyageVoucher": 1,
+    "IapId": 3,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3003,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_gum_suika"
+    ],
+    "AnimeXmls": [
+      "01ball_gum_suika"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3003,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 44,
+    "OmiyageVoucher": 1,
+    "IapId": 4,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3004,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_beach_ball"
+    ],
+    "AnimeXmls": [
+      "01ball_beach_ball"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3004,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 0,
+    "OmiyageVoucher": 0,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": [
+      3000,
+      3001,
+      3002,
+      3003
+    ],
+    "WarningKey": null
+  },
+  {
+    "Id": 3005,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_pingpong"
+    ],
+    "AnimeXmls": [
+      "01ball_pingpong"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3005,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 55,
+    "OmiyageVoucher": 2,
+    "IapId": 5,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3006,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_soccer"
+    ],
+    "AnimeXmls": [
+      "01ball_soccer"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3006,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 66,
+    "OmiyageVoucher": 3,
+    "IapId": 6,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3007,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_mochi"
+    ],
+    "AnimeXmls": [
+      "01ball_mochi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3007,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 77,
+    "OmiyageVoucher": 4,
+    "IapId": 7,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 3008,
+    "IsForceNotForSale": false,
+    "IsNew": false,
+    "Attribute": 0,
+    "AnimePngs": [
+      "01ball_keito"
+    ],
+    "AnimeXmls": [
+      "01ball_keito"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 3008,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": -1,
+    "Silver": -1,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": 0,
+    "OmiyageVoucher": 0,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": [
+      3005,
+      3006,
+      3007
+    ],
     "WarningKey": null
   },
   {

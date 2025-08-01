@@ -51,6 +51,7 @@ public enum AlbumId
 	public const AlbumId Tobigara = 43;
 	public const AlbumId SiroOdd = 44;
 	public const AlbumId Gold = 45;
+	public const AlbumId Spot = 46;
 	public const AlbumId Tatejima = 100;
 	public const AlbumId Nagagutu = 101;
 	public const AlbumId Prince = 102;
@@ -81,6 +82,7 @@ public enum AlbumId
 	public const AlbumId Santa = 127;
 	public const AlbumId Tamago = 128;
 	public const AlbumId Omaturi = 129;
+	public const AlbumId Akindo = 130;
 	public const AlbumId Myneko1 = 701;
 	public const AlbumId Myneko2 = 702;
 	public const AlbumId Myneko3 = 703;

@@ -11,4 +11,5 @@ public enum SpecialGoodsId
 	public const SpecialGoodsId KatsuoCan3 = 104;
 	public const SpecialGoodsId MaguroCan3 = 105;
 	public const SpecialGoodsId Sashimi3 = 106;
+	public const SpecialGoodsId Voucher2 = 200;
 }

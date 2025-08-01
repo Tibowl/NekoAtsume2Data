@@ -150,6 +150,15 @@ public enum GoodsJaId
 	public const GoodsJaId エコバッグｱｲﾎﾞﾘｰ = 321;
 	public const GoodsJaId ラタンのベッド = 322;
 	public const GoodsJaId リゾートベッド = 323;
+	public const GoodsJaId おみやげテスト1 = 3000;
+	public const GoodsJaId おみやげテスト2 = 3001;
+	public const GoodsJaId おみやげテスト3 = 3002;
+	public const GoodsJaId おみやげテスト4 = 3003;
+	public const GoodsJaId コンプリートテスト1 = 3004;
+	public const GoodsJaId おみやげテスト5 = 3005;
+	public const GoodsJaId おみやげテスト6 = 3006;
+	public const GoodsJaId おみやげテスト7 = 3007;
+	public const GoodsJaId コンプリートテスト2 = 3008;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;

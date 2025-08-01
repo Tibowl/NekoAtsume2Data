@@ -11,4 +11,6 @@ public enum GameProgressId
 	public const GameProgressId HelpCount = 4;
 	public const GameProgressId MikadukiPowderUsage = 5;
 	public const GameProgressId LimitedGoodsPopupVersion = 6;
+	public const GameProgressId DailyCoinReceiveCount = 7;
+	public const GameProgressId DailyCoinReceiveDate = 8;
 }

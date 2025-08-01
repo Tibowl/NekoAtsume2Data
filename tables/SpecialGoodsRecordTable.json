@@ -5,6 +5,7 @@
     "Silver": 5000,
     "Gold": 180,
     "StampCard": -1,
+    "IapId": -1,
     "DisplayOrderInShop": 10000,
     "DisplayOrderInTrade": 0
   },
@@ -14,6 +15,7 @@
     "Silver": -1,
     "Gold": 10,
     "StampCard": -1,
+    "IapId": -1,
     "DisplayOrderInShop": 80,
     "DisplayOrderInTrade": 0
   },
@@ -23,6 +25,7 @@
     "Silver": -1,
     "Gold": 7,
     "StampCard": 1,
+    "IapId": -1,
     "DisplayOrderInShop": 0,
     "DisplayOrderInTrade": 3
   },
@@ -32,6 +35,7 @@
     "Silver": -1,
     "Gold": 17,
     "StampCard": 2,
+    "IapId": -1,
     "DisplayOrderInShop": 0,
     "DisplayOrderInTrade": 4
   },
@@ -41,6 +45,7 @@
     "Silver": -1,
     "Gold": 30,
     "StampCard": 3,
+    "IapId": -1,
     "DisplayOrderInShop": 0,
     "DisplayOrderInTrade": 5
   },
@@ -50,6 +55,17 @@
     "Silver": -1,
     "Gold": 12,
     "StampCard": -1,
+    "IapId": -1,
+    "DisplayOrderInShop": 0,
+    "DisplayOrderInTrade": 0
+  },
+  {
+    "Id": 200,
+    "LocalizedItemImage": null,
+    "Silver": -1,
+    "Gold": -1,
+    "StampCard": -1,
+    "IapId": 1000,
     "DisplayOrderInShop": 0,
     "DisplayOrderInTrade": 0
   }
