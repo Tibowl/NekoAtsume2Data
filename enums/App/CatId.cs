@@ -51,6 +51,7 @@ public enum CatId
 	public const CatId Tobigara = 43;
 	public const CatId SiroOdd = 44;
 	public const CatId Gold = 45;
+	public const CatId Spot = 46;
 	public const CatId Tatejima = 100;
 	public const CatId Nagagutu = 101;
 	public const CatId Prince = 102;
@@ -81,6 +82,7 @@ public enum CatId
 	public const CatId Santa = 127;
 	public const CatId Tamago = 128;
 	public const CatId Omaturi = 129;
+	public const CatId Akindo = 130;
 	public const CatId Myneko1 = 701;
 	public const CatId Myneko2 = 702;
 	public const CatId Myneko3 = 703;

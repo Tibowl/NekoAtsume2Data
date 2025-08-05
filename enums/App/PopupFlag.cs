@@ -6,6 +6,7 @@ public enum PopupFlag
 	public int value__; // 0x0
 	public const PopupFlag YardExpansion = 100;
 	public const PopupFlag Remodel = 101;
+	public const PopupFlag OmiyageComplete = 102;
 	public const PopupFlag LimitedGoods1 = 110;
 	public const PopupFlag LimitedGoods2 = 111;
 	public const PopupFlag Test = 500;

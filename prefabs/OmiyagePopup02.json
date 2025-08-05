@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "name": "OmiyagePopup02",
+      "children": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "Vertical",
+      "children": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Hooter"
+    },
+    {
+      "name": "MyButton",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "DefaultTextMeshPro"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

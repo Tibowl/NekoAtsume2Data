@@ -66,6 +66,7 @@
     "AskRebuy": "{0}을 다시 사시겠어요?",
     "Rebought": "{0}을 다시 샀어요",
     "AskRebuy2": "{0}으로 {1}을 다시 사시겠어요?",
+    "AskRebuy3": "{0}を{1}枚消費して\n{2}を\n買い直しますか？",
     "Category0": "전체",
     "Category1": "밥",
     "Category2": "공",

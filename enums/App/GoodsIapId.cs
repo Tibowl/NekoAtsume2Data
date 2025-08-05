@@ -12,4 +12,5 @@ public enum GoodsIapId
 	public const GoodsIapId Iap5 = 5;
 	public const GoodsIapId Iap6 = 6;
 	public const GoodsIapId Iap7 = 7;
+	public const GoodsIapId Voucher1 = 1000;
 }

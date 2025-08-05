@@ -1,6 +1,7 @@
 App.ActionId
 App.ActionId.Cat
 App.ActionId.Goods
+App.AdReward
 App.AddressabeLabelExtensions
 App.AddressableFilerUtil
 App.AlbumCharaListPanel
@@ -63,6 +64,7 @@ App.CharaPhotoList
 App.ClickDragEvent
 App.ClickDragEvent2
 App.ClickDragEvents
+App.Coin
 App.CoinView
 App.ColliderIdUtil
 App.ConnectScene
@@ -76,10 +78,14 @@ App.Const.Url
 App.ContentChanger
 App.CutHandle
 App.CutOutPanel
+App.DailyCoin
+App.DailyCoinRankUtil
 App.DatabaseBuilder
 App.DateTimeFormatterForJson
 App.DebugTimeEditor
 App.DebugTimeSlider
+App.DecoListUi
+App.DecoShopUi
 App.DeepLink
 App.DefaultToggleGroup
 App.Dialog
@@ -99,7 +105,6 @@ App.FeelingPlacement.FeelingPanel
 App.FetchResultExtensions
 App.FingerHistory
 App.FishView
-App.FixedTime
 App.Flick
 App.FlyerLottery
 App.FlyerLottery2
@@ -177,6 +182,7 @@ App.ITimeWeather
 App.IUserCameraSettings
 App.IWeather
 App.IYardPlaceMode
+App.IapEnvironment
 App.ImageSwitcher
 App.ImageUtil
 App.ImmutableBuilder
@@ -204,6 +210,7 @@ App.LoadPolicyUtil
 App.LoadResultExtensions
 App.LoadingPanel
 App.LoadingScene
+App.LocStrFactory
 App.LocalizationUtil
 App.LocalizeSpriteAddressEvent
 App.LocalizeSwitcher
@@ -223,7 +230,6 @@ App.MementoEffects
 App.MementosScene
 App.MemoryDatabase
 App.MenuAds
-App.MenuAds.AdReward
 App.MenuBg
 App.MenuButton
 App.MessagePackUtil
@@ -235,10 +241,9 @@ App.MyIapStore
 App.MyInput
 App.MyLocaleUtil
 App.MyMessagePack
+App.MyMessagePack.FormatterResolver
 App.MyMessagePack.Option
-App.MyMessagePack.Resolver
 App.MyPlayerPrefsUtil
-App.MyPurchasingModule
 App.MyRemoteConfig
 App.MySaveSlotPaths
 App.MyScrollRect
@@ -276,6 +281,8 @@ App.NewsScene
 App.NiboshiToggle
 App.NormalFishView
 App.NoteScene
+App.NoteSceneArgs
+App.NoteSceneDebugArgs
 App.NtpTime
 App.NtpTime.NtpPacket
 App.Offscreen
@@ -285,6 +292,7 @@ App.OkimonoSelect
 App.OkimonoSelectCell
 App.OldGoodsFilterWindow
 App.OldShopFilterWindow
+App.OmiyagePopup
 App.OptionMenu
 App.OptionMenuLayout
 App.OrthographicCameraRangeGizmo
@@ -416,7 +424,9 @@ App.Save.SaveDataMementos
 App.Save.SaveDataMyneko
 App.Save.SaveDataNekonote
 App.Save.SaveDataPurchase
+App.Save.SaveDataReward
 App.Save.SaveDataTime
+App.Save.SaveDataWallet
 App.Save.SaveDataYard
 App.Save.SaveDataYardGoods
 App.Save.SavedSettings
@@ -436,14 +446,19 @@ App.SaveFileUtil
 App.SaveSlotController
 App.SaveSlotStatusUtil
 App.Saving
+App.SceneController
 App.ScrollRectExtensions
 App.ScrollView
 App.ScrollbarChecker
+App.SealBookMainUi
 App.SealBookScene
-App.SealCreator
+App.SealBookSceneArgs
+App.SealBookSceneDebugArgs
+App.SealEditUi
+App.SealImageBuilder
 App.SealLayer
 App.SealLayerHandle
-App.SealShopPanel
+App.SealListUi
 App.ServerRequestStopwatch
 App.ServerTime
 App.ServerTimeSourceListUtil
@@ -489,6 +504,7 @@ App.SoundManager
 App.SpecialFavorites
 App.SpecialFavoritesUtil
 App.SpecialFlagUtil
+App.SpecialGoodsIdUtil
 App.SpecialGoodsRecord
 App.SpriteAtlasId
 App.SpriteId
@@ -563,6 +579,8 @@ App.TravelTicketView
 App.TravelTradePanel
 App.TravelYardMainUi
 App.TravelYardScene
+App.TravelYardSceneArgs
+App.TravelYardSceneDebugArgs
 App.Trigger
 App.TuningParams
 App.TuningParams.News
@@ -574,6 +592,7 @@ App.UnityServicesUtil
 App.UnityTestScene
 App.ViewConfig
 App.ViewConfigGizmo
+App.WalletLogUi
 App.WallpaperCell
 App.WallpaperChecker
 App.WallpaperDetailUi
@@ -710,12 +729,14 @@ HpLib.Extra.SingletonInstanciator
 HpLib.Extra.TextureUtil2
 HpLib.Extra.UniTaskUtil
 HpLib.FileUtil
+HpLib.FixedTime
 HpLib.FormattableVariable
 HpLib.GameInputPincing2
 HpLib.GameObjectExtensions.ComponentExtensions
 HpLib.GameObjectExtensions.Event.ComponentExtensionsEvent
 HpLib.GameObjectExtensions.Event.GameObjectExtensionsEvent
 HpLib.GameObjectExtensions.GameObjectExtensions
+HpLib.GameObjectSwitcher
 HpLib.Handlers
 HpLib.Handlers2
 HpLib.IPinch
@@ -723,6 +744,7 @@ HpLib.IPrinter
 HpLib.IQueue
 HpLib.IStack
 HpLib.ITime
+HpLib.ITimeExtensions
 HpLib.ImGuiScrollView
 HpLib.InputText
 HpLib.IntActions
@@ -769,6 +791,7 @@ HpLib.RectExtensions.RectExtensions
 HpLib.RegularSingletonInstanciator
 HpLib.ResistanceEnumStates
 HpLib.ResourceUtil
+HpLib.SceneUtil
 HpLib.ScreenUnit
 HpLib.ScreenUtil
 HpLib.SerializableKeyValuePair
@@ -872,6 +895,7 @@ MyDebug.TestGridScroll.ImageUiCell
 MyDebug.TestGridScroll.TestUiCell
 MyDebug.TestIapUi
 MyDebug.TestLangSelect
+MyDebug.TestLimitedCat
 MyDebug.TestLimitedPopup
 MyDebug.TestMasterData
 MyDebug.TestMementoEffects
