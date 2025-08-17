@@ -41,4 +41,5 @@ public enum Tag
 	public const Tag FishView = 34;
 	public const Tag PhotoBuildQueue = 35;
 	public const Tag CoinView = 36;
+	public const Tag SealImageBuilderRig = 37;
 }
