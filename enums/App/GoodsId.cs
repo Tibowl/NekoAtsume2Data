@@ -17,6 +17,7 @@ public enum GoodsId
 	public const GoodsId RubberBallRed = 101;
 	public const GoodsId RubberBallYellow = 102;
 	public const GoodsId WatermelonBall = 104;
+	public const GoodsId BeachBall = 105;
 	public const GoodsId PingPongBall = 106;
 	public const GoodsId SoccerBall = 107;
 	public const GoodsId StressReliever = 108;
@@ -102,6 +103,8 @@ public enum GoodsId
 	public const GoodsId TunnelT = 234;
 	public const GoodsId VerticalTunnels = 235;
 	public const GoodsId ChocoCoronetTunnel = 240;
+	public const GoodsId HermitCrabTunnelPeach = 241;
+	public const GoodsId HermitCrabTunnelBlue = 242;
 	public const GoodsId Catnip = 244;
 	public const GoodsId FeatherNappy = 245;
 	public const GoodsId Mouse = 249;
@@ -129,6 +132,7 @@ public enum GoodsId
 	public const GoodsId BucketBlue = 289;
 	public const GoodsId BucketRed = 290;
 	public const GoodsId BucketYellow = 291;
+	public const GoodsId BucketForSprinklingWater = 292;
 	public const GoodsId GoldfishBowl = 294;
 	public const GoodsId GlassVase = 296;
 	public const GoodsId OversizedPatternedGlass = 297;

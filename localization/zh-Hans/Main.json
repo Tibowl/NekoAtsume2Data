@@ -1,3 +1,11 @@
 {
-    "LangCode": "zh-CN"
+    "Bgm0": "晒太阳",
+    "Bgm1": "猫咪收集的主题",
+    "Bgm2": "散步猫咪收集",
+    "DisplayName": "猫咪收集2",
+    "ShortName": "猫2",
+    "TrackingUsage": "允许后将显示与您更相关的广告\n如果可以的话为了今后的服务改进恳请您允许进行追踪\n※追踪设置可随时通过设备的设置进行更改",
+    "CameraUsage": "将保存图像",
+    "LangCode": "zh-CN",
+    "JaOnly": "仅限日本"
 }

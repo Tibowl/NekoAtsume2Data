@@ -16,6 +16,7 @@ public enum GoodsJaId
 	public const GoodsJaId ゴムボール赤 = 101;
 	public const GoodsJaId ゴムボール黄 = 102;
 	public const GoodsJaId スイカ玉 = 104;
+	public const GoodsJaId ビーチボール = 105;
 	public const GoodsJaId ピンポン球 = 106;
 	public const GoodsJaId サッカーボール = 107;
 	public const GoodsJaId もっちりボール = 108;
@@ -98,6 +99,8 @@ public enum GoodsJaId
 	public const GoodsJaId トンネルT型 = 234;
 	public const GoodsJaId 立体型トンネル = 235;
 	public const GoodsJaId チョココロネトンネル = 240;
+	public const GoodsJaId やどかりトンネル桃 = 241;
+	public const GoodsJaId やどかりトンネル青 = 242;
 	public const GoodsJaId ねこじゃらし = 244;
 	public const GoodsJaId 羽根じゃらし = 245;
 	public const GoodsJaId ねずみさん = 249;
@@ -125,6 +128,7 @@ public enum GoodsJaId
 	public const GoodsJaId バケツ青 = 289;
 	public const GoodsJaId バケツ赤 = 290;
 	public const GoodsJaId バケツ黄 = 291;
+	public const GoodsJaId 打ち水桶 = 292;
 	public const GoodsJaId 金魚鉢 = 294;
 	public const GoodsJaId ガラス花瓶 = 296;
 	public const GoodsJaId 特大柄付きグラス = 297;

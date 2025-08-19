@@ -183,7 +183,6 @@ App.IUserCameraSettings
 App.IWeather
 App.IYardPlaceMode
 App.IapEnvironment
-App.ImageSwitcher
 App.ImageUtil
 App.ImmutableBuilder
 App.InputFieldExtensions.InputFieldExtensions
@@ -330,6 +329,7 @@ App.PlaceConfig
 App.PlaceConfigGizmo
 App.PlaceConfigSync
 App.PlaceConfigs
+App.PlatformSpriteSwitcher
 App.PlaySpaceLottery
 App.PlaySpaceLottery.Args
 App.PlaySpaceLottery.Result
@@ -430,6 +430,7 @@ App.Save.SaveDataWallet
 App.Save.SaveDataYard
 App.Save.SaveDataYardGoods
 App.Save.SavedSettings
+App.Save.SealAlbumData
 App.Save.SealBookData
 App.Save.SealData
 App.Save.SealDecorationData
@@ -450,15 +451,21 @@ App.SceneController
 App.ScrollRectExtensions
 App.ScrollView
 App.ScrollbarChecker
+App.SealAlbumIdUtil
 App.SealBookMainUi
 App.SealBookScene
 App.SealBookSceneArgs
 App.SealBookSceneDebugArgs
+App.SealCell
 App.SealEditUi
 App.SealImageBuilder
+App.SealImageBuilderRig
 App.SealLayer
 App.SealLayerHandle
+App.SealList
+App.SealListSelectUi
 App.SealListUi
+App.SealPage
 App.ServerRequestStopwatch
 App.ServerTime
 App.ServerTimeSourceListUtil

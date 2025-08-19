@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "name": "DecoListUi",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "CloseButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

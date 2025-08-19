@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "name": "SealPage",
+      "children": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "name": "SealCell",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Thumbnail"
+    },
+    {
+      "name": "SealCell (1)",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Thumbnail"
+    },
+    {
+      "name": "SealCell (2)",
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Thumbnail"
+    },
+    {
+      "name": "SealCell (3)",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Thumbnail"
+    },
+    {
+      "name": "SealCell (4)",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Thumbnail"
+    },
+    {
+      "name": "SealCell (5)",
+      "children": [
+        12
+      ]
+    },
+    {
+      "name": "Thumbnail"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
