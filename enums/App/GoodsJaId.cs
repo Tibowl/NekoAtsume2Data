@@ -55,9 +55,11 @@ public enum GoodsJaId
 	public const GoodsJaId 極冷アルミプレート = 164;
 	public const GoodsJaId アルミボウル = 165;
 	public const GoodsJaId アルミポット = 166;
+	public const GoodsJaId 天然大理石プレート = 167;
 	public const GoodsJaId マンタマット = 168;
 	public const GoodsJaId もこもこクッション = 170;
 	public const GoodsJaId ウメクッション紅 = 171;
+	public const GoodsJaId ぺんぎんクッション = 175;
 	public const GoodsJaId 桜餅クッション = 176;
 	public const GoodsJaId 柏餅クッション = 177;
 	public const GoodsJaId バーガークッション = 178;
@@ -101,6 +103,7 @@ public enum GoodsJaId
 	public const GoodsJaId チョココロネトンネル = 240;
 	public const GoodsJaId やどかりトンネル桃 = 241;
 	public const GoodsJaId やどかりトンネル青 = 242;
+	public const GoodsJaId やどかりトンネル白 = 243;
 	public const GoodsJaId ねこじゃらし = 244;
 	public const GoodsJaId 羽根じゃらし = 245;
 	public const GoodsJaId ねずみさん = 249;
@@ -120,6 +123,7 @@ public enum GoodsJaId
 	public const GoodsJaId ビニールぶくろ = 273;
 	public const GoodsJaId 横置き爪とぎ = 274;
 	public const GoodsJaId 縦型縄爪とぎ = 275;
+	public const GoodsJaId 高級丸太爪とぎ = 276;
 	public const GoodsJaId 果物カゴ = 277;
 	public const GoodsJaId 土鍋 = 278;
 	public const GoodsJaId 漆塗り高級お碗 = 281;
