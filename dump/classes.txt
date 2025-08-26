@@ -388,6 +388,9 @@ App.Save.GoodsStateUtil
 App.Save.ICatNote
 App.Save.IGoodsStatus
 App.Save.IPhotoPart
+App.Save.ISealCopyable
+App.Save.ISealEditItem
+App.Save.ISealPart
 App.Save.IapPlatformUtil
 App.Save.Inventory
 App.Save.InvitationData
@@ -433,9 +436,10 @@ App.Save.SavedSettings
 App.Save.SealAlbumData
 App.Save.SealBookData
 App.Save.SealData
-App.Save.SealDecorationData
-App.Save.SealItemData
-App.Save.SealPhotoData
+App.Save.SealImageParam
+App.Save.SealPartDecoration
+App.Save.SealPartEmpty
+App.Save.SealPartPhoto
 App.Save.TimeData
 App.Save.TravelData
 App.Save.Wallet
@@ -451,7 +455,9 @@ App.SceneController
 App.ScrollRectExtensions
 App.ScrollView
 App.ScrollbarChecker
+App.Seal
 App.SealAlbumIdUtil
+App.SealBookFile
 App.SealBookMainUi
 App.SealBookScene
 App.SealBookSceneArgs

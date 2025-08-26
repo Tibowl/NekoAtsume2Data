@@ -56,9 +56,11 @@ public enum GoodsId
 	public const GoodsId UltraCoolAluminumPlate = 164;
 	public const GoodsId AluminumBowl = 165;
 	public const GoodsId AluminumPot = 166;
+	public const GoodsId NaturalMarblePlate = 167;
 	public const GoodsId MantaGelMat = 168;
 	public const GoodsId FluffyCushion = 170;
 	public const GoodsId UmeCushionRed = 171;
+	public const GoodsId PenginCushion = 175;
 	public const GoodsId SakuraMochiCushion = 176;
 	public const GoodsId OakMochiCushion = 177;
 	public const GoodsId BurgerCushion = 178;
@@ -105,6 +107,7 @@ public enum GoodsId
 	public const GoodsId ChocoCoronetTunnel = 240;
 	public const GoodsId HermitCrabTunnelPeach = 241;
 	public const GoodsId HermitCrabTunnelBlue = 242;
+	public const GoodsId HermitCrabTunnelWhite = 243;
 	public const GoodsId Catnip = 244;
 	public const GoodsId FeatherNappy = 245;
 	public const GoodsId Mouse = 249;
@@ -124,6 +127,7 @@ public enum GoodsId
 	public const GoodsId VinylBag = 273;
 	public const GoodsId HorizontalRopeNailClogger = 274;
 	public const GoodsId VerticalRopeNailClogger = 275;
+	public const GoodsId HighGradeLogNailClippers = 276;
 	public const GoodsId FruitBasket = 277;
 	public const GoodsId EarthenwarePot = 278;
 	public const GoodsId FinelacqueredBowls = 281;
