@@ -45,6 +45,8 @@ public enum GoodsJaId
 	public const GoodsJaId クッションﾋﾟﾝｸ = 139;
 	public const GoodsJaId クッションﾌﾞﾗｳﾝ = 140;
 	public const GoodsJaId クッションｲｴﾛｰ = 141;
+	public const GoodsJaId クッションﾁｮｺﾐﾝﾄ = 143;
+	public const GoodsJaId クッションﾓﾉﾄｰﾝ = 144;
 	public const GoodsJaId クローバークッション = 148;
 	public const GoodsJaId きのこクッション赤 = 149;
 	public const GoodsJaId きのこクッション青 = 150;
@@ -64,6 +66,9 @@ public enum GoodsJaId
 	public const GoodsJaId 柏餅クッション = 177;
 	public const GoodsJaId バーガークッション = 178;
 	public const GoodsJaId ケーキクッション = 179;
+	public const GoodsJaId すしクッション鮪 = 180;
+	public const GoodsJaId すしクッション海老 = 181;
+	public const GoodsJaId すしクッション玉子 = 182;
 	public const GoodsJaId ドーム型クッション = 183;
 	public const GoodsJaId プラムコクーン = 188;
 	public const GoodsJaId オレンジコクーン = 189;

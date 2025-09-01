@@ -163,6 +163,16 @@
 			},
 			{
 				"\u003cId\u003ek__BackingField": 34,
+				"\u003cAttribute\u003ek__BackingField": 131072,
+				"\u003cPosition\u003ek__BackingField": {
+					"x": 5.06,
+					"y": 0.99,
+					"z": 0
+				},
+				"\u003cState\u003ek__BackingField": 0
+			},
+			{
+				"\u003cId\u003ek__BackingField": 40,
 				"\u003cAttribute\u003ek__BackingField": 32768,
 				"\u003cPosition\u003ek__BackingField": {
 					"x": 4.06,

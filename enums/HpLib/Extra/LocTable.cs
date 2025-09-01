@@ -14,4 +14,5 @@ public enum LocTable
 	public const LocTable News = 7;
 	public const LocTable SpriteAddress = 8;
 	public const LocTable Sprite = 9;
+	public const LocTable Seal = 10;
 }

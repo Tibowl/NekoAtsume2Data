@@ -13,4 +13,5 @@ public enum AtlasId
 	public const AtlasId icon_goods_big = 6;
 	public const AtlasId icon_bg = 7;
 	public const AtlasId icon_bg_parts = 8;
+	public const AtlasId sealdeco = 9;
 }

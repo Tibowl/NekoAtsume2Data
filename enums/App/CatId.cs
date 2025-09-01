@@ -82,7 +82,8 @@ public enum CatId
 	public const CatId Santa = 127;
 	public const CatId Tamago = 128;
 	public const CatId Omaturi = 129;
-	public const CatId Akindo = 130;
+	public const CatId Jack = 130;
+	public const CatId Akindo = 131;
 	public const CatId Myneko1 = 701;
 	public const CatId Myneko2 = 702;
 	public const CatId Myneko3 = 703;
