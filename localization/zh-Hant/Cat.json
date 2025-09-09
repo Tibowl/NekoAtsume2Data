@@ -77,6 +77,7 @@
     "CatName128": "雞蛋",
     "CatName129": "廟會",
     "CatName130": "商人",
+    "CatName131": "商人",
     "CatName701": "我的貓",
     "CatName702": "我的貓",
     "CatName703": "我的貓",
@@ -158,6 +159,7 @@
     "CatColor128": "蛋殼",
     "CatColor129": "法被",
     "CatColor130": "商人",
+    "CatColor131": "商人",
     "CatColor701": "魔幻",
     "CatColor702": "奇幻",
     "CatColor703": "變形",
@@ -239,6 +241,7 @@
     "CatChar128": "幽默",
     "CatChar129": "祭魂",
     "CatChar130": "商人",
+    "CatChar131": "商人",
     "CatPower701": "未知數",
     "CatPower702": "無法測量",
     "CatPower703": "神秘",
@@ -319,6 +322,7 @@
     "TakaraName75": "糖果罐的蓋子",
     "TakaraName76": "冰淇淋棒",
     "TakaraName77": "手工絨毛玩具",
+    "TakaraName78": "手工絨毛玩具",
     "TakaraComment1": "上面有小花圖案的項圈",
     "TakaraComment2": "上面有軟毛的刷子",
     "TakaraComment3": "在夜店會賣的那種",
@@ -396,5 +400,6 @@
     "TakaraComment74": "畫有花朵圖案的蛋",
     "TakaraComment75": "看起來有點高檔的糖果罐蓋子",
     "TakaraComment76": "寫著「中獎」",
-    "TakaraComment77": "手工製作的貓布偶\n狀態相對乾淨"
+    "TakaraComment77": "手工製作的貓布偶\n狀態相對乾淨",
+    "TakaraComment78": "手工製作的貓布偶\n狀態相對乾淨"
 }

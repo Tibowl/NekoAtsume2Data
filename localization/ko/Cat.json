@@ -77,6 +77,7 @@
     "CatName128": "계란",
     "CatName129": "오마츠리 씨",
     "CatName130": "도쿠상",
+    "CatName131": "도쿠상",
     "CatName701": "마이네코",
     "CatName702": "마이네코",
     "CatName703": "마이네코",
@@ -158,6 +159,7 @@
     "CatColor128": "계란 껍데기",
     "CatColor129": "축제 의상",
     "CatColor130": "상인",
+    "CatColor131": "상인",
     "CatColor701": "매지컬",
     "CatColor702": "판타지",
     "CatColor703": "변신 가능한",
@@ -239,6 +241,7 @@
     "CatChar128": "유머",
     "CatChar129": "분위기 메이커",
     "CatChar130": "상인",
+    "CatChar131": "상인",
     "CatPower701": "미지수",
     "CatPower702": "측정 불가",
     "CatPower703": "수수께끼",
@@ -319,6 +322,7 @@
     "TakaraName75": "과자 통 뚜껑",
     "TakaraName76": "아이스크림 막대",
     "TakaraName77": "수제 인형",
+    "TakaraName78": "수제 인형",
     "TakaraComment1": "꽃모양의 작은 목걸이줄",
     "TakaraComment2": "부드러운 털 브러시",
     "TakaraComment3": "형광 고리",
@@ -396,5 +400,6 @@
     "TakaraComment74": "꽃 무늬가 그려진 계란",
     "TakaraComment75": "조금 비싸 보이는 과자 통 뚜껑",
     "TakaraComment76": "‘당첨’이라고 찍혀 있음",
-    "TakaraComment77": "수제 고양이 인형\n아직 상태가 좋은 편입니다"
+    "TakaraComment77": "수제 고양이 인형\n아직 상태가 좋은 편입니다",
+    "TakaraComment78": "수제 고양이 인형\n아직 상태가 좋은 편입니다"
 }

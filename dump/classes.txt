@@ -18,6 +18,7 @@ App.AppUtil
 App.AppVersion
 App.AppendLabelSelector
 App.AssetAddress
+App.AsyncSemaphoreLock
 App.AtlasIdUtil
 App.Att
 App.Att.PlayerPrefs
@@ -76,7 +77,7 @@ App.Const.Time
 App.Const.Timeout
 App.Const.Url
 App.ContentChanger
-App.CutHandle
+App.CropHandle
 App.CutOutPanel
 App.DailyCoin
 App.DailyCoinRankUtil
@@ -139,7 +140,6 @@ App.GoodsFilter
 App.GoodsFilterPanel
 App.GoodsFilterPanel.CategoryPair
 App.GoodsFilterWindow
-App.GoodsIconUtil
 App.GoodsIdUtil
 App.GoodsList
 App.GoodsOpImage
@@ -150,6 +150,7 @@ App.GoodsRepair
 App.GoodsScene
 App.GoodsSceneArgs
 App.GoodsSceneDebugArgs
+App.GoodsStatusFilterUtil
 App.GoodsWarningButton
 App.GridBorder
 App.GridCell
@@ -173,6 +174,7 @@ App.INekonoteStateUtil
 App.IPurchaseItem
 App.IPurchaseItemExtensions
 App.ISaveSlotPaths
+App.ISealObjPart
 App.ISelectMode
 App.IShopItem
 App.IShopItemExtentions
@@ -200,6 +202,7 @@ App.LabelSetting
 App.LanguageMenu
 App.LayerId
 App.LayerList
+App.LayerListCell
 App.LayerListHandle
 App.LayoutGroupExtensions
 App.LayoutGroupUtil
@@ -310,9 +313,11 @@ App.PanelUtil
 App.PanoramaPhotoSavePanel
 App.PartsSlotIdUtil
 App.PauseLoader
+App.PauseLoaderExtensions
 App.PendingTx
 App.PhoneUtil
 App.PhotoBuildQueue
+App.PhotoBuilder
 App.PhotoCamera
 App.PhotoCell
 App.PhotoCellTest
@@ -455,7 +460,6 @@ App.SceneController
 App.ScrollRectExtensions
 App.ScrollView
 App.ScrollbarChecker
-App.Seal
 App.SealAlbumIdUtil
 App.SealBookFile
 App.SealBookMainUi
@@ -463,15 +467,20 @@ App.SealBookScene
 App.SealBookSceneArgs
 App.SealBookSceneDebugArgs
 App.SealCell
+App.SealControl
+App.SealDecoIdUtil
+App.SealDecoRecord
 App.SealEditUi
 App.SealImageBuilder
 App.SealImageBuilderRig
-App.SealLayer
-App.SealLayerHandle
 App.SealList
 App.SealListSelectUi
 App.SealListUi
+App.SealObj
+App.SealObjImage
+App.SealObjPhoto
 App.SealPage
+App.SealScaleHandle
 App.ServerRequestStopwatch
 App.ServerTime
 App.ServerTimeSourceListUtil
@@ -505,6 +514,7 @@ App.ShotOrientationButton
 App.ShotOrientationExtensions
 App.ShotUi
 App.ShowWeb
+App.SizeIconUtil
 App.Sku
 App.SkuIdUtil
 App.SkuStr
@@ -550,6 +560,7 @@ App.Tables.MynekoPartsRecordTable
 App.Tables.PlaySpaceRecordTable
 App.Tables.PlaySpaceVsCatTable
 App.Tables.PlaySpaceVsWeatherTable
+App.Tables.SealDecoRecordTable
 App.Tables.SpecialGoodsRecordTable
 App.Tables.WallpaperRecordTable
 App.Tables.YardGoodsRecordTable
@@ -691,6 +702,7 @@ HpLib.CommandManager
 HpLib.Counter
 HpLib.CounterDictionary
 HpLib.CounterWithSave
+HpLib.CtUtil
 HpLib.DataTransfer.AesCrypt
 HpLib.DataTransfer.FilePathUtil
 HpLib.DataTransfer.FileUtil

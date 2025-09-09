@@ -23,5 +23,6 @@ public enum OtherPlaceAttribute
 	public const OtherPlaceAttribute Omaturi = 16384;
 	public const OtherPlaceAttribute Akindo = 32768;
 	public const OtherPlaceAttribute Coin = 65536;
+	public const OtherPlaceAttribute Jack = 131072;
 	public const OtherPlaceAttribute All = -1;
 }
