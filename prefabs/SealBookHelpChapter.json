@@ -1,13 +1,17 @@
 {
   "nodes": [
     {
-      "name": "CloseButton",
+      "name": "SealBookHelpChapter",
       "children": [
-        1
+        1,
+        2
       ]
     },
     {
       "name": "Image"
+    },
+    {
+      "name": "Text"
     }
   ],
   "scene": 0,

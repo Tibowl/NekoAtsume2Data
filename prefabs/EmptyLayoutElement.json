@@ -1,13 +1,7 @@
 {
   "nodes": [
     {
-      "name": "CloseButton",
-      "children": [
-        1
-      ]
-    },
-    {
-      "name": "Image"
+      "name": "EmptyLayoutElement"
     }
   ],
   "scene": 0,

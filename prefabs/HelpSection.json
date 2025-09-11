@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "name": "HelpSection",
+      "children": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "FixedArea",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Arrow",
+      "rotation": [
+        0,
+        0,
+        -0.7071068,
+        0.7071068
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "ExpandedArea"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -18,6 +18,33 @@
     "Gold": -1
   },
   {
+    "Id": 1003,
+    "IsForceNotForSale": false,
+    "DecoTypeInt": 1,
+    "Index": 3,
+    "DisplayOrder": 1003,
+    "Silver": 10,
+    "Gold": -1
+  },
+  {
+    "Id": 1004,
+    "IsForceNotForSale": false,
+    "DecoTypeInt": 1,
+    "Index": 4,
+    "DisplayOrder": 1004,
+    "Silver": -1,
+    "Gold": 10
+  },
+  {
+    "Id": 1005,
+    "IsForceNotForSale": false,
+    "DecoTypeInt": 1,
+    "Index": 5,
+    "DisplayOrder": 1005,
+    "Silver": 20,
+    "Gold": 10
+  },
+  {
     "Id": 2001,
     "IsForceNotForSale": false,
     "DecoTypeInt": 2,
@@ -43,5 +70,32 @@
     "DisplayOrder": 2003,
     "Silver": -1,
     "Gold": -1
+  },
+  {
+    "Id": 2004,
+    "IsForceNotForSale": false,
+    "DecoTypeInt": 2,
+    "Index": 4,
+    "DisplayOrder": 2004,
+    "Silver": 10,
+    "Gold": -1
+  },
+  {
+    "Id": 2005,
+    "IsForceNotForSale": false,
+    "DecoTypeInt": 2,
+    "Index": 5,
+    "DisplayOrder": 2005,
+    "Silver": -1,
+    "Gold": 10
+  },
+  {
+    "Id": 2006,
+    "IsForceNotForSale": false,
+    "DecoTypeInt": 2,
+    "Index": 6,
+    "DisplayOrder": 2006,
+    "Silver": 30,
+    "Gold": 15
   }
 ]
