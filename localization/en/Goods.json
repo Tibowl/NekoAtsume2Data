@@ -234,6 +234,8 @@
     "GoodsName321": "Eco Bag (Pastel)",
     "GoodsName322": "Rattan Bed",
     "GoodsName323": "Resort Bed",
+    "GoodsName324": "Pumpkin House",
+    "GoodsName325": "Pumpkin House DX",
     "ExGoodsName1": "Yard Expansion",
     "ExGoodsName2": "Fish Exchange",
     "ExGoodsName3": "Jarashi",
@@ -473,6 +475,8 @@
     "GoodsShop321": "A handy-sized eco bag,\ntear-resistant and durable.\nPerfect for shopping!",
     "GoodsShop322": "<Sales Period: Until the end of August>\nA breezy bed made of rattan — perfect\nfor adding a touch of summer charm.",
     "GoodsShop323": "<Sales Period: Until the end of August>\nA breezy rattan bed featuring\neye-catching tropical-inspired details.",
+    "GoodsShop324": "<Sales period: Until the end of November>\nHarvest pumpkins… and maybe a cat?\nThe perfect pumpkin house for fall.",
+    "GoodsShop325": "<Sales period: Until the end of November>\nGetting eaten by a ghost pumpkin!?\nA playful pumpkin house for cats.",
     "ExGoodsShop1": "Expand your cats' play space into the\nadjacent room, which will allow you to\nplace more stuff!",
     "ExGoodsShop2": "Exchange 10 gold fish for 250 normal fish.",
     "ExGoodsShop3": "A classic item to attract cats.\nShaking it might catch their\nattention. *Used in the yard.",
@@ -712,5 +716,7 @@
     "GoodsYard321": "A perfectly sized eco-bag you\ncan't help but want to fit into.",
     "GoodsYard322": "<Summer Limited Edition>\nA lightweight and durable rattan bed,\nhighly breathable for a comfy rest.",
     "GoodsYard323": "<Summer Limited Edition>\nA bed with elegant decorations,\nfeels like a tropical resort escape.",
+    "GoodsYard324": "<Fall Limited Edition>\nA pumpkin house that looks real.\nSoft and fluffy inside.",
+    "GoodsYard325": "<Fall Limited Edition>\nA pumpkin house perfect for\nfall festivities. Not too scary after all.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

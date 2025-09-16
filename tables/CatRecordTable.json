@@ -859,6 +859,21 @@
     ]
   },
   {
+    "Id": 130,
+    "Type": 1,
+    "MementoIdInt": 78,
+    "Power": 30,
+    "WeatherImpact": 0,
+    "Niboshi": 0,
+    "GomenneRate": 0,
+    "GroomingRate": 0,
+    "ActiveMonths": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
     "Id": 701,
     "Type": 2,
     "MementoIdInt": 0,

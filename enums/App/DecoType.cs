@@ -1,6 +1,6 @@
 
 // Namespace: App
-public enum DecoType 
+internal enum DecoType 
 {
 	// Fields
 	public int value__; // 0x0

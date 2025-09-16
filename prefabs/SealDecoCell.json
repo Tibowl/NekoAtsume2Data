@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "SealDecoCell",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Image"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

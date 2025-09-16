@@ -25,4 +25,5 @@ public enum SoundId
 	public const SoundId bgm_org = 102;
 	public const SoundId bgm_org_2 = 103;
 	public const SoundId bgm_custom_1 = 104;
+	public const SoundId bgm_sealbook = 105;
 }

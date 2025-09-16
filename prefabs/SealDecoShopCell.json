@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    {
+      "name": "SealDecoShopCell",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.1999999,
+        1
+      ]
+    },
+    {
+      "name": "Stamp"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

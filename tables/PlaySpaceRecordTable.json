@@ -9473,6 +9473,110 @@
     "ShouldOmitMyneko": true
   },
   {
+    "Id": 3240,
+    "ItemId": 324,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3250,
+    "ItemId": 325,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3251,
+    "ItemId": 325,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      2
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3252,
+    "ItemId": 325,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "130"
+    ],
+    "ActionIds": [
+      0,
+      3
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 1.0,
+    "ShouldOmitMyneko": true
+  },
+  {
     "Id": 50000,
     "ItemId": 5000,
     "ConflictIndices": [],

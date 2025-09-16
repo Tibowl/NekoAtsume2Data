@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "name": "SealDecoShopPage",
+      "children": [
+        1,
+        6,
+        11,
+        16
+      ]
+    },
+    {
+      "name": "Cell0",
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.1999999,
+        1
+      ]
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Cell1",
+      "children": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.1999999,
+        1
+      ]
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Cell2",
+      "children": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.1999999,
+        1
+      ]
+    },
+    {
+      "name": "Stamp"
+    },
+    {
+      "name": "Cell3",
+      "children": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Price",
+      "scale": [
+        1,
+        1.1999999,
+        1
+      ]
+    },
+    {
+      "name": "Stamp"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

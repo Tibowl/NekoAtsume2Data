@@ -1410,7 +1410,7 @@
   {
     "Id": 143,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_mint"
@@ -1445,7 +1445,7 @@
   {
     "Id": 144,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_monotone"
@@ -2148,7 +2148,7 @@
   {
     "Id": 180,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_sushi_toro"
@@ -2184,7 +2184,7 @@
   {
     "Id": 181,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_sushi_ebi"
@@ -2220,7 +2220,7 @@
   {
     "Id": 182,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_sushi_tamago"
@@ -5598,6 +5598,84 @@
       6,
       7,
       8
+    ],
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 324,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_dome_pumpkin"
+    ],
+    "AnimeXmls": [
+      "03cushion_dome_pumpkin"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 238,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2200,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      9,
+      10,
+      11
+    ],
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 325,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_dome_pumpkinDX"
+    ],
+    "AnimeXmls": [
+      "03cushion_dome_pumpkinDX"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 239,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 4500,
+    "UsedToughness": -1,
+    "RepairPattern": 2,
+    "Silver": -1,
+    "Gold": 40,
+    "RepairSilver": 150,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      9,
+      10,
+      11
     ],
     "UnlockGoods": null,
     "WarningKey": null

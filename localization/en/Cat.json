@@ -76,7 +76,7 @@
     "CatName127": "Purrin",
     "CatName128": "Eggy",
     "CatName129": "Mr. Omatsuri",
-    "CatName130": "Jack",
+    "CatName130": "Pumpky Jack",
     "CatName131": "Tannyaker",
     "CatName701": "Myneko",
     "CatName702": "Myneko",
@@ -158,7 +158,7 @@
     "CatColor127": "Santa Suit",
     "CatColor128": "Egg shell",
     "CatColor129": "Happi coat",
-    "CatColor130": "Jack",
+    "CatColor130": "Hood",
     "CatColor131": "Merchant",
     "CatColor701": "Magical",
     "CatColor702": "Fantasy",
@@ -240,7 +240,7 @@
     "CatChar127": "Compassionate",
     "CatChar128": "Humorous",
     "CatChar129": "Life of the Party",
-    "CatChar130": "Jack",
+    "CatChar130": "Prankster",
     "CatChar131": "Akindo",
     "CatPower701": "Unknown",
     "CatPower702": "Inestimable",
@@ -322,7 +322,7 @@
     "TakaraName75": "Snack Lid",
     "TakaraName76": "Popsicle Stick",
     "TakaraName77": "Handmade Plushie",
-    "TakaraName78": "Handmade Plushie",
+    "TakaraName78": "Candy",
     "TakaraComment1": "A small collar with a flower\nprint pattern.",
     "TakaraComment2": "A soft brush for fur.",
     "TakaraComment3": "Something to wear at evening\nevents.",
@@ -401,5 +401,5 @@
     "TakaraComment75": "A fancy snack tin lid\nthat's too nice to toss.",
     "TakaraComment76": "Stamped with 'Winner'.",
     "TakaraComment77": "A handmade cat plushie,\nstill in good shape.",
-    "TakaraComment78": "A handmade cat plushie,\nstill in good shape."
+    "TakaraComment78": "A cute little candy with\norange and purple stripes."
 }
