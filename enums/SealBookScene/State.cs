@@ -1,6 +1,6 @@
 
 // Namespace: 
-public enum SealBookScene.State 
+internal enum SealBookScene.State 
 {
 	// Fields
 	public int value__; // 0x0

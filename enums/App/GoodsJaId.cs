@@ -105,6 +105,7 @@ public enum GoodsJaId
 	public const GoodsJaId トンネルU型 = 233;
 	public const GoodsJaId トンネルT型 = 234;
 	public const GoodsJaId 立体型トンネル = 235;
+	public const GoodsJaId ちくわトンネル = 237;
 	public const GoodsJaId チョココロネトンネル = 240;
 	public const GoodsJaId やどかりトンネル桃 = 241;
 	public const GoodsJaId やどかりトンネル青 = 242;
@@ -133,6 +134,8 @@ public enum GoodsJaId
 	public const GoodsJaId 土鍋 = 278;
 	public const GoodsJaId 漆塗り高級お碗 = 281;
 	public const GoodsJaId 壷 = 282;
+	public const GoodsJaId 梅壷 = 283;
+	public const GoodsJaId 蜂蜜壷 = 284;
 	public const GoodsJaId 植木鉢 = 288;
 	public const GoodsJaId バケツ青 = 289;
 	public const GoodsJaId バケツ赤 = 290;

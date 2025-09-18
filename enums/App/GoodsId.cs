@@ -109,6 +109,7 @@ public enum GoodsId
 	public const GoodsId TunnelU = 233;
 	public const GoodsId TunnelT = 234;
 	public const GoodsId VerticalTunnels = 235;
+	public const GoodsId ChikuwaTunnel = 237;
 	public const GoodsId ChocoCoronetTunnel = 240;
 	public const GoodsId HermitCrabTunnelPeach = 241;
 	public const GoodsId HermitCrabTunnelBlue = 242;
@@ -137,6 +138,8 @@ public enum GoodsId
 	public const GoodsId EarthenwarePot = 278;
 	public const GoodsId FinelacqueredBowls = 281;
 	public const GoodsId Tsubo = 282;
+	public const GoodsId UmeTsubo = 283;
+	public const GoodsId HoneyJar = 284;
 	public const GoodsId Flowerpot = 288;
 	public const GoodsId BucketBlue = 289;
 	public const GoodsId BucketRed = 290;
