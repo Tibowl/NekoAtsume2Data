@@ -17,4 +17,5 @@ public enum HelpChapter
 	public const HelpChapter Backup = 10;
 	public const HelpChapter Odekake = 11;
 	public const HelpChapter Nekonote = 12;
+	public const HelpChapter SealBook = 13;
 }

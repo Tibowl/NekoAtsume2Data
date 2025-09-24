@@ -31,7 +31,7 @@
     "ClockError": "時鐘已回到上次時間之前\n下一次更新時間為\n{0}之後",
     "ReceivedDate": "領取時間",
     "NoGifts": "沒有感謝小魚乾",
-    "SealBookHelp1": "貓幣",
+    "SealAlbumIsFull": "相簿已經滿了\n請選擇要取代的照片",
     "Coin": "貓幣",
     "OmiyageVoucher": "紀念品兌換券",
     "GoodsBuyConfirmVoucher": "要消耗 {0} 張紀念品兌換券\n購買 {1} 嗎？",

@@ -329,6 +329,7 @@ App.PhotoBuilder
 App.PhotoCamera
 App.PhotoCell
 App.PhotoCellTest
+App.PhotoDeletePanel
 App.PhotoDetail
 App.PhotoList
 App.PhotoListTest
@@ -471,8 +472,6 @@ App.ScrollView
 App.ScrollbarChecker
 App.SealAlbumIdUtil
 App.SealBookFile
-App.SealBookHelpChapter
-App.SealBookHelpChapterIdUtil
 App.SealBookHelpUi
 App.SealBookMainUi
 App.SealBookScene
@@ -488,6 +487,8 @@ App.SealDecoRecord
 App.SealDecoShopCell
 App.SealDecoShopList
 App.SealDecoShopPage
+App.SealDeleteList
+App.SealDeletePanel
 App.SealEditUi
 App.SealImageBuilder
 App.SealImageBuilderRig
@@ -788,6 +789,7 @@ HpLib.Handlers2
 HpLib.IPinch
 HpLib.IPrinter
 HpLib.IQueue
+HpLib.IReadOnlyListExtensions.IReadOnlyListExtensions
 HpLib.IStack
 HpLib.ITime
 HpLib.ITimeExtensions
@@ -805,8 +807,10 @@ HpLib.JsonUtilityExtension.JsonUtilityExtension
 HpLib.KeyValueList
 HpLib.LimitedQueue
 HpLib.LinearLayoutDrawer
+HpLib.ListExtensions.IListExtensions
 HpLib.ListExtensions.LinkedListExtensions
 HpLib.ListExtensions.ListExtensions
+HpLib.ListStackExtensions.ListStackExtensions
 HpLib.Log
 HpLib.Log.DisableScope
 HpLib.LogFilter
@@ -832,7 +836,6 @@ HpLib.Pos2
 HpLib.Pos3
 HpLib.RandomId
 HpLib.RaycastUtil
-HpLib.ReadOnlyListExtensions.ReadOnlyListExtensions
 HpLib.RectExtensions.RectExtensions
 HpLib.RegularSingletonInstanciator
 HpLib.ResistanceEnumStates
