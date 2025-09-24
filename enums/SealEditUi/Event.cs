@@ -1,6 +1,6 @@
 
 // Namespace: 
-public enum SealEditUi.Event 
+internal enum SealEditUi.Event 
 {
 	// Fields
 	public int value__; // 0x0

@@ -1023,6 +1023,41 @@
     "WarningKey": null
   },
   {
+    "Id": 126,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_zabuton_ki"
+    ],
+    "AnimeXmls": [
+      "03cushion_zabuton_ki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 130,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 120,
+    "Gold": -1,
+    "RepairSilver": 15,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 128,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -3317,6 +3352,41 @@
     "WarningKey": null
   },
   {
+    "Id": 229,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "04tower_modern"
+    ],
+    "AnimeXmls": [
+      "04tower_modern"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 26
+    },
+    "DisplayOrder": 267,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 800,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 230,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -3529,7 +3599,7 @@
   {
     "Id": 237,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "05tunnel_i_chikuwa"
@@ -4557,7 +4627,7 @@
   {
     "Id": 283,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_tsubo_ume"
@@ -4592,7 +4662,7 @@
   {
     "Id": 284,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_tsubo_honey"
@@ -4967,6 +5037,41 @@
       "Data": 8
     },
     "DisplayOrder": 372,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 210,
+    "Gold": -1,
+    "RepairSilver": 40,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 301,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03macaron_green"
+    ],
+    "AnimeXmls": [
+      "03macaron_green"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 373,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 8,

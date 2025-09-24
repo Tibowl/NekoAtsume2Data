@@ -37,6 +37,7 @@
     "AskSealEditExit": "en保存せず終了しても\nよろしいですか？",
     "SealAlbumIsFull": "enシールブックがいっぱいです\n入れ替えるシールを\n選んでください",
     "NoSeal": "enシールがありません",
+    "BgRemoveToggle": "en背景切り抜き",
     "Coin": "Coin",
     "OmiyageVoucher": "Voucher",
     "GoodsBuyConfirmVoucher": "Enおみやげ引換券を{0}枚消費して\n{1}を\n購入しますか？",
