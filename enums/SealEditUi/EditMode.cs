@@ -1,6 +1,6 @@
 
 // Namespace: 
-public enum SealEditUi.EditMode 
+internal enum SealEditUi.EditMode 
 {
 	// Fields
 	public int value__; // 0x0

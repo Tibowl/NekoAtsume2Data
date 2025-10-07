@@ -70,11 +70,16 @@ App.CoinView
 App.ColliderIdUtil
 App.ConnectScene
 App.Const
+App.Const.Album
+App.Const.Cat
 App.Const.Gift
 App.Const.Item
 App.Const.Mail
+App.Const.Memento
+App.Const.Seal
 App.Const.Time
 App.Const.Timeout
+App.Const.Travel
 App.Const.Url
 App.ContentChanger
 App.CropHandle
@@ -420,6 +425,7 @@ App.Save.NoteStateUtil
 App.Save.PhotoData
 App.Save.PhotoImageParam
 App.Save.PhotoPartCamera
+App.Save.PhotoPartComparer
 App.Save.PhotoPartSprite
 App.Save.PhotoPartXmlAnime
 App.Save.PhotoPartXmlAnimeFrame
@@ -452,6 +458,7 @@ App.Save.SealAlbumData
 App.Save.SealBookData
 App.Save.SealData
 App.Save.SealImageParam
+App.Save.SealPartComparer
 App.Save.SealPartDecoration
 App.Save.SealPartEmpty
 App.Save.SealPartPhoto
@@ -477,6 +484,7 @@ App.SealBookMainUi
 App.SealBookScene
 App.SealBookSceneArgs
 App.SealBookSceneDebugArgs
+App.SealBookUtil
 App.SealCell
 App.SealControl
 App.SealDecoCell
@@ -715,6 +723,7 @@ HpLib.BoxColliderExtensions.BoxColliderExtensions
 HpLib.BytesFlags
 HpLib.CameraExtensions.CameraExtensions
 HpLib.CameraUtil
+HpLib.CanvasExtensions
 HpLib.Clipboard
 HpLib.ColorExtensions.Color32Extensions
 HpLib.ColorExtensions.ColorExtensions
@@ -786,6 +795,7 @@ HpLib.GameObjectExtensions.GameObjectExtensions
 HpLib.GameObjectSwitcher
 HpLib.Handlers
 HpLib.Handlers2
+HpLib.HashCodeExtensions.HashCodeExtensions
 HpLib.IPinch
 HpLib.IPrinter
 HpLib.IQueue
@@ -880,6 +890,8 @@ HpLib.Timer
 HpLib.TransformExtensions.RectTransformExtensions
 HpLib.TransformExtensions.RectTransformExtensions2
 HpLib.TransformExtensions.TransformExtensions
+HpLib.TransformExtensions.TransformHierarchyExtensions
+HpLib.TransformExtensions.TransformSiblingExtensions
 HpLib.Tuple2
 HpLib.Tuple3
 HpLib.Tuple4

@@ -34,6 +34,7 @@ public enum GoodsJaId
 	public const GoodsJaId カフェデラックス = 122;
 	public const GoodsJaId 機関車デラックス = 123;
 	public const GoodsJaId ザウルスデラックス = 124;
+	public const GoodsJaId お座布団黄 = 126;
 	public const GoodsJaId ちりめん座布団 = 128;
 	public const GoodsJaId さくら座布団 = 129;
 	public const GoodsJaId しらゆき座布団 = 131;
@@ -99,6 +100,7 @@ public enum GoodsJaId
 	public const GoodsJaId _２段式タワー = 224;
 	public const GoodsJaId アスレチックタワー = 226;
 	public const GoodsJaId アスレチックEX = 227;
+	public const GoodsJaId モダンタワー = 229;
 	public const GoodsJaId ビッグスイーツタワー = 230;
 	public const GoodsJaId 壷つき和箪笥 = 231;
 	public const GoodsJaId トンネルI型 = 232;
@@ -146,6 +148,7 @@ public enum GoodsJaId
 	public const GoodsJaId 特大柄付きグラス = 297;
 	public const GoodsJaId ウエスタンハット = 298;
 	public const GoodsJaId ねこマカロンﾋﾟﾝｸ = 300;
+	public const GoodsJaId ねこマカロンｸﾞﾘｰﾝ = 301;
 	public const GoodsJaId 箱ティッシュ = 304;
 	public const GoodsJaId エコバッグ = 305;
 	public const GoodsJaId 黄金のにぼし像 = 306;

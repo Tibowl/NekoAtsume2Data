@@ -103,6 +103,7 @@ public enum GoodsId
 	public const GoodsId Tower3 = 225;
 	public const GoodsId AthleticTower = 226;
 	public const GoodsId AthleticEX = 227;
+	public const GoodsId ModernTower = 229;
 	public const GoodsId BigSweetsTower = 230;
 	public const GoodsId BureauWithPot = 231;
 	public const GoodsId TunnelI = 232;
@@ -150,6 +151,7 @@ public enum GoodsId
 	public const GoodsId OversizedPatternedGlass = 297;
 	public const GoodsId WesternHats = 298;
 	public const GoodsId CatMacaroonPpink = 300;
+	public const GoodsId CatMacaroonGreen = 301;
 	public const GoodsId Tissue = 304;
 	public const GoodsId ResortBed = 323;
 	public const GoodsId OmiyageTest1 = 3000;
