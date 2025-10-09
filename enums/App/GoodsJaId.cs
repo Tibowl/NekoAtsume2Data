@@ -71,6 +71,7 @@ public enum GoodsJaId
 	public const GoodsJaId すしクッション海老 = 181;
 	public const GoodsJaId すしクッション玉子 = 182;
 	public const GoodsJaId ドーム型クッション = 183;
+	public const GoodsJaId いがぐりクッション = 187;
 	public const GoodsJaId プラムコクーン = 188;
 	public const GoodsJaId オレンジコクーン = 189;
 	public const GoodsJaId メロンコクーン = 190;
@@ -127,6 +128,9 @@ public enum GoodsJaId
 	public const GoodsJaId こたつ = 259;
 	public const GoodsJaId ゆたんぽ = 262;
 	public const GoodsJaId ストーブ = 265;
+	public const GoodsJaId キッズリュックｻｸﾗ = 269;
+	public const GoodsJaId キッズリュックｽｶｲ = 270;
+	public const GoodsJaId キッズリュックﾗｲﾑ = 271;
 	public const GoodsJaId 紙ぶくろ = 272;
 	public const GoodsJaId ビニールぶくろ = 273;
 	public const GoodsJaId 横置き爪とぎ = 274;

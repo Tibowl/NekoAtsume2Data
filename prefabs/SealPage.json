@@ -6,13 +6,11 @@
         1,
         3,
         5,
-        7,
-        9,
-        11
+        7
       ]
     },
     {
-      "name": "SealCell",
+      "name": "SealCell1",
       "children": [
         2
       ]
@@ -21,7 +19,7 @@
       "name": "Thumbnail"
     },
     {
-      "name": "SealCell (1)",
+      "name": "SealCell2",
       "children": [
         4
       ]
@@ -30,7 +28,7 @@
       "name": "Thumbnail"
     },
     {
-      "name": "SealCell (2)",
+      "name": "SealCell3",
       "children": [
         6
       ]
@@ -39,27 +37,9 @@
       "name": "Thumbnail"
     },
     {
-      "name": "SealCell (3)",
+      "name": "SealCell4",
       "children": [
         8
-      ]
-    },
-    {
-      "name": "Thumbnail"
-    },
-    {
-      "name": "SealCell (4)",
-      "children": [
-        10
-      ]
-    },
-    {
-      "name": "Thumbnail"
-    },
-    {
-      "name": "SealCell (5)",
-      "children": [
-        12
       ]
     },
     {

@@ -1,6 +1,6 @@
 
 // Namespace: 
-public enum SealCell.State 
+private enum SealCell.State 
 {
 	// Fields
 	public int value__; // 0x0
