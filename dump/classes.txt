@@ -11,7 +11,9 @@ App.AlbumNameCell
 App.AlbumPhotoListPanel
 App.AlbumScene
 App.AlbumSceneUtil
+App.AnchorDirectionExtensions
 App.AndroidUtil
+App.AnimeResolveMethodUtil
 App.AppSoundSettings
 App.AppUrl
 App.AppUtil
@@ -238,6 +240,7 @@ App.MainMenuUtil
 App.MasterMemoryResolver
 App.MasterMemoryResolver.FormatterCache
 App.MasterMemoryResolverGetFormatterHelper
+App.MaterialPhotoList
 App.MementoContent
 App.MementoEffects
 App.MementosScene
@@ -252,6 +255,8 @@ App.MoodAnswer
 App.MoodCategory
 App.MoodQuestion
 App.MultipleMode
+App.MyButton
+App.MyButton.State2
 App.MyIapStore
 App.MyInput
 App.MyLocaleUtil
@@ -341,6 +346,7 @@ App.PhotoListTest
 App.PhotoPage
 App.PhotoSavePanel
 App.PhotoScene
+App.PhotoScenePool
 App.PhotoUtil
 App.PhotoUtil.ImageParam
 App.PlaceAttributeExtensions
@@ -459,7 +465,7 @@ App.Save.SealBookData
 App.Save.SealData
 App.Save.SealImageParam
 App.Save.SealPartComparer
-App.Save.SealPartDecoration
+App.Save.SealPartDeco
 App.Save.SealPartEmpty
 App.Save.SealPartPhoto
 App.Save.TimeData
@@ -497,11 +503,13 @@ App.SealDecoShopList
 App.SealDecoShopPage
 App.SealDeleteList
 App.SealDeletePanel
+App.SealDetailUi
 App.SealEditUi
+App.SealEditUtil
 App.SealImageBuilder
 App.SealImageBuilderRig
+App.SealImageBuilderRigPool
 App.SealList
-App.SealListSelectUi
 App.SealListUi
 App.SealObj
 App.SealObjImage
@@ -658,6 +666,7 @@ App.WallpaperScene
 App.WeatherJudge
 App.WeatherUtil
 App.Window
+App.WorldRectTransform
 App.Yard
 App.YardBg
 App.YardCamera
@@ -831,6 +840,7 @@ HpLib.MonoBehaviourExtensions.MonoBehaviourExtensions
 HpLib.MultiSprite
 HpLib.MyCaller
 HpLib.MyColor
+HpLib.MyVector
 HpLib.NTree
 HpLib.NetworkUtil
 HpLib.NgWordChecker

@@ -42,4 +42,7 @@ public enum Tag
 	public const Tag PhotoBuildQueue = 35;
 	public const Tag CoinView = 36;
 	public const Tag SealImageBuilderRig = 37;
+	public const Tag WorldRectTransform = 38;
+	public const Tag PhotoScenePool = 39;
+	public const Tag SealImageBuilderRigPool = 40;
 }

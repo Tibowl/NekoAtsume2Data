@@ -21,7 +21,7 @@
     "PopupYardExpansion2": "<color=\"red\">※중요</color>\n확장한 집안으로 고양이를 모으기\n위해서는 집안에도 음식을 놔 둬\n주세요.",
     "PopupYardExpansion3": "<color=\"red\">※주의※</color>\n고양이손 서포트 전용 공간이\n이동되었어요\n자세한 내용은 고양이손 서포트 메뉴의\n특전 상세에서 확인해 주세요",
     "PopupRemodel": "마당이 확장되어서\n<color=\"blue\">꾸미기</color>를 사용할 수 있게\n됐어요!\n<color=\"blue\">메뉴</color>의 <color=\"blue\">상점</color> 또는\n<color=\"blue\">소지품</color>에 추가된\n<color=\"blue\">꾸미기</color>에서 변경할 수 있어요\n\n※한 번 구매한 <color=\"blue\">꾸미기</color>는\n횟수 제한 없이 변경할 수 있어요※",
-    "PopupRemodelTicket1": "【모양변화 반가격 티켓】",
+    "PopupRemodelTicket1": "<color=\"blue\">모양변화 반가격 티켓</color>",
     "PopupRemodelTicket2": "를 선물로 드려요!\n<color=\"red\">※첫 구매 시에만 적용됩니다※</color>",
     "PopupOdekake1": "외출 메뉴에 오신 걸 환영해요!\n\n여기에서는\n<color=\"blue\">누군가의 마당</color>을 찾아보거나\n<color=\"blue\">자신의 마당</color>으로 <color=\"blue\">초대</color>할 수 있어요",
     "PopupOdekake2_1": "<color=\"blue\">외출</color>할 때는\n1회당 <color=\"blue\">티켓</color> 1장이\n필요해요",

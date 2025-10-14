@@ -8,7 +8,7 @@ internal enum SealBookScene.State
 	public const SealBookScene.State Main = 100;
 	public const SealBookScene.State Edit = 200;
 	public const SealBookScene.State SealList = 300;
-	public const SealBookScene.State SealListSelect = 320;
+	public const SealBookScene.State SealDetail = 320;
 	public const SealBookScene.State Shop = 400;
 	public const SealBookScene.State DecoList = 500;
 	public const SealBookScene.State Help = 600;

@@ -1025,7 +1025,7 @@
   {
     "Id": 126,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zabuton_ki"
@@ -2324,6 +2324,41 @@
     "WarningKey": null
   },
   {
+    "Id": 187,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_dome_kuri"
+    ],
+    "AnimeXmls": [
+      "03cushion_dome_kuri"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrder": 207,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1850,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 320,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 188,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -3354,7 +3389,7 @@
   {
     "Id": 229,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tower_modern"
@@ -4309,6 +4344,111 @@
     "WarningKey": null
   },
   {
+    "Id": 269,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_rucksack_ak"
+    ],
+    "AnimeXmls": [
+      "07fukuro_rucksack_ak"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 327,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 3000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 230,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 270,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_rucksack_ao"
+    ],
+    "AnimeXmls": [
+      "07fukuro_rucksack_ao"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 328,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 3000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 230,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 271,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "07fukuro_rucksack_mi"
+    ],
+    "AnimeXmls": [
+      "07fukuro_rucksack_mi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 329,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 3000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 230,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 272,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -5058,7 +5198,7 @@
   {
     "Id": 301,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03macaron_green"

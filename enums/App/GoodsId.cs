@@ -72,6 +72,7 @@ public enum GoodsId
 	public const GoodsId SushiCushionEgg = 182;
 	public const GoodsId DomedCushion = 183;
 	public const GoodsId CatCushion = 186;
+	public const GoodsId TortoiseCushion = 187;
 	public const GoodsId PlumCocoon = 188;
 	public const GoodsId OrangeCocoon = 189;
 	public const GoodsId MelonCocoon = 190;
@@ -130,6 +131,9 @@ public enum GoodsId
 	public const GoodsId Kotatsu = 259;
 	public const GoodsId HotWaterBottle = 262;
 	public const GoodsId Stove = 265;
+	public const GoodsId KidsBackpackSakura = 269;
+	public const GoodsId KidsBackpackSky = 270;
+	public const GoodsId KidsBackpackLime = 271;
 	public const GoodsId PaperBag = 272;
 	public const GoodsId VinylBag = 273;
 	public const GoodsId HorizontalRopeNailClogger = 274;

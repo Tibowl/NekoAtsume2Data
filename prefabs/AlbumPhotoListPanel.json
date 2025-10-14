@@ -4,8 +4,12 @@
       "name": "AlbumPhotoListPanel",
       "children": [
         1,
-        2
+        2,
+        3
       ]
+    },
+    {
+      "name": "PhotoListRoot"
     },
     {
       "name": "CloseButton"
@@ -13,7 +17,7 @@
     {
       "name": "PageView",
       "children": [
-        3
+        4
       ]
     },
     {
