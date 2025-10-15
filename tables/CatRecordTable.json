@@ -855,7 +855,8 @@
     "ActiveMonths": [
       6,
       7,
-      8
+      8,
+      11
     ]
   },
   {
@@ -872,6 +873,17 @@
       10,
       11
     ]
+  },
+  {
+    "Id": 131,
+    "Type": 1,
+    "MementoIdInt": 79,
+    "Power": 220,
+    "WeatherImpact": 0,
+    "Niboshi": 200,
+    "GomenneRate": 0,
+    "GroomingRate": 0,
+    "ActiveMonths": null
   },
   {
     "Id": 701,

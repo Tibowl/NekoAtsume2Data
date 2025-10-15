@@ -11684,6 +11684,104 @@
     "ShouldOmitMyneko": true
   },
   {
+    "Id": 3260,
+    "ItemId": 326,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_nabe"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionResolveMethods": [
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionResolveMethods2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3261,
+    "ItemId": 326,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_pingpong_break",
+      "131"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionResolveMethods": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionResolveMethods2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId": null,
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 75,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": -1.0,
+    "ShouldOmitMyneko": true
+  },
+  {
+    "Id": 3270,
+    "ItemId": 327,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "ActionResolveMethods": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionResolveMethods2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
     "Id": 50000,
     "ItemId": 5000,
     "ConflictIndices": [],
