@@ -175,6 +175,8 @@ public enum GoodsJaId
 	public const GoodsJaId リゾートベッド = 323;
 	public const GoodsJaId かぼちゃハウス = 324;
 	public const GoodsJaId かぼちゃハウスDX = 325;
+	public const GoodsJaId 花カゴ = 326;
+	public const GoodsJaId なりきりライオン = 327;
 	public const GoodsJaId おみやげテスト1 = 3000;
 	public const GoodsJaId おみやげテスト2 = 3001;
 	public const GoodsJaId おみやげテスト3 = 3002;

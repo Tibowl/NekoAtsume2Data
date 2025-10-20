@@ -22,4 +22,5 @@ public enum SaveDataPart
 	public const SaveDataPart Settings = 15;
 	public const SaveDataPart News = 16;
 	public const SaveDataPart Travel = 17;
+	public const SaveDataPart SealBook = 18;
 }

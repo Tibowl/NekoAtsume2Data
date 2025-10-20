@@ -415,7 +415,10 @@ App.Save.ICatNote
 App.Save.IGoodsStatus
 App.Save.IPhotoPart
 App.Save.ISealCopyable
-App.Save.ISealEditItem
+App.Save.ISealEditCrop
+App.Save.ISealEditFlipX
+App.Save.ISealEditFlipY
+App.Save.ISealEditTransform
 App.Save.ISealPart
 App.Save.IapPlatformUtil
 App.Save.Inventory
@@ -770,7 +773,6 @@ HpLib.EnumStateSet
 HpLib.EnumStates
 HpLib.EnumUtil
 HpLib.EnumerableExtensions.EnumerableExtensions
-HpLib.Enumeration
 HpLib.ErrorTime
 HpLib.Extra.AddressableUtil
 HpLib.Extra.AsyncOperationHandleScope
@@ -846,7 +848,7 @@ HpLib.NetworkUtil
 HpLib.NgWordChecker
 HpLib.ObjectDestruction
 HpLib.ObjectDestructionList
-HpLib.ObjectExtensions.ObjectExtensions
+HpLib.ObjectReflectionExtensions.ObjectReflectionExtensions
 HpLib.OneTimeAction
 HpLib.PersistentInt
 HpLib.PersistentJson

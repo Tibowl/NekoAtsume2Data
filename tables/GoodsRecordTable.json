@@ -2326,7 +2326,7 @@
   {
     "Id": 187,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_dome_kuri"
@@ -3823,7 +3823,7 @@
     "Mood": {
       "Data": 1
     },
-    "DisplayOrder": 293,
+    "DisplayOrder": 292,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -3859,7 +3859,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 294,
+    "DisplayOrder": 293,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -3895,7 +3895,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 298,
+    "DisplayOrder": 297,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -3931,7 +3931,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrder": 299,
+    "DisplayOrder": 298,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -3967,7 +3967,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 300,
+    "DisplayOrder": 299,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4003,7 +4003,7 @@
     "Mood": {
       "Data": 1
     },
-    "DisplayOrder": 301,
+    "DisplayOrder": 300,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4039,7 +4039,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 302,
+    "DisplayOrder": 301,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4075,7 +4075,7 @@
     "Mood": {
       "Data": 2
     },
-    "DisplayOrder": 303,
+    "DisplayOrder": 302,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4111,7 +4111,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 304,
+    "DisplayOrder": 303,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4148,7 +4148,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 310,
+    "DisplayOrder": 309,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4184,7 +4184,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 311,
+    "DisplayOrder": 310,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4219,7 +4219,7 @@
     "Mood": {
       "Data": 25
     },
-    "DisplayOrder": 315,
+    "DisplayOrder": 314,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4254,7 +4254,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 317,
+    "DisplayOrder": 316,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 128,
@@ -4289,7 +4289,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrder": 320,
+    "DisplayOrder": 319,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 128,
@@ -4324,7 +4324,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 323,
+    "DisplayOrder": 322,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 128,
@@ -4346,7 +4346,7 @@
   {
     "Id": 269,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_rucksack_ak"
@@ -4359,7 +4359,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 327,
+    "DisplayOrder": 326,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -4381,7 +4381,7 @@
   {
     "Id": 270,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_rucksack_ao"
@@ -4394,7 +4394,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrder": 328,
+    "DisplayOrder": 327,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -4416,7 +4416,7 @@
   {
     "Id": 271,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "07fukuro_rucksack_mi"
@@ -4429,7 +4429,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrder": 329,
+    "DisplayOrder": 328,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -4464,7 +4464,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 330,
+    "DisplayOrder": 329,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
@@ -4499,7 +4499,7 @@
     "Mood": {
       "Data": 10
     },
-    "DisplayOrder": 331,
+    "DisplayOrder": 330,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
@@ -4534,7 +4534,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 334,
+    "DisplayOrder": 333,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4569,7 +4569,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 335,
+    "DisplayOrder": 334,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4604,7 +4604,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 336,
+    "DisplayOrder": 335,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -4639,7 +4639,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 337,
+    "DisplayOrder": 336,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -4990,7 +4990,7 @@
     "Mood": {
       "Data": 16
     },
-    "DisplayOrder": 357,
+    "DisplayOrder": 359,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -5026,7 +5026,7 @@
     "Mood": {
       "Data": 18
     },
-    "DisplayOrder": 363,
+    "DisplayOrder": 365,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1088,
@@ -5061,7 +5061,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrder": 368,
+    "DisplayOrder": 370,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -5096,7 +5096,7 @@
     "Mood": {
       "Data": 26
     },
-    "DisplayOrder": 367,
+    "DisplayOrder": 369,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -5141,7 +5141,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 369,
+    "DisplayOrder": 371,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1280,
@@ -5176,7 +5176,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 372,
+    "DisplayOrder": 374,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 8,
@@ -5211,7 +5211,7 @@
     "Mood": {
       "Data": 9
     },
-    "DisplayOrder": 373,
+    "DisplayOrder": 375,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 8,
@@ -5281,7 +5281,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 332,
+    "DisplayOrder": 331,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -5316,7 +5316,7 @@
     "Mood": {
       "Data": 24
     },
-    "DisplayOrder": 376,
+    "DisplayOrder": 378,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
@@ -5352,7 +5352,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrder": 370,
+    "DisplayOrder": 372,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 1,
     "Category": 1280,
@@ -5598,7 +5598,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrder": 305,
+    "DisplayOrder": 304,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -5634,7 +5634,7 @@
     "Mood": {
       "Data": 0
     },
-    "DisplayOrder": 306,
+    "DisplayOrder": 305,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 32,
@@ -5705,7 +5705,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 312,
+    "DisplayOrder": 311,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 1024,
@@ -5855,7 +5855,7 @@
     "Mood": {
       "Data": 8
     },
-    "DisplayOrder": 333,
+    "DisplayOrder": 332,
     "DisplayOrderInShopRaw": 0,
     "DisplayOrderInTrade": 0,
     "Category": 256,
@@ -6027,6 +6027,77 @@
       10,
       11
     ],
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 326,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_kago_flower"
+    ],
+    "AnimeXmls": [
+      "10hachi_kago_flower"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 337,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": -1,
+    "RepairSilver": 15,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 327,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03narikiri_lion"
+    ],
+    "AnimeXmls": [
+      "03narikiri_lion",
+      "03narikiri_lion_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 8
+    },
+    "DisplayOrder": 290,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
     "UnlockGoods": null,
     "WarningKey": null
   },
