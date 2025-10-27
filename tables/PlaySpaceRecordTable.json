@@ -6032,16 +6032,19 @@
       "00kihon_nesoberi",
       "00kihon_nesoberi",
       "00kihon_suwari",
-      "00kihon_suwari"
+      "00kihon_suwari",
+      "00kihon_tachi"
     ],
     "ActionIds": [
       0,
       1,
       2,
       0,
-      1
+      1,
+      0
     ],
     "ActionResolveMethods": [
+      0,
       0,
       0,
       0,

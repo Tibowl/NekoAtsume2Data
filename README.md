@@ -2,4 +2,4 @@
 
 This is a repository for the data of the game Neko Atsume 2.
 
-Latest version: 2.0.1
+Latest version: 2.1.0

@@ -37,6 +37,7 @@ public enum GoodsId
 	public const GoodsId SaurusDeluxe = 124;
 	public const GoodsId ChirimenCushion = 128;
 	public const GoodsId SakuraCushion = 129;
+	public const GoodsId MomijiCushion = 130;
 	public const GoodsId ShirayukiCushion = 131;
 	public const GoodsId IgusaZabutonRed = 132;
 	public const GoodsId IgusaZabutonNavy = 133;
@@ -95,6 +96,8 @@ public enum GoodsId
 	public const GoodsId NaturalTent = 208;
 	public const GoodsId BlizzardTent = 210;
 	public const GoodsId PyramidTent = 211;
+	public const GoodsId MushroomHouse = 212;
+	public const GoodsId ShiitakeHouse = 213;
 	public const GoodsId BambooRocket = 214;
 	public const GoodsId WarmSocks = 215;
 	public const GoodsId BomBomSocks = 216;

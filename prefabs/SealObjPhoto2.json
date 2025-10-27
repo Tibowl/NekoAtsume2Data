@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "SealObjPhoto2",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Mask",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Sync",
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "RawImage"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
