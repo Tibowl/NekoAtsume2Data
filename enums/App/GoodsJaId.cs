@@ -37,6 +37,7 @@ public enum GoodsJaId
 	public const GoodsJaId お座布団黄 = 126;
 	public const GoodsJaId ちりめん座布団 = 128;
 	public const GoodsJaId さくら座布団 = 129;
+	public const GoodsJaId もみじ座布団 = 130;
 	public const GoodsJaId しらゆき座布団 = 131;
 	public const GoodsJaId い草座布団赤 = 132;
 	public const GoodsJaId い草座布団紺 = 133;
@@ -94,10 +95,13 @@ public enum GoodsJaId
 	public const GoodsJaId ナチュラルテント = 208;
 	public const GoodsJaId テントブリザード = 210;
 	public const GoodsJaId テントピラミッド = 211;
+	public const GoodsJaId きのこハウス = 212;
+	public const GoodsJaId しいたけハウス = 213;
 	public const GoodsJaId タケノコロケット = 214;
 	public const GoodsJaId あったかくつした = 215;
 	public const GoodsJaId ぼんぼんくつした = 216;
 	public const GoodsJaId ビーチパラソル = 222;
+	public const GoodsJaId メルヘンパラソル = 223;
 	public const GoodsJaId _２段式タワー = 224;
 	public const GoodsJaId アスレチックタワー = 226;
 	public const GoodsJaId アスレチックEX = 227;

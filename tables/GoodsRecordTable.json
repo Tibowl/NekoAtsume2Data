@@ -1128,6 +1128,41 @@
     "WarningKey": null
   },
   {
+    "Id": 130,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_zab_momiji"
+    ],
+    "AnimeXmls": [
+      "03cushion_zab_momiji"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 134,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 1700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 220,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 131,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -3139,6 +3174,76 @@
     "WarningKey": null
   },
   {
+    "Id": 212,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12kinoko_aka"
+    ],
+    "AnimeXmls": [
+      "12kinoko_aka"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 236,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 5100,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 25,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 213,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12kinoko_tya"
+    ],
+    "AnimeXmls": [
+      "12kinoko_tya"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 16
+    },
+    "DisplayOrder": 237,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Toughness": 5100,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 25,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 214,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -3272,6 +3377,41 @@
     "Silver": 340,
     "Gold": -1,
     "RepairSilver": 60,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 223,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "12unbrella_meruhen"
+    ],
+    "AnimeXmls": [
+      "12unbrella_meruhen"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 25
+    },
+    "DisplayOrder": 257,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 512,
+    "Toughness": 21500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 2750,
+    "Gold": 55,
+    "RepairSilver": 100,
     "StampCard": -1,
     "Coin": -1,
     "OmiyageVoucher": -1,
@@ -6033,7 +6173,7 @@
   {
     "Id": 326,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_kago_flower"
@@ -6068,7 +6208,7 @@
   {
     "Id": 327,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03narikiri_lion"

@@ -495,7 +495,6 @@ App.SealBookSceneArgs
 App.SealBookSceneDebugArgs
 App.SealBookUtil
 App.SealCell
-App.SealControl
 App.SealDecoCell
 App.SealDecoIdUtil
 App.SealDecoList
@@ -516,9 +515,13 @@ App.SealList
 App.SealListUi
 App.SealObj
 App.SealObjImage
+App.SealObjImage2
 App.SealObjPhoto
+App.SealObjPhoto2
 App.SealPage
+App.SealRotateHandle
 App.SealScaleHandle
+App.SealSelectBox
 App.ServerRequestStopwatch
 App.ServerTime
 App.ServerTimeSourceListUtil
@@ -586,6 +589,7 @@ App.Support
 App.SupportSetting
 App.SupportSetting.Data
 App.SwapMode
+App.SyncGrandparentRect
 App.SystemStopwatch
 App.Tables.CatRecordTable
 App.Tables.CatVsCatTable
@@ -915,6 +919,7 @@ HpLib.Util
 HpLib.ValueWithSave
 HpLib.VectorExtensions.Vector2Extensions
 HpLib.VectorExtensions.Vector3Extensions
+HpLib.VectorExtensions.Vector4Extensions
 HpLib.VectorUtil
 HpLib.WithIndex
 HpLib.Xorshift
