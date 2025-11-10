@@ -119,6 +119,7 @@ public enum GoodsJaId
 	public const GoodsJaId やどかりトンネル白 = 243;
 	public const GoodsJaId ねこじゃらし = 244;
 	public const GoodsJaId 羽根じゃらし = 245;
+	public const GoodsJaId すすきじゃらし = 247;
 	public const GoodsJaId ねずみさん = 249;
 	public const GoodsJaId トンボくん = 250;
 	public const GoodsJaId けりぐるみねずみ = 251;
@@ -132,6 +133,7 @@ public enum GoodsJaId
 	public const GoodsJaId こたつ = 259;
 	public const GoodsJaId ゆたんぽ = 262;
 	public const GoodsJaId ストーブ = 265;
+	public const GoodsJaId ぽんぽん落ち葉山 = 268;
 	public const GoodsJaId キッズリュックｻｸﾗ = 269;
 	public const GoodsJaId キッズリュックｽｶｲ = 270;
 	public const GoodsJaId キッズリュックﾗｲﾑ = 271;
@@ -142,6 +144,8 @@ public enum GoodsJaId
 	public const GoodsJaId 高級丸太爪とぎ = 276;
 	public const GoodsJaId 果物カゴ = 277;
 	public const GoodsJaId 土鍋 = 278;
+	public const GoodsJaId 羽つき釜炊き = 279;
+	public const GoodsJaId 鉄製茶釜 = 280;
 	public const GoodsJaId 漆塗り高級お碗 = 281;
 	public const GoodsJaId 壷 = 282;
 	public const GoodsJaId 梅壷 = 283;

@@ -1,5 +1,5 @@
 
-// Namespace: App
+// Namespace: HpLib
 public enum FetchResult 
 {
 	// Fields

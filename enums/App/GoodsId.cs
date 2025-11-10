@@ -121,6 +121,7 @@ public enum GoodsId
 	public const GoodsId HermitCrabTunnelWhite = 243;
 	public const GoodsId Catnip = 244;
 	public const GoodsId FeatherNappy = 245;
+	public const GoodsId PampasGrass = 247;
 	public const GoodsId Mouse = 249;
 	public const GoodsId Dragonfly = 250;
 	public const GoodsId GripesMmouse = 251;
@@ -134,6 +135,7 @@ public enum GoodsId
 	public const GoodsId Kotatsu = 259;
 	public const GoodsId HotWaterBottle = 262;
 	public const GoodsId Stove = 265;
+	public const GoodsId PomponFallenLeafMountain = 268;
 	public const GoodsId KidsBackpackSakura = 269;
 	public const GoodsId KidsBackpackSky = 270;
 	public const GoodsId KidsBackpackLime = 271;
@@ -144,6 +146,8 @@ public enum GoodsId
 	public const GoodsId HighGradeLogNailClippers = 276;
 	public const GoodsId FruitBasket = 277;
 	public const GoodsId EarthenwarePot = 278;
+	public const GoodsId KettleWithWings = 279;
+	public const GoodsId IronTeaKettle = 280;
 	public const GoodsId FinelacqueredBowls = 281;
 	public const GoodsId Tsubo = 282;
 	public const GoodsId UmeTsubo = 283;

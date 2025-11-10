@@ -1130,7 +1130,7 @@
   {
     "Id": 130,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zab_momiji"
@@ -3176,7 +3176,7 @@
   {
     "Id": 212,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12kinoko_aka"
@@ -3211,7 +3211,7 @@
   {
     "Id": 213,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12kinoko_tya"
@@ -3389,7 +3389,7 @@
   {
     "Id": 223,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "12unbrella_meruhen"
@@ -4019,6 +4019,42 @@
     "WarningKey": null
   },
   {
+    "Id": 247,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_ssk"
+    ],
+    "AnimeXmls": [
+      "06jarashi_ssk",
+      "06jarashi_ssk_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 295,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 90,
+    "Gold": -1,
+    "RepairSilver": 0,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 249,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -4484,6 +4520,42 @@
     "WarningKey": null
   },
   {
+    "Id": 268,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_ochiba"
+    ],
+    "AnimeXmls": [
+      "03cushion_ochiba",
+      "03cushion_ochiba_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 0
+    },
+    "DisplayOrder": 325,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 1152,
+    "Toughness": 1550,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 400,
+    "Gold": -1,
+    "RepairSilver": 25,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 269,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -4823,6 +4895,78 @@
     "RepairPattern": 0,
     "Silver": -1,
     "Gold": 20,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 279,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_hagama"
+    ],
+    "AnimeXmls": [
+      "10hachi_hagama",
+      "10hachi_hagama_pose01",
+      "10hachi_hagama_pose02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 2
+    },
+    "DisplayOrder": 339,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 384,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 27,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 280,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_chagama"
+    ],
+    "AnimeXmls": [
+      "10hachi_chagama"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 18
+    },
+    "DisplayOrder": 340,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 770,
+    "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
     "Coin": -1,

@@ -10,7 +10,7 @@
       "name": "SafeArea",
       "children": [
         2,
-        70
+        73
       ]
     },
     {
@@ -354,9 +354,25 @@
       "name": "Text (Legacy)"
     },
     {
+      "name": "Horizontal",
+      "children": [
+        69,
+        71
+      ]
+    },
+    {
       "name": "AnimeButton",
       "children": [
-        69
+        70
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "ExportButton",
+      "children": [
+        72
       ]
     },
     {

@@ -9,6 +9,6 @@ internal enum RtSyncFlags
 	public const RtSyncFlags Pos = 1;
 	public const RtSyncFlags Size = 2;
 	public const RtSyncFlags Rot = 4;
-	public const RtSyncFlags PosSize = 3;
+	public const RtSyncFlags PosAndSize = 3;
 	public const RtSyncFlags All = 7;
 }
