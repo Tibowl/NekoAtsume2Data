@@ -45,4 +45,5 @@ public enum Tag
 	public const Tag WorldRectTransform = 38;
 	public const Tag PhotoScenePool = 39;
 	public const Tag SealImageBuilderRigPool = 40;
+	public const Tag SceneTextureRegistry = 41;
 }

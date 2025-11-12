@@ -153,4 +153,6 @@ public enum MynekoPartsId
 	public const MynekoPartsId Stand9 = 509;
 	public const MynekoPartsId Stand10 = 510;
 	public const MynekoPartsId Stand11 = 511;
+	public const MynekoPartsId Outline = 2001;
+	public const MynekoPartsId OutlineOkimono = 2002;
 }

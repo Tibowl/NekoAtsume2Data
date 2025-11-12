@@ -1,5 +1,5 @@
 
-// Namespace: HpLib.Anime
+// Namespace: HpXmlAnime
 public enum GraphicType 
 {
 	// Fields
