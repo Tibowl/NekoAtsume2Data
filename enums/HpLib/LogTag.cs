@@ -11,7 +11,7 @@ public enum LogTag
 	public const LogTag Shop = 4;
 	public const LogTag Goods = 5;
 	public const LogTag Album = 6;
-	public const LogTag Illust = 7;
+	public const LogTag Note = 7;
 	public const LogTag Photo = 8;
 	public const LogTag Book = 9;
 	public const LogTag Remodel = 10;

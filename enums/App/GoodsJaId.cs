@@ -93,6 +93,7 @@ public enum GoodsJaId
 	public const GoodsJaId エッグタルトベッド = 206;
 	public const GoodsJaId アンティークチェア = 207;
 	public const GoodsJaId ナチュラルテント = 208;
+	public const GoodsJaId テントレッドモダン = 209;
 	public const GoodsJaId テントブリザード = 210;
 	public const GoodsJaId テントピラミッド = 211;
 	public const GoodsJaId きのこハウス = 212;
@@ -113,6 +114,7 @@ public enum GoodsJaId
 	public const GoodsJaId トンネルT型 = 234;
 	public const GoodsJaId 立体型トンネル = 235;
 	public const GoodsJaId ちくわトンネル = 237;
+	public const GoodsJaId トンネルホルスタイン = 238;
 	public const GoodsJaId チョココロネトンネル = 240;
 	public const GoodsJaId やどかりトンネル桃 = 241;
 	public const GoodsJaId やどかりトンネル青 = 242;
@@ -120,6 +122,7 @@ public enum GoodsJaId
 	public const GoodsJaId ねこじゃらし = 244;
 	public const GoodsJaId 羽根じゃらし = 245;
 	public const GoodsJaId すすきじゃらし = 247;
+	public const GoodsJaId 綿毛じゃらし = 248;
 	public const GoodsJaId ねずみさん = 249;
 	public const GoodsJaId トンボくん = 250;
 	public const GoodsJaId けりぐるみねずみ = 251;
@@ -185,6 +188,8 @@ public enum GoodsJaId
 	public const GoodsJaId かぼちゃハウスDX = 325;
 	public const GoodsJaId 花カゴ = 326;
 	public const GoodsJaId なりきりライオン = 327;
+	public const GoodsJaId 特大ブーツ = 328;
+	public const GoodsJaId 特大ブーツｸﾘｽﾏｽ = 329;
 	public const GoodsJaId おみやげテスト1 = 3000;
 	public const GoodsJaId おみやげテスト2 = 3001;
 	public const GoodsJaId おみやげテスト3 = 3002;

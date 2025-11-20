@@ -1,6 +1,6 @@
 
 // Namespace: HpXmlAnime
-public enum XmlAnimeSubMeshType 
+internal enum XmlAnimeSubMeshType 
 {
 	// Fields
 	public int value__; // 0x0

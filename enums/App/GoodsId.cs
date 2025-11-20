@@ -94,6 +94,7 @@ public enum GoodsId
 	public const GoodsId EggTartBed = 206;
 	public const GoodsId AntiqueChair = 207;
 	public const GoodsId NaturalTent = 208;
+	public const GoodsId RedModernTent = 209;
 	public const GoodsId BlizzardTent = 210;
 	public const GoodsId PyramidTent = 211;
 	public const GoodsId MushroomHouse = 212;
@@ -115,6 +116,7 @@ public enum GoodsId
 	public const GoodsId TunnelT = 234;
 	public const GoodsId VerticalTunnels = 235;
 	public const GoodsId ChikuwaTunnel = 237;
+	public const GoodsId HolsteinTunnel = 238;
 	public const GoodsId ChocoCoronetTunnel = 240;
 	public const GoodsId HermitCrabTunnelPeach = 241;
 	public const GoodsId HermitCrabTunnelBlue = 242;
@@ -122,6 +124,7 @@ public enum GoodsId
 	public const GoodsId Catnip = 244;
 	public const GoodsId FeatherNappy = 245;
 	public const GoodsId PampasGrass = 247;
+	public const GoodsId CottonWool = 248;
 	public const GoodsId Mouse = 249;
 	public const GoodsId Dragonfly = 250;
 	public const GoodsId GripesMmouse = 251;
@@ -133,6 +136,7 @@ public enum GoodsId
 	public const GoodsId ButterflyPotty = 257;
 	public const GoodsId RailHereAndThere = 258;
 	public const GoodsId Kotatsu = 259;
+	public const GoodsId Marukotatsu = 260;
 	public const GoodsId HotWaterBottle = 262;
 	public const GoodsId Stove = 265;
 	public const GoodsId PomponFallenLeafMountain = 268;
