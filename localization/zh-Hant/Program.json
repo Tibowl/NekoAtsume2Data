@@ -38,6 +38,7 @@
     "SealAlbumIsFull": "貼紙簿已滿，\n請選擇一個作品進行替換。",
     "NoSeal": "沒有作品。",
     "BgRemoveToggle": "移除背景",
+    "AskSealPartFlipY": "要將所選照片上下翻轉嗎？\n※為避免貓咪花紋改變，\n　旋轉狀態將被重置。",
     "Coin": "貓幣",
     "OmiyageVoucher": "紀念品兌換券",
     "GoodsBuyConfirmVoucher": "要消耗 {0} 張紀念品兌換券\n購買 {1} 嗎？",

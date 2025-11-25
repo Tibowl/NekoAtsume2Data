@@ -5,11 +5,14 @@ App.AdReward
 App.AddressabeLabelExtensions
 App.AddressableFilerUtil
 App.AlbumCharaListPanel
+App.AlbumIdExtensions
 App.AlbumIdUtil
 App.AlbumLabelListPanel
 App.AlbumNameCell
 App.AlbumPhotoListPanel
 App.AlbumScene
+App.AlbumSceneArgs
+App.AlbumSceneDebugArgs
 App.AlbumSceneUtil
 App.AnchorDirectionExtensions
 App.AndroidUtil
@@ -187,6 +190,7 @@ App.ILeftRightArrowExtensions
 App.IMenuIconButton
 App.INekonoteState
 App.INekonoteStateUtil
+App.IPointerFieldAccessor
 App.IPurchaseItem
 App.IPurchaseItemExtensions
 App.ISaveSlotPaths
@@ -282,6 +286,7 @@ App.MynekoNoteScene
 App.MynekoParameter
 App.MynekoPartsIdUtil
 App.MynekoPartsKindUtil
+App.MynekoPartsList
 App.MynekoPartsListCell
 App.MynekoPartsListPage
 App.MynekoPartsRecord
@@ -366,6 +371,9 @@ App.PlaySpaceLottery.Result
 App.PlaySpaceRecord
 App.PlaySpaceVsCat
 App.PlaySpaceVsWeather
+App.PointerDragAccessor
+App.PointerEnterAccessor
+App.PointerPressAccessor
 App.Popup
 App.PopupFlagUtil
 App.PopupLauncher
@@ -536,6 +544,7 @@ App.ServerTimeUpdater
 App.Settings
 App.Settings.FlagsMember
 App.Settings.SettingFlags
+App.ShaderIdExtensions
 App.ShinobuUtil
 App.ShopAkindoCommonUi
 App.ShopAkindoIapUi
@@ -624,6 +633,7 @@ App.TextScrollView
 App.TextScrollViewPanel
 App.TextUtil
 App.Texture2dCache
+App.TextureUtilApp
 App.TimeFormatString
 App.TimeUtil
 App.ToggleExtensions.ToggleExtensions
@@ -712,6 +722,9 @@ App.YubiEffectWorld
 HpLib.Ad.AdManager
 HpLib.Ad.AdMobConsent
 HpLib.Ad.AdUnitId
+HpLib.AddressablesLoader
+HpLib.AddressablesLoader.AssetEntry
+HpLib.AddressablesLoader.InstanceEntry
 HpLib.AesConfig
 HpLib.AesConfig.Key
 HpLib.AesCrypt
@@ -766,8 +779,8 @@ HpLib.ErrorTime
 HpLib.Extra.AddressableUtil
 HpLib.Extra.AsyncOperationHandleScope
 HpLib.Extra.ComponentExtensions.ComponentExtensions
-HpLib.Extra.ExFileUtil
 HpLib.Extra.FileManager
+HpLib.Extra.FileUtilEx
 HpLib.Extra.FpsCounter
 HpLib.Extra.GameObjectExtensions2.GameObjectExtensions2
 HpLib.Extra.InputSystemUtil
@@ -782,7 +795,7 @@ HpLib.Extra.NonPersistentAttribute
 HpLib.Extra.RendererUtil
 HpLib.Extra.RxUtil
 HpLib.Extra.SingletonInstanciator
-HpLib.Extra.TextureUtil2
+HpLib.Extra.TextureUtilEx
 HpLib.Extra.UniTaskUtil
 HpLib.FetchResultExtensions
 HpLib.FileUtil
@@ -842,6 +855,7 @@ HpLib.ObjectDestruction
 HpLib.ObjectDestructionList
 HpLib.ObjectReflectionExtensions.ObjectReflectionExtensions
 HpLib.OneTimeAction
+HpLib.PathUtil
 HpLib.PersistentInt
 HpLib.PersistentJson
 HpLib.PinchInOut
@@ -922,6 +936,7 @@ HpXmlAnime.AnimeImageData
 HpXmlAnime.AnimeModuleData
 HpXmlAnime.AnimeSequenceData
 HpXmlAnime.AnimeSpriteData
+HpXmlAnime.GraphicsContext
 HpXmlAnime.IXmlAnimeGraphic
 HpXmlAnime.MyLabelAttribute
 HpXmlAnime.Texture2dLoader
@@ -929,6 +944,7 @@ HpXmlAnime.VerticesOrder
 HpXmlAnime.XmlAnime
 HpXmlAnime.XmlAnimeData
 HpXmlAnime.XmlAnimeDataLoader
+HpXmlAnime.XmlAnimeDebugLoader
 HpXmlAnime.XmlAnimeImage
 HpXmlAnime.XmlAnimeLoader
 HpXmlAnime.XmlAnimeMesh

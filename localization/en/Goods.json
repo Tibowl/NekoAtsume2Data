@@ -238,6 +238,8 @@
     "GoodsName325": "Pumpkin House DX",
     "GoodsName326": "Flower Basket",
     "GoodsName327": "Lion Bed",
+    "GoodsName328": "Boots",
+    "GoodsName329": "Christmas Boots",
     "ExGoodsName1": "Yard Expansion",
     "ExGoodsName2": "Fish Exchange",
     "ExGoodsName3": "Jarashi",
@@ -481,6 +483,8 @@
     "GoodsShop325": "<Sales period: Until the end of November>\nGetting eaten by a ghost pumpkin!?\nA playful pumpkin house for cats.",
     "GoodsShop326": "A basket to stylishly display\nvarious flowers.",
     "GoodsShop327": "Transform fully when snugly fitted!?\nCute lion-shaped bed.",
+    "GoodsShop328": "<Sales period: Until the end of February>\nSlightly oversized special boots.\nA sleek black for a sharp look.",
+    "GoodsShop329": "<Sales period: Until the end of February>\nSpecial boots that hold many things.\nAdd extra excitement to winter gifts!",
     "ExGoodsShop1": "Expand your cats' play space into the\nadjacent room, which will allow you to\nplace more stuff!",
     "ExGoodsShop2": "Exchange 10 gold fish for 250 normal fish.",
     "ExGoodsShop3": "A classic item to attract cats.\nShaking it might catch their\nattention. *Used in the yard.",
@@ -724,5 +728,7 @@
     "GoodsYard325": "<Fall Limited Edition>\nA pumpkin house perfect for\nfall festivities. Not too scary after all.",
     "GoodsYard326": "Flower basket? More like \"feline basket\"\nonce your cats get a load of this thing.",
     "GoodsYard327": "A snug lion-shaped bed.\nTransformation is up to the cat.",
+    "GoodsYard328": "<Winter Limited Edition>\nNot very practical,\nbut perfect for keeping warm.",
+    "GoodsYard329": "<Winter Limited Edition>\nRed boots you often see in winter.\nGreat for storing things—or for play.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

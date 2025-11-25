@@ -90,4 +90,5 @@ public enum AlbumId
 	public const AlbumId Myneko3 = 703;
 	public const AlbumId Free = 10000;
 	public const AlbumId Travel = 10001;
+	public const AlbumId LatestPhotos = 20000;
 }

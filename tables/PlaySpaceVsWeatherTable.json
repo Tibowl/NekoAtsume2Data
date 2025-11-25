@@ -2188,5 +2188,38 @@
   {
     "Id": 3270,
     "Dict": {}
+  },
+  {
+    "Id": 3280,
+    "Dict": {
+      "Spring": -10,
+      "Summer": -10,
+      "Autum": -10,
+      "Winter": 40,
+      "Snow": 40,
+      "Burning": -70
+    }
+  },
+  {
+    "Id": 3290,
+    "Dict": {
+      "Spring": -10,
+      "Summer": -10,
+      "Autum": -10,
+      "Winter": 40,
+      "Snow": 40,
+      "Burning": -70
+    }
+  },
+  {
+    "Id": 3291,
+    "Dict": {
+      "Spring": -10,
+      "Summer": -10,
+      "Autum": -10,
+      "Winter": 40,
+      "Snow": 40,
+      "Burning": -70
+    }
   }
 ]

@@ -3104,6 +3104,41 @@
     "WarningKey": null
   },
   {
+    "Id": 209,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_tento_1"
+    ],
+    "AnimeXmls": [
+      "12hammock_tento_1"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 233,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 512,
+    "Toughness": 2300,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 22,
+    "RepairSilver": 45,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 210,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -3807,6 +3842,41 @@
     "WarningKey": null
   },
   {
+    "Id": 238,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "05tunnel_u_ushi"
+    ],
+    "AnimeXmls": [
+      "05tunnel_u_ushi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrder": 277,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Toughness": 2900,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 300,
+    "Gold": -1,
+    "RepairSilver": 25,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 240,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -4021,7 +4091,7 @@
   {
     "Id": 247,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_ssk"
@@ -4043,6 +4113,42 @@
     "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 90,
+    "Gold": -1,
+    "RepairSilver": 0,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 248,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_wata"
+    ],
+    "AnimeXmls": [
+      "06jarashi_wata",
+      "06jarashi_wata_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 10
+    },
+    "DisplayOrder": 296,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Toughness": 1000,
+    "UsedToughness": -1,
+    "RepairPattern": 1,
+    "Silver": 100,
     "Gold": -1,
     "RepairSilver": 0,
     "StampCard": -1,
@@ -4522,7 +4628,7 @@
   {
     "Id": 268,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_ochiba"
@@ -4908,7 +5014,7 @@
   {
     "Id": 279,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_hagama"
@@ -4945,7 +5051,7 @@
   {
     "Id": 280,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_chagama"
@@ -6382,6 +6488,84 @@
     "IapId": -1,
     "SalesRoute": 0,
     "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 328,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_boots"
+    ],
+    "AnimeXmls": [
+      "10hachi_boots"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 9
+    },
+    "DisplayOrder": 357,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 4600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 100,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      12,
+      1,
+      2
+    ],
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 329,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_boots_xmas"
+    ],
+    "AnimeXmls": [
+      "10hachi_boots_xmas"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 24
+    },
+    "DisplayOrder": 358,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Toughness": 5300,
+    "UsedToughness": -1,
+    "RepairPattern": 2,
+    "Silver": -1,
+    "Gold": 40,
+    "RepairSilver": 200,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": [
+      12,
+      1,
+      2
+    ],
     "UnlockGoods": null,
     "WarningKey": null
   },
