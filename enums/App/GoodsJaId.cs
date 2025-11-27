@@ -24,6 +24,8 @@ public enum GoodsJaId
 	public const GoodsJaId カプセル玉 = 110;
 	public const GoodsJaId まり = 111;
 	public const GoodsJaId ケーキ箱 = 112;
+	public const GoodsJaId ギフトボックス赤 = 113;
+	public const GoodsJaId ギフトボックス緑 = 114;
 	public const GoodsJaId ダンボール小 = 115;
 	public const GoodsJaId ダンボール中 = 116;
 	public const GoodsJaId ダンボール平 = 117;
@@ -101,6 +103,7 @@ public enum GoodsJaId
 	public const GoodsJaId タケノコロケット = 214;
 	public const GoodsJaId あったかくつした = 215;
 	public const GoodsJaId ぼんぼんくつした = 216;
+	public const GoodsJaId カラフルくつした = 217;
 	public const GoodsJaId ビーチパラソル = 222;
 	public const GoodsJaId メルヘンパラソル = 223;
 	public const GoodsJaId _２段式タワー = 224;

@@ -10,7 +10,7 @@
       "name": "SafeArea",
       "children": [
         2,
-        73
+        75
       ]
     },
     {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "name": "IconButton",
+      "name": "CatImageButton",
       "children": [
         63
       ]
@@ -336,7 +336,7 @@
       "name": "Text (Legacy)"
     },
     {
-      "name": "StandIconButton",
+      "name": "OkimonoImageButton",
       "children": [
         65
       ]
@@ -345,7 +345,7 @@
       "name": "Text (Legacy)"
     },
     {
-      "name": "PartIconButton",
+      "name": "OkimonoStandImageButton",
       "children": [
         67
       ]
@@ -357,11 +357,12 @@
       "name": "Horizontal",
       "children": [
         69,
-        71
+        71,
+        73
       ]
     },
     {
-      "name": "AnimeButton",
+      "name": "PartIconButton",
       "children": [
         70
       ]
@@ -370,9 +371,18 @@
       "name": "Text (Legacy)"
     },
     {
-      "name": "ExportButton",
+      "name": "AnimeButton",
       "children": [
         72
+      ]
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "ExportButton",
+      "children": [
+        74
       ]
     },
     {
