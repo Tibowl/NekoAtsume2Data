@@ -103,6 +103,7 @@ App.DecoShopUi
 App.DecoTypeMaskOps
 App.DeepLink
 App.DefaultToggleGroup
+App.DeleteCatResultExtensions
 App.Dialog
 App.DogRecord
 App.DowngradePrecaution21
@@ -146,6 +147,7 @@ App.GoldButton
 App.GoldFishView
 App.GoodsAnime
 App.GoodsAnime2
+App.GoodsAnimeComponent
 App.GoodsAnimeIdUtil
 App.GoodsCategoryUtil
 App.GoodsCell
@@ -541,6 +543,8 @@ App.ServerTime
 App.ServerTimeSourceListUtil
 App.ServerTimeSourceUtil
 App.ServerTimeUpdater
+App.SetCatResultExtensions
+App.SetGoodsResultExtensions
 App.Settings
 App.Settings.FlagsMember
 App.Settings.SettingFlags
@@ -762,6 +766,7 @@ HpLib.DateTimeExtensions.DateTimeOffsetExtensions
 HpLib.DeviceTime
 HpLib.DictionaryExtensions.DictionaryExtensions
 HpLib.DictionaryExtensions.ValueTapleExtensions
+HpLib.DictionaryIncrementExtensions.DictionaryIncrementExtensions
 HpLib.DropOutQueue
 HpLib.DropOutQueue2
 HpLib.DropOutStack

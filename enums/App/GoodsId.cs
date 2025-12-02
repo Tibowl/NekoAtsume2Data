@@ -25,6 +25,8 @@ public enum GoodsId
 	public const GoodsId ToyCapsule = 110;
 	public const GoodsId TemariBall = 111;
 	public const GoodsId CakeBox = 112;
+	public const GoodsId GiftBoxRed = 113;
+	public const GoodsId GiftBoxGreen = 114;
 	public const GoodsId ShoppingBoxSmall = 115;
 	public const GoodsId ShoppingBoxMiddle = 116;
 	public const GoodsId CardboardFlat = 117;
@@ -102,6 +104,7 @@ public enum GoodsId
 	public const GoodsId BambooRocket = 214;
 	public const GoodsId WarmSocks = 215;
 	public const GoodsId BomBomSocks = 216;
+	public const GoodsId ColorfulSocks = 217;
 	public const GoodsId BeachParasol = 222;
 	public const GoodsId FairyTaleParasol = 223;
 	public const GoodsId Tower2 = 224;
