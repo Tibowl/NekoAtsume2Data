@@ -1,6 +1,6 @@
 
 // Namespace: App
-public enum RankingType 
+internal enum RankingType 
 {
 	// Fields
 	public int value__; // 0x0

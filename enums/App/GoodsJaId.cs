@@ -137,6 +137,7 @@ public enum GoodsJaId
 	public const GoodsJaId 蝶々じゃらし = 257;
 	public const GoodsJaId あっちこっちレール = 258;
 	public const GoodsJaId こたつ = 259;
+	public const GoodsJaId 取付け囲炉裏 = 261;
 	public const GoodsJaId ゆたんぽ = 262;
 	public const GoodsJaId ストーブ = 265;
 	public const GoodsJaId ぽんぽん落ち葉山 = 268;
@@ -161,6 +162,7 @@ public enum GoodsJaId
 	public const GoodsJaId バケツ赤 = 290;
 	public const GoodsJaId バケツ黄 = 291;
 	public const GoodsJaId 打ち水桶 = 292;
+	public const GoodsJaId 雪ソリ = 293;
 	public const GoodsJaId 金魚鉢 = 294;
 	public const GoodsJaId ガラス花瓶 = 296;
 	public const GoodsJaId 特大柄付きグラス = 297;
