@@ -140,6 +140,7 @@ public enum GoodsId
 	public const GoodsId RailHereAndThere = 258;
 	public const GoodsId Kotatsu = 259;
 	public const GoodsId Marukotatsu = 260;
+	public const GoodsId MountedSunkenHearth = 261;
 	public const GoodsId HotWaterBottle = 262;
 	public const GoodsId Stove = 265;
 	public const GoodsId PomponFallenLeafMountain = 268;
@@ -164,6 +165,7 @@ public enum GoodsId
 	public const GoodsId BucketRed = 290;
 	public const GoodsId BucketYellow = 291;
 	public const GoodsId BucketForSprinklingWater = 292;
+	public const GoodsId SnowSled = 293;
 	public const GoodsId GoldfishBowl = 294;
 	public const GoodsId GlassVase = 296;
 	public const GoodsId OversizedPatternedGlass = 297;

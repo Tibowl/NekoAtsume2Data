@@ -1,6 +1,8 @@
 App.ActionId
 App.ActionId.Cat
 App.ActionId.Goods
+App.ActionOptionsExtensions
+App.ActionOptionsUtil
 App.AdReward
 App.AddressabeLabelExtensions
 App.AddressableFilerUtil
@@ -16,9 +18,9 @@ App.AlbumSceneDebugArgs
 App.AlbumSceneUtil
 App.AnchorDirectionExtensions
 App.AndroidUtil
-App.AnimeResolveMethodUtil
 App.AppGameObjectFactory
 App.AppSoundSettings
+App.AppTmpTextExtensions
 App.AppUrl
 App.AppUtil
 App.AppVersion
@@ -88,7 +90,6 @@ App.Const.Time
 App.Const.Timeout
 App.Const.Travel
 App.Const.Url
-App.ContentChanger
 App.CropHandle
 App.CutOutPanel
 App.DailyCoin
@@ -390,6 +391,7 @@ App.PurchaseCurrencyUtil
 App.Ranking
 App.RankingContent
 App.RankingItem
+App.RankingItemUtil
 App.RawImageUtil
 App.RaycastBlocker
 App.ReceiptCell
@@ -453,6 +455,7 @@ App.Save.PhotoPartComparer
 App.Save.PhotoPartSprite
 App.Save.PhotoPartXmlAnime
 App.Save.PhotoPartXmlAnimeFrame
+App.Save.PhotoPartXmlAnimeOptionsExtensions
 App.Save.Receipt
 App.Save.ReceiptMessage
 App.Save.ReceiptMessageString
@@ -574,6 +577,7 @@ App.ShotOrientationButton
 App.ShotOrientationExtensions
 App.ShotUi
 App.ShowWeb
+App.SilhouetteCameraSetup
 App.SimpleMenuIconButton
 App.SizeIconUtil
 App.Sku
@@ -632,7 +636,6 @@ App.Test.TestGameWindow
 App.Test.TestPageView
 App.TestDebugTimePanel
 App.TestToggleButton
-App.TextExtensions
 App.TextScrollView
 App.TextScrollViewPanel
 App.TextUtil
@@ -723,6 +726,7 @@ App.YardSceneDebugArgs
 App.YardUtil
 App.YubiEffect
 App.YubiEffectWorld
+HpLib.ActiveRenderTextureScope
 HpLib.Ad.AdManager
 HpLib.Ad.AdMobConsent
 HpLib.Ad.AdUnitId
@@ -797,7 +801,6 @@ HpLib.Extra.LocalizedStringExtensions.LocalizedStringExtensions
 HpLib.Extra.LocalizedStringExtensions.StringLocalizeExtensions
 HpLib.Extra.NativeCallback
 HpLib.Extra.NonPersistentAttribute
-HpLib.Extra.RendererUtil
 HpLib.Extra.RxUtil
 HpLib.Extra.SingletonInstanciator
 HpLib.Extra.TextureUtilEx
@@ -872,9 +875,12 @@ HpLib.RawImageExtensions.RawImageExtensions
 HpLib.RaycastUtil
 HpLib.RectExtensions.RectExtensions
 HpLib.RegularSingletonInstanciator
+HpLib.RenderTextureUtil
+HpLib.RendererUtil
 HpLib.ResistanceEnumStates
 HpLib.ResourceUtil
 HpLib.RuntimeIdGenerator
+HpLib.SceneLifetimeScopeProvider
 HpLib.SceneTextureRegistry
 HpLib.SceneUtil
 HpLib.ScreenUnit
@@ -898,6 +904,8 @@ HpLib.StringTagExtensions.StringTagExtensions
 HpLib.SysPrefabId
 HpLib.SysTagExtensions
 HpLib.TapColliders2d
+HpLib.TemporaryActiveRenderTextureScope
+HpLib.TemporaryRenderTexture
 HpLib.TextAnchorExtensions.TextAnchorExtensions
 HpLib.TextExtensions.TextExtensions
 HpLib.TextExtensions.TmpTextExtensions
@@ -906,9 +914,6 @@ HpLib.TextureRegistry
 HpLib.TextureScale
 HpLib.TextureScale.ThreadData
 HpLib.TextureUtil
-HpLib.TextureUtil.ActiveRenderTextureScope
-HpLib.TextureUtil.TemporaryActiveRenderTextureScope
-HpLib.TextureUtil.TemporaryRenderTexture
 HpLib.ThreadUtil
 HpLib.TimeDispAttribute
 HpLib.TimeStampMap
@@ -942,6 +947,12 @@ HpXmlAnime.AnimeModuleData
 HpXmlAnime.AnimeSequenceData
 HpXmlAnime.AnimeSpriteData
 HpXmlAnime.GraphicsContext
+HpXmlAnime.IAnimeLifecycleEvents
+HpXmlAnime.IAnimeState
+HpXmlAnime.IBlur
+HpXmlAnime.IBoundsProvider
+HpXmlAnime.ISilhouette
+HpXmlAnime.IVisible
 HpXmlAnime.IXmlAnimeGraphic
 HpXmlAnime.MyLabelAttribute
 HpXmlAnime.Texture2dLoader
