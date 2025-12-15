@@ -4796,7 +4796,7 @@
   {
     "Id": 261,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "11irori"
@@ -5700,7 +5700,7 @@
   {
     "Id": 293,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "10hachi_sori"
@@ -6932,6 +6932,43 @@
       1,
       2
     ],
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 330,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_bitefish"
+    ],
+    "AnimeXmls": [
+      "06jarashi_bitefish",
+      "06jarashi_bitefish_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "Mood": {
+      "Data": 1
+    },
+    "DisplayOrder": 307,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "DamageTable": null,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 25,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
     "UnlockGoods": null,
     "WarningKey": null
   },

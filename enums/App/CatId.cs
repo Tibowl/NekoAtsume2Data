@@ -52,6 +52,7 @@ public enum CatId
 	public const CatId SiroOdd = 44;
 	public const CatId Gold = 45;
 	public const CatId Spot = 46;
+	public const CatId Akapoint = 47;
 	public const CatId Tatejima = 100;
 	public const CatId Nagagutu = 101;
 	public const CatId Prince = 102;
