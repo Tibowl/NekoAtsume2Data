@@ -195,6 +195,7 @@ public enum GoodsJaId
 	public const GoodsJaId なりきりライオン = 327;
 	public const GoodsJaId 特大ブーツ = 328;
 	public const GoodsJaId 特大ブーツｸﾘｽﾏｽ = 329;
+	public const GoodsJaId かみかみおさかな = 330;
 	public const GoodsJaId おみやげテスト1 = 3000;
 	public const GoodsJaId おみやげテスト2 = 3001;
 	public const GoodsJaId おみやげテスト3 = 3002;

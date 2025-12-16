@@ -52,6 +52,7 @@ public enum AlbumId
 	public const AlbumId SiroOdd = 44;
 	public const AlbumId Gold = 45;
 	public const AlbumId Spot = 46;
+	public const AlbumId Akapoint = 47;
 	public const AlbumId Tatejima = 100;
 	public const AlbumId Nagagutu = 101;
 	public const AlbumId Prince = 102;
@@ -90,5 +91,7 @@ public enum AlbumId
 	public const AlbumId Myneko3 = 703;
 	public const AlbumId Free = 10000;
 	public const AlbumId Travel = 10001;
+	public const AlbumId Camera = 10002;
 	public const AlbumId LatestPhotos = 20000;
+	public const AlbumId NonAlbumPhotos = 50000;
 }

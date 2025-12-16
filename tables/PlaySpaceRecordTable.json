@@ -5145,7 +5145,7 @@
     "GoodsAnimeId2": null,
     "GoodsExchangeModuleId2": null,
     "GoodsRequiredDamages2": null,
-    "Charm": 100,
+    "Charm": 25,
     "Niboshi": 100,
     "Gomenne": false,
     "Grooming": false,
@@ -13243,6 +13243,46 @@
     "Grooming": false,
     "Z": -1.0,
     "ShouldOmitMyneko": true
+  },
+  {
+    "Id": 3300,
+    "ItemId": 330,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_hane",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": [
+      3,
+      1
+    ],
+    "GoodsAnimeId": [
+      0,
+      1
+    ],
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
   },
   {
     "Id": 50000,
