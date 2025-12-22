@@ -13285,6 +13285,108 @@
     "ShouldOmitMyneko": false
   },
   {
+    "Id": 3310,
+    "ItemId": 331,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "05tunnel",
+      "05tunnel",
+      "05tunnel"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3311,
+    "ItemId": 331,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "132"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 12,
+    "Niboshi": 75,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": -1.0,
+    "ShouldOmitMyneko": true
+  },
+  {
+    "Id": 30090,
+    "ItemId": 3009,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_gum"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
     "Id": 50000,
     "ItemId": 5000,
     "ConflictIndices": [],

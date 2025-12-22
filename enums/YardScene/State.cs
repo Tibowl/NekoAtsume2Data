@@ -1,6 +1,6 @@
 
 // Namespace: 
-public enum YardScene.State 
+internal enum YardScene.State 
 {
 	// Fields
 	public int value__; // 0x0

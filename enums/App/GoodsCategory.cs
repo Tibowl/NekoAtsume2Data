@@ -17,5 +17,6 @@ public enum GoodsCategory
 	public const GoodsCategory Container = 256;
 	public const GoodsCategory Outdoor = 512;
 	public const GoodsCategory Other = 1024;
+	public const GoodsCategory Test = 33554432;
 	public const GoodsCategory GoodsGeneral = 2046;
 }

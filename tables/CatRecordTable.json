@@ -897,6 +897,17 @@
     "ActiveMonths": null
   },
   {
+    "Id": 132,
+    "Type": 1,
+    "MementoIdInt": 81,
+    "Power": 88,
+    "WeatherImpact": 0,
+    "Niboshi": 50,
+    "GomenneRate": 0,
+    "GroomingRate": 0,
+    "ActiveMonths": null
+  },
+  {
     "Id": 701,
     "Type": 2,
     "MementoIdInt": 0,
