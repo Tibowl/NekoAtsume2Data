@@ -104,6 +104,9 @@ public enum GoodsJaId
 	public const GoodsJaId あったかくつした = 215;
 	public const GoodsJaId ぼんぼんくつした = 216;
 	public const GoodsJaId カラフルくつした = 217;
+	public const GoodsJaId 唐草柄毛布 = 218;
+	public const GoodsJaId あったか毛布赤 = 219;
+	public const GoodsJaId あったか毛布黄 = 220;
 	public const GoodsJaId ビーチパラソル = 222;
 	public const GoodsJaId メルヘンパラソル = 223;
 	public const GoodsJaId _２段式タワー = 224;
@@ -196,6 +199,7 @@ public enum GoodsJaId
 	public const GoodsJaId 特大ブーツ = 328;
 	public const GoodsJaId 特大ブーツｸﾘｽﾏｽ = 329;
 	public const GoodsJaId かみかみおさかな = 330;
+	public const GoodsJaId おみくじトンネル = 331;
 	public const GoodsJaId おみやげテスト1 = 3000;
 	public const GoodsJaId おみやげテスト2 = 3001;
 	public const GoodsJaId おみやげテスト3 = 3002;
@@ -205,6 +209,7 @@ public enum GoodsJaId
 	public const GoodsJaId おみやげテスト6 = 3006;
 	public const GoodsJaId おみやげテスト7 = 3007;
 	public const GoodsJaId コンプリートテスト2 = 3008;
+	public const GoodsJaId カメラテスト = 3009;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;

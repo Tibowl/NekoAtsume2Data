@@ -105,6 +105,9 @@ public enum GoodsId
 	public const GoodsId WarmSocks = 215;
 	public const GoodsId BomBomSocks = 216;
 	public const GoodsId ColorfulSocks = 217;
+	public const GoodsId ArabesquePatternBlanket = 218;
+	public const GoodsId WarmBlanketRed = 219;
+	public const GoodsId WarmBlanketYellow = 220;
 	public const GoodsId BeachParasol = 222;
 	public const GoodsId FairyTaleParasol = 223;
 	public const GoodsId Tower2 = 224;
@@ -183,6 +186,7 @@ public enum GoodsId
 	public const GoodsId OmiyageTest6 = 3006;
 	public const GoodsId OmiyageTest7 = 3007;
 	public const GoodsId CompleteTest2 = 3008;
+	public const GoodsId CameraTest = 3009;
 	public const GoodsId Ground1 = 5000;
 	public const GoodsId MynekoGround = 5001;
 	public const GoodsId FollowGround = 5002;

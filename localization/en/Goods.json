@@ -241,6 +241,7 @@
     "GoodsName328": "Boots",
     "GoodsName329": "Christmas Boots",
     "GoodsName330": "Chewy Fish",
+    "GoodsName331": "Omikuji Tunnel",
     "ExGoodsName1": "Yard Expansion",
     "ExGoodsName2": "Fish Exchange",
     "ExGoodsName3": "Jarashi",
@@ -487,6 +488,7 @@
     "GoodsShop328": "<Sales period: Until the end of February>\nSlightly oversized special boots.\nA sleek black for a sharp look.",
     "GoodsShop329": "<Sales period: Until the end of February>\nSpecial boots that hold many things.\nAdd extra excitement to winter gifts!",
     "GoodsShop330": "A fish-shaped dental toy.\nIts mesh fabric helps clean teeth\nwhile the cat chews and plays.",
+    "GoodsShop331": "Every fortune is a Cat Fortune!\nA hexagonal tunnel inspired by\nan omikuji box.",
     "ExGoodsShop1": "Expand your cats' play space into the\nadjacent room, which will allow you to\nplace more stuff!",
     "ExGoodsShop2": "Exchange 10 gold fish for 250 normal fish.",
     "ExGoodsShop3": "A classic item to attract cats.\nShaking it might catch their\nattention. *Used in the yard.",
@@ -733,5 +735,6 @@
     "GoodsYard328": "<Winter Limited Edition>\nNot very practical,\nbut perfect for keeping warm.",
     "GoodsYard329": "<Winter Limited Edition>\nRed boots you often see in winter.\nGreat for storing things—or for play.",
     "GoodsYard330": "A mesh-fabric fish plush that\nlooks cute even when\nthe cat simply plays with it.",
+    "GoodsYard331": "An omikuji-style tunnel.\nResults are unpredictable.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

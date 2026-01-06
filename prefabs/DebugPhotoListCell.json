@@ -6,6 +6,7 @@
         1,
         2,
         3,
+        4,
         9
       ]
     },
@@ -13,20 +14,19 @@
       "name": "Image"
     },
     {
+      "name": "Button"
+    },
+    {
       "name": "Text"
     },
     {
       "name": "Buttons",
       "children": [
-        4,
         5,
         6,
         7,
         8
       ]
-    },
-    {
-      "name": "Button"
     },
     {
       "name": "Button2"

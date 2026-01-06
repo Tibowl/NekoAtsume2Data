@@ -6,6 +6,7 @@ App.ActionOptionsUtil
 App.AdReward
 App.AddressabeLabelExtensions
 App.AddressableFilerUtil
+App.AdvanceTimeLog
 App.AlbumCharaListPanel
 App.AlbumIdExtensions
 App.AlbumIdUtil
@@ -19,6 +20,7 @@ App.AlbumSceneUtil
 App.AnchorDirectionExtensions
 App.AndroidUtil
 App.AppGameObjectFactory
+App.AppNgWordChecker
 App.AppSoundSettings
 App.AppTmpTextExtensions
 App.AppUrl
@@ -35,6 +37,7 @@ App.AutoPlacement
 App.AutoResizeTextHeight
 App.AutoSaver
 App.AutoShotParams
+App.AutoShotUtil
 App.BackScroller
 App.BackgroundData
 App.BackupPanel
@@ -98,7 +101,6 @@ App.DatabaseBuilder
 App.DateTimeFormatterForJson
 App.DebugTimeEditor
 App.DebugTimeSlider
-App.DecoListPanel
 App.DecoListUi
 App.DecoShopUi
 App.DecoTypeMaskOps
@@ -116,7 +118,6 @@ App.DragMoverUi
 App.DropdownExtensions.DropdownExtensions
 App.DropdownUtil
 App.ExternalShare
-App.FastEnumUtil
 App.FavoritesList
 App.FeelingPlacement
 App.FeelingPlacement.FeelingPanel
@@ -159,6 +160,7 @@ App.GoodsFilterPanel.CategoryPair
 App.GoodsFilterWindow
 App.GoodsIdUtil
 App.GoodsList
+App.GoodsMenu
 App.GoodsOpImage
 App.GoodsOpPanel2
 App.GoodsRebuy
@@ -187,7 +189,7 @@ App.HelpSection
 App.HpJavaToUnityCallback
 App.HpJavaToUnityCallbackExtensions
 App.IAdData
-App.IKeyFsm
+App.IBackKeyFsm
 App.ILabelSelector
 App.ILeftRightArrow
 App.ILeftRightArrowExtensions
@@ -255,6 +257,7 @@ App.MasterMemoryResolver.FormatterCache
 App.MasterMemoryResolverGetFormatterHelper
 App.MaterialPhotoList
 App.MementoContent
+App.MementoDetail
 App.MementoEffects
 App.MementosScene
 App.MemoryDatabase
@@ -348,6 +351,8 @@ App.PauseLoader
 App.PauseLoaderExtensions
 App.PendingTx
 App.PhoneUtil
+App.PhotoAuthorIdExtensios
+App.PhotoAuthorIdUtil
 App.PhotoBuildQueue
 App.PhotoBuilder
 App.PhotoCell
@@ -369,6 +374,7 @@ App.PlaceConfig
 App.PlaceConfigGizmo
 App.PlaceConfigSync
 App.PlaceConfigs
+App.PlaceTypeExtensions
 App.PlatformSpriteSwitcher
 App.PlaySpaceLottery
 App.PlaySpaceLottery.Args
@@ -390,6 +396,10 @@ App.PrefabId
 App.PrefabSpawner
 App.PressButton
 App.PurchaseCurrencyUtil
+App.RandomPhotoDataFactory
+App.RandomPhotoImageParamDeferredFactory
+App.RandomPhotoImageParamFactory
+App.RandomYardPosition
 App.Ranking
 App.RankingContent
 App.RankingItem
@@ -432,6 +442,7 @@ App.Save.GoodsContext
 App.Save.GoodsStateUtil
 App.Save.ICatNote
 App.Save.IGoodsStatus
+App.Save.IPhotoImageParamBuilder
 App.Save.IPhotoPart
 App.Save.ISealCopyable
 App.Save.ISealEditCrop
@@ -526,6 +537,7 @@ App.SealDecoShopPage
 App.SealDeleteList
 App.SealDeletePanel
 App.SealDetailUi
+App.SealEditDecoListPanel
 App.SealEditUi
 App.SealEditUtil
 App.SealEditUtil1
@@ -721,6 +733,7 @@ App.YardPos.Bg
 App.YardPos.Camera
 App.YardPos.Goods
 App.YardProgress
+App.YardRangeExtensions
 App.YardRangeUtil
 App.YardRecord
 App.YardRepairPanel2
@@ -742,12 +755,14 @@ HpLib.AesConfig.Key
 HpLib.AesCrypt
 HpLib.AesSecretConst
 HpLib.AesSecretConst.SecretString
+HpLib.AspectUtil
 HpLib.AudioSourceExtensions.AudioSourceExtensions
 HpLib.BezierCurve
 HpLib.BoxColliderExtensions.BoxColliderExtensions
 HpLib.BytesFlags
 HpLib.CameraCaptureConfig
-HpLib.CameraExtensions.CameraExtensions
+HpLib.CameraExtensions.CameraLayerMaskExtensions
+HpLib.CameraExtensions.OrthCameraExtensions
 HpLib.CameraUtil
 HpLib.CanvasExtensions
 HpLib.Clipboard
@@ -775,6 +790,7 @@ HpLib.DeviceTime
 HpLib.DictionaryExtensions.DictionaryExtensions
 HpLib.DictionaryExtensions.ValueTupleExtensions
 HpLib.DictionaryIncrementExtensions.DictionaryIncrementExtensions
+HpLib.DrawRectGizmo
 HpLib.DropOutQueue
 HpLib.DropOutQueue2
 HpLib.DropOutStack
@@ -880,8 +896,10 @@ HpLib.Range1d
 HpLib.Range2d
 HpLib.RawImageExtensions.RawImageExtensions
 HpLib.RaycastUtil
+HpLib.RectExtensions.RandomRectExtensions
 HpLib.RectExtensions.RectExtensions
 HpLib.RectTransformUtil
+HpLib.RectUtil
 HpLib.RegularSingletonInstanciator
 HpLib.RenderTextureUtil
 HpLib.RendererUtil
@@ -1004,7 +1022,8 @@ MyDebug.DebugPhotoListPanel
 MyDebug.DebugPhotoListPanel.LabelToggleUiCell
 MyDebug.DebugPhotoSavePanel
 MyDebug.DebugTapEffect
-MyDebug.DebugYardExtensions
+MyDebug.DebugYardExtensions.DebugYard
+MyDebug.DebugYardExtensions.DebugYardExtensions
 MyDebug.Filer
 MyDebug.GoodsAnimeAddressChecker
 MyDebug.GridButtons
