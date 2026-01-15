@@ -41,7 +41,6 @@ public enum PlaySpaceId
 	public const PlaySpaceId BigCussionR = 1991;
 	public const PlaySpaceId BigCussionWhiteL = 2000;
 	public const PlaySpaceId BigCussionWhiteR = 2001;
-	public const PlaySpaceId CameraTest = 30090;
 	public const PlaySpaceId Ground1 = 50000;
 	public const PlaySpaceId MynekoGround = 50010;
 }
