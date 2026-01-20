@@ -74,6 +74,7 @@ public enum GoodsJaId
 	public const GoodsJaId すしクッション海老 = 181;
 	public const GoodsJaId すしクッション玉子 = 182;
 	public const GoodsJaId ドーム型クッション = 183;
+	public const GoodsJaId ねこちぐら = 186;
 	public const GoodsJaId いがぐりクッション = 187;
 	public const GoodsJaId プラムコクーン = 188;
 	public const GoodsJaId オレンジコクーン = 189;
@@ -200,16 +201,7 @@ public enum GoodsJaId
 	public const GoodsJaId 特大ブーツｸﾘｽﾏｽ = 329;
 	public const GoodsJaId かみかみおさかな = 330;
 	public const GoodsJaId おみくじトンネル = 331;
-	public const GoodsJaId おみやげテスト1 = 3000;
-	public const GoodsJaId おみやげテスト2 = 3001;
-	public const GoodsJaId おみやげテスト3 = 3002;
-	public const GoodsJaId おみやげテスト4 = 3003;
-	public const GoodsJaId コンプリートテスト1 = 3004;
-	public const GoodsJaId おみやげテスト5 = 3005;
-	public const GoodsJaId おみやげテスト6 = 3006;
-	public const GoodsJaId おみやげテスト7 = 3007;
-	public const GoodsJaId コンプリートテスト2 = 3008;
-	public const GoodsJaId カメラテスト = 3009;
+	public const GoodsJaId 障子のついたて = 332;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;

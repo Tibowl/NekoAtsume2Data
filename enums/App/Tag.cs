@@ -37,13 +37,13 @@ public enum Tag
 	public const Tag ServerTimeUpdater = 30;
 	public const Tag UiPanel2 = 31;
 	public const Tag FishView = 32;
-	public const Tag PhotoBuildQueue = 33;
-	public const Tag CoinView = 34;
-	public const Tag SealImageBuilderRig = 35;
-	public const Tag WorldRectTransform = 36;
-	public const Tag SealImageBuilderRigPool = 37;
-	public const Tag SceneTextureRegistry = 38;
-	public const Tag PhotoDevelopScene = 39;
-	public const Tag PhotoDevelopScenePool = 40;
-	public const Tag YardPhotoCamera = 41;
+	public const Tag CoinView = 33;
+	public const Tag SealImageBuilderRig = 34;
+	public const Tag WorldRectTransform = 35;
+	public const Tag SealImageBuilderRigPool = 36;
+	public const Tag SceneTextureRegistry = 37;
+	public const Tag PhotoDevelopScene = 38;
+	public const Tag PhotoDevelopScenePool = 39;
+	public const Tag YardPhotoCamera = 40;
+	public const Tag PhotoBuildQueue = 41;
 }

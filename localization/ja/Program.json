@@ -40,6 +40,7 @@
     "NoSeal": "作品がありません",
     "BgRemoveToggle": "背景切り抜き",
     "AskSealPartFlipY": "選択している写真を上下反転しますか？\n※ねこの模様が変わってしまうため\n　回転状態はリセットされます",
+    "AskFilmChange": "{0}の\nフィルムを交換しますか？",
     "Coin": "ねこ銭",
     "OmiyageVoucher": "おみやげ引換券",
     "GoodsBuyConfirmVoucher": "おみやげ引換券を{0}枚消費して\n{1}を\n購入しますか？",

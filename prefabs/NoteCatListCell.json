@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "name": "NoteCatListCell",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "IconImage"
+    },
+    {
+      "name": "PhotoImage"
+    },
+    {
+      "name": "DateText"
+    },
+    {
+      "name": "NewImage"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

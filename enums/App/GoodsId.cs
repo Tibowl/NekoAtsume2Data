@@ -177,6 +177,7 @@ public enum GoodsId
 	public const GoodsId CatMacaroonGreen = 301;
 	public const GoodsId Tissue = 304;
 	public const GoodsId ResortBed = 323;
+	public const GoodsId Shoji = 332;
 	public const GoodsId OmiyageTest1 = 3000;
 	public const GoodsId OmiyageTest2 = 3001;
 	public const GoodsId OmiyageTest3 = 3002;
@@ -187,6 +188,8 @@ public enum GoodsId
 	public const GoodsId OmiyageTest7 = 3007;
 	public const GoodsId CompleteTest2 = 3008;
 	public const GoodsId CameraTest = 3009;
+	public const GoodsId RepairTestEx1 = 3100;
+	public const GoodsId RepairTestEx2 = 3101;
 	public const GoodsId Ground1 = 5000;
 	public const GoodsId MynekoGround = 5001;
 	public const GoodsId FollowGround = 5002;

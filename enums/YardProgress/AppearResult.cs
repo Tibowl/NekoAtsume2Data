@@ -9,4 +9,5 @@ public enum YardProgress.AppearResult
 	public const YardProgress.AppearResult Playing = 2;
 	public const YardProgress.AppearResult Cooldown = 3;
 	public const YardProgress.AppearResult ConflictChara = 4;
+	public const YardProgress.AppearResult FlagNotSet = 5;
 }

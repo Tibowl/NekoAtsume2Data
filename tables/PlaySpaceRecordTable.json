@@ -13356,31 +13356,55 @@
     "ShouldOmitMyneko": true
   },
   {
-    "Id": 30090,
-    "ItemId": 3009,
+    "Id": 3320,
+    "ItemId": 332,
     "ConflictIndices": [],
     "ActionNames": [
-      "01ball_gum"
+      "00kihon_suwari"
     ],
     "ActionIds": [
       0
     ],
     "ActionOptions": [
-      0
+      2
     ],
     "ActionWeights": null,
     "GoodsAnimeId": null,
     "GoodsExchangeModuleId": null,
     "GoodsRequiredDamages": null,
-    "ActionNames2": null,
-    "ActionIds2": null,
-    "ActionOptions2": [],
-    "ActionWeights2": null,
-    "GoodsAnimeId2": null,
+    "ActionNames2": [
+      "00kihon_kaodashi",
+      "00kihon_kaodashi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      0
+    ],
+    "ActionOptions2": [
+      0,
+      0,
+      0
+    ],
+    "ActionWeights2": [
+      3,
+      3,
+      1
+    ],
+    "GoodsAnimeId2": [
+      0,
+      1,
+      2
+    ],
     "GoodsExchangeModuleId2": null,
-    "GoodsRequiredDamages2": null,
+    "GoodsRequiredDamages2": [
+      0,
+      0,
+      40
+    ],
     "Charm": 100,
-    "Niboshi": 100,
+    "Niboshi": 80,
     "Gomenne": false,
     "Grooming": false,
     "Z": 0.0,
