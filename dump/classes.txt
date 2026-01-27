@@ -157,6 +157,8 @@ App.GoodsAnimeIdUtil
 App.GoodsAnimeName
 App.GoodsCameraPhotoPanel
 App.GoodsCameraShot
+App.GoodsCameraStateExtensions
+App.GoodsCameraStateUtil
 App.GoodsCategoryUtil
 App.GoodsCell
 App.GoodsFilter
@@ -394,6 +396,7 @@ App.PlaySpaceLottery.Result
 App.PlaySpaceRecord
 App.PlaySpaceRecord.Builder
 App.PlaySpaceVsCat
+App.PlaySpaceVsCat.Builder
 App.PlaySpaceVsWeather
 App.PointerDragAccessor
 App.PointerEnterAccessor
@@ -895,6 +898,8 @@ HpLib.MyCaller
 HpLib.MyColor
 HpLib.MyVector
 HpLib.NTree
+HpLib.NestedDictionary
+HpLib.NestedDictionaryExtensions
 HpLib.NetworkUtil
 HpLib.NgWordChecker
 HpLib.ObjectDestruction
