@@ -145,6 +145,8 @@ public enum GoodsId
 	public const GoodsId Marukotatsu = 260;
 	public const GoodsId MountedSunkenHearth = 261;
 	public const GoodsId HotWaterBottle = 262;
+	public const GoodsId HotCarpetS = 263;
+	public const GoodsId HotCarpetL = 264;
 	public const GoodsId Stove = 265;
 	public const GoodsId PomponFallenLeafMountain = 268;
 	public const GoodsId KidsBackpackSakura = 269;

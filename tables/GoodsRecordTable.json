@@ -2500,7 +2500,7 @@
   {
     "Id": 186,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_chigura"
@@ -4941,6 +4941,42 @@
     "WarningKey": null
   },
   {
+    "Id": 260,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "11kotatsu_maru"
+    ],
+    "AnimeXmls": [
+      "11kotatsu_maru"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 317,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Mood": {
+      "Data": 16
+    },
+    "DamageTable": null,
+    "Toughness": 32000,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 3500,
+    "Gold": 70,
+    "RepairSilver": 120,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 261,
     "IsForceNotForSale": false,
     "IsNew": false,
@@ -5003,6 +5039,78 @@
     "Silver": 120,
     "Gold": -1,
     "RepairSilver": 30,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 263,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "11hotcarpet_s"
+    ],
+    "AnimeXmls": [
+      "11hotcarpet_s"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 320,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 240,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 264,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "11hotcarpet_l"
+    ],
+    "AnimeXmls": [
+      "11hotcarpet_l"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 321,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Mood": {
+      "Data": 24
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 36,
+    "RepairSilver": -1,
     "StampCard": -1,
     "Coin": -1,
     "OmiyageVoucher": -1,
@@ -7158,7 +7266,7 @@
   {
     "Id": 332,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "14shoji"
@@ -7195,6 +7303,43 @@
     "Silver": -1,
     "Gold": 10,
     "RepairSilver": 0,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 333,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "06jarashi_bitebread"
+    ],
+    "AnimeXmls": [
+      "06jarashi_bitebread",
+      "06jarashi_bitebread_pose01"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 308,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 32,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 25,
     "StampCard": -1,
     "Coin": -1,
     "OmiyageVoucher": -1,

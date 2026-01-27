@@ -141,8 +141,11 @@ public enum GoodsJaId
 	public const GoodsJaId 蝶々じゃらし = 257;
 	public const GoodsJaId あっちこっちレール = 258;
 	public const GoodsJaId こたつ = 259;
+	public const GoodsJaId まるこたつ = 260;
 	public const GoodsJaId 取付け囲炉裏 = 261;
 	public const GoodsJaId ゆたんぽ = 262;
+	public const GoodsJaId ホットカーペットS = 263;
+	public const GoodsJaId ホットカーペットＬ = 264;
 	public const GoodsJaId ストーブ = 265;
 	public const GoodsJaId ぽんぽん落ち葉山 = 268;
 	public const GoodsJaId キッズリュックｻｸﾗ = 269;
@@ -202,6 +205,7 @@ public enum GoodsJaId
 	public const GoodsJaId かみかみおさかな = 330;
 	public const GoodsJaId おみくじトンネル = 331;
 	public const GoodsJaId 障子のついたて = 332;
+	public const GoodsJaId かみかみパン = 333;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;
