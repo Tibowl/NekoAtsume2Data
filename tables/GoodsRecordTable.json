@@ -4943,7 +4943,7 @@
   {
     "Id": 260,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "11kotatsu_maru"
@@ -5051,7 +5051,7 @@
   {
     "Id": 263,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "11hotcarpet_s"
@@ -5087,7 +5087,7 @@
   {
     "Id": 264,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "11hotcarpet_l"
@@ -5146,6 +5146,78 @@
     "RepairPattern": 0,
     "Silver": 600,
     "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 266,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "11panel_heater"
+    ],
+    "AnimeXmls": [
+      "11panel_heater"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 323,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Mood": {
+      "Data": 16
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 20,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 267,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "11fan_heater"
+    ],
+    "AnimeXmls": [
+      "11fan_heater"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 324,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 128,
+    "Mood": {
+      "Data": 18
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 32,
     "RepairSilver": -1,
     "StampCard": -1,
     "Coin": -1,
@@ -6008,6 +6080,42 @@
     "Category": 1088,
     "Mood": {
       "Data": 18
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 10,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 295,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_snowdome"
+    ],
+    "AnimeXmls": [
+      "10hachi_snowdome"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 366,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 1088,
+    "Mood": {
+      "Data": 26
     },
     "DamageTable": null,
     "Toughness": 0,
@@ -7315,7 +7423,7 @@
   {
     "Id": 333,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_bitebread"

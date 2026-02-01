@@ -148,6 +148,8 @@ public enum GoodsId
 	public const GoodsId HotCarpetS = 263;
 	public const GoodsId HotCarpetL = 264;
 	public const GoodsId Stove = 265;
+	public const GoodsId PanelHeater = 266;
+	public const GoodsId FanHeater = 267;
 	public const GoodsId PomponFallenLeafMountain = 268;
 	public const GoodsId KidsBackpackSakura = 269;
 	public const GoodsId KidsBackpackSky = 270;
@@ -172,6 +174,7 @@ public enum GoodsId
 	public const GoodsId BucketForSprinklingWater = 292;
 	public const GoodsId SnowSled = 293;
 	public const GoodsId GoldfishBowl = 294;
+	public const GoodsId SnowGlobe = 295;
 	public const GoodsId GlassVase = 296;
 	public const GoodsId OversizedPatternedGlass = 297;
 	public const GoodsId WesternHats = 298;

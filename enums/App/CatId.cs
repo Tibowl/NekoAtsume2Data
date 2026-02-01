@@ -86,7 +86,7 @@ public enum CatId
 	public const CatId Jack = 130;
 	public const CatId Bastet = 131;
 	public const CatId Miko = 132;
-	public const CatId Akindo = 133;
+	public const CatId Akindo = 134;
 	public const CatId Myneko1 = 701;
 	public const CatId Myneko2 = 702;
 	public const CatId Myneko3 = 703;
