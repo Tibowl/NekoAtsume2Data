@@ -72,6 +72,7 @@ App.CatFiterTypeUtil
 App.CatIdUtil
 App.CatLotteryUtil
 App.CatRecord
+App.CatRecord.Builder
 App.CatVsCat
 App.CatVsFood
 App.CharaPhotoDeleteList
@@ -96,6 +97,7 @@ App.Const.Timeout
 App.Const.Travel
 App.Const.Url
 App.CropHandle
+App.CutOutDecoPanel
 App.CutOutPanel
 App.DailyCoin
 App.DailyCoinRankUtil
@@ -264,9 +266,12 @@ App.MasterMemoryResolver
 App.MasterMemoryResolver.FormatterCache
 App.MasterMemoryResolverGetFormatterHelper
 App.MaterialPhotoList
-App.MementoContent
+App.MementoData
 App.MementoDetail
 App.MementoEffects
+App.MementoIdExtensions
+App.MementoListCellView
+App.MementoListView
 App.MementosScene
 App.MemoryDatabase
 App.MenuAds
@@ -366,6 +371,7 @@ App.PhotoBuildController
 App.PhotoBuildInfoExtensions
 App.PhotoBuildResult
 App.PhotoBuilder
+App.PhotoCameraExtensions.PhotoCameraExtensions
 App.PhotoCell
 App.PhotoCellTest
 App.PhotoDeletePanel
@@ -413,7 +419,6 @@ App.PrefabSpawner
 App.PressButton
 App.PurchaseCurrencyUtil
 App.RandomPhotoDataFactory
-App.RandomPhotoImageParamDeferredFactory
 App.RandomPhotoImageParamFactory
 App.RandomYardPosition
 App.Ranking
@@ -564,6 +569,7 @@ App.SealListUi
 App.SealObj
 App.SealObjImage
 App.SealObjImage2
+App.SealObjImage3
 App.SealObjPhoto
 App.SealObjPhoto2
 App.SealPage
@@ -738,6 +744,7 @@ App.YardIdUtil
 App.YardInitFlagsExtensions
 App.YardInitialStateUtil
 App.YardMainUi
+App.YardNodePosition
 App.YardPhotoCamera
 App.YardPlace
 App.YardPlaceModeFromAkindo
@@ -809,6 +816,8 @@ HpLib.DictionaryExtensions.DictionaryExtensions
 HpLib.DictionaryExtensions.ValueTupleExtensions
 HpLib.DictionaryIncrementExtensions.DictionaryIncrementExtensions
 HpLib.DrawRectGizmo
+HpLib.DrawRectGizmo2
+HpLib.DrawRectGizmo2.RectEntry
 HpLib.DropOutQueue
 HpLib.DropOutQueue2
 HpLib.DropOutStack
@@ -922,6 +931,7 @@ HpLib.RawImageExtensions.RawImageExtensions
 HpLib.RaycastUtil
 HpLib.RectExtensions.RandomRectExtensions
 HpLib.RectExtensions.RectExtensions
+HpLib.RectRingPlacer
 HpLib.RectTransformUtil
 HpLib.RectUtil
 HpLib.RegularSingletonInstanciator

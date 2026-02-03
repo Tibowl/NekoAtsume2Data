@@ -86,7 +86,7 @@ public enum AlbumId
 	public const AlbumId Jack = 130;
 	public const AlbumId Bastet = 131;
 	public const AlbumId Miko = 132;
-	public const AlbumId Akindo = 133;
+	public const AlbumId Akindo = 134;
 	public const AlbumId Myneko1 = 701;
 	public const AlbumId Myneko2 = 702;
 	public const AlbumId Myneko3 = 703;

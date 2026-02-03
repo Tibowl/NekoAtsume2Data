@@ -147,6 +147,8 @@ public enum GoodsJaId
 	public const GoodsJaId ホットカーペットS = 263;
 	public const GoodsJaId ホットカーペットＬ = 264;
 	public const GoodsJaId ストーブ = 265;
+	public const GoodsJaId パネルヒーター = 266;
+	public const GoodsJaId ファンヒーター = 267;
 	public const GoodsJaId ぽんぽん落ち葉山 = 268;
 	public const GoodsJaId キッズリュックｻｸﾗ = 269;
 	public const GoodsJaId キッズリュックｽｶｲ = 270;
@@ -171,6 +173,7 @@ public enum GoodsJaId
 	public const GoodsJaId 打ち水桶 = 292;
 	public const GoodsJaId 雪ソリ = 293;
 	public const GoodsJaId 金魚鉢 = 294;
+	public const GoodsJaId スノードーム = 295;
 	public const GoodsJaId ガラス花瓶 = 296;
 	public const GoodsJaId 特大柄付きグラス = 297;
 	public const GoodsJaId ウエスタンハット = 298;
