@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "name": "DecoShopFilterWindow",
+      "children": [
+        1,
+        2,
+        12
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "State",
+      "children": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "ToggleNotOwned",
+      "children": [
+        5,
+        6
+      ]
+    },
+    {
+      "name": "DefaultImage"
+    },
+    {
+      "name": "EmptyUi",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "ToggleNewArrival",
+      "children": [
+        9,
+        10
+      ]
+    },
+    {
+      "name": "DefaultImage"
+    },
+    {
+      "name": "EmptyUi",
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "Category",
+      "children": [
+        13,
+        14,
+        18
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "ToggleBg",
+      "children": [
+        15,
+        16
+      ]
+    },
+    {
+      "name": "DefaultImage"
+    },
+    {
+      "name": "EmptyUi",
+      "children": [
+        17
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "ToggleSticker",
+      "children": [
+        19,
+        20
+      ]
+    },
+    {
+      "name": "DefaultImage"
+    },
+    {
+      "name": "EmptyUi",
+      "children": [
+        21
+      ]
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

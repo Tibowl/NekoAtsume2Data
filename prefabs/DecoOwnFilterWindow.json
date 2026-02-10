@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "name": "DecoOwnFilterWindow",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "Category",
+      "children": [
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "name": "Title"
+    },
+    {
+      "name": "ToggleBg",
+      "children": [
+        5,
+        6
+      ]
+    },
+    {
+      "name": "DefaultImage"
+    },
+    {
+      "name": "EmptyUi",
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Text"
+    },
+    {
+      "name": "ToggleSticker",
+      "children": [
+        9,
+        10
+      ]
+    },
+    {
+      "name": "DefaultImage"
+    },
+    {
+      "name": "EmptyUi",
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

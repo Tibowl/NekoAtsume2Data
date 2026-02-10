@@ -5159,7 +5159,7 @@
   {
     "Id": 266,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "11panel_heater"
@@ -5195,7 +5195,7 @@
   {
     "Id": 267,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "11fan_heater"
@@ -6100,7 +6100,7 @@
   {
     "Id": 295,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_snowdome"
