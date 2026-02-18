@@ -2232,5 +2232,80 @@
   {
     "Id": 3310,
     "Dict": {}
+  },
+  {
+    "Id": 3320,
+    "Dict": {}
+  },
+  {
+    "Id": 3330,
+    "Dict": {
+      "Spring": 40
+    }
+  },
+  {
+    "Id": 3340,
+    "Dict": {
+      "Spring": 10,
+      "Summer": 5,
+      "Autum": 5,
+      "Winter": 15,
+      "Snow": 15
+    }
+  },
+  {
+    "Id": 3341,
+    "Dict": {
+      "Spring": 10,
+      "Summer": 5,
+      "Autum": 5,
+      "Winter": 15,
+      "Snow": 15
+    }
+  },
+  {
+    "Id": 3342,
+    "Dict": {
+      "Spring": 15,
+      "Winter": -10,
+      "Burning": -10
+    }
+  },
+  {
+    "Id": 3343,
+    "Dict": {
+      "Spring": 10,
+      "Summer": 5,
+      "Autum": 5,
+      "Winter": 15,
+      "Snow": 15
+    }
+  },
+  {
+    "Id": 3344,
+    "Dict": {
+      "Spring": 10,
+      "Summer": 5,
+      "Autum": 5,
+      "Winter": 15,
+      "Snow": 15
+    }
+  },
+  {
+    "Id": 3350,
+    "Dict": {
+      "Spring": 40,
+      "Burning": -10
+    }
+  },
+  {
+    "Id": 3360,
+    "Dict": {
+      "Burning": -10
+    }
+  },
+  {
+    "Id": 3361,
+    "Dict": {}
   }
 ]

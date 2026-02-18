@@ -1,6 +1,7 @@
 [
   {
     "Id": 0,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 1,
     "Power": 80,
@@ -12,6 +13,7 @@
   },
   {
     "Id": 1,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 2,
     "Power": 140,
@@ -23,6 +25,7 @@
   },
   {
     "Id": 2,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 3,
     "Power": 75,
@@ -34,6 +37,7 @@
   },
   {
     "Id": 3,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 4,
     "Power": 50,
@@ -45,6 +49,7 @@
   },
   {
     "Id": 4,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 5,
     "Power": 120,
@@ -56,6 +61,7 @@
   },
   {
     "Id": 5,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 6,
     "Power": 150,
@@ -67,6 +73,7 @@
   },
   {
     "Id": 6,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 7,
     "Power": 90,
@@ -78,6 +85,7 @@
   },
   {
     "Id": 7,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 8,
     "Power": 50,
@@ -89,6 +97,7 @@
   },
   {
     "Id": 8,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 9,
     "Power": 40,
@@ -100,6 +109,7 @@
   },
   {
     "Id": 9,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 10,
     "Power": 180,
@@ -111,6 +121,7 @@
   },
   {
     "Id": 10,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 11,
     "Power": 150,
@@ -122,6 +133,7 @@
   },
   {
     "Id": 11,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 12,
     "Power": 170,
@@ -133,6 +145,7 @@
   },
   {
     "Id": 12,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 13,
     "Power": 70,
@@ -144,6 +157,7 @@
   },
   {
     "Id": 13,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 14,
     "Power": 100,
@@ -155,6 +169,7 @@
   },
   {
     "Id": 14,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 15,
     "Power": 140,
@@ -166,6 +181,7 @@
   },
   {
     "Id": 15,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 16,
     "Power": 30,
@@ -177,6 +193,7 @@
   },
   {
     "Id": 16,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 17,
     "Power": 160,
@@ -188,6 +205,7 @@
   },
   {
     "Id": 17,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 18,
     "Power": 0,
@@ -199,6 +217,7 @@
   },
   {
     "Id": 18,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 19,
     "Power": 165,
@@ -210,6 +229,7 @@
   },
   {
     "Id": 19,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 20,
     "Power": 80,
@@ -221,6 +241,7 @@
   },
   {
     "Id": 20,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 21,
     "Power": 155,
@@ -232,6 +253,7 @@
   },
   {
     "Id": 21,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 22,
     "Power": 45,
@@ -243,6 +265,7 @@
   },
   {
     "Id": 22,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 35,
     "Power": 125,
@@ -254,6 +277,7 @@
   },
   {
     "Id": 23,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 36,
     "Power": 60,
@@ -265,6 +289,7 @@
   },
   {
     "Id": 24,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 37,
     "Power": 45,
@@ -276,6 +301,7 @@
   },
   {
     "Id": 25,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 38,
     "Power": 80,
@@ -287,6 +313,7 @@
   },
   {
     "Id": 26,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 39,
     "Power": 130,
@@ -298,6 +325,7 @@
   },
   {
     "Id": 27,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 40,
     "Power": 40,
@@ -309,6 +337,7 @@
   },
   {
     "Id": 28,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 42,
     "Power": 75,
@@ -320,6 +349,7 @@
   },
   {
     "Id": 29,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 43,
     "Power": 140,
@@ -331,6 +361,7 @@
   },
   {
     "Id": 30,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 46,
     "Power": 195,
@@ -342,6 +373,7 @@
   },
   {
     "Id": 31,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 47,
     "Power": 35,
@@ -353,6 +385,7 @@
   },
   {
     "Id": 32,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 50,
     "Power": 10,
@@ -364,6 +397,7 @@
   },
   {
     "Id": 33,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 51,
     "Power": 90,
@@ -375,6 +409,7 @@
   },
   {
     "Id": 34,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 54,
     "Power": 45,
@@ -386,6 +421,7 @@
   },
   {
     "Id": 35,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 55,
     "Power": 60,
@@ -397,6 +433,7 @@
   },
   {
     "Id": 36,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 57,
     "Power": 115,
@@ -408,6 +445,7 @@
   },
   {
     "Id": 37,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 58,
     "Power": 15,
@@ -419,6 +457,7 @@
   },
   {
     "Id": 38,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 60,
     "Power": 155,
@@ -430,6 +469,7 @@
   },
   {
     "Id": 39,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 61,
     "Power": 80,
@@ -441,6 +481,7 @@
   },
   {
     "Id": 40,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 63,
     "Power": 65,
@@ -452,6 +493,7 @@
   },
   {
     "Id": 41,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 64,
     "Power": 105,
@@ -463,6 +505,7 @@
   },
   {
     "Id": 42,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 65,
     "Power": 99,
@@ -474,6 +517,7 @@
   },
   {
     "Id": 43,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 66,
     "Power": 205,
@@ -485,6 +529,7 @@
   },
   {
     "Id": 44,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 73,
     "Power": 45,
@@ -496,6 +541,7 @@
   },
   {
     "Id": 45,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 75,
     "Power": 30,
@@ -507,6 +553,7 @@
   },
   {
     "Id": 46,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 77,
     "Power": 155,
@@ -518,6 +565,7 @@
   },
   {
     "Id": 47,
+    "IsDebug": false,
     "Type": 0,
     "MementoIdInt": 80,
     "Power": 20,
@@ -529,6 +577,7 @@
   },
   {
     "Id": 100,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 23,
     "Power": 28,
@@ -540,6 +589,7 @@
   },
   {
     "Id": 101,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 24,
     "Power": 30,
@@ -551,6 +601,7 @@
   },
   {
     "Id": 102,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 25,
     "Power": 70,
@@ -562,6 +613,7 @@
   },
   {
     "Id": 103,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 26,
     "Power": 111,
@@ -573,6 +625,7 @@
   },
   {
     "Id": 104,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 27,
     "Power": 222,
@@ -584,6 +637,7 @@
   },
   {
     "Id": 105,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 28,
     "Power": 20,
@@ -595,6 +649,7 @@
   },
   {
     "Id": 106,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 29,
     "Power": 40,
@@ -606,6 +661,7 @@
   },
   {
     "Id": 107,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 30,
     "Power": 50,
@@ -617,6 +673,7 @@
   },
   {
     "Id": 108,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 31,
     "Power": 130,
@@ -628,6 +685,7 @@
   },
   {
     "Id": 109,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 32,
     "Power": 250,
@@ -639,6 +697,7 @@
   },
   {
     "Id": 110,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 33,
     "Power": 100,
@@ -650,6 +709,7 @@
   },
   {
     "Id": 111,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 34,
     "Power": 30,
@@ -661,6 +721,7 @@
   },
   {
     "Id": 112,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 41,
     "Power": 150,
@@ -672,6 +733,7 @@
   },
   {
     "Id": 113,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 44,
     "Power": 230,
@@ -683,6 +745,7 @@
   },
   {
     "Id": 114,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 45,
     "Power": 180,
@@ -694,6 +757,7 @@
   },
   {
     "Id": 115,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 48,
     "Power": 250,
@@ -705,6 +769,7 @@
   },
   {
     "Id": 116,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 49,
     "Power": 5,
@@ -716,6 +781,7 @@
   },
   {
     "Id": 117,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 52,
     "Power": 20,
@@ -727,6 +793,7 @@
   },
   {
     "Id": 118,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 53,
     "Power": 210,
@@ -738,6 +805,7 @@
   },
   {
     "Id": 119,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 56,
     "Power": 66,
@@ -749,6 +817,7 @@
   },
   {
     "Id": 120,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 59,
     "Power": 195,
@@ -760,6 +829,7 @@
   },
   {
     "Id": 121,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 62,
     "Power": 200,
@@ -771,6 +841,7 @@
   },
   {
     "Id": 122,
+    "IsDebug": false,
     "Type": 3,
     "MementoIdInt": 70,
     "Power": 122,
@@ -782,6 +853,7 @@
   },
   {
     "Id": 123,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 68,
     "Power": 500,
@@ -793,6 +865,7 @@
   },
   {
     "Id": 124,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 69,
     "Power": 40,
@@ -804,6 +877,7 @@
   },
   {
     "Id": 125,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 67,
     "Power": 30,
@@ -815,6 +889,7 @@
   },
   {
     "Id": 126,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 71,
     "Power": 250,
@@ -826,6 +901,7 @@
   },
   {
     "Id": 127,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 72,
     "Power": 90,
@@ -841,6 +917,7 @@
   },
   {
     "Id": 128,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 74,
     "Power": 20,
@@ -849,6 +926,7 @@
     "GomenneRate": 0,
     "GroomingRate": 0,
     "ActiveMonths": [
+      2,
       3,
       4,
       5
@@ -856,6 +934,7 @@
   },
   {
     "Id": 129,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 76,
     "Power": 80,
@@ -864,14 +943,15 @@
     "GomenneRate": 0,
     "GroomingRate": 0,
     "ActiveMonths": [
+      2,
       6,
       7,
-      8,
-      11
+      8
     ]
   },
   {
     "Id": 130,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 78,
     "Power": 30,
@@ -880,6 +960,7 @@
     "GomenneRate": 0,
     "GroomingRate": 0,
     "ActiveMonths": [
+      2,
       9,
       10,
       11
@@ -887,6 +968,7 @@
   },
   {
     "Id": 131,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 79,
     "Power": 220,
@@ -898,6 +980,7 @@
   },
   {
     "Id": 132,
+    "IsDebug": false,
     "Type": 1,
     "MementoIdInt": 81,
     "Power": 88,
@@ -909,6 +992,7 @@
   },
   {
     "Id": 701,
+    "IsDebug": false,
     "Type": 2,
     "MementoIdInt": 0,
     "Power": 0,
@@ -920,6 +1004,7 @@
   },
   {
     "Id": 702,
+    "IsDebug": false,
     "Type": 2,
     "MementoIdInt": 0,
     "Power": 0,
@@ -931,6 +1016,7 @@
   },
   {
     "Id": 703,
+    "IsDebug": false,
     "Type": 2,
     "MementoIdInt": 0,
     "Power": 0,

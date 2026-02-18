@@ -13551,6 +13551,385 @@
     "ShouldOmitMyneko": false
   },
   {
+    "Id": 3340,
+    "ItemId": 334,
+    "ConflictIndices": [
+      1
+    ],
+    "ActionNames": [
+      "00kihon_kaodashi"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 1.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3341,
+    "ItemId": 334,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3342,
+    "ItemId": 334,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 1.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3343,
+    "ItemId": 334,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3344,
+    "ItemId": 334,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "107"
+    ],
+    "ActionIds": [
+      0,
+      3
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 22,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 1.0,
+    "ShouldOmitMyneko": true
+  },
+  {
+    "Id": 3350,
+    "ItemId": 335,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_humihumi",
+      "03cushion_humihumi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": [
+      5,
+      5,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions2": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights2": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": true,
+    "Grooming": true,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3360,
+    "ItemId": 336,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "03cushion_humihumi",
+      "03cushion_humihumi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": [
+      5,
+      5,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions2": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights2": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": true,
+    "Grooming": true,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 3361,
+    "ItemId": 336,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "01ball_pingpong_break",
+      "111"
+    ],
+    "ActionIds": [
+      0,
+      2
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 11,
+    "Niboshi": 80,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": -1.0,
+    "ShouldOmitMyneko": true
+  },
+  {
     "Id": 50000,
     "ItemId": 5000,
     "ConflictIndices": [],
