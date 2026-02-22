@@ -13,6 +13,8 @@ public enum ColliderId
 	public const ColliderId Cat0 = 500;
 	public const ColliderId Cat1 = 501;
 	public const ColliderId Cat2 = 502;
+	public const ColliderId Cat3 = 503;
+	public const ColliderId Cat4 = 504;
 	public const ColliderId CatMin = 500;
 	public const ColliderId CatMax = 600;
 	public const ColliderId PlaceMark = 1000;

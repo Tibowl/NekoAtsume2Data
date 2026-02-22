@@ -41,6 +41,11 @@ public enum PlaySpaceId
 	public const PlaySpaceId BigCussionR = 1991;
 	public const PlaySpaceId BigCussionWhiteL = 2000;
 	public const PlaySpaceId BigCussionWhiteR = 2001;
+	public const PlaySpaceId TrainDxFrontFace = 3340;
+	public const PlaySpaceId TrainDxFront = 3341;
+	public const PlaySpaceId TrainDxTop = 3342;
+	public const PlaySpaceId TrainDxBack = 3343;
+	public const PlaySpaceId TrainDxEkicho = 3344;
 	public const PlaySpaceId Ground1 = 50000;
 	public const PlaySpaceId MynekoGround = 50010;
 }

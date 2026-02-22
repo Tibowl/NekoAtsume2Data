@@ -183,6 +183,7 @@ App.GoodsRepair
 App.GoodsScene
 App.GoodsSceneArgs
 App.GoodsSceneDebugArgs
+App.GoodsSlotId
 App.GoodsWarningButton
 App.GridBorder
 App.GridCell
@@ -396,7 +397,6 @@ App.PlaceConfigGizmo
 App.PlaceConfigSync
 App.PlaceConfigs
 App.PlaceId
-App.PlaceIds
 App.PlaceTypeExtensions
 App.PlatformSpriteSwitcher
 App.PlaySpaceDebug
@@ -487,6 +487,7 @@ App.Save.NonConsumableStatus
 App.Save.NoteStateUtil
 App.Save.PhotoData
 App.Save.PhotoImageParam
+App.Save.PhotoInspectResultExtensions
 App.Save.PhotoPartCamera
 App.Save.PhotoPartComparer
 App.Save.PhotoPartSprite
@@ -890,6 +891,7 @@ HpLib.IntCounterStatesWithClener
 HpLib.IntFlags
 HpLib.IntStates
 HpLib.IntStatesWithCleaner
+HpLib.JsonExtensions.Json
 HpLib.JsonUtil
 HpLib.JsonUtil.DummyNode
 HpLib.JsonUtilityExtension.JsonUtilityExtension
@@ -931,7 +933,7 @@ HpLib.PinchInOut
 HpLib.PinchInOut2
 HpLib.Pos2
 HpLib.Pos3
-HpLib.RandomId
+HpLib.Rand
 HpLib.Range1d
 HpLib.Range2d
 HpLib.RawImageExtensions.RawImageExtensions
@@ -941,6 +943,7 @@ HpLib.RectExtensions.RectExtensions
 HpLib.RectRingPlacer
 HpLib.RectTransformUtil
 HpLib.RectUtil
+HpLib.Registry
 HpLib.RegularSingletonInstanciator
 HpLib.RenderTextureUtil
 HpLib.RendererUtil
@@ -1053,7 +1056,7 @@ MyDebug.ButtonScroll2.Data
 MyDebug.ButtonScrollFactory
 MyDebug.ButtonScrollPanel
 MyDebug.ButtonScrollPanelFactory
-MyDebug.DebugAlbumPhotoScreen
+MyDebug.DebugAlbumPhotoPreviewScreen
 MyDebug.DebugButton
 MyDebug.DebugFetchTransfer
 MyDebug.DebugIapInfoPanel

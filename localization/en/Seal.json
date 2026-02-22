@@ -34,6 +34,7 @@
     "SealDecoName1033": "Chocolate Box 1",
     "SealDecoName1034": "Chocolate Box 2",
     "SealDecoName1035": "Chocolate Box 3",
+    "SealDecoName1036": "Hina Doll Stand",
     "SealDecoName2001": "?Mark",
     "SealDecoName2002": "?Mark",
     "SealDecoName2003": "!Mark",
@@ -243,5 +244,13 @@
     "SealDecoName2207": "Flower Chocolate 2",
     "SealDecoName2208": "Cat Chocolate 1",
     "SealDecoName2209": "Cat Chocolate 2",
+    "SealDecoName2210": "Eboshi Hat",
+    "SealDecoName2211": "Hina Hairpin",
+    "SealDecoName2212": "Lantern",
+    "SealDecoName2213": "Cat Lantern",
+    "SealDecoName2214": "Hishi Mochi",
+    "SealDecoName2215": "Round Mochi",
+    "SealDecoName2216": "Flower (Tachibana)",
+    "SealDecoName2217": "Flower (Sakura)",
     "SealDecoNameNone": "None"
 }
