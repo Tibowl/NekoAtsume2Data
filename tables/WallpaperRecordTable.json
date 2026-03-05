@@ -1,121 +1,145 @@
 [
   {
     "Id": 1,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 2,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 3,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 4,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 5,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 6,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 7,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 8,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 9,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 11,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 12,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 13,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 14,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 15,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 18,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 19,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 20,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 21,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 22,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 23,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 24,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 25,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 26,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   },
   {
     "Id": 27,
+    "IsDebug": false,
     "Silver": -1,
     "Gold": 20
   }

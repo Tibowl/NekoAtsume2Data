@@ -46,6 +46,7 @@ public enum PlaySpaceId
 	public const PlaySpaceId TrainDxTop = 3342;
 	public const PlaySpaceId TrainDxBack = 3343;
 	public const PlaySpaceId TrainDxEkicho = 3344;
+	public const PlaySpaceId CameraTest = 30090;
 	public const PlaySpaceId Ground1 = 50000;
 	public const PlaySpaceId MynekoGround = 50010;
 }

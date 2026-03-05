@@ -1,6 +1,7 @@
 [
   {
     "Id": 1,
+    "IsDebug": false,
     "LocalizedItemImage": "00niwasaki_kakuchou",
     "Silver": 5000,
     "Gold": 180,
@@ -11,6 +12,7 @@
   },
   {
     "Id": 2,
+    "IsDebug": false,
     "LocalizedItemImage": null,
     "Silver": -1,
     "Gold": 10,
@@ -21,6 +23,7 @@
   },
   {
     "Id": 103,
+    "IsDebug": false,
     "LocalizedItemImage": null,
     "Silver": -1,
     "Gold": 7,
@@ -31,6 +34,7 @@
   },
   {
     "Id": 104,
+    "IsDebug": false,
     "LocalizedItemImage": null,
     "Silver": -1,
     "Gold": 17,
@@ -41,6 +45,7 @@
   },
   {
     "Id": 105,
+    "IsDebug": false,
     "LocalizedItemImage": null,
     "Silver": -1,
     "Gold": 30,
@@ -51,6 +56,7 @@
   },
   {
     "Id": 106,
+    "IsDebug": false,
     "LocalizedItemImage": null,
     "Silver": -1,
     "Gold": 12,
@@ -61,6 +67,7 @@
   },
   {
     "Id": 200,
+    "IsDebug": false,
     "LocalizedItemImage": null,
     "Silver": -1,
     "Gold": -1,

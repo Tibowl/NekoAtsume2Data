@@ -926,7 +926,6 @@
     "GomenneRate": 0,
     "GroomingRate": 0,
     "ActiveMonths": [
-      2,
       3,
       4,
       5
@@ -943,7 +942,6 @@
     "GomenneRate": 0,
     "GroomingRate": 0,
     "ActiveMonths": [
-      2,
       6,
       7,
       8
@@ -960,7 +958,6 @@
     "GomenneRate": 0,
     "GroomingRate": 0,
     "ActiveMonths": [
-      2,
       9,
       10,
       11
@@ -1024,6 +1021,30 @@
     "Niboshi": 0,
     "GomenneRate": 10,
     "GroomingRate": 10,
+    "ActiveMonths": null
+  },
+  {
+    "Id": 133,
+    "IsDebug": true,
+    "Type": 1,
+    "MementoIdInt": 82,
+    "Power": 80,
+    "WeatherImpact": 0,
+    "Niboshi": 100,
+    "GomenneRate": 0,
+    "GroomingRate": 0,
+    "ActiveMonths": null
+  },
+  {
+    "Id": 134,
+    "IsDebug": true,
+    "Type": 1,
+    "MementoIdInt": 0,
+    "Power": 30,
+    "WeatherImpact": 0,
+    "Niboshi": 0,
+    "GomenneRate": 0,
+    "GroomingRate": 0,
     "ActiveMonths": null
   }
 ]
