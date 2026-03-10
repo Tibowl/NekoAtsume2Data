@@ -1,6 +1,7 @@
 [
   {
     "Id": 10,
+    "IsDebug": false,
     "ItemId": 1,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -26,6 +27,7 @@
   },
   {
     "Id": 20,
+    "IsDebug": false,
     "ItemId": 2,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -51,6 +53,7 @@
   },
   {
     "Id": 21,
+    "IsDebug": false,
     "ItemId": 2,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -76,6 +79,7 @@
   },
   {
     "Id": 30,
+    "IsDebug": false,
     "ItemId": 3,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -101,6 +105,7 @@
   },
   {
     "Id": 31,
+    "IsDebug": false,
     "ItemId": 3,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -126,6 +131,7 @@
   },
   {
     "Id": 40,
+    "IsDebug": false,
     "ItemId": 4,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -151,6 +157,7 @@
   },
   {
     "Id": 41,
+    "IsDebug": false,
     "ItemId": 4,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -176,6 +183,7 @@
   },
   {
     "Id": 50,
+    "IsDebug": false,
     "ItemId": 5,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -201,6 +209,7 @@
   },
   {
     "Id": 51,
+    "IsDebug": false,
     "ItemId": 5,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -226,6 +235,7 @@
   },
   {
     "Id": 60,
+    "IsDebug": false,
     "ItemId": 6,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -251,6 +261,7 @@
   },
   {
     "Id": 70,
+    "IsDebug": false,
     "ItemId": 7,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -276,6 +287,7 @@
   },
   {
     "Id": 1000,
+    "IsDebug": false,
     "ItemId": 100,
     "ConflictIndices": [],
     "ActionNames": [
@@ -313,6 +325,7 @@
   },
   {
     "Id": 1010,
+    "IsDebug": false,
     "ItemId": 101,
     "ConflictIndices": [],
     "ActionNames": [
@@ -356,6 +369,7 @@
   },
   {
     "Id": 1020,
+    "IsDebug": false,
     "ItemId": 102,
     "ConflictIndices": [],
     "ActionNames": [
@@ -399,6 +413,7 @@
   },
   {
     "Id": 1030,
+    "IsDebug": false,
     "ItemId": 103,
     "ConflictIndices": [],
     "ActionNames": [
@@ -442,6 +457,7 @@
   },
   {
     "Id": 1040,
+    "IsDebug": false,
     "ItemId": 104,
     "ConflictIndices": [],
     "ActionNames": [
@@ -485,6 +501,7 @@
   },
   {
     "Id": 1050,
+    "IsDebug": false,
     "ItemId": 105,
     "ConflictIndices": [],
     "ActionNames": [
@@ -528,6 +545,7 @@
   },
   {
     "Id": 1060,
+    "IsDebug": false,
     "ItemId": 106,
     "ConflictIndices": [],
     "ActionNames": [
@@ -559,6 +577,7 @@
   },
   {
     "Id": 1070,
+    "IsDebug": false,
     "ItemId": 107,
     "ConflictIndices": [],
     "ActionNames": [
@@ -590,6 +609,7 @@
   },
   {
     "Id": 1080,
+    "IsDebug": false,
     "ItemId": 108,
     "ConflictIndices": [],
     "ActionNames": [
@@ -621,6 +641,7 @@
   },
   {
     "Id": 1090,
+    "IsDebug": false,
     "ItemId": 109,
     "ConflictIndices": [],
     "ActionNames": [
@@ -652,6 +673,7 @@
   },
   {
     "Id": 1100,
+    "IsDebug": false,
     "ItemId": 110,
     "ConflictIndices": [],
     "ActionNames": [
@@ -683,6 +705,7 @@
   },
   {
     "Id": 1110,
+    "IsDebug": false,
     "ItemId": 111,
     "ConflictIndices": [],
     "ActionNames": [
@@ -736,6 +759,7 @@
   },
   {
     "Id": 1120,
+    "IsDebug": false,
     "ItemId": 112,
     "ConflictIndices": [],
     "ActionNames": [
@@ -776,6 +800,7 @@
   },
   {
     "Id": 1130,
+    "IsDebug": false,
     "ItemId": 113,
     "ConflictIndices": [],
     "ActionNames": [
@@ -807,6 +832,7 @@
   },
   {
     "Id": 1140,
+    "IsDebug": false,
     "ItemId": 114,
     "ConflictIndices": [],
     "ActionNames": [
@@ -838,6 +864,7 @@
   },
   {
     "Id": 1150,
+    "IsDebug": false,
     "ItemId": 115,
     "ConflictIndices": [],
     "ActionNames": [
@@ -869,6 +896,7 @@
   },
   {
     "Id": 1160,
+    "IsDebug": false,
     "ItemId": 116,
     "ConflictIndices": [],
     "ActionNames": [
@@ -900,6 +928,7 @@
   },
   {
     "Id": 1170,
+    "IsDebug": false,
     "ItemId": 117,
     "ConflictIndices": [],
     "ActionNames": [
@@ -949,6 +978,7 @@
   },
   {
     "Id": 1180,
+    "IsDebug": false,
     "ItemId": 118,
     "ConflictIndices": [],
     "ActionNames": [
@@ -980,6 +1010,7 @@
   },
   {
     "Id": 1190,
+    "IsDebug": false,
     "ItemId": 119,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1020,6 +1051,7 @@
   },
   {
     "Id": 1200,
+    "IsDebug": false,
     "ItemId": 120,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1060,6 +1092,7 @@
   },
   {
     "Id": 1201,
+    "IsDebug": false,
     "ItemId": 120,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1091,6 +1124,7 @@
   },
   {
     "Id": 1210,
+    "IsDebug": false,
     "ItemId": 121,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1137,6 +1171,7 @@
   },
   {
     "Id": 1211,
+    "IsDebug": false,
     "ItemId": 121,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1171,6 +1206,7 @@
   },
   {
     "Id": 1212,
+    "IsDebug": false,
     "ItemId": 121,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1205,6 +1241,7 @@
   },
   {
     "Id": 1220,
+    "IsDebug": false,
     "ItemId": 122,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1251,6 +1288,7 @@
   },
   {
     "Id": 1221,
+    "IsDebug": false,
     "ItemId": 122,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1291,6 +1329,7 @@
   },
   {
     "Id": 1222,
+    "IsDebug": false,
     "ItemId": 122,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1337,6 +1376,7 @@
   },
   {
     "Id": 1230,
+    "IsDebug": false,
     "ItemId": 123,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1368,6 +1408,7 @@
   },
   {
     "Id": 1231,
+    "IsDebug": false,
     "ItemId": 123,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1414,6 +1455,7 @@
   },
   {
     "Id": 1232,
+    "IsDebug": false,
     "ItemId": 123,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1451,6 +1493,7 @@
   },
   {
     "Id": 1233,
+    "IsDebug": false,
     "ItemId": 123,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1485,6 +1528,7 @@
   },
   {
     "Id": 1240,
+    "IsDebug": false,
     "ItemId": 124,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1526,6 +1570,7 @@
   },
   {
     "Id": 1241,
+    "IsDebug": false,
     "ItemId": 124,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1567,6 +1612,7 @@
   },
   {
     "Id": 1250,
+    "IsDebug": false,
     "ItemId": 125,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1610,6 +1656,7 @@
   },
   {
     "Id": 1260,
+    "IsDebug": false,
     "ItemId": 126,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1653,6 +1700,7 @@
   },
   {
     "Id": 1270,
+    "IsDebug": false,
     "ItemId": 127,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1696,6 +1744,7 @@
   },
   {
     "Id": 1280,
+    "IsDebug": false,
     "ItemId": 128,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1739,6 +1788,7 @@
   },
   {
     "Id": 1290,
+    "IsDebug": false,
     "ItemId": 129,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1785,6 +1835,7 @@
   },
   {
     "Id": 1300,
+    "IsDebug": false,
     "ItemId": 130,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1828,6 +1879,7 @@
   },
   {
     "Id": 1310,
+    "IsDebug": false,
     "ItemId": 131,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1871,6 +1923,7 @@
   },
   {
     "Id": 1320,
+    "IsDebug": false,
     "ItemId": 132,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1914,6 +1967,7 @@
   },
   {
     "Id": 1330,
+    "IsDebug": false,
     "ItemId": 133,
     "ConflictIndices": [],
     "ActionNames": [
@@ -1957,6 +2011,7 @@
   },
   {
     "Id": 1340,
+    "IsDebug": false,
     "ItemId": 134,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2000,6 +2055,7 @@
   },
   {
     "Id": 1350,
+    "IsDebug": false,
     "ItemId": 135,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2043,6 +2099,7 @@
   },
   {
     "Id": 1360,
+    "IsDebug": false,
     "ItemId": 136,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2086,6 +2143,7 @@
   },
   {
     "Id": 1370,
+    "IsDebug": false,
     "ItemId": 137,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2129,6 +2187,7 @@
   },
   {
     "Id": 1380,
+    "IsDebug": false,
     "ItemId": 138,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2172,6 +2231,7 @@
   },
   {
     "Id": 1390,
+    "IsDebug": false,
     "ItemId": 139,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2215,6 +2275,7 @@
   },
   {
     "Id": 1400,
+    "IsDebug": false,
     "ItemId": 140,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2258,6 +2319,7 @@
   },
   {
     "Id": 1410,
+    "IsDebug": false,
     "ItemId": 141,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2301,6 +2363,7 @@
   },
   {
     "Id": 1420,
+    "IsDebug": false,
     "ItemId": 142,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2344,6 +2407,7 @@
   },
   {
     "Id": 1430,
+    "IsDebug": false,
     "ItemId": 143,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2387,6 +2451,7 @@
   },
   {
     "Id": 1440,
+    "IsDebug": false,
     "ItemId": 144,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2430,6 +2495,7 @@
   },
   {
     "Id": 1450,
+    "IsDebug": false,
     "ItemId": 145,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2473,6 +2539,7 @@
   },
   {
     "Id": 1460,
+    "IsDebug": false,
     "ItemId": 146,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2516,6 +2583,7 @@
   },
   {
     "Id": 1470,
+    "IsDebug": false,
     "ItemId": 147,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2559,6 +2627,7 @@
   },
   {
     "Id": 1480,
+    "IsDebug": false,
     "ItemId": 148,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2602,6 +2671,7 @@
   },
   {
     "Id": 1490,
+    "IsDebug": false,
     "ItemId": 149,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2642,6 +2712,7 @@
   },
   {
     "Id": 1500,
+    "IsDebug": false,
     "ItemId": 150,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2682,6 +2753,7 @@
   },
   {
     "Id": 1510,
+    "IsDebug": false,
     "ItemId": 151,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2722,6 +2794,7 @@
   },
   {
     "Id": 1520,
+    "IsDebug": false,
     "ItemId": 152,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2765,6 +2838,7 @@
   },
   {
     "Id": 1530,
+    "IsDebug": false,
     "ItemId": 153,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2808,6 +2882,7 @@
   },
   {
     "Id": 1540,
+    "IsDebug": false,
     "ItemId": 154,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2851,6 +2926,7 @@
   },
   {
     "Id": 1550,
+    "IsDebug": false,
     "ItemId": 155,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2897,6 +2973,7 @@
   },
   {
     "Id": 1560,
+    "IsDebug": false,
     "ItemId": 156,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2934,6 +3011,7 @@
   },
   {
     "Id": 1561,
+    "IsDebug": false,
     "ItemId": 156,
     "ConflictIndices": [],
     "ActionNames": [
@@ -2977,6 +3055,7 @@
   },
   {
     "Id": 1570,
+    "IsDebug": false,
     "ItemId": 157,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3014,6 +3093,7 @@
   },
   {
     "Id": 1571,
+    "IsDebug": false,
     "ItemId": 157,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3057,6 +3137,7 @@
   },
   {
     "Id": 1580,
+    "IsDebug": false,
     "ItemId": 158,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3094,6 +3175,7 @@
   },
   {
     "Id": 1581,
+    "IsDebug": false,
     "ItemId": 158,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3137,6 +3219,7 @@
   },
   {
     "Id": 1590,
+    "IsDebug": false,
     "ItemId": 159,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3174,6 +3257,7 @@
   },
   {
     "Id": 1591,
+    "IsDebug": false,
     "ItemId": 159,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3217,6 +3301,7 @@
   },
   {
     "Id": 1600,
+    "IsDebug": false,
     "ItemId": 160,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3254,6 +3339,7 @@
   },
   {
     "Id": 1601,
+    "IsDebug": false,
     "ItemId": 160,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3297,6 +3383,7 @@
   },
   {
     "Id": 1610,
+    "IsDebug": false,
     "ItemId": 161,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3334,6 +3421,7 @@
   },
   {
     "Id": 1611,
+    "IsDebug": false,
     "ItemId": 161,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3377,6 +3465,7 @@
   },
   {
     "Id": 1620,
+    "IsDebug": false,
     "ItemId": 162,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3420,6 +3509,7 @@
   },
   {
     "Id": 1630,
+    "IsDebug": false,
     "ItemId": 163,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3463,6 +3553,7 @@
   },
   {
     "Id": 1640,
+    "IsDebug": false,
     "ItemId": 164,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3506,6 +3597,7 @@
   },
   {
     "Id": 1650,
+    "IsDebug": false,
     "ItemId": 165,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3537,6 +3629,7 @@
   },
   {
     "Id": 1660,
+    "IsDebug": false,
     "ItemId": 166,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3574,6 +3667,7 @@
   },
   {
     "Id": 1670,
+    "IsDebug": false,
     "ItemId": 167,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3617,6 +3711,7 @@
   },
   {
     "Id": 1680,
+    "IsDebug": false,
     "ItemId": 168,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3660,6 +3755,7 @@
   },
   {
     "Id": 1690,
+    "IsDebug": false,
     "ItemId": 169,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3703,6 +3799,7 @@
   },
   {
     "Id": 1691,
+    "IsDebug": false,
     "ItemId": 169,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3746,6 +3843,7 @@
   },
   {
     "Id": 1692,
+    "IsDebug": false,
     "ItemId": 169,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3789,6 +3887,7 @@
   },
   {
     "Id": 1700,
+    "IsDebug": false,
     "ItemId": 170,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3832,6 +3931,7 @@
   },
   {
     "Id": 1710,
+    "IsDebug": false,
     "ItemId": 171,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3875,6 +3975,7 @@
   },
   {
     "Id": 1720,
+    "IsDebug": false,
     "ItemId": 172,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3918,6 +4019,7 @@
   },
   {
     "Id": 1730,
+    "IsDebug": false,
     "ItemId": 173,
     "ConflictIndices": [],
     "ActionNames": [
@@ -3961,6 +4063,7 @@
   },
   {
     "Id": 1740,
+    "IsDebug": false,
     "ItemId": 174,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4004,6 +4107,7 @@
   },
   {
     "Id": 1750,
+    "IsDebug": false,
     "ItemId": 175,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4047,6 +4151,7 @@
   },
   {
     "Id": 1760,
+    "IsDebug": false,
     "ItemId": 176,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4090,6 +4195,7 @@
   },
   {
     "Id": 1770,
+    "IsDebug": false,
     "ItemId": 177,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4133,6 +4239,7 @@
   },
   {
     "Id": 1780,
+    "IsDebug": false,
     "ItemId": 178,
     "ConflictIndices": [
       1
@@ -4166,6 +4273,7 @@
   },
   {
     "Id": 1781,
+    "IsDebug": false,
     "ItemId": 178,
     "ConflictIndices": [
       0
@@ -4217,6 +4325,7 @@
   },
   {
     "Id": 1790,
+    "IsDebug": false,
     "ItemId": 179,
     "ConflictIndices": [
       1
@@ -4250,6 +4359,7 @@
   },
   {
     "Id": 1791,
+    "IsDebug": false,
     "ItemId": 179,
     "ConflictIndices": [
       0
@@ -4301,6 +4411,7 @@
   },
   {
     "Id": 1800,
+    "IsDebug": false,
     "ItemId": 180,
     "ConflictIndices": [
       1
@@ -4334,6 +4445,7 @@
   },
   {
     "Id": 1801,
+    "IsDebug": false,
     "ItemId": 180,
     "ConflictIndices": [
       0
@@ -4385,6 +4497,7 @@
   },
   {
     "Id": 1810,
+    "IsDebug": false,
     "ItemId": 181,
     "ConflictIndices": [
       1
@@ -4418,6 +4531,7 @@
   },
   {
     "Id": 1811,
+    "IsDebug": false,
     "ItemId": 181,
     "ConflictIndices": [
       0
@@ -4469,6 +4583,7 @@
   },
   {
     "Id": 1820,
+    "IsDebug": false,
     "ItemId": 182,
     "ConflictIndices": [
       1
@@ -4502,6 +4617,7 @@
   },
   {
     "Id": 1821,
+    "IsDebug": false,
     "ItemId": 182,
     "ConflictIndices": [
       0
@@ -4553,6 +4669,7 @@
   },
   {
     "Id": 1830,
+    "IsDebug": false,
     "ItemId": 183,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4599,6 +4716,7 @@
   },
   {
     "Id": 1840,
+    "IsDebug": false,
     "ItemId": 184,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4645,6 +4763,7 @@
   },
   {
     "Id": 1850,
+    "IsDebug": false,
     "ItemId": 185,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4691,6 +4810,7 @@
   },
   {
     "Id": 1860,
+    "IsDebug": false,
     "ItemId": 186,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4728,6 +4848,7 @@
   },
   {
     "Id": 1870,
+    "IsDebug": false,
     "ItemId": 187,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4765,6 +4886,7 @@
   },
   {
     "Id": 1880,
+    "IsDebug": false,
     "ItemId": 188,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4827,6 +4949,7 @@
   },
   {
     "Id": 1890,
+    "IsDebug": false,
     "ItemId": 189,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4889,6 +5012,7 @@
   },
   {
     "Id": 1900,
+    "IsDebug": false,
     "ItemId": 190,
     "ConflictIndices": [],
     "ActionNames": [
@@ -4951,6 +5075,7 @@
   },
   {
     "Id": 1910,
+    "IsDebug": false,
     "ItemId": 191,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5013,6 +5138,7 @@
   },
   {
     "Id": 1920,
+    "IsDebug": false,
     "ItemId": 192,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5075,6 +5201,7 @@
   },
   {
     "Id": 1930,
+    "IsDebug": false,
     "ItemId": 193,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5112,6 +5239,7 @@
   },
   {
     "Id": 1940,
+    "IsDebug": false,
     "ItemId": 194,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5149,6 +5277,7 @@
   },
   {
     "Id": 1950,
+    "IsDebug": false,
     "ItemId": 195,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5186,6 +5315,7 @@
   },
   {
     "Id": 1960,
+    "IsDebug": false,
     "ItemId": 196,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5223,6 +5353,7 @@
   },
   {
     "Id": 1961,
+    "IsDebug": false,
     "ItemId": 196,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5254,6 +5385,7 @@
   },
   {
     "Id": 1970,
+    "IsDebug": false,
     "ItemId": 197,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5297,6 +5429,7 @@
   },
   {
     "Id": 1980,
+    "IsDebug": false,
     "ItemId": 198,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5340,6 +5473,7 @@
   },
   {
     "Id": 1990,
+    "IsDebug": false,
     "ItemId": 199,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5386,6 +5520,7 @@
   },
   {
     "Id": 1991,
+    "IsDebug": false,
     "ItemId": 199,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5439,6 +5574,7 @@
   },
   {
     "Id": 2000,
+    "IsDebug": false,
     "ItemId": 200,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5482,6 +5618,7 @@
   },
   {
     "Id": 2001,
+    "IsDebug": false,
     "ItemId": 200,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5535,6 +5672,7 @@
   },
   {
     "Id": 2010,
+    "IsDebug": false,
     "ItemId": 201,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5572,6 +5710,7 @@
   },
   {
     "Id": 2020,
+    "IsDebug": false,
     "ItemId": 202,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5609,6 +5748,7 @@
   },
   {
     "Id": 2030,
+    "IsDebug": false,
     "ItemId": 203,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5646,6 +5786,7 @@
   },
   {
     "Id": 2040,
+    "IsDebug": false,
     "ItemId": 204,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5683,6 +5824,7 @@
   },
   {
     "Id": 2050,
+    "IsDebug": false,
     "ItemId": 205,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5726,6 +5868,7 @@
   },
   {
     "Id": 2060,
+    "IsDebug": false,
     "ItemId": 206,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5769,6 +5912,7 @@
   },
   {
     "Id": 2070,
+    "IsDebug": false,
     "ItemId": 207,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5812,6 +5956,7 @@
   },
   {
     "Id": 2071,
+    "IsDebug": false,
     "ItemId": 207,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5855,6 +6000,7 @@
   },
   {
     "Id": 2080,
+    "IsDebug": false,
     "ItemId": 208,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5892,6 +6038,7 @@
   },
   {
     "Id": 2090,
+    "IsDebug": false,
     "ItemId": 209,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5929,6 +6076,7 @@
   },
   {
     "Id": 2100,
+    "IsDebug": false,
     "ItemId": 210,
     "ConflictIndices": [],
     "ActionNames": [
@@ -5969,6 +6117,7 @@
   },
   {
     "Id": 2110,
+    "IsDebug": false,
     "ItemId": 211,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6006,6 +6155,7 @@
   },
   {
     "Id": 2120,
+    "IsDebug": false,
     "ItemId": 212,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6043,6 +6193,7 @@
   },
   {
     "Id": 2121,
+    "IsDebug": false,
     "ItemId": 212,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6086,6 +6237,7 @@
   },
   {
     "Id": 2130,
+    "IsDebug": false,
     "ItemId": 213,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6123,6 +6275,7 @@
   },
   {
     "Id": 2131,
+    "IsDebug": false,
     "ItemId": 213,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6166,6 +6319,7 @@
   },
   {
     "Id": 2140,
+    "IsDebug": false,
     "ItemId": 214,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6203,6 +6357,7 @@
   },
   {
     "Id": 2150,
+    "IsDebug": false,
     "ItemId": 215,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6240,6 +6395,7 @@
   },
   {
     "Id": 2160,
+    "IsDebug": false,
     "ItemId": 216,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6277,6 +6433,7 @@
   },
   {
     "Id": 2170,
+    "IsDebug": false,
     "ItemId": 217,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6314,6 +6471,7 @@
   },
   {
     "Id": 2180,
+    "IsDebug": false,
     "ItemId": 218,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6351,6 +6509,7 @@
   },
   {
     "Id": 2190,
+    "IsDebug": false,
     "ItemId": 219,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6388,6 +6547,7 @@
   },
   {
     "Id": 2200,
+    "IsDebug": false,
     "ItemId": 220,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6425,6 +6585,7 @@
   },
   {
     "Id": 2210,
+    "IsDebug": false,
     "ItemId": 221,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6468,6 +6629,7 @@
   },
   {
     "Id": 2211,
+    "IsDebug": false,
     "ItemId": 221,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6511,6 +6673,7 @@
   },
   {
     "Id": 2212,
+    "IsDebug": false,
     "ItemId": 221,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6557,6 +6720,7 @@
   },
   {
     "Id": 2220,
+    "IsDebug": false,
     "ItemId": 222,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6600,6 +6764,7 @@
   },
   {
     "Id": 2221,
+    "IsDebug": false,
     "ItemId": 222,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6643,6 +6808,7 @@
   },
   {
     "Id": 2222,
+    "IsDebug": false,
     "ItemId": 222,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6689,6 +6855,7 @@
   },
   {
     "Id": 2230,
+    "IsDebug": false,
     "ItemId": 223,
     "ConflictIndices": [
       3,
@@ -6735,6 +6902,7 @@
   },
   {
     "Id": 2231,
+    "IsDebug": false,
     "ItemId": 223,
     "ConflictIndices": [
       3,
@@ -6781,6 +6949,7 @@
   },
   {
     "Id": 2232,
+    "IsDebug": false,
     "ItemId": 223,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6827,6 +6996,7 @@
   },
   {
     "Id": 2233,
+    "IsDebug": false,
     "ItemId": 223,
     "ConflictIndices": [
       0,
@@ -6861,6 +7031,7 @@
   },
   {
     "Id": 2234,
+    "IsDebug": false,
     "ItemId": 223,
     "ConflictIndices": [
       0,
@@ -6895,6 +7066,7 @@
   },
   {
     "Id": 2240,
+    "IsDebug": false,
     "ItemId": 224,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6941,6 +7113,7 @@
   },
   {
     "Id": 2241,
+    "IsDebug": false,
     "ItemId": 224,
     "ConflictIndices": [],
     "ActionNames": [
@@ -6984,6 +7157,7 @@
   },
   {
     "Id": 2250,
+    "IsDebug": false,
     "ItemId": 225,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7030,6 +7204,7 @@
   },
   {
     "Id": 2251,
+    "IsDebug": false,
     "ItemId": 225,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7076,6 +7251,7 @@
   },
   {
     "Id": 2252,
+    "IsDebug": false,
     "ItemId": 225,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7122,6 +7298,7 @@
   },
   {
     "Id": 2260,
+    "IsDebug": false,
     "ItemId": 226,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7168,6 +7345,7 @@
   },
   {
     "Id": 2261,
+    "IsDebug": false,
     "ItemId": 226,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7214,6 +7392,7 @@
   },
   {
     "Id": 2262,
+    "IsDebug": false,
     "ItemId": 226,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7260,6 +7439,7 @@
   },
   {
     "Id": 2263,
+    "IsDebug": false,
     "ItemId": 226,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7294,6 +7474,7 @@
   },
   {
     "Id": 2264,
+    "IsDebug": false,
     "ItemId": 226,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7340,6 +7521,7 @@
   },
   {
     "Id": 2270,
+    "IsDebug": false,
     "ItemId": 227,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7386,6 +7568,7 @@
   },
   {
     "Id": 2271,
+    "IsDebug": false,
     "ItemId": 227,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7429,6 +7612,7 @@
   },
   {
     "Id": 2272,
+    "IsDebug": false,
     "ItemId": 227,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7463,6 +7647,7 @@
   },
   {
     "Id": 2273,
+    "IsDebug": false,
     "ItemId": 227,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7509,6 +7694,7 @@
   },
   {
     "Id": 2274,
+    "IsDebug": false,
     "ItemId": 227,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7543,6 +7729,7 @@
   },
   {
     "Id": 2275,
+    "IsDebug": false,
     "ItemId": 227,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7586,6 +7773,7 @@
   },
   {
     "Id": 2280,
+    "IsDebug": false,
     "ItemId": 228,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7620,6 +7808,7 @@
   },
   {
     "Id": 2281,
+    "IsDebug": false,
     "ItemId": 228,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7654,6 +7843,7 @@
   },
   {
     "Id": 2282,
+    "IsDebug": false,
     "ItemId": 228,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7691,6 +7881,7 @@
   },
   {
     "Id": 2283,
+    "IsDebug": false,
     "ItemId": 228,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7731,6 +7922,7 @@
   },
   {
     "Id": 2290,
+    "IsDebug": false,
     "ItemId": 229,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7777,6 +7969,7 @@
   },
   {
     "Id": 2291,
+    "IsDebug": false,
     "ItemId": 229,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7823,6 +8016,7 @@
   },
   {
     "Id": 2292,
+    "IsDebug": false,
     "ItemId": 229,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7869,6 +8063,7 @@
   },
   {
     "Id": 2293,
+    "IsDebug": false,
     "ItemId": 229,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7915,6 +8110,7 @@
   },
   {
     "Id": 2300,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [],
     "ActionNames": [
@@ -7958,6 +8154,7 @@
   },
   {
     "Id": 2301,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8001,6 +8198,7 @@
   },
   {
     "Id": 2302,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8044,6 +8242,7 @@
   },
   {
     "Id": 2303,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [
       5,
@@ -8090,6 +8289,7 @@
   },
   {
     "Id": 2304,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [
       5,
@@ -8136,6 +8336,7 @@
   },
   {
     "Id": 2305,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [
       3,
@@ -8173,6 +8374,7 @@
   },
   {
     "Id": 2306,
+    "IsDebug": false,
     "ItemId": 230,
     "ConflictIndices": [
       3,
@@ -8210,6 +8412,7 @@
   },
   {
     "Id": 2310,
+    "IsDebug": false,
     "ItemId": 231,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8256,6 +8459,7 @@
   },
   {
     "Id": 2311,
+    "IsDebug": false,
     "ItemId": 231,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8290,6 +8494,7 @@
   },
   {
     "Id": 2312,
+    "IsDebug": false,
     "ItemId": 231,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8330,6 +8535,7 @@
   },
   {
     "Id": 2313,
+    "IsDebug": false,
     "ItemId": 231,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8361,6 +8567,7 @@
   },
   {
     "Id": 2314,
+    "IsDebug": false,
     "ItemId": 231,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8392,6 +8599,7 @@
   },
   {
     "Id": 2320,
+    "IsDebug": false,
     "ItemId": 232,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8429,6 +8637,7 @@
   },
   {
     "Id": 2321,
+    "IsDebug": false,
     "ItemId": 232,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8460,6 +8669,7 @@
   },
   {
     "Id": 2330,
+    "IsDebug": false,
     "ItemId": 233,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8497,6 +8707,7 @@
   },
   {
     "Id": 2331,
+    "IsDebug": false,
     "ItemId": 233,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8534,6 +8745,7 @@
   },
   {
     "Id": 2340,
+    "IsDebug": false,
     "ItemId": 234,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8571,6 +8783,7 @@
   },
   {
     "Id": 2341,
+    "IsDebug": false,
     "ItemId": 234,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8602,6 +8815,7 @@
   },
   {
     "Id": 2342,
+    "IsDebug": false,
     "ItemId": 234,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8633,6 +8847,7 @@
   },
   {
     "Id": 2350,
+    "IsDebug": false,
     "ItemId": 235,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8670,6 +8885,7 @@
   },
   {
     "Id": 2351,
+    "IsDebug": false,
     "ItemId": 235,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8701,6 +8917,7 @@
   },
   {
     "Id": 2352,
+    "IsDebug": false,
     "ItemId": 235,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8732,6 +8949,7 @@
   },
   {
     "Id": 2353,
+    "IsDebug": false,
     "ItemId": 235,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8763,6 +8981,7 @@
   },
   {
     "Id": 2360,
+    "IsDebug": false,
     "ItemId": 236,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8800,6 +9019,7 @@
   },
   {
     "Id": 2361,
+    "IsDebug": false,
     "ItemId": 236,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8831,6 +9051,7 @@
   },
   {
     "Id": 2370,
+    "IsDebug": false,
     "ItemId": 237,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8868,6 +9089,7 @@
   },
   {
     "Id": 2371,
+    "IsDebug": false,
     "ItemId": 237,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8899,6 +9121,7 @@
   },
   {
     "Id": 2380,
+    "IsDebug": false,
     "ItemId": 238,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8936,6 +9159,7 @@
   },
   {
     "Id": 2381,
+    "IsDebug": false,
     "ItemId": 238,
     "ConflictIndices": [],
     "ActionNames": [
@@ -8973,6 +9197,7 @@
   },
   {
     "Id": 2390,
+    "IsDebug": false,
     "ItemId": 239,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9004,6 +9229,7 @@
   },
   {
     "Id": 2391,
+    "IsDebug": false,
     "ItemId": 239,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9041,6 +9267,7 @@
   },
   {
     "Id": 2400,
+    "IsDebug": false,
     "ItemId": 240,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9078,6 +9305,7 @@
   },
   {
     "Id": 2410,
+    "IsDebug": false,
     "ItemId": 241,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9115,6 +9343,7 @@
   },
   {
     "Id": 2420,
+    "IsDebug": false,
     "ItemId": 242,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9152,6 +9381,7 @@
   },
   {
     "Id": 2430,
+    "IsDebug": false,
     "ItemId": 243,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9189,6 +9419,7 @@
   },
   {
     "Id": 2440,
+    "IsDebug": false,
     "ItemId": 244,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9229,6 +9460,7 @@
   },
   {
     "Id": 2450,
+    "IsDebug": false,
     "ItemId": 245,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9269,6 +9501,7 @@
   },
   {
     "Id": 2460,
+    "IsDebug": false,
     "ItemId": 246,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9306,6 +9539,7 @@
   },
   {
     "Id": 2470,
+    "IsDebug": false,
     "ItemId": 247,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9343,6 +9577,7 @@
   },
   {
     "Id": 2480,
+    "IsDebug": false,
     "ItemId": 248,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9380,6 +9615,7 @@
   },
   {
     "Id": 2490,
+    "IsDebug": false,
     "ItemId": 249,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9425,6 +9661,7 @@
   },
   {
     "Id": 2500,
+    "IsDebug": false,
     "ItemId": 250,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9465,6 +9702,7 @@
   },
   {
     "Id": 2510,
+    "IsDebug": false,
     "ItemId": 251,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9502,6 +9740,7 @@
   },
   {
     "Id": 2520,
+    "IsDebug": false,
     "ItemId": 252,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9539,6 +9778,7 @@
   },
   {
     "Id": 2530,
+    "IsDebug": false,
     "ItemId": 253,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9576,6 +9816,7 @@
   },
   {
     "Id": 2540,
+    "IsDebug": false,
     "ItemId": 254,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9613,6 +9854,7 @@
   },
   {
     "Id": 2550,
+    "IsDebug": false,
     "ItemId": 255,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9650,6 +9892,7 @@
   },
   {
     "Id": 2560,
+    "IsDebug": false,
     "ItemId": 256,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9691,6 +9934,7 @@
   },
   {
     "Id": 2570,
+    "IsDebug": false,
     "ItemId": 257,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9728,6 +9972,7 @@
   },
   {
     "Id": 2580,
+    "IsDebug": false,
     "ItemId": 258,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9765,6 +10010,7 @@
   },
   {
     "Id": 2590,
+    "IsDebug": false,
     "ItemId": 259,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9802,6 +10048,7 @@
   },
   {
     "Id": 2591,
+    "IsDebug": false,
     "ItemId": 259,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9839,6 +10086,7 @@
   },
   {
     "Id": 2592,
+    "IsDebug": false,
     "ItemId": 259,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9870,6 +10118,7 @@
   },
   {
     "Id": 2593,
+    "IsDebug": false,
     "ItemId": 259,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9913,6 +10162,7 @@
   },
   {
     "Id": 2600,
+    "IsDebug": false,
     "ItemId": 260,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9956,6 +10206,7 @@
   },
   {
     "Id": 2601,
+    "IsDebug": false,
     "ItemId": 260,
     "ConflictIndices": [],
     "ActionNames": [
@@ -9999,6 +10250,7 @@
   },
   {
     "Id": 2602,
+    "IsDebug": false,
     "ItemId": 260,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10035,6 +10287,7 @@
   },
   {
     "Id": 2603,
+    "IsDebug": false,
     "ItemId": 260,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10072,6 +10325,7 @@
   },
   {
     "Id": 2610,
+    "IsDebug": false,
     "ItemId": 261,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10115,6 +10369,7 @@
   },
   {
     "Id": 2611,
+    "IsDebug": false,
     "ItemId": 261,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10158,6 +10413,7 @@
   },
   {
     "Id": 2612,
+    "IsDebug": false,
     "ItemId": 261,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10201,6 +10457,7 @@
   },
   {
     "Id": 2613,
+    "IsDebug": false,
     "ItemId": 261,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10235,6 +10492,7 @@
   },
   {
     "Id": 2620,
+    "IsDebug": false,
     "ItemId": 262,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10278,6 +10536,7 @@
   },
   {
     "Id": 2630,
+    "IsDebug": false,
     "ItemId": 263,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10321,6 +10580,7 @@
   },
   {
     "Id": 2640,
+    "IsDebug": false,
     "ItemId": 264,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10364,6 +10624,7 @@
   },
   {
     "Id": 2641,
+    "IsDebug": false,
     "ItemId": 264,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10407,6 +10668,7 @@
   },
   {
     "Id": 2642,
+    "IsDebug": false,
     "ItemId": 264,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10450,6 +10712,7 @@
   },
   {
     "Id": 2650,
+    "IsDebug": false,
     "ItemId": 265,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10493,6 +10756,7 @@
   },
   {
     "Id": 2651,
+    "IsDebug": false,
     "ItemId": 265,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10536,6 +10800,7 @@
   },
   {
     "Id": 2652,
+    "IsDebug": false,
     "ItemId": 265,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10579,6 +10844,7 @@
   },
   {
     "Id": 2660,
+    "IsDebug": false,
     "ItemId": 266,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10622,6 +10888,7 @@
   },
   {
     "Id": 2661,
+    "IsDebug": false,
     "ItemId": 266,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10665,6 +10932,7 @@
   },
   {
     "Id": 2662,
+    "IsDebug": false,
     "ItemId": 266,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10708,6 +10976,7 @@
   },
   {
     "Id": 2670,
+    "IsDebug": false,
     "ItemId": 267,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10751,6 +11020,7 @@
   },
   {
     "Id": 2671,
+    "IsDebug": false,
     "ItemId": 267,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10794,6 +11064,7 @@
   },
   {
     "Id": 2672,
+    "IsDebug": false,
     "ItemId": 267,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10837,6 +11108,7 @@
   },
   {
     "Id": 2680,
+    "IsDebug": false,
     "ItemId": 268,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10874,6 +11146,7 @@
   },
   {
     "Id": 2690,
+    "IsDebug": false,
     "ItemId": 269,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10905,6 +11178,7 @@
   },
   {
     "Id": 2700,
+    "IsDebug": false,
     "ItemId": 270,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10936,6 +11210,7 @@
   },
   {
     "Id": 2710,
+    "IsDebug": false,
     "ItemId": 271,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10967,6 +11242,7 @@
   },
   {
     "Id": 2720,
+    "IsDebug": false,
     "ItemId": 272,
     "ConflictIndices": [],
     "ActionNames": [
@@ -10998,6 +11274,7 @@
   },
   {
     "Id": 2730,
+    "IsDebug": false,
     "ItemId": 273,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11029,6 +11306,7 @@
   },
   {
     "Id": 2740,
+    "IsDebug": false,
     "ItemId": 274,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11060,6 +11338,7 @@
   },
   {
     "Id": 2750,
+    "IsDebug": false,
     "ItemId": 275,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11091,6 +11370,7 @@
   },
   {
     "Id": 2760,
+    "IsDebug": false,
     "ItemId": 276,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11122,6 +11402,7 @@
   },
   {
     "Id": 2770,
+    "IsDebug": false,
     "ItemId": 277,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11153,6 +11434,7 @@
   },
   {
     "Id": 2780,
+    "IsDebug": false,
     "ItemId": 278,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11190,6 +11472,7 @@
   },
   {
     "Id": 2790,
+    "IsDebug": false,
     "ItemId": 279,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11239,6 +11522,7 @@
   },
   {
     "Id": 2800,
+    "IsDebug": false,
     "ItemId": 280,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11270,6 +11554,7 @@
   },
   {
     "Id": 2810,
+    "IsDebug": false,
     "ItemId": 281,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11315,6 +11600,7 @@
   },
   {
     "Id": 2811,
+    "IsDebug": false,
     "ItemId": 281,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11349,6 +11635,7 @@
   },
   {
     "Id": 2820,
+    "IsDebug": false,
     "ItemId": 282,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11380,6 +11667,7 @@
   },
   {
     "Id": 2830,
+    "IsDebug": false,
     "ItemId": 283,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11411,6 +11699,7 @@
   },
   {
     "Id": 2840,
+    "IsDebug": false,
     "ItemId": 284,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11442,6 +11731,7 @@
   },
   {
     "Id": 2850,
+    "IsDebug": false,
     "ItemId": 285,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11473,6 +11763,7 @@
   },
   {
     "Id": 2860,
+    "IsDebug": false,
     "ItemId": 286,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11504,6 +11795,7 @@
   },
   {
     "Id": 2870,
+    "IsDebug": false,
     "ItemId": 287,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11535,6 +11827,7 @@
   },
   {
     "Id": 2880,
+    "IsDebug": false,
     "ItemId": 288,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11566,6 +11859,7 @@
   },
   {
     "Id": 2890,
+    "IsDebug": false,
     "ItemId": 289,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11597,6 +11891,7 @@
   },
   {
     "Id": 2900,
+    "IsDebug": false,
     "ItemId": 290,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11628,6 +11923,7 @@
   },
   {
     "Id": 2910,
+    "IsDebug": false,
     "ItemId": 291,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11659,6 +11955,7 @@
   },
   {
     "Id": 2920,
+    "IsDebug": false,
     "ItemId": 292,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11690,6 +11987,7 @@
   },
   {
     "Id": 2930,
+    "IsDebug": false,
     "ItemId": 293,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11736,6 +12034,7 @@
   },
   {
     "Id": 2931,
+    "IsDebug": false,
     "ItemId": 293,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11782,6 +12081,7 @@
   },
   {
     "Id": 2940,
+    "IsDebug": false,
     "ItemId": 294,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11819,6 +12119,7 @@
   },
   {
     "Id": 2950,
+    "IsDebug": false,
     "ItemId": 295,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11850,6 +12151,7 @@
   },
   {
     "Id": 2960,
+    "IsDebug": false,
     "ItemId": 296,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11884,6 +12186,7 @@
   },
   {
     "Id": 2970,
+    "IsDebug": false,
     "ItemId": 297,
     "ConflictIndices": [],
     "ActionNames": [
@@ -11915,6 +12218,7 @@
   },
   {
     "Id": 2980,
+    "IsDebug": false,
     "ItemId": 298,
     "ConflictIndices": [
       1
@@ -11948,6 +12252,7 @@
   },
   {
     "Id": 2981,
+    "IsDebug": false,
     "ItemId": 298,
     "ConflictIndices": [
       0
@@ -11987,6 +12292,7 @@
   },
   {
     "Id": 2990,
+    "IsDebug": false,
     "ItemId": 299,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12024,6 +12330,7 @@
   },
   {
     "Id": 3000,
+    "IsDebug": false,
     "ItemId": 300,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12061,6 +12368,7 @@
   },
   {
     "Id": 3010,
+    "IsDebug": false,
     "ItemId": 301,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12098,6 +12406,7 @@
   },
   {
     "Id": 3020,
+    "IsDebug": false,
     "ItemId": 302,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12135,6 +12444,7 @@
   },
   {
     "Id": 3030,
+    "IsDebug": false,
     "ItemId": 303,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12172,6 +12482,7 @@
   },
   {
     "Id": 3040,
+    "IsDebug": false,
     "ItemId": 304,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12209,6 +12520,7 @@
   },
   {
     "Id": 3050,
+    "IsDebug": false,
     "ItemId": 305,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12240,6 +12552,7 @@
   },
   {
     "Id": 3060,
+    "IsDebug": false,
     "ItemId": 306,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12271,6 +12584,7 @@
   },
   {
     "Id": 3070,
+    "IsDebug": false,
     "ItemId": 307,
     "ConflictIndices": [
       1
@@ -12304,6 +12618,7 @@
   },
   {
     "Id": 3071,
+    "IsDebug": false,
     "ItemId": 307,
     "ConflictIndices": [
       0
@@ -12339,6 +12654,7 @@
   },
   {
     "Id": 3080,
+    "IsDebug": false,
     "ItemId": 308,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12382,6 +12698,7 @@
   },
   {
     "Id": 3090,
+    "IsDebug": false,
     "ItemId": 309,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12413,6 +12730,7 @@
   },
   {
     "Id": 3100,
+    "IsDebug": false,
     "ItemId": 310,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12444,6 +12762,7 @@
   },
   {
     "Id": 3110,
+    "IsDebug": false,
     "ItemId": 311,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12475,6 +12794,7 @@
   },
   {
     "Id": 3120,
+    "IsDebug": false,
     "ItemId": 312,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12506,6 +12826,7 @@
   },
   {
     "Id": 3130,
+    "IsDebug": false,
     "ItemId": 313,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12537,6 +12858,7 @@
   },
   {
     "Id": 3140,
+    "IsDebug": false,
     "ItemId": 314,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12574,6 +12896,7 @@
   },
   {
     "Id": 3150,
+    "IsDebug": false,
     "ItemId": 315,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12611,6 +12934,7 @@
   },
   {
     "Id": 3160,
+    "IsDebug": false,
     "ItemId": 316,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12654,6 +12978,7 @@
   },
   {
     "Id": 3170,
+    "IsDebug": false,
     "ItemId": 317,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12691,6 +13016,7 @@
   },
   {
     "Id": 3180,
+    "IsDebug": false,
     "ItemId": 318,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12737,6 +13063,7 @@
   },
   {
     "Id": 3190,
+    "IsDebug": false,
     "ItemId": 319,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12782,6 +13109,7 @@
   },
   {
     "Id": 3200,
+    "IsDebug": false,
     "ItemId": 320,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12827,6 +13155,7 @@
   },
   {
     "Id": 3201,
+    "IsDebug": false,
     "ItemId": 320,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12861,6 +13190,7 @@
   },
   {
     "Id": 3210,
+    "IsDebug": false,
     "ItemId": 321,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12892,6 +13222,7 @@
   },
   {
     "Id": 3220,
+    "IsDebug": false,
     "ItemId": 322,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12929,6 +13260,7 @@
   },
   {
     "Id": 3230,
+    "IsDebug": false,
     "ItemId": 323,
     "ConflictIndices": [],
     "ActionNames": [
@@ -12966,6 +13298,7 @@
   },
   {
     "Id": 3231,
+    "IsDebug": false,
     "ItemId": 323,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13000,6 +13333,7 @@
   },
   {
     "Id": 3240,
+    "IsDebug": false,
     "ItemId": 324,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13037,6 +13371,7 @@
   },
   {
     "Id": 3250,
+    "IsDebug": false,
     "ItemId": 325,
     "ConflictIndices": [
       1
@@ -13073,6 +13408,7 @@
   },
   {
     "Id": 3251,
+    "IsDebug": false,
     "ItemId": 325,
     "ConflictIndices": [
       0
@@ -13106,6 +13442,7 @@
   },
   {
     "Id": 3252,
+    "IsDebug": false,
     "ItemId": 325,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13140,6 +13477,7 @@
   },
   {
     "Id": 3260,
+    "IsDebug": false,
     "ItemId": 326,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13171,6 +13509,7 @@
   },
   {
     "Id": 3261,
+    "IsDebug": false,
     "ItemId": 326,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13205,6 +13544,7 @@
   },
   {
     "Id": 3270,
+    "IsDebug": false,
     "ItemId": 327,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13250,6 +13590,7 @@
   },
   {
     "Id": 3280,
+    "IsDebug": false,
     "ItemId": 328,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13281,6 +13622,7 @@
   },
   {
     "Id": 3290,
+    "IsDebug": false,
     "ItemId": 329,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13312,6 +13654,7 @@
   },
   {
     "Id": 3291,
+    "IsDebug": false,
     "ItemId": 329,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13346,6 +13689,7 @@
   },
   {
     "Id": 3300,
+    "IsDebug": false,
     "ItemId": 330,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13386,6 +13730,7 @@
   },
   {
     "Id": 3310,
+    "IsDebug": false,
     "ItemId": 331,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13423,6 +13768,7 @@
   },
   {
     "Id": 3311,
+    "IsDebug": false,
     "ItemId": 331,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13457,6 +13803,7 @@
   },
   {
     "Id": 3320,
+    "IsDebug": false,
     "ItemId": 332,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13512,6 +13859,7 @@
   },
   {
     "Id": 3330,
+    "IsDebug": false,
     "ItemId": 333,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13552,6 +13900,7 @@
   },
   {
     "Id": 3340,
+    "IsDebug": false,
     "ItemId": 334,
     "ConflictIndices": [
       1
@@ -13585,6 +13934,7 @@
   },
   {
     "Id": 3341,
+    "IsDebug": false,
     "ItemId": 334,
     "ConflictIndices": [
       0
@@ -13621,6 +13971,7 @@
   },
   {
     "Id": 3342,
+    "IsDebug": false,
     "ItemId": 334,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13664,6 +14015,7 @@
   },
   {
     "Id": 3343,
+    "IsDebug": false,
     "ItemId": 334,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13701,6 +14053,7 @@
   },
   {
     "Id": 3344,
+    "IsDebug": false,
     "ItemId": 334,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13735,6 +14088,7 @@
   },
   {
     "Id": 3350,
+    "IsDebug": false,
     "ItemId": 335,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13816,6 +14170,7 @@
   },
   {
     "Id": 3360,
+    "IsDebug": false,
     "ItemId": 336,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13897,6 +14252,7 @@
   },
   {
     "Id": 3361,
+    "IsDebug": false,
     "ItemId": 336,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13931,6 +14287,7 @@
   },
   {
     "Id": 50000,
+    "IsDebug": false,
     "ItemId": 5000,
     "ConflictIndices": [],
     "ActionNames": [],
@@ -13956,6 +14313,7 @@
   },
   {
     "Id": 50010,
+    "IsDebug": false,
     "ItemId": 5001,
     "ConflictIndices": [],
     "ActionNames": [
@@ -13980,6 +14338,38 @@
       0,
       0,
       0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "Gomenne": false,
+    "Grooming": false,
+    "Z": 0.0,
+    "ShouldOmitMyneko": false
+  },
+  {
+    "Id": 30090,
+    "IsDebug": true,
+    "ItemId": 3009,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
       0
     ],
     "ActionWeights": null,

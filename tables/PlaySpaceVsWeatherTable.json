@@ -1,88 +1,105 @@
 [
   {
     "Id": 10,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 20,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 30,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 40,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 50,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 60,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 70,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1000,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1010,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1020,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1030,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1040,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1050,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1060,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1070,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1080,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1090,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Summer": -20
@@ -90,24 +107,29 @@
   },
   {
     "Id": 1100,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1110,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1120,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1130,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1140,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20,
       "Snow": 10
@@ -115,34 +137,42 @@
   },
   {
     "Id": 1150,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1160,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1170,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1180,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1190,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1200,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1201,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1210,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 20
@@ -150,6 +180,7 @@
   },
   {
     "Id": 1211,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 20
@@ -157,6 +188,7 @@
   },
   {
     "Id": 1212,
+    "IsDebug": false,
     "Dict": {
       "Spring": 30,
       "Autum": 20,
@@ -166,6 +198,7 @@
   },
   {
     "Id": 1220,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10
@@ -173,6 +206,7 @@
   },
   {
     "Id": 1221,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10
@@ -180,12 +214,14 @@
   },
   {
     "Id": 1222,
+    "IsDebug": false,
     "Dict": {
       "Burning": -50
     }
   },
   {
     "Id": 1230,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10,
       "Snow": 15
@@ -193,6 +229,7 @@
   },
   {
     "Id": 1231,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Winter": -20
@@ -200,12 +237,14 @@
   },
   {
     "Id": 1232,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10
     }
   },
   {
     "Id": 1233,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Winter": 10,
@@ -214,56 +253,66 @@
   },
   {
     "Id": 1240,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1241,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1250,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1260,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1270,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1280,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1290,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1300,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1310,
+    "IsDebug": false,
     "Dict": {
       "Autum": 10
     }
   },
   {
     "Id": 1320,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 10,
@@ -272,6 +321,7 @@
   },
   {
     "Id": 1330,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 10,
@@ -280,6 +330,7 @@
   },
   {
     "Id": 1340,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 10,
@@ -288,6 +339,7 @@
   },
   {
     "Id": 1350,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 10,
@@ -296,60 +348,74 @@
   },
   {
     "Id": 1360,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1370,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1380,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1390,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1400,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1410,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1420,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1430,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1440,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1450,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1460,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1470,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1480,
+    "IsDebug": false,
     "Dict": {
       "Winter": 15
     }
   },
   {
     "Id": 1490,
+    "IsDebug": false,
     "Dict": {
       "Autum": 20,
       "Winter": 20,
@@ -358,6 +424,7 @@
   },
   {
     "Id": 1500,
+    "IsDebug": false,
     "Dict": {
       "Autum": 20,
       "Winter": 20,
@@ -366,6 +433,7 @@
   },
   {
     "Id": 1510,
+    "IsDebug": false,
     "Dict": {
       "Autum": 20,
       "Winter": 20,
@@ -374,6 +442,7 @@
   },
   {
     "Id": 1520,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10
@@ -381,6 +450,7 @@
   },
   {
     "Id": 1530,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10
@@ -388,6 +458,7 @@
   },
   {
     "Id": 1540,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10
@@ -395,6 +466,7 @@
   },
   {
     "Id": 1550,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10,
       "Winter": 10,
@@ -403,58 +475,68 @@
   },
   {
     "Id": 1560,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10
     }
   },
   {
     "Id": 1561,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20
     }
   },
   {
     "Id": 1570,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10
     }
   },
   {
     "Id": 1571,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20
     }
   },
   {
     "Id": 1580,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10
     }
   },
   {
     "Id": 1581,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20
     }
   },
   {
     "Id": 1590,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10
     }
   },
   {
     "Id": 1591,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20
     }
   },
   {
     "Id": 1600,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1601,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20,
       "Snow": 20
@@ -462,20 +544,24 @@
   },
   {
     "Id": 1610,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10
     }
   },
   {
     "Id": 1611,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1620,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1630,
+    "IsDebug": false,
     "Dict": {
       "Summer": 50,
       "Winter": -20,
@@ -484,6 +570,7 @@
   },
   {
     "Id": 1640,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 40,
@@ -494,6 +581,7 @@
   },
   {
     "Id": 1650,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 40,
@@ -504,6 +592,7 @@
   },
   {
     "Id": 1660,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 40,
@@ -514,6 +603,7 @@
   },
   {
     "Id": 1670,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 40,
@@ -524,6 +614,7 @@
   },
   {
     "Id": 1680,
+    "IsDebug": false,
     "Dict": {
       "Summer": 50,
       "Winter": -20,
@@ -532,6 +623,7 @@
   },
   {
     "Id": 1690,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 50,
@@ -541,6 +633,7 @@
   },
   {
     "Id": 1691,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 50,
@@ -550,6 +643,7 @@
   },
   {
     "Id": 1692,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 50,
@@ -559,6 +653,7 @@
   },
   {
     "Id": 1700,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 15,
@@ -567,24 +662,28 @@
   },
   {
     "Id": 1710,
+    "IsDebug": false,
     "Dict": {
       "Winter": 15
     }
   },
   {
     "Id": 1720,
+    "IsDebug": false,
     "Dict": {
       "Winter": 15
     }
   },
   {
     "Id": 1730,
+    "IsDebug": false,
     "Dict": {
       "Winter": 15
     }
   },
   {
     "Id": 1740,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 15,
@@ -593,12 +692,14 @@
   },
   {
     "Id": 1750,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10
     }
   },
   {
     "Id": 1760,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 15,
@@ -607,22 +708,26 @@
   },
   {
     "Id": 1770,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1780,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20
     }
   },
   {
     "Id": 1781,
+    "IsDebug": false,
     "Dict": {
       "Winter": 20
     }
   },
   {
     "Id": 1790,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -631,6 +736,7 @@
   },
   {
     "Id": 1791,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -639,6 +745,7 @@
   },
   {
     "Id": 1800,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Autum": 10,
@@ -649,12 +756,14 @@
   },
   {
     "Id": 1801,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1810,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Autum": 10,
@@ -665,12 +774,14 @@
   },
   {
     "Id": 1811,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1820,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Autum": 10,
@@ -681,12 +792,14 @@
   },
   {
     "Id": 1821,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 1830,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -695,6 +808,7 @@
   },
   {
     "Id": 1840,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Winter": 20,
@@ -703,6 +817,7 @@
   },
   {
     "Id": 1850,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -711,12 +826,14 @@
   },
   {
     "Id": 1860,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20
     }
   },
   {
     "Id": 1870,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Winter": 20,
@@ -725,6 +842,7 @@
   },
   {
     "Id": 1880,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -733,6 +851,7 @@
   },
   {
     "Id": 1890,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -741,6 +860,7 @@
   },
   {
     "Id": 1900,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -749,6 +869,7 @@
   },
   {
     "Id": 1910,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -757,10 +878,12 @@
   },
   {
     "Id": 1920,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1930,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10,
       "Winter": 10,
@@ -769,6 +892,7 @@
   },
   {
     "Id": 1940,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10,
       "Winter": 10,
@@ -777,6 +901,7 @@
   },
   {
     "Id": 1950,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10,
       "Winter": 10,
@@ -785,6 +910,7 @@
   },
   {
     "Id": 1960,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10,
       "Winter": 10,
@@ -793,28 +919,34 @@
   },
   {
     "Id": 1961,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1970,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1980,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10
     }
   },
   {
     "Id": 1990,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 1991,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2000,
+    "IsDebug": false,
     "Dict": {
       "Winter": 15,
       "Snow": 5
@@ -822,6 +954,7 @@
   },
   {
     "Id": 2001,
+    "IsDebug": false,
     "Dict": {
       "Winter": 15,
       "Snow": 5
@@ -829,6 +962,7 @@
   },
   {
     "Id": 2010,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 20
@@ -836,6 +970,7 @@
   },
   {
     "Id": 2020,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 20
@@ -843,6 +978,7 @@
   },
   {
     "Id": 2030,
+    "IsDebug": false,
     "Dict": {
       "Summer": 30,
       "Autum": 20,
@@ -851,6 +987,7 @@
   },
   {
     "Id": 2040,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Autum": 20
@@ -858,22 +995,27 @@
   },
   {
     "Id": 2050,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2060,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2070,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2071,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2080,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Autum": 10,
@@ -883,6 +1025,7 @@
   },
   {
     "Id": 2090,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Autum": 10,
@@ -892,6 +1035,7 @@
   },
   {
     "Id": 2100,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Autum": 10,
@@ -901,6 +1045,7 @@
   },
   {
     "Id": 2110,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Autum": 10,
@@ -910,6 +1055,7 @@
   },
   {
     "Id": 2120,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -918,6 +1064,7 @@
   },
   {
     "Id": 2121,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -30,
@@ -926,6 +1073,7 @@
   },
   {
     "Id": 2130,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -934,6 +1082,7 @@
   },
   {
     "Id": 2131,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -30,
@@ -942,10 +1091,12 @@
   },
   {
     "Id": 2140,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2150,
+    "IsDebug": false,
     "Dict": {
       "Spring": -20,
       "Summer": -50,
@@ -954,6 +1105,7 @@
   },
   {
     "Id": 2160,
+    "IsDebug": false,
     "Dict": {
       "Spring": -20,
       "Summer": -50,
@@ -962,6 +1114,7 @@
   },
   {
     "Id": 2170,
+    "IsDebug": false,
     "Dict": {
       "Spring": -20,
       "Summer": -50,
@@ -970,6 +1123,7 @@
   },
   {
     "Id": 2180,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -978,6 +1132,7 @@
   },
   {
     "Id": 2190,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -986,6 +1141,7 @@
   },
   {
     "Id": 2200,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 20,
@@ -994,6 +1150,7 @@
   },
   {
     "Id": 2210,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": 30
@@ -1001,6 +1158,7 @@
   },
   {
     "Id": 2211,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": 30
@@ -1008,6 +1166,7 @@
   },
   {
     "Id": 2212,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": -20
@@ -1015,6 +1174,7 @@
   },
   {
     "Id": 2220,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": 30
@@ -1022,6 +1182,7 @@
   },
   {
     "Id": 2221,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": 30
@@ -1029,6 +1190,7 @@
   },
   {
     "Id": 2222,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": -20
@@ -1036,6 +1198,7 @@
   },
   {
     "Id": 2230,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": 30
@@ -1043,6 +1206,7 @@
   },
   {
     "Id": 2231,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Burning": 30
@@ -1050,48 +1214,59 @@
   },
   {
     "Id": 2232,
+    "IsDebug": false,
     "Dict": {
       "Burning": -20
     }
   },
   {
     "Id": 2234,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2240,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2241,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2250,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2251,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2252,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2260,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2261,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2262,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2263,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 20
@@ -1099,6 +1274,7 @@
   },
   {
     "Id": 2264,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 20
@@ -1106,18 +1282,22 @@
   },
   {
     "Id": 2270,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2271,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2272,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2273,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 20
@@ -1125,6 +1305,7 @@
   },
   {
     "Id": 2274,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 20
@@ -1132,22 +1313,27 @@
   },
   {
     "Id": 2275,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2280,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2281,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2282,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2283,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -20
@@ -1155,6 +1341,7 @@
   },
   {
     "Id": 2290,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1162,6 +1349,7 @@
   },
   {
     "Id": 2291,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1169,6 +1357,7 @@
   },
   {
     "Id": 2292,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1176,6 +1365,7 @@
   },
   {
     "Id": 2293,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1183,42 +1373,49 @@
   },
   {
     "Id": 2300,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2301,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2302,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2303,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2304,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2305,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2310,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1226,6 +1423,7 @@
   },
   {
     "Id": 2311,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1233,6 +1431,7 @@
   },
   {
     "Id": 2312,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1240,6 +1439,7 @@
   },
   {
     "Id": 2313,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1247,6 +1447,7 @@
   },
   {
     "Id": 2314,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1254,6 +1455,7 @@
   },
   {
     "Id": 2320,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1262,6 +1464,7 @@
   },
   {
     "Id": 2321,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1270,6 +1473,7 @@
   },
   {
     "Id": 2330,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1278,6 +1482,7 @@
   },
   {
     "Id": 2331,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1286,6 +1491,7 @@
   },
   {
     "Id": 2340,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1294,6 +1500,7 @@
   },
   {
     "Id": 2341,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1302,6 +1509,7 @@
   },
   {
     "Id": 2342,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1310,6 +1518,7 @@
   },
   {
     "Id": 2350,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1318,6 +1527,7 @@
   },
   {
     "Id": 2351,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1326,6 +1536,7 @@
   },
   {
     "Id": 2352,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1334,6 +1545,7 @@
   },
   {
     "Id": 2353,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1342,6 +1554,7 @@
   },
   {
     "Id": 2360,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1350,6 +1563,7 @@
   },
   {
     "Id": 2361,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1358,6 +1572,7 @@
   },
   {
     "Id": 2370,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1366,6 +1581,7 @@
   },
   {
     "Id": 2371,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1374,6 +1590,7 @@
   },
   {
     "Id": 2380,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1382,6 +1599,7 @@
   },
   {
     "Id": 2381,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10,
@@ -1390,6 +1608,7 @@
   },
   {
     "Id": 2390,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Burning": 20
@@ -1397,6 +1616,7 @@
   },
   {
     "Id": 2391,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Burning": 20
@@ -1404,6 +1624,7 @@
   },
   {
     "Id": 2400,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10,
@@ -1412,6 +1633,7 @@
   },
   {
     "Id": 2410,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10,
@@ -1420,6 +1642,7 @@
   },
   {
     "Id": 2420,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10,
@@ -1428,6 +1651,7 @@
   },
   {
     "Id": 2430,
+    "IsDebug": false,
     "Dict": {
       "Summer": -20,
       "Winter": 10,
@@ -1436,6 +1660,7 @@
   },
   {
     "Id": 2440,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1443,6 +1668,7 @@
   },
   {
     "Id": 2450,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1450,6 +1676,7 @@
   },
   {
     "Id": 2460,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1457,6 +1684,7 @@
   },
   {
     "Id": 2470,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1464,12 +1692,14 @@
   },
   {
     "Id": 2480,
+    "IsDebug": false,
     "Dict": {
       "Autum": 15
     }
   },
   {
     "Id": 2490,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1477,6 +1707,7 @@
   },
   {
     "Id": 2500,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1484,6 +1715,7 @@
   },
   {
     "Id": 2510,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1491,6 +1723,7 @@
   },
   {
     "Id": 2520,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1498,6 +1731,7 @@
   },
   {
     "Id": 2530,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1505,6 +1739,7 @@
   },
   {
     "Id": 2540,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1512,10 +1747,12 @@
   },
   {
     "Id": 2550,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2560,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1523,6 +1760,7 @@
   },
   {
     "Id": 2570,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -1530,10 +1768,12 @@
   },
   {
     "Id": 2580,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2590,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1543,6 +1783,7 @@
   },
   {
     "Id": 2591,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1552,6 +1793,7 @@
   },
   {
     "Id": 2592,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1561,6 +1803,7 @@
   },
   {
     "Id": 2593,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1570,6 +1813,7 @@
   },
   {
     "Id": 2600,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1579,6 +1823,7 @@
   },
   {
     "Id": 2601,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1588,6 +1833,7 @@
   },
   {
     "Id": 2602,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1597,6 +1843,7 @@
   },
   {
     "Id": 2603,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1606,6 +1853,7 @@
   },
   {
     "Id": 2610,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -40,
@@ -1615,6 +1863,7 @@
   },
   {
     "Id": 2611,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -40,
@@ -1624,6 +1873,7 @@
   },
   {
     "Id": 2612,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -40,
@@ -1633,10 +1883,12 @@
   },
   {
     "Id": 2613,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2620,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -80,
@@ -1646,6 +1898,7 @@
   },
   {
     "Id": 2630,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -80,
@@ -1655,6 +1908,7 @@
   },
   {
     "Id": 2640,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -80,
@@ -1664,6 +1918,7 @@
   },
   {
     "Id": 2641,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -80,
@@ -1673,6 +1928,7 @@
   },
   {
     "Id": 2642,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -80,
@@ -1682,6 +1938,7 @@
   },
   {
     "Id": 2650,
+    "IsDebug": false,
     "Dict": {
       "Spring": -80,
       "Summer": -90,
@@ -1691,6 +1948,7 @@
   },
   {
     "Id": 2651,
+    "IsDebug": false,
     "Dict": {
       "Spring": -80,
       "Summer": -90,
@@ -1700,6 +1958,7 @@
   },
   {
     "Id": 2652,
+    "IsDebug": false,
     "Dict": {
       "Spring": -80,
       "Summer": -90,
@@ -1709,6 +1968,7 @@
   },
   {
     "Id": 2660,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1718,6 +1978,7 @@
   },
   {
     "Id": 2661,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1727,6 +1988,7 @@
   },
   {
     "Id": 2662,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1736,6 +1998,7 @@
   },
   {
     "Id": 2670,
+    "IsDebug": false,
     "Dict": {
       "Spring": -50,
       "Summer": -70,
@@ -1745,6 +2008,7 @@
   },
   {
     "Id": 2671,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -90,
@@ -1754,6 +2018,7 @@
   },
   {
     "Id": 2672,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -90,
@@ -1763,52 +2028,63 @@
   },
   {
     "Id": 2680,
+    "IsDebug": false,
     "Dict": {
       "Snow": 40
     }
   },
   {
     "Id": 2690,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2700,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2710,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2720,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10
     }
   },
   {
     "Id": 2730,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2740,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2750,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2760,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2770,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10
     }
   },
   {
     "Id": 2780,
+    "IsDebug": false,
     "Dict": {
       "Summer": 30,
       "Snow": 10,
@@ -1817,6 +2093,7 @@
   },
   {
     "Id": 2790,
+    "IsDebug": false,
     "Dict": {
       "Snow": -10,
       "Burning": -50
@@ -1824,6 +2101,7 @@
   },
   {
     "Id": 2800,
+    "IsDebug": false,
     "Dict": {
       "Summer": -50,
       "Winter": -10,
@@ -1832,46 +2110,55 @@
   },
   {
     "Id": 2810,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2811,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2820,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2830,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2840,
+    "IsDebug": false,
     "Dict": {
       "Burning": -30
     }
   },
   {
     "Id": 2850,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2860,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2870,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2880,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Burning": -30
@@ -1879,6 +2166,7 @@
   },
   {
     "Id": 2890,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -10,
@@ -1887,6 +2175,7 @@
   },
   {
     "Id": 2900,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -10,
@@ -1895,6 +2184,7 @@
   },
   {
     "Id": 2910,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -10,
@@ -1903,6 +2193,7 @@
   },
   {
     "Id": 2920,
+    "IsDebug": false,
     "Dict": {
       "Winter": -10,
       "Burning": 20
@@ -1910,6 +2201,7 @@
   },
   {
     "Id": 2930,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10
@@ -1917,6 +2209,7 @@
   },
   {
     "Id": 2931,
+    "IsDebug": false,
     "Dict": {
       "Winter": 10,
       "Snow": 10
@@ -1924,6 +2217,7 @@
   },
   {
     "Id": 2940,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Snow": -10
@@ -1931,12 +2225,14 @@
   },
   {
     "Id": 2950,
+    "IsDebug": false,
     "Dict": {
       "Summer": -10
     }
   },
   {
     "Id": 2960,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Winter": -10,
@@ -1946,6 +2242,7 @@
   },
   {
     "Id": 2970,
+    "IsDebug": false,
     "Dict": {
       "Summer": 20,
       "Winter": -20
@@ -1953,14 +2250,17 @@
   },
   {
     "Id": 2980,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2981,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 2990,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Winter": 10,
@@ -1970,6 +2270,7 @@
   },
   {
     "Id": 3000,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -10,
@@ -1978,6 +2279,7 @@
   },
   {
     "Id": 3010,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -10,
@@ -1986,6 +2288,7 @@
   },
   {
     "Id": 3020,
+    "IsDebug": false,
     "Dict": {
       "Summer": 10,
       "Snow": -10,
@@ -1994,6 +2297,7 @@
   },
   {
     "Id": 3030,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Snow": 20,
@@ -2002,16 +2306,19 @@
   },
   {
     "Id": 3040,
+    "IsDebug": false,
     "Dict": {
       "Spring": 30
     }
   },
   {
     "Id": 3050,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3060,
+    "IsDebug": false,
     "Dict": {
       "Spring": -70,
       "Summer": -80
@@ -2019,18 +2326,22 @@
   },
   {
     "Id": 3070,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3071,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3080,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3090,
+    "IsDebug": false,
     "Dict": {
       "Snow": -10,
       "Burning": -20
@@ -2038,6 +2349,7 @@
   },
   {
     "Id": 3100,
+    "IsDebug": false,
     "Dict": {
       "Snow": -10,
       "Burning": -20
@@ -2045,6 +2357,7 @@
   },
   {
     "Id": 3110,
+    "IsDebug": false,
     "Dict": {
       "Snow": -10,
       "Burning": -20
@@ -2052,14 +2365,17 @@
   },
   {
     "Id": 3120,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3130,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3140,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -2067,6 +2383,7 @@
   },
   {
     "Id": 3150,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -2074,20 +2391,24 @@
   },
   {
     "Id": 3160,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3170,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20
     }
   },
   {
     "Id": 3180,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3190,
+    "IsDebug": false,
     "Dict": {
       "Spring": 40,
       "Summer": -10,
@@ -2099,6 +2420,7 @@
   },
   {
     "Id": 3200,
+    "IsDebug": false,
     "Dict": {
       "Spring": 40,
       "Summer": -10,
@@ -2110,14 +2432,17 @@
   },
   {
     "Id": 3201,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3210,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3220,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": 40,
@@ -2128,6 +2453,7 @@
   },
   {
     "Id": 3230,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": 40,
@@ -2138,10 +2464,12 @@
   },
   {
     "Id": 3231,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3240,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": -10,
@@ -2153,6 +2481,7 @@
   },
   {
     "Id": 3250,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": -10,
@@ -2164,6 +2493,7 @@
   },
   {
     "Id": 3251,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": -10,
@@ -2175,22 +2505,27 @@
   },
   {
     "Id": 3252,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3260,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3261,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3270,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3280,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": -10,
@@ -2202,6 +2537,7 @@
   },
   {
     "Id": 3290,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": -10,
@@ -2213,6 +2549,7 @@
   },
   {
     "Id": 3291,
+    "IsDebug": false,
     "Dict": {
       "Spring": -10,
       "Summer": -10,
@@ -2224,6 +2561,7 @@
   },
   {
     "Id": 3300,
+    "IsDebug": false,
     "Dict": {
       "Spring": 20,
       "Autum": 15
@@ -2231,20 +2569,24 @@
   },
   {
     "Id": 3310,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3320,
+    "IsDebug": false,
     "Dict": {}
   },
   {
     "Id": 3330,
+    "IsDebug": false,
     "Dict": {
       "Spring": 40
     }
   },
   {
     "Id": 3340,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 5,
@@ -2255,6 +2597,7 @@
   },
   {
     "Id": 3341,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 5,
@@ -2265,6 +2608,7 @@
   },
   {
     "Id": 3342,
+    "IsDebug": false,
     "Dict": {
       "Spring": 15,
       "Winter": -10,
@@ -2273,6 +2617,7 @@
   },
   {
     "Id": 3343,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 5,
@@ -2283,6 +2628,7 @@
   },
   {
     "Id": 3344,
+    "IsDebug": false,
     "Dict": {
       "Spring": 10,
       "Summer": 5,
@@ -2293,6 +2639,7 @@
   },
   {
     "Id": 3350,
+    "IsDebug": false,
     "Dict": {
       "Spring": 40,
       "Burning": -10
@@ -2300,12 +2647,14 @@
   },
   {
     "Id": 3360,
+    "IsDebug": false,
     "Dict": {
       "Burning": -10
     }
   },
   {
     "Id": 3361,
+    "IsDebug": false,
     "Dict": {}
   }
 ]

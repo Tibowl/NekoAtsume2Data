@@ -1,6 +1,7 @@
 [
   {
     "Id": 1,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 1,
@@ -28,6 +29,7 @@
   },
   {
     "Id": 2,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 2,
@@ -61,6 +63,7 @@
   },
   {
     "Id": 3,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 3,
@@ -99,6 +102,7 @@
   },
   {
     "Id": 4,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 4,
@@ -118,6 +122,7 @@
   },
   {
     "Id": 5,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 5,
@@ -156,6 +161,7 @@
   },
   {
     "Id": 6,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 6,
@@ -183,6 +189,7 @@
   },
   {
     "Id": 7,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 7,
@@ -202,6 +209,7 @@
   },
   {
     "Id": 8,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 8,
@@ -263,6 +271,7 @@
   },
   {
     "Id": 9,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 9,
@@ -324,6 +333,7 @@
   },
   {
     "Id": 10,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 10,
@@ -388,6 +398,7 @@
   },
   {
     "Id": 11,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 11,
@@ -443,6 +454,7 @@
   },
   {
     "Id": 12,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 12,
@@ -504,6 +516,7 @@
   },
   {
     "Id": 13,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 13,
@@ -563,6 +576,7 @@
   },
   {
     "Id": 14,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 14,
@@ -628,6 +642,7 @@
   },
   {
     "Id": 15,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 15,
@@ -671,6 +686,7 @@
   },
   {
     "Id": 16,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 16,
@@ -713,6 +729,7 @@
   },
   {
     "Id": 17,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 17,
@@ -745,6 +762,7 @@
   },
   {
     "Id": 18,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 18,
@@ -787,6 +805,7 @@
   },
   {
     "Id": 19,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 19,
@@ -842,6 +861,7 @@
   },
   {
     "Id": 20,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 20,
@@ -902,6 +922,7 @@
   },
   {
     "Id": 21,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 21,
@@ -959,6 +980,7 @@
   },
   {
     "Id": 22,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 22,
@@ -1020,6 +1042,7 @@
   },
   {
     "Id": 23,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 23,
@@ -1066,6 +1089,7 @@
   },
   {
     "Id": 24,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 24,
@@ -1126,6 +1150,7 @@
   },
   {
     "Id": 25,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 25,
@@ -1186,6 +1211,7 @@
   },
   {
     "Id": 26,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 26,
@@ -1235,6 +1261,7 @@
   },
   {
     "Id": 27,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 27,
@@ -1295,6 +1322,7 @@
   },
   {
     "Id": 28,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 28,
@@ -1344,6 +1372,7 @@
   },
   {
     "Id": 29,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 29,
@@ -1407,6 +1436,7 @@
   },
   {
     "Id": 30,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 30,
@@ -1464,6 +1494,7 @@
   },
   {
     "Id": 31,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 31,
@@ -1527,6 +1558,7 @@
   },
   {
     "Id": 32,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 32,
@@ -1581,6 +1613,7 @@
   },
   {
     "Id": 33,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 33,
@@ -1638,6 +1671,7 @@
   },
   {
     "Id": 34,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 34,
@@ -1681,6 +1715,7 @@
   },
   {
     "Id": 35,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 35,
@@ -1745,6 +1780,7 @@
   },
   {
     "Id": 36,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 36,
@@ -1795,6 +1831,7 @@
   },
   {
     "Id": 37,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 37,
@@ -1847,6 +1884,7 @@
   },
   {
     "Id": 38,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 38,
@@ -1903,6 +1941,7 @@
   },
   {
     "Id": 39,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 39,
@@ -1939,6 +1978,7 @@
   },
   {
     "Id": 40,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 40,
@@ -1996,6 +2036,7 @@
   },
   {
     "Id": 41,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 41,
@@ -2053,6 +2094,7 @@
   },
   {
     "Id": 42,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 42,
@@ -2093,6 +2135,7 @@
   },
   {
     "Id": 43,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 43,
@@ -2156,6 +2199,7 @@
   },
   {
     "Id": 44,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 44,
@@ -2196,6 +2240,7 @@
   },
   {
     "Id": 45,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 45,
@@ -2253,6 +2298,7 @@
   },
   {
     "Id": 46,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 46,
@@ -2310,6 +2356,7 @@
   },
   {
     "Id": 47,
+    "IsDebug": false,
     "Kind": 0,
     "Priority": 10,
     "DisplayOrder": 47,
@@ -2351,6 +2398,7 @@
   },
   {
     "Id": 100,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 20,
     "DisplayOrder": 100,
@@ -2417,6 +2465,7 @@
   },
   {
     "Id": 101,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 20,
     "DisplayOrder": 101,
@@ -2478,6 +2527,7 @@
   },
   {
     "Id": 102,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 20,
     "DisplayOrder": 102,
@@ -2539,6 +2589,7 @@
   },
   {
     "Id": 103,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 20,
     "DisplayOrder": 103,
@@ -2606,6 +2657,7 @@
   },
   {
     "Id": 104,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 20,
     "DisplayOrder": 104,
@@ -2661,6 +2713,7 @@
   },
   {
     "Id": 105,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 105,
@@ -2741,6 +2794,7 @@
   },
   {
     "Id": 106,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 106,
@@ -2830,6 +2884,7 @@
   },
   {
     "Id": 107,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 107,
@@ -2906,6 +2961,7 @@
   },
   {
     "Id": 108,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 108,
@@ -2983,6 +3039,7 @@
   },
   {
     "Id": 109,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 109,
@@ -3058,6 +3115,7 @@
   },
   {
     "Id": 110,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 110,
@@ -3157,6 +3215,7 @@
   },
   {
     "Id": 111,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 111,
@@ -3262,6 +3321,7 @@
   },
   {
     "Id": 112,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 112,
@@ -3361,6 +3421,7 @@
   },
   {
     "Id": 113,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 113,
@@ -3459,6 +3520,7 @@
   },
   {
     "Id": 114,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 114,
@@ -3556,6 +3618,7 @@
   },
   {
     "Id": 115,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 115,
@@ -3618,6 +3681,7 @@
   },
   {
     "Id": 116,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 116,
@@ -3695,6 +3759,7 @@
   },
   {
     "Id": 117,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 117,
@@ -3757,6 +3822,7 @@
   },
   {
     "Id": 118,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 118,
@@ -3817,6 +3883,7 @@
   },
   {
     "Id": 119,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 119,
@@ -3876,6 +3943,7 @@
   },
   {
     "Id": 120,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 120,
@@ -3939,6 +4007,7 @@
   },
   {
     "Id": 121,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 121,
@@ -4018,6 +4087,7 @@
   },
   {
     "Id": 122,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 122,
@@ -4082,6 +4152,7 @@
   },
   {
     "Id": 123,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 123,
@@ -4144,6 +4215,7 @@
   },
   {
     "Id": 124,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 30,
     "DisplayOrder": 124,
@@ -4205,6 +4277,7 @@
   },
   {
     "Id": 125,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 125,
@@ -4267,6 +4340,7 @@
   },
   {
     "Id": 126,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 126,
@@ -4342,6 +4416,7 @@
   },
   {
     "Id": 127,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 127,
@@ -4425,6 +4500,7 @@
   },
   {
     "Id": 128,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 128,
@@ -4510,6 +4586,7 @@
   },
   {
     "Id": 129,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 129,
@@ -4594,6 +4671,7 @@
   },
   {
     "Id": 130,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 130,
@@ -4657,6 +4735,7 @@
   },
   {
     "Id": 131,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 131,
@@ -4734,6 +4813,7 @@
   },
   {
     "Id": 132,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 132,
@@ -4818,6 +4898,7 @@
   },
   {
     "Id": 133,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 133,
@@ -4904,6 +4985,7 @@
   },
   {
     "Id": 134,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 40,
     "DisplayOrder": 134,
@@ -4989,6 +5071,7 @@
   },
   {
     "Id": 135,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 135,
@@ -5020,6 +5103,7 @@
   },
   {
     "Id": 136,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 136,
@@ -5047,6 +5131,7 @@
   },
   {
     "Id": 137,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 137,
@@ -5108,6 +5193,7 @@
   },
   {
     "Id": 138,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 138,
@@ -5138,6 +5224,7 @@
   },
   {
     "Id": 139,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 139,
@@ -5163,6 +5250,7 @@
   },
   {
     "Id": 140,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 140,
@@ -5190,6 +5278,7 @@
   },
   {
     "Id": 141,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 141,
@@ -5224,6 +5313,7 @@
   },
   {
     "Id": 142,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 142,
@@ -5260,6 +5350,7 @@
   },
   {
     "Id": 143,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 143,
@@ -5327,6 +5418,7 @@
   },
   {
     "Id": 144,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 144,
@@ -5361,6 +5453,7 @@
   },
   {
     "Id": 145,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 145,
@@ -5395,6 +5488,7 @@
   },
   {
     "Id": 146,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 146,
@@ -5428,6 +5522,7 @@
   },
   {
     "Id": 147,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 147,
@@ -5503,6 +5598,7 @@
   },
   {
     "Id": 148,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 148,
@@ -5569,6 +5665,7 @@
   },
   {
     "Id": 149,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 149,
@@ -5654,6 +5751,7 @@
   },
   {
     "Id": 150,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 150,
@@ -5726,6 +5824,7 @@
   },
   {
     "Id": 151,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 151,
@@ -5798,6 +5897,7 @@
   },
   {
     "Id": 152,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 152,
@@ -5868,6 +5968,7 @@
   },
   {
     "Id": 153,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 153,
@@ -5951,6 +6052,7 @@
   },
   {
     "Id": 154,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 154,
@@ -6045,6 +6147,7 @@
   },
   {
     "Id": 155,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 155,
@@ -6137,6 +6240,7 @@
   },
   {
     "Id": 156,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 156,
@@ -6228,6 +6332,7 @@
   },
   {
     "Id": 157,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 157,
@@ -6319,6 +6424,7 @@
   },
   {
     "Id": 158,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 158,
@@ -6398,6 +6504,7 @@
   },
   {
     "Id": 159,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 159,
@@ -6488,6 +6595,7 @@
   },
   {
     "Id": 160,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 160,
@@ -6579,6 +6687,7 @@
   },
   {
     "Id": 161,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 161,
@@ -6670,6 +6779,7 @@
   },
   {
     "Id": 162,
+    "IsDebug": false,
     "Kind": 1,
     "Priority": 50,
     "DisplayOrder": 162,
@@ -6762,6 +6872,7 @@
   },
   {
     "Id": 200,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 200,
@@ -6769,6 +6880,7 @@
   },
   {
     "Id": 201,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 201,
@@ -6776,6 +6888,7 @@
   },
   {
     "Id": 202,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 205,
@@ -6783,6 +6896,7 @@
   },
   {
     "Id": 203,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 206,
@@ -6790,6 +6904,7 @@
   },
   {
     "Id": 204,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 207,
@@ -6797,6 +6912,7 @@
   },
   {
     "Id": 205,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 250,
@@ -6804,6 +6920,7 @@
   },
   {
     "Id": 206,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 251,
@@ -6811,6 +6928,7 @@
   },
   {
     "Id": 207,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 252,
@@ -6818,6 +6936,7 @@
   },
   {
     "Id": 208,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 253,
@@ -6825,6 +6944,7 @@
   },
   {
     "Id": 209,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 204,
@@ -6832,6 +6952,7 @@
   },
   {
     "Id": 210,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 208,
@@ -6839,6 +6960,7 @@
   },
   {
     "Id": 211,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 202,
@@ -6846,6 +6968,7 @@
   },
   {
     "Id": 212,
+    "IsDebug": false,
     "Kind": 2,
     "Priority": 60,
     "DisplayOrder": 203,
@@ -6853,6 +6976,7 @@
   },
   {
     "Id": 300,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 300,
@@ -6860,6 +6984,7 @@
   },
   {
     "Id": 301,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 301,
@@ -6867,6 +6992,7 @@
   },
   {
     "Id": 302,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 302,
@@ -6874,6 +7000,7 @@
   },
   {
     "Id": 303,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 303,
@@ -6881,6 +7008,7 @@
   },
   {
     "Id": 304,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 304,
@@ -6888,6 +7016,7 @@
   },
   {
     "Id": 305,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 305,
@@ -6895,6 +7024,7 @@
   },
   {
     "Id": 306,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 306,
@@ -6902,6 +7032,7 @@
   },
   {
     "Id": 307,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 307,
@@ -6909,6 +7040,7 @@
   },
   {
     "Id": 308,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 308,
@@ -6916,6 +7048,7 @@
   },
   {
     "Id": 309,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 309,
@@ -6923,6 +7056,7 @@
   },
   {
     "Id": 310,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 310,
@@ -6930,6 +7064,7 @@
   },
   {
     "Id": 311,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 311,
@@ -6937,6 +7072,7 @@
   },
   {
     "Id": 312,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 312,
@@ -6944,6 +7080,7 @@
   },
   {
     "Id": 313,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 313,
@@ -6951,6 +7088,7 @@
   },
   {
     "Id": 314,
+    "IsDebug": false,
     "Kind": 3,
     "Priority": 200,
     "DisplayOrder": 314,
@@ -6958,6 +7096,7 @@
   },
   {
     "Id": 501,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 501,
@@ -6965,6 +7104,7 @@
   },
   {
     "Id": 502,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 502,
@@ -6972,6 +7112,7 @@
   },
   {
     "Id": 503,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 503,
@@ -6979,6 +7120,7 @@
   },
   {
     "Id": 504,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 504,
@@ -6986,6 +7128,7 @@
   },
   {
     "Id": 505,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 505,
@@ -6993,6 +7136,7 @@
   },
   {
     "Id": 506,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 506,
@@ -7000,6 +7144,7 @@
   },
   {
     "Id": 507,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 507,
@@ -7007,6 +7152,7 @@
   },
   {
     "Id": 508,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 508,
@@ -7014,6 +7160,7 @@
   },
   {
     "Id": 509,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 509,
@@ -7021,6 +7168,7 @@
   },
   {
     "Id": 510,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 510,
@@ -7028,6 +7176,7 @@
   },
   {
     "Id": 511,
+    "IsDebug": false,
     "Kind": 4,
     "Priority": 0,
     "DisplayOrder": 511,
