@@ -52,6 +52,7 @@ App.BgmCell
 App.BgmIdUtil
 App.BgmMenu
 App.BlackScene
+App.BlurDirectionExtensions
 App.BrokenGoodsTutorial
 App.BuildSymbolString
 App.ButtonExtensions.ButtonExtensions
@@ -451,7 +452,6 @@ App.RemoteConfigUtil.UserAttributes
 App.RenderTextureCamera
 App.RichOutline
 App.RtlText
-App.SafeAreaController
 App.SafeAreaResize
 App.Save.AlbumData
 App.Save.AlbumSet
@@ -469,6 +469,7 @@ App.Save.GiftTypeUtil
 App.Save.GoodsContext
 App.Save.GoodsStateUtil
 App.Save.IGoodsStatus
+App.Save.IPhotoEffect
 App.Save.IPhotoImageParamBuilder
 App.Save.IPhotoPart
 App.Save.ISealCopyable
@@ -488,12 +489,14 @@ App.Save.MoneyTypeExtensions
 App.Save.NewsData
 App.Save.NonConsumableStatus
 App.Save.NoteStateUtil
+App.Save.PhotoBlurEffect
 App.Save.PhotoData
 App.Save.PhotoImageParam
 App.Save.PhotoInspectResultExtensions
 App.Save.PhotoPartCamera
 App.Save.PhotoPartComparer
 App.Save.PhotoPartSprite
+App.Save.PhotoPartSpriteOptionsExtensions
 App.Save.PhotoPartXmlAnime
 App.Save.PhotoPartXmlAnimeFrame
 App.Save.PhotoPartXmlAnimeOptionsExtensions
@@ -622,6 +625,7 @@ App.ShotOrientationExtensions
 App.ShotOrientationUtil
 App.ShotUi
 App.ShowWeb
+App.SiblingPath
 App.SilhouetteCameraSetup
 App.SimpleMenuIconButton
 App.SizeIconUtil
@@ -652,8 +656,7 @@ App.StampUtil
 App.StoreNekonoteState
 App.Str
 App.StrInputWindow
-App.SubTutorialId
-App.SubTutorialIds
+App.SubTutorialIdUtil
 App.Support
 App.SupportSetting
 App.SupportSetting.Data
@@ -723,6 +726,7 @@ App.TuningParams.News
 App.TutorialCameraSettings
 App.UIUtil
 App.UiFactory
+App.UiRoot
 App.UnitySceneExtensions
 App.UnityServicesInitializer
 App.UnityTestScene
@@ -741,8 +745,8 @@ App.WallpaperScene
 App.WeatherJudge
 App.WeatherUtil
 App.Window
+App.WorldRect
 App.WorldRectTransform
-App.WorldUtil
 App.Yard
 App.YardBg
 App.YardCamera
@@ -932,6 +936,7 @@ HpLib.MultiSprite
 HpLib.MyCaller
 HpLib.MyColor
 HpLib.MyMath
+HpLib.MySafeArea
 HpLib.MyVector
 HpLib.NTree
 HpLib.NestedDictionary
@@ -988,6 +993,7 @@ HpLib.StringBuilderWrapper
 HpLib.StringExtensions.StringExtensions
 HpLib.StringPathExtensions.StringPathExtensions
 HpLib.StringTagExtensions.StringTagExtensions
+HpLib.StringTreeBuilder
 HpLib.SysPrefabId
 HpLib.SysTagExtensions
 HpLib.TapColliders2d
@@ -1025,7 +1031,10 @@ HpLib.TreeBuilder
 HpLib.TreeNode
 HpLib.TreeString
 HpLib.TreeStringOptions
+HpLib.TreeStringOptionsPresets
+HpLib.TreeStringStyleOptions
 HpLib.TreeStyle
+HpLib.UiRaycaster
 HpLib.UnityEventExtensions.UnityEventExtensions
 HpLib.UnityStringExtensions.UnityStringExtensions
 HpLib.UnlimitedQueue

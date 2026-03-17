@@ -258,7 +258,7 @@ public enum GoodsJaId
 	public const GoodsJaId おみやげテスト6 = 3006;
 	public const GoodsJaId おみやげテスト7 = 3007;
 	public const GoodsJaId コンプリートテスト2 = 3008;
-	public const GoodsJaId カメラテスト = 3009;
+	public const GoodsJaId インスタントカメラ = 3009;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;

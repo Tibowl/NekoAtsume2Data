@@ -14364,16 +14364,26 @@
     "ItemId": 3009,
     "ConflictIndices": [],
     "ActionNames": [
-      "00kihon_suwari"
+      "10hachi_kingyo",
+      "01ball_pingpong_break",
+      "133"
     ],
     "ActionIds": [
+      0,
+      0,
       0
     ],
     "ActionOptions": [
+      0,
+      0,
       0
     ],
     "ActionWeights": null,
-    "GoodsAnimeId": null,
+    "GoodsAnimeId": [
+      0,
+      0,
+      -1
+    ],
     "GoodsExchangeModuleId": null,
     "GoodsRequiredDamages": null,
     "ActionNames2": null,
@@ -14384,7 +14394,7 @@
     "GoodsExchangeModuleId2": null,
     "GoodsRequiredDamages2": null,
     "Charm": 100,
-    "Niboshi": 100,
+    "Niboshi": 40,
     "Gomenne": false,
     "Grooming": false,
     "Z": 0.0,

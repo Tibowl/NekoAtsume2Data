@@ -1895,10 +1895,47 @@
     "WarningKey": null
   },
   {
-    "Id": 156,
+    "Id": 155,
     "IsDebug": false,
     "IsForceNotForSale": false,
     "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bed_king"
+    ],
+    "AnimeXmls": [
+      "03cushion_bed_king"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 166,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 24
+    },
+    "DamageTable": null,
+    "Toughness": 2100,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 43,
+    "RepairSilver": 70,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 156,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12cube_ki"
@@ -1935,7 +1972,7 @@
     "Id": 158,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12cube_tiramisu"
@@ -2306,7 +2343,7 @@
     "Id": 174,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_sheep"
@@ -6599,6 +6636,80 @@
     "Silver": 210,
     "Gold": -1,
     "RepairSilver": 40,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 302,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03macaron_dora"
+    ],
+    "AnimeXmls": [
+      "03macaron_dora"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 377,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 16
+    },
+    "DamageTable": null,
+    "Toughness": 2600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 24,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 303,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03macaron_chou"
+    ],
+    "AnimeXmls": [
+      "03macaron_chou"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 378,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 24
+    },
+    "DamageTable": null,
+    "Toughness": 2600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 19,
+    "RepairSilver": 50,
     "StampCard": -1,
     "Coin": -1,
     "OmiyageVoucher": -1,
