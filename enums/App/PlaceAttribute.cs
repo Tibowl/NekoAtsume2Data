@@ -11,5 +11,6 @@ public enum PlaceAttribute
 	public const PlaceAttribute Large = 4;
 	public const PlaceAttribute Myneko = 8;
 	public const PlaceAttribute Food = 16;
+	public const PlaceAttribute EatMotion = 32;
 	public const PlaceAttribute All = -1;
 }

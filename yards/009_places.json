@@ -13,7 +13,7 @@
 		"places": [
 			{
 				"\u003cId\u003ek__BackingField": 0,
-				"\u003cAttribute\u003ek__BackingField": 16,
+				"\u003cAttribute\u003ek__BackingField": 48,
 				"\u003cFoodPlaceId\u003ek__BackingField": 0,
 				"\u003cPosition\u003ek__BackingField": {
 					"x": -6.588,
@@ -105,7 +105,7 @@
 			},
 			{
 				"\u003cId\u003ek__BackingField": 10,
-				"\u003cAttribute\u003ek__BackingField": 17,
+				"\u003cAttribute\u003ek__BackingField": 49,
 				"\u003cFoodPlaceId\u003ek__BackingField": 10,
 				"\u003cPosition\u003ek__BackingField": {
 					"x": -7.6589966,

@@ -988,6 +988,18 @@
     "ActiveMonths": null
   },
   {
+    "Id": 133,
+    "IsDebug": false,
+    "Type": 1,
+    "MementoIdInt": 82,
+    "Power": 80,
+    "WeatherImpact": 0,
+    "Niboshi": 60,
+    "GomenneRate": 0,
+    "GroomingRate": 0,
+    "ActiveMonths": null
+  },
+  {
     "Id": 701,
     "IsDebug": false,
     "Type": 2,
@@ -1021,18 +1033,6 @@
     "Niboshi": 0,
     "GomenneRate": 10,
     "GroomingRate": 10,
-    "ActiveMonths": null
-  },
-  {
-    "Id": 133,
-    "IsDebug": true,
-    "Type": 1,
-    "MementoIdInt": 82,
-    "Power": 80,
-    "WeatherImpact": 0,
-    "Niboshi": 100,
-    "GomenneRate": 0,
-    "GroomingRate": 0,
     "ActiveMonths": null
   },
   {
