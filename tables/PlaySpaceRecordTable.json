@@ -20,10 +20,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 11,
+    "IsDebug": false,
+    "ItemId": 1,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 20,
@@ -46,10 +76,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 21,
@@ -72,10 +101,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 22,
+    "IsDebug": false,
+    "ItemId": 2,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 30,
@@ -98,10 +157,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 31,
@@ -124,10 +182,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 32,
+    "IsDebug": false,
+    "ItemId": 3,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 40,
@@ -150,10 +238,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 10,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 41,
@@ -176,10 +263,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 10,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 42,
+    "IsDebug": false,
+    "ItemId": 4,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 50,
@@ -202,10 +319,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 10,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 51,
@@ -228,10 +344,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 10,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 52,
+    "IsDebug": false,
+    "ItemId": 5,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 60,
@@ -254,10 +400,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 61,
+    "IsDebug": false,
+    "ItemId": 6,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 70,
@@ -280,10 +456,40 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 71,
+    "IsDebug": false,
+    "ItemId": 7,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "photo_eat"
+    ],
+    "ActionIds": [
+      1
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 4,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1000,
@@ -318,10 +524,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1010,
@@ -362,10 +567,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1020,
@@ -406,10 +610,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1030,
@@ -450,10 +653,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1040,
@@ -494,10 +696,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1050,
@@ -538,10 +739,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1060,
@@ -570,10 +770,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1070,
@@ -602,10 +801,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1080,
@@ -634,10 +832,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1090,
@@ -666,10 +863,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1100,
@@ -698,10 +894,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1110,
@@ -752,10 +947,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1120,
@@ -793,10 +987,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1130,
@@ -825,10 +1018,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1140,
@@ -857,10 +1049,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1150,
@@ -889,10 +1080,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1160,
@@ -921,10 +1111,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1170,
@@ -971,10 +1160,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1180,
@@ -1003,10 +1191,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1190,
@@ -1044,10 +1231,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1200,
@@ -1085,10 +1271,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1201,
@@ -1117,10 +1302,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": -1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1210,
@@ -1164,10 +1348,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1211,
@@ -1199,10 +1382,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1212,
@@ -1234,10 +1416,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 90,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1220,
@@ -1281,10 +1462,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1221,
@@ -1322,10 +1502,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.1,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1222,
@@ -1369,10 +1548,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1230,
@@ -1401,10 +1579,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1231,
@@ -1448,10 +1625,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1232,
@@ -1486,10 +1662,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1233,
@@ -1521,10 +1696,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1240,
@@ -1563,10 +1737,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1241,
@@ -1605,10 +1778,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1250,
@@ -1649,10 +1821,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1260,
@@ -1693,10 +1864,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1270,
@@ -1737,10 +1907,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1280,
@@ -1781,10 +1950,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1290,
@@ -1828,10 +1996,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1300,
@@ -1872,10 +2039,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1310,
@@ -1916,10 +2082,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1320,
@@ -1960,10 +2125,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1330,
@@ -2004,10 +2168,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1340,
@@ -2048,10 +2211,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1350,
@@ -2092,10 +2254,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1360,
@@ -2136,10 +2297,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1370,
@@ -2180,10 +2340,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1380,
@@ -2224,10 +2383,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1390,
@@ -2268,10 +2426,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1400,
@@ -2312,10 +2469,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1410,
@@ -2356,10 +2512,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1420,
@@ -2400,10 +2555,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1430,
@@ -2444,10 +2598,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1440,
@@ -2488,10 +2641,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1450,
@@ -2532,10 +2684,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1460,
@@ -2576,10 +2727,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1470,
@@ -2620,10 +2770,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1480,
@@ -2664,10 +2813,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1490,
@@ -2705,10 +2853,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1500,
@@ -2746,10 +2893,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1510,
@@ -2787,10 +2933,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1520,
@@ -2831,10 +2976,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1530,
@@ -2875,10 +3019,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1540,
@@ -2919,10 +3062,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1550,
@@ -2966,10 +3108,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1560,
@@ -3004,10 +3145,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1561,
@@ -3048,10 +3188,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1570,
@@ -3086,10 +3225,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1571,
@@ -3130,10 +3268,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1580,
@@ -3168,10 +3305,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1581,
@@ -3212,10 +3348,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1590,
@@ -3250,10 +3385,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1591,
@@ -3294,10 +3428,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1600,
@@ -3332,10 +3465,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1601,
@@ -3376,10 +3508,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1610,
@@ -3414,10 +3545,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1611,
@@ -3458,10 +3588,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1620,
@@ -3502,10 +3631,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1630,
@@ -3546,10 +3674,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1640,
@@ -3590,10 +3717,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1650,
@@ -3622,10 +3748,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1660,
@@ -3660,10 +3785,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1670,
@@ -3704,10 +3828,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1680,
@@ -3748,10 +3871,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1690,
@@ -3792,10 +3914,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1691,
@@ -3836,10 +3957,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1692,
@@ -3880,10 +4000,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1700,
@@ -3924,10 +4043,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1710,
@@ -3968,10 +4086,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1720,
@@ -4012,10 +4129,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1730,
@@ -4056,10 +4172,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1740,
@@ -4100,10 +4215,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1750,
@@ -4144,10 +4258,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1760,
@@ -4188,10 +4301,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1770,
@@ -4232,10 +4344,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1780,
@@ -4266,10 +4377,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1781,
@@ -4318,10 +4428,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1790,
@@ -4352,10 +4461,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1791,
@@ -4404,10 +4512,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1800,
@@ -4438,10 +4545,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1801,
@@ -4490,10 +4596,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1810,
@@ -4524,10 +4629,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1811,
@@ -4576,10 +4680,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1820,
@@ -4610,10 +4713,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1821,
@@ -4662,10 +4764,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1830,
@@ -4709,10 +4810,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1840,
@@ -4756,10 +4856,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1850,
@@ -4803,10 +4902,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1860,
@@ -4841,10 +4939,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1870,
@@ -4879,10 +4976,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1880,
@@ -4942,10 +5038,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1890,
@@ -5005,10 +5100,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1900,
@@ -5068,10 +5162,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1910,
@@ -5131,10 +5224,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1920,
@@ -5194,10 +5286,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 110,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1930,
@@ -5232,10 +5323,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1940,
@@ -5270,10 +5360,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1950,
@@ -5308,10 +5397,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1960,
@@ -5346,10 +5434,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1961,
@@ -5378,10 +5465,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 25,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 1970,
@@ -5422,10 +5508,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1980,
@@ -5466,10 +5551,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1990,
@@ -5513,10 +5597,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 1991,
@@ -5567,10 +5650,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2000,
@@ -5611,10 +5693,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2001,
@@ -5665,10 +5746,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2010,
@@ -5703,10 +5783,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2020,
@@ -5741,10 +5820,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2030,
@@ -5779,10 +5857,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2040,
@@ -5817,10 +5894,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2050,
@@ -5861,10 +5937,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2060,
@@ -5905,10 +5980,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2070,
@@ -5949,10 +6023,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2071,
@@ -5993,10 +6066,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.125,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2080,
@@ -6031,10 +6103,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2090,
@@ -6069,10 +6140,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2100,
@@ -6110,10 +6180,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2110,
@@ -6148,10 +6217,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2120,
@@ -6186,10 +6254,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2121,
@@ -6230,10 +6297,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 40,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2130,
@@ -6268,10 +6334,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2131,
@@ -6312,10 +6377,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 40,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2140,
@@ -6350,10 +6414,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 120,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2150,
@@ -6388,10 +6451,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2160,
@@ -6426,10 +6488,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2170,
@@ -6464,10 +6525,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2180,
@@ -6502,10 +6562,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2190,
@@ -6540,10 +6599,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2200,
@@ -6578,10 +6636,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2210,
@@ -6622,10 +6679,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2211,
@@ -6666,10 +6722,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2212,
@@ -6713,10 +6768,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2220,
@@ -6757,10 +6811,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2221,
@@ -6801,10 +6854,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2222,
@@ -6848,10 +6900,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2230,
@@ -6895,10 +6946,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2231,
@@ -6942,10 +6992,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2232,
@@ -6989,10 +7038,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2233,
@@ -7024,10 +7072,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 2234,
@@ -7059,10 +7106,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 2240,
@@ -7106,10 +7152,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2241,
@@ -7150,10 +7195,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2250,
@@ -7197,10 +7241,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2251,
@@ -7244,10 +7287,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2252,
@@ -7291,10 +7333,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2260,
@@ -7338,10 +7379,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2261,
@@ -7385,10 +7425,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2262,
@@ -7432,10 +7471,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2263,
@@ -7467,10 +7505,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2264,
@@ -7514,10 +7551,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2270,
@@ -7561,10 +7597,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2271,
@@ -7605,10 +7640,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2272,
@@ -7640,10 +7674,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2273,
@@ -7687,10 +7720,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2274,
@@ -7722,10 +7754,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2275,
@@ -7766,10 +7797,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2280,
@@ -7801,10 +7831,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2281,
@@ -7836,10 +7865,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 65,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2282,
@@ -7874,10 +7902,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2283,
@@ -7915,10 +7942,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2290,
@@ -7962,10 +7988,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2291,
@@ -8009,10 +8034,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2292,
@@ -8056,10 +8080,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2293,
@@ -8103,10 +8126,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2300,
@@ -8147,10 +8169,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2301,
@@ -8191,10 +8212,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2302,
@@ -8235,10 +8255,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2303,
@@ -8282,10 +8301,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2304,
@@ -8329,10 +8347,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2305,
@@ -8367,10 +8384,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 2306,
@@ -8405,10 +8421,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 2310,
@@ -8452,10 +8467,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2311,
@@ -8487,10 +8501,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2312,
@@ -8528,10 +8541,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2313,
@@ -8560,10 +8572,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2314,
@@ -8592,10 +8603,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2320,
@@ -8630,10 +8640,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2321,
@@ -8662,10 +8671,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2330,
@@ -8700,10 +8708,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2331,
@@ -8738,10 +8745,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2340,
@@ -8776,10 +8782,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2341,
@@ -8808,10 +8813,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2342,
@@ -8840,10 +8844,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2350,
@@ -8878,10 +8881,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2351,
@@ -8910,10 +8912,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2352,
@@ -8942,10 +8943,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2353,
@@ -8974,10 +8974,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2360,
@@ -9012,10 +9011,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2361,
@@ -9044,10 +9042,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2370,
@@ -9082,10 +9079,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2371,
@@ -9114,10 +9110,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2380,
@@ -9152,10 +9147,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2381,
@@ -9190,10 +9184,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2390,
@@ -9222,10 +9215,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2391,
@@ -9260,10 +9252,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2400,
@@ -9298,10 +9289,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2410,
@@ -9336,10 +9326,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2420,
@@ -9374,10 +9363,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2430,
@@ -9412,10 +9400,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2440,
@@ -9453,10 +9440,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2450,
@@ -9494,10 +9480,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2460,
@@ -9532,10 +9517,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2470,
@@ -9570,10 +9554,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2480,
@@ -9608,10 +9591,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2490,
@@ -9654,10 +9636,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2500,
@@ -9695,10 +9676,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2510,
@@ -9733,10 +9713,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2520,
@@ -9771,10 +9750,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2530,
@@ -9809,10 +9787,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2540,
@@ -9847,10 +9824,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2550,
@@ -9885,10 +9861,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2560,
@@ -9927,10 +9902,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2570,
@@ -9965,10 +9939,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2580,
@@ -10003,10 +9976,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2590,
@@ -10041,10 +10013,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2591,
@@ -10079,10 +10050,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2592,
@@ -10111,10 +10081,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2593,
@@ -10155,10 +10124,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2600,
@@ -10199,10 +10167,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2601,
@@ -10243,10 +10210,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2602,
@@ -10280,10 +10246,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2603,
@@ -10318,10 +10283,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2610,
@@ -10362,10 +10326,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2611,
@@ -10406,10 +10369,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2612,
@@ -10450,10 +10412,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": true,
-    "Grooming": false,
+    "RareMotionPermissions": 9,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2613,
@@ -10485,10 +10446,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 2,
     "Niboshi": 65,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 2620,
@@ -10529,10 +10489,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2630,
@@ -10573,10 +10532,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2640,
@@ -10617,10 +10575,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2641,
@@ -10661,10 +10618,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2642,
@@ -10705,10 +10661,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2650,
@@ -10749,10 +10704,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2651,
@@ -10793,10 +10747,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2652,
@@ -10837,10 +10790,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2660,
@@ -10881,10 +10833,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2661,
@@ -10925,10 +10876,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2662,
@@ -10969,10 +10919,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 2670,
@@ -11013,10 +10962,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2671,
@@ -11057,10 +11005,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2672,
@@ -11101,10 +11048,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2680,
@@ -11139,10 +11085,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2690,
@@ -11171,10 +11116,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2700,
@@ -11203,10 +11147,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2710,
@@ -11235,10 +11178,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2720,
@@ -11267,10 +11209,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2730,
@@ -11299,10 +11240,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2740,
@@ -11331,10 +11271,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2750,
@@ -11363,10 +11302,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2760,
@@ -11395,10 +11333,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2770,
@@ -11427,10 +11364,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2780,
@@ -11465,10 +11401,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2790,
@@ -11515,10 +11450,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2800,
@@ -11547,10 +11481,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 120,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2810,
@@ -11593,10 +11526,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2811,
@@ -11628,10 +11560,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": -1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2820,
@@ -11660,10 +11591,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2830,
@@ -11692,10 +11622,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2840,
@@ -11724,10 +11653,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2850,
@@ -11756,10 +11684,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 150,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2860,
@@ -11788,10 +11715,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 150,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2870,
@@ -11820,10 +11746,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 150,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2880,
@@ -11852,10 +11777,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2890,
@@ -11884,10 +11808,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2900,
@@ -11916,10 +11839,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2910,
@@ -11948,10 +11870,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2920,
@@ -11980,10 +11901,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2930,
@@ -12027,10 +11947,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2931,
@@ -12074,10 +11993,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2940,
@@ -12112,10 +12030,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2950,
@@ -12144,10 +12061,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2960,
@@ -12179,10 +12095,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2970,
@@ -12211,10 +12126,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2980,
@@ -12245,10 +12159,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2981,
@@ -12285,10 +12198,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 2990,
@@ -12323,10 +12235,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3000,
@@ -12361,10 +12272,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3010,
@@ -12399,10 +12309,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3020,
@@ -12437,10 +12346,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3030,
@@ -12475,10 +12383,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3040,
@@ -12513,10 +12420,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3050,
@@ -12545,10 +12451,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3060,
@@ -12577,10 +12482,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3070,
@@ -12611,10 +12515,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3071,
@@ -12647,10 +12550,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3080,
@@ -12691,10 +12593,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3090,
@@ -12723,10 +12624,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3100,
@@ -12755,10 +12655,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3110,
@@ -12787,10 +12686,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3120,
@@ -12819,10 +12717,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 120,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3130,
@@ -12851,10 +12748,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 120,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3140,
@@ -12889,10 +12785,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3150,
@@ -12927,10 +12822,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3160,
@@ -12971,10 +12865,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3170,
@@ -13009,10 +12902,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3180,
@@ -13056,10 +12948,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3190,
@@ -13102,10 +12993,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3200,
@@ -13148,10 +13038,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3201,
@@ -13183,10 +13072,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3210,
@@ -13215,10 +13103,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3220,
@@ -13253,10 +13140,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3230,
@@ -13291,10 +13177,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": true,
+    "RareMotionPermissions": 2,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3231,
@@ -13326,10 +13211,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3240,
@@ -13364,10 +13248,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3250,
@@ -13401,10 +13284,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3251,
@@ -13435,10 +13317,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3252,
@@ -13470,10 +13351,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3260,
@@ -13502,10 +13382,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3261,
@@ -13537,10 +13416,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": -1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3270,
@@ -13583,10 +13461,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3280,
@@ -13615,10 +13492,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3290,
@@ -13647,10 +13523,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3291,
@@ -13682,10 +13557,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": -1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3300,
@@ -13723,10 +13597,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3310,
@@ -13761,10 +13634,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3311,
@@ -13796,10 +13668,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 12,
     "Niboshi": 75,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": -1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3320,
@@ -13852,10 +13723,9 @@
     ],
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3330,
@@ -13893,10 +13763,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3340,
@@ -13927,10 +13796,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3341,
@@ -13964,10 +13832,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3342,
@@ -14008,10 +13875,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3343,
@@ -14046,10 +13912,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3344,
@@ -14081,10 +13946,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 22,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3350,
@@ -14163,10 +14027,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3360,
@@ -14245,10 +14108,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": true,
-    "Grooming": true,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 3361,
@@ -14280,10 +14142,46 @@
     "GoodsRequiredDamages2": null,
     "Charm": 11,
     "Niboshi": 80,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": -1.0,
-    "ShouldOmitMyneko": true
+    "MynekoSpawnBlockFlags": 7
+  },
+  {
+    "Id": 3370,
+    "IsDebug": false,
+    "ItemId": 337,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_kingyo",
+      "133"
+    ],
+    "ActionIds": [
+      0,
+      0
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": [
+      0,
+      -1
+    ],
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 40,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 6
   },
   {
     "Id": 50000,
@@ -14306,10 +14204,9 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   },
   {
     "Id": 50010,
@@ -14353,51 +14250,8 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "Gomenne": false,
-    "Grooming": false,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
-    "ShouldOmitMyneko": false
-  },
-  {
-    "Id": 30090,
-    "IsDebug": true,
-    "ItemId": 3009,
-    "ConflictIndices": [],
-    "ActionNames": [
-      "10hachi_kingyo",
-      "01ball_pingpong_break",
-      "133"
-    ],
-    "ActionIds": [
-      0,
-      0,
-      0
-    ],
-    "ActionOptions": [
-      0,
-      0,
-      0
-    ],
-    "ActionWeights": null,
-    "GoodsAnimeId": [
-      0,
-      0,
-      -1
-    ],
-    "GoodsExchangeModuleId": null,
-    "GoodsRequiredDamages": null,
-    "ActionNames2": null,
-    "ActionIds2": null,
-    "ActionOptions2": [],
-    "ActionWeights2": null,
-    "GoodsAnimeId2": null,
-    "GoodsExchangeModuleId2": null,
-    "GoodsRequiredDamages2": null,
-    "Charm": 100,
-    "Niboshi": 40,
-    "Gomenne": false,
-    "Grooming": false,
-    "Z": 0.0,
-    "ShouldOmitMyneko": false
+    "MynekoSpawnBlockFlags": 0
   }
 ]

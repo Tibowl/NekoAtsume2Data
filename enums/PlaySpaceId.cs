@@ -5,12 +5,23 @@ public enum PlaySpaceId
 	// Fields
 	public int value__; // 0x0
 	public const PlaySpaceId Karikari = 10;
+	public const PlaySpaceId KariKariPhotoEat = 11;
 	public const PlaySpaceId GoodKarikari = 20;
+	public const PlaySpaceId GoodKarikariShinobu = 21;
+	public const PlaySpaceId GoodKarikariPhotoEat = 22;
 	public const PlaySpaceId NekoCan = 30;
+	public const PlaySpaceId NekoCanShinobu = 31;
+	public const PlaySpaceId NekoCanPhotoEat = 32;
 	public const PlaySpaceId KatsuoCan = 40;
+	public const PlaySpaceId KatsuoCanShinobu = 41;
+	public const PlaySpaceId KatsuoCanPhotoEat = 42;
 	public const PlaySpaceId MaguroCan = 50;
+	public const PlaySpaceId MaguroCanShinobu = 51;
+	public const PlaySpaceId MaguroCanPhotoEat = 52;
 	public const PlaySpaceId Sashimi = 60;
+	public const PlaySpaceId SashimiPhotoEat = 61;
 	public const PlaySpaceId Funamori = 70;
+	public const PlaySpaceId FunamoriPhotoEat = 71;
 	public const PlaySpaceId BaseBall = 1000;
 	public const PlaySpaceId RubberBallRed = 1010;
 	public const PlaySpaceId RubberBallYellow = 1020;
@@ -46,6 +57,7 @@ public enum PlaySpaceId
 	public const PlaySpaceId TrainDxTop = 3342;
 	public const PlaySpaceId TrainDxBack = 3343;
 	public const PlaySpaceId TrainDxEkicho = 3344;
+	public const PlaySpaceId InstantCamera = 3370;
 	public const PlaySpaceId CameraTest = 30090;
 	public const PlaySpaceId Ground1 = 50000;
 	public const PlaySpaceId MynekoGround = 50010;

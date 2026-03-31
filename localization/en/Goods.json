@@ -247,6 +247,7 @@
     "GoodsName334": "Cardboard Train",
     "GoodsName335": "Bread Cushion",
     "GoodsName336": "Pizza Cushion (Plain)",
+    "GoodsName337": "Instant Camera",
     "ExGoodsName1": "Yard Expansion",
     "ExGoodsName2": "Fish Exchange",
     "ExGoodsName3": "Jarashi",
@@ -499,6 +500,7 @@
     "GoodsShop334": "Just the right cardboard train to go on a trip.\nEnjoy the view from the train windows!",
     "GoodsShop335": "Soft and squishy bread-style cushion.\nExtra-thick design for enhanced\ncomfort and satisfaction.",
     "GoodsShop336": "Soft and squishy pizza-style cushion.\nCan’t decide what toppings to add?",
+    "GoodsShop337": "Retro-style camera with\nsolid performance.\nNo flash, safe for cats.",
     "ExGoodsShop1": "Expand your cats' play space into the\nadjacent room, which will allow you to\nplace more stuff!",
     "ExGoodsShop2": "Exchange 10 gold fish for 250 normal fish.",
     "ExGoodsShop3": "A classic item to attract cats.\nShaking it might catch their\nattention. *Used in the yard.",
@@ -751,5 +753,6 @@
     "GoodsYard334": "Take a nap on this safe cardboard\ntrain ride. There's no need to\nworry about riding past your stop.",
     "GoodsYard335": "A soft and springy cushion with\na satisfyingly chewy feel.\nEven the ears are gently plush.",
     "GoodsYard336": "A soft and springy cushion with\na satisfyingly chewy feel.\nLet the cats choose the toppings.",
+    "GoodsYard337": "An analog camera that uses film.\nYou won't know how the photos\nturned out until they're developed.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

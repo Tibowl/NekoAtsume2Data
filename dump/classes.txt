@@ -1,6 +1,3 @@
-App.ActionId
-App.ActionId.Cat
-App.ActionId.Goods
 App.ActionOptionsExtensions
 App.ActionOptionsUtil
 App.AdReward
@@ -164,11 +161,14 @@ App.GoodsAnimeComponent
 App.GoodsAnimeIdUtil
 App.GoodsAnimeName
 App.GoodsCameraConfig
-App.GoodsCameraConfig.WeightedItem
-App.GoodsCameraConfig.WeightedTable
+App.GoodsCameraConfig.WeightedMethod
+App.GoodsCameraConfig.WeightedMethodTable
+App.GoodsCameraConfig.WeightedType
+App.GoodsCameraConfig.WeightedTypeTable
 App.GoodsCameraPhotoPanel
 App.GoodsCameraRollTableIdExtensions
 App.GoodsCameraShot
+App.GoodsCameraShotResultExtensions
 App.GoodsCameraStateExtensions
 App.GoodsCameraStateUtil
 App.GoodsCategoryUtil
@@ -375,6 +375,7 @@ App.PauseLoader
 App.PauseLoaderExtensions
 App.PendingTx
 App.PhoneUtil
+App.PhotoAuthorChecker
 App.PhotoAuthorIdExtensios
 App.PhotoAuthorIdUtil
 App.PhotoBuildController
@@ -389,6 +390,9 @@ App.PhotoDetail
 App.PhotoDevelopCamera
 App.PhotoDevelopScene
 App.PhotoDevelopScenePool
+App.PhotoGenMethodExtensions
+App.PhotoGenTable
+App.PhotoGenTable.EatMotion
 App.PhotoImageParamFactory
 App.PhotoList
 App.PhotoListTest
@@ -459,6 +463,7 @@ App.Save.CameraPositionData
 App.Save.CatBook
 App.Save.CatNote
 App.Save.CatStatus
+App.Save.CatStatus.Builder
 App.Save.CatStatusMap
 App.Save.ConsumableStatus
 App.Save.FavoriteResultExtensions
@@ -964,6 +969,7 @@ HpLib.RectExtensions.RectExtensions
 HpLib.RectRingPlacer
 HpLib.RectTransformUtil
 HpLib.RectUtil
+HpLib.ReflectionUtil
 HpLib.Registry
 HpLib.RegularSingletonInstanciator
 HpLib.RenderTextureUtil
@@ -990,6 +996,7 @@ HpLib.StateSet
 HpLib.Statistics
 HpLib.StringBuilderExtensions.StringBuilderExtensions
 HpLib.StringBuilderWrapper
+HpLib.StringBuilderWrapper.IndentDisposable
 HpLib.StringExtensions.StringExtensions
 HpLib.StringPathExtensions.StringPathExtensions
 HpLib.StringTagExtensions.StringTagExtensions
@@ -1047,6 +1054,9 @@ HpLib.VectorExtensions.Vector4Extensions
 HpLib.VectorUtil
 HpLib.WithIndex
 HpLib.Xorshift
+HpXmlAnime..Cat
+HpXmlAnime..Goods
+HpXmlAnime.ActionId
 HpXmlAnime.AddressableAnimeLoader
 HpXmlAnime.AnimeActionData
 HpXmlAnime.AnimeFrameData
@@ -1085,15 +1095,9 @@ MyDebug.ButtonScroll2.Data
 MyDebug.ButtonScrollFactory
 MyDebug.ButtonScrollPanel
 MyDebug.ButtonScrollPanelFactory
-MyDebug.DebugAlbumPhotoPreviewScreen
 MyDebug.DebugButton
 MyDebug.DebugFetchTransfer
-MyDebug.DebugIapInfoPanel
-MyDebug.DebugItemConfigScreen
 MyDebug.DebugMenu
-MyDebug.DebugPhotoListCell
-MyDebug.DebugPhotoListPanel
-MyDebug.DebugPhotoListPanel.LabelToggleUiCell
 MyDebug.DebugPhotoSavePanel
 MyDebug.DebugTapEffect
 MyDebug.DebugYardExtensions.DebugYard

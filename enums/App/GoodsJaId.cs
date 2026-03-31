@@ -249,6 +249,7 @@ public enum GoodsJaId
 	public const GoodsJaId 電車デラックス = 334;
 	public const GoodsJaId パンクッション = 335;
 	public const GoodsJaId ピザクッションﾌﾟﾚｰﾝ = 336;
+	public const GoodsJaId インスタントカメラ = 337;
 	public const GoodsJaId おみやげテスト1 = 3000;
 	public const GoodsJaId おみやげテスト2 = 3001;
 	public const GoodsJaId おみやげテスト3 = 3002;
@@ -258,7 +259,7 @@ public enum GoodsJaId
 	public const GoodsJaId おみやげテスト6 = 3006;
 	public const GoodsJaId おみやげテスト7 = 3007;
 	public const GoodsJaId コンプリートテスト2 = 3008;
-	public const GoodsJaId インスタントカメラ = 3009;
+	public const GoodsJaId カメラテスト = 3009;
 	public const GoodsJaId 地面1 = 5000;
 	public const GoodsJaId マイねこ用地面 = 5001;
 	public const GoodsJaId ついてきた猫用地面 = 5002;

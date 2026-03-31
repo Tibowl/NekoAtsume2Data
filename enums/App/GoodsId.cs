@@ -220,6 +220,7 @@ public enum GoodsId
 	public const GoodsId ResortBed = 323;
 	public const GoodsId Shoji = 332;
 	public const GoodsId TrainDx = 334;
+	public const GoodsId InstantCamera = 337;
 	public const GoodsId OmiyageTest1 = 3000;
 	public const GoodsId OmiyageTest2 = 3001;
 	public const GoodsId OmiyageTest3 = 3002;
