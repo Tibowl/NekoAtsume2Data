@@ -31,6 +31,7 @@
     "ClockError": "시간이 되돌려졌어요\n다음 갱신은 {0} 이후예요",
     "ReceivedDate": "수령 일시",
     "NoGifts": "감사 멸치가 없어요",
+    "IssueApology": "버그 보상",
     "AskSealDelete": "이 작품을 삭제하시겠습니까?",
     "AskSealPartDelete": "선택한 소재를\n삭제하시겠습니까?",
     "AskSealSave": "이 작품을 저장하시겠습니까?",

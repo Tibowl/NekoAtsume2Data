@@ -31,6 +31,7 @@
     "ClockError": "時鐘已回到上次時間之前\n下一次更新時間為\n{0}之後",
     "ReceivedDate": "領取時間",
     "NoGifts": "沒有感謝小魚乾",
+    "IssueApology": "不具合致歉禮",
     "AskSealDelete": "要刪除這個作品嗎？",
     "AskSealPartDelete": "要刪除所選的素材嗎？",
     "AskSealSave": "要保存這個作品嗎？",
