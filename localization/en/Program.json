@@ -31,6 +31,7 @@
     "ClockError": "Your clock has reversed since your\nlast play session. The game will not\nupdate until {0}.",
     "ReceivedDate": "Received date",
     "NoGifts": "No gifts.",
+    "IssueApology": "Apology Gift",
     "AskSealDelete": "Delete this work?",
     "AskSealPartDelete": "Delete the selected\nmaterial?",
     "AskSealSave": "Save this work?",

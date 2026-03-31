@@ -9,6 +9,7 @@ public enum PopupFlag
 	public const PopupFlag OmiyageComplete = 102;
 	public const PopupFlag LimitedGoods1 = 110;
 	public const PopupFlag LimitedGoods2 = 111;
+	public const PopupFlag AppologyInstantCamera = 200;
 	public const PopupFlag Test = 500;
 	public const PopupFlag Test21 = 501;
 	public const PopupFlag Test22 = 502;
