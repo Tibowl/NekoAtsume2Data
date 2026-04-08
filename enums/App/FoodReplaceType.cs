@@ -9,4 +9,5 @@ public enum FoodReplaceType
 	public const FoodReplaceType RefillNew = 2;
 	public const FoodReplaceType ExchangeAndHold = 3;
 	public const FoodReplaceType ExchangeNew = 4;
+	public const FoodReplaceType Delete = 5;
 }
