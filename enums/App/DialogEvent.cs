@@ -10,4 +10,5 @@ public enum DialogEvent
 	public const DialogEvent Cancel = 2;
 	public const DialogEvent Exit = 3;
 	public const DialogEvent Unknown = 4;
+	public const DialogEvent Special = 5;
 }

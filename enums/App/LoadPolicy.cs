@@ -9,5 +9,6 @@ public enum LoadPolicy
 	public const LoadPolicy Reload = 1;
 	public const LoadPolicy Create = 2;
 	public const LoadPolicy NoUpdateResult = 4;
+	public const LoadPolicy AllowNewerVersionData = 8;
 	public const LoadPolicy ReloadAndCreate = 3;
 }
