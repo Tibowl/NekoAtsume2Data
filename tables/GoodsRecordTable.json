@@ -1969,6 +1969,43 @@
     "WarningKey": null
   },
   {
+    "Id": 157,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12cube_kon"
+    ],
+    "AnimeXmls": [
+      "12cube_kon"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 168,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 9
+    },
+    "DamageTable": null,
+    "Toughness": 3600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 320,
+    "Gold": -1,
+    "RepairSilver": 45,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 158,
     "IsDebug": false,
     "IsForceNotForSale": false,
@@ -1995,6 +2032,43 @@
     "RepairPattern": 0,
     "Silver": -1,
     "Gold": 28,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 159,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12cube_dice"
+    ],
+    "AnimeXmls": [
+      "12cube_dice"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 170,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 26
+    },
+    "DamageTable": null,
+    "Toughness": 5500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 32,
     "RepairSilver": 50,
     "StampCard": -1,
     "Coin": -1,
@@ -2322,6 +2396,80 @@
     "Category": 8,
     "Mood": {
       "Data": 16
+    },
+    "DamageTable": null,
+    "Toughness": 2400,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 13,
+    "RepairSilver": 40,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 172,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_ume_momo"
+    ],
+    "AnimeXmls": [
+      "03cushion_ume_momo"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 184,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 16
+    },
+    "DamageTable": null,
+    "Toughness": 2400,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": -1,
+    "Gold": 13,
+    "RepairSilver": 40,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 173,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_ume_shiro"
+    ],
+    "AnimeXmls": [
+      "03cushion_ume_shiro"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 185,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 18
     },
     "DamageTable": null,
     "Toughness": 2400,
@@ -7998,7 +8146,7 @@
     "Id": 337,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "14camera"

@@ -37,7 +37,7 @@ App.AutoBackup
 App.AutoPlacement
 App.AutoResizeTextHeight
 App.AutoSaver
-App.AutoShotParams
+App.AutoShotResultExtensions
 App.AutoShotUtil
 App.BackScroller
 App.BackgroundData
@@ -68,11 +68,11 @@ App.CatAppearLottery
 App.CatDetail
 App.CatFiterTypeUtil
 App.CatIdUtil
-App.CatLotteryUtil
 App.CatRecord
 App.CatRecord.Builder
 App.CatVsCat
 App.CatVsFood
+App.CatVsRarePhoto
 App.CharaPhotoDeleteList
 App.CharaPhotoList
 App.ClickDragEvent
@@ -124,7 +124,9 @@ App.DragMover2
 App.DragMoverUi
 App.DropdownExtensions.DropdownExtensions
 App.DropdownUtil
+App.EatShot
 App.ExternalShare
+App.FaceUpShot
 App.FavoritesList
 App.FeelingPlacement
 App.FeelingPlacement.FeelingPanel
@@ -159,6 +161,7 @@ App.GoodsAnime
 App.GoodsAnime2
 App.GoodsAnimeComponent
 App.GoodsAnimeIdUtil
+App.GoodsAnimeMetadata
 App.GoodsAnimeName
 App.GoodsCameraConfig
 App.GoodsCameraConfig.WeightedMethod
@@ -168,9 +171,9 @@ App.GoodsCameraConfig.WeightedTypeTable
 App.GoodsCameraPhotoPanel
 App.GoodsCameraRollTableIdExtensions
 App.GoodsCameraShot
-App.GoodsCameraShotResultExtensions
 App.GoodsCameraStateExtensions
 App.GoodsCameraStateUtil
+App.GoodsCatAnimeMetadata
 App.GoodsCategoryUtil
 App.GoodsCell
 App.GoodsFilter
@@ -205,6 +208,7 @@ App.HelpPowerUtil
 App.HelpRecord
 App.HelpScene
 App.HelpSection
+App.HipUpShot
 App.HpJavaToUnityCallback
 App.HpJavaToUnityCallbackExtensions
 App.IAdData
@@ -216,6 +220,7 @@ App.ILeftRightArrowExtensions
 App.IMenuIconButton
 App.INekonoteState
 App.INekonoteStateUtil
+App.IPlaceConfig
 App.IPointerFieldAccessor
 App.IPurchaseItem
 App.IPurchaseItemExtensions
@@ -391,13 +396,12 @@ App.PhotoDevelopCamera
 App.PhotoDevelopScene
 App.PhotoDevelopScenePool
 App.PhotoGenMethodExtensions
-App.PhotoGenTable
-App.PhotoGenTable.EatMotion
 App.PhotoImageParamFactory
 App.PhotoList
 App.PhotoListTest
 App.PhotoPage
 App.PhotoSavePanel
+App.PhotoTargetPicker
 App.PhotoUtil
 App.PhotoUtil.ImageParam
 App.PlaceAttributeExtensions
@@ -416,6 +420,7 @@ App.PlaySpaceRecord.Builder
 App.PlaySpaceVsCat
 App.PlaySpaceVsCat.Builder
 App.PlaySpaceVsWeather
+App.PlayerPrefsUtil
 App.PointerDragAccessor
 App.PointerEnterAccessor
 App.PointerPressAccessor
@@ -433,6 +438,7 @@ App.PurchaseCurrencyUtil
 App.RandomPhotoDataFactory
 App.RandomPhotoImageParamFactory
 App.RandomYardPosition
+App.RandomYardShot
 App.Ranking
 App.RankingContent
 App.RankingItem
@@ -491,6 +497,7 @@ App.Save.LabelData
 App.Save.LabelData.LabelColorComparer
 App.Save.LocateStatus
 App.Save.MoneyTypeExtensions
+App.Save.MynekoTextureEffect
 App.Save.NewsData
 App.Save.NonConsumableStatus
 App.Save.NoteStateUtil
@@ -605,6 +612,7 @@ App.Settings.FlagsMember
 App.Settings.SettingFlags
 App.ShaderIdExtensions
 App.ShinobuUtil
+App.ShockShot
 App.ShopAkindoCommonUi
 App.ShopAkindoIapUi
 App.ShopAkindoMainUi
@@ -661,16 +669,19 @@ App.StampUtil
 App.StoreNekonoteState
 App.Str
 App.StrInputWindow
+App.StretchShot
 App.SubTutorialIdUtil
 App.Support
 App.SupportSetting
 App.SupportSetting.Data
+App.SuwariUpShot
 App.SwapMode
 App.SyncGrandparentRect
 App.SystemStopwatch
 App.Tables.CatRecordTable
 App.Tables.CatVsCatTable
 App.Tables.CatVsFoodTable
+App.Tables.CatVsRarePhotoTable
 App.Tables.DogRecordTable
 App.Tables.FoodRecordTable
 App.Tables.GoodsRecordTable
@@ -787,7 +798,6 @@ App.YardSceneDebugArgs
 App.YardUtil
 App.YubiEffect
 App.YubiEffectWorld
-HpLib..FilteringLogHandler
 HpLib.ActiveRenderTextureScope
 HpLib.Ad.AdManager
 HpLib.Ad.AdMobConsent
@@ -929,10 +939,7 @@ HpLib.ListExtensions.LinkedListExtensions
 HpLib.ListExtensions.ListExtensions
 HpLib.ListStackExtensions.ListStackExtensions
 HpLib.LogFilter
-HpLib.LogLevelScope
 HpLib.LogMinLevelSwitch
-HpLib.LogMuteScope
-HpLib.LogTypeMuteScope
 HpLib.LoopIterator
 HpLib.MaterialExtensions.MaterialExtensions
 HpLib.MemoryStats
@@ -1043,6 +1050,9 @@ HpLib.TreeStringStyleOptions
 HpLib.TreeStyle
 HpLib.UiRaycaster
 HpLib.UnityEventExtensions.UnityEventExtensions
+HpLib.UnityLogLevelExtensions
+HpLib.UnityLogLevelScope
+HpLib.UnityLogLevelUtil
 HpLib.UnityStringExtensions.UnityStringExtensions
 HpLib.UnlimitedQueue
 HpLib.UnlimitedStack
@@ -1107,6 +1117,7 @@ MyDebug.GoodsAnimeAddressChecker
 MyDebug.GridButtons
 MyDebug.GridScrollLayoutParam
 MyDebug.HorizontalButtons
+MyDebug.IButtonFactory
 MyDebug.ImGuiBgTexture
 MyDebug.ImGuiLayout
 MyDebug.ImGuiPages

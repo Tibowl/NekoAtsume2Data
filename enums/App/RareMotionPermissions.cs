@@ -9,5 +9,7 @@ public enum RareMotionPermissions
 	public const RareMotionPermissions Gommenne = 1;
 	public const RareMotionPermissions Grooming = 2;
 	public const RareMotionPermissions Eat = 4;
-	public const RareMotionPermissions CameraCloseIn = 8;
+	public const RareMotionPermissions SuwariUp = 8;
+	public const RareMotionPermissions Stretch = 16;
+	public const RareMotionPermissions Shock = 32;
 }

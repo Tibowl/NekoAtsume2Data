@@ -14,7 +14,7 @@ public enum PhotoGenMethod
 	public const PhotoGenMethod HipUp2 = 3;
 	[InspectorName("ゴハンを食べる")]
 	public const PhotoGenMethod Eat = 4;
-	[InspectorName("近づき")]
+	[InspectorName("カメラ近づき")]
 	public const PhotoGenMethod SuwariUp = 5;
 	[InspectorName("びっくり")]
 	public const PhotoGenMethod Shock = 6;
