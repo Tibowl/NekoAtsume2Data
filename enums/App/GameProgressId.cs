@@ -13,4 +13,6 @@ public enum GameProgressId
 	public const GameProgressId LimitedGoodsPopupVersion = 6;
 	public const GameProgressId DailyCoinReceiveCount = 7;
 	public const GameProgressId DailyCoinReceiveDate = 8;
+	public const GameProgressId WeeklyCoinReceiveAmount = 9;
+	public const GameProgressId WeeklyCoinReceiveMonday = 10;
 }

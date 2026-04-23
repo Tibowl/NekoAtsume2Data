@@ -1034,17 +1034,5 @@
     "GomenneRate": 10,
     "GroomingRate": 10,
     "ActiveMonths": null
-  },
-  {
-    "Id": 134,
-    "IsDebug": true,
-    "Type": 1,
-    "MementoIdInt": 0,
-    "Power": 30,
-    "WeatherImpact": 0,
-    "Niboshi": 0,
-    "GomenneRate": 0,
-    "GroomingRate": 0,
-    "ActiveMonths": null
   }
 ]
