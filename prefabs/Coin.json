@@ -1,7 +1,19 @@
 {
   "nodes": [
     {
-      "name": "Coin"
+      "name": "Coin",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Sprite",
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Sprite"
     }
   ],
   "scene": 0,

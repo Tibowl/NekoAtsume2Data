@@ -2661,5 +2661,22 @@
     "Id": 3370,
     "IsDebug": false,
     "Dict": {}
+  },
+  {
+    "Id": 3380,
+    "IsDebug": false,
+    "Dict": {
+      "Spring": 20,
+      "Summer": -20,
+      "Autum": -20,
+      "Winter": -20,
+      "Snow": -20,
+      "Burning": -20
+    }
+  },
+  {
+    "Id": 3390,
+    "IsDebug": false,
+    "Dict": {}
   }
 ]

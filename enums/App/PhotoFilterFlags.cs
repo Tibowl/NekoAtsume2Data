@@ -7,4 +7,5 @@ public enum PhotoFilterFlags
 	public int value__; // 0x0
 	public const PhotoFilterFlags None = 0;
 	public const PhotoFilterFlags ExcludeOtherAreaCats = 1;
+	public const PhotoFilterFlags ExcludeGoodsCamera = 2;
 }
