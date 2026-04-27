@@ -154,7 +154,6 @@ App.GiftCell
 App.GiftContent
 App.GiftScene
 App.GiftUtil
-App.GoUtil
 App.GoldButton
 App.GoldFishView
 App.GoodsAnime
@@ -169,7 +168,7 @@ App.GoodsCameraConfig.WeightedMethodTable
 App.GoodsCameraConfig.WeightedType
 App.GoodsCameraConfig.WeightedTypeTable
 App.GoodsCameraPhotoPanel
-App.GoodsCameraRollTableIdExtensions
+App.GoodsCameraRollTypeExtensions
 App.GoodsCameraShot
 App.GoodsCameraStateExtensions
 App.GoodsCameraStateUtil
@@ -462,6 +461,7 @@ App.RemoteConfigUtil.UserAttributes
 App.RenderTextureCamera
 App.RichOutline
 App.RtlText
+App.SafeAreaRectConverter
 App.SafeAreaResize
 App.Save.AlbumData
 App.Save.AlbumSet
@@ -520,7 +520,9 @@ App.Save.SaveData
 App.Save.SaveDataBackup
 App.Save.SaveDataBgm
 App.Save.SaveDataCat
+App.Save.SaveDataCoin
 App.Save.SaveDataFlag
+App.Save.SaveDataFlagNekonote
 App.Save.SaveDataFood
 App.Save.SaveDataGift
 App.Save.SaveDataGoods
@@ -638,7 +640,6 @@ App.ShotOrientationExtensions
 App.ShotOrientationUtil
 App.ShotUi
 App.ShowWeb
-App.SiblingPath
 App.SilhouetteCameraSetup
 App.SimpleMenuIconButton
 App.SizeIconUtil
@@ -706,7 +707,6 @@ App.TextScrollViewPanel
 App.TextUtil
 App.Texture2dCache
 App.TextureUtilApp
-App.TimeFormatString
 App.TimeUtil
 App.ToggleExtensions.ToggleExtensions
 App.ToggleUtil
@@ -857,6 +857,7 @@ HpLib.DropOutQueue
 HpLib.DropOutQueue2
 HpLib.DropOutStack
 HpLib.DropOutStackAlt
+HpLib.DtFormat
 HpLib.EnumCounterStates
 HpLib.EnumEquatable
 HpLib.EnumExtensions.EnumExtensions
@@ -944,11 +945,11 @@ HpLib.LoopIterator
 HpLib.MaterialExtensions.MaterialExtensions
 HpLib.MemoryStats
 HpLib.MonoBehaviourExtensions.MonoBehaviourExtensions
+HpLib.MultiRegistry
 HpLib.MultiSprite
 HpLib.MyCaller
 HpLib.MyColor
 HpLib.MyMath
-HpLib.MySafeArea
 HpLib.MyVector
 HpLib.NTree
 HpLib.NestedDictionary
@@ -971,6 +972,7 @@ HpLib.Range1d
 HpLib.Range2d
 HpLib.RawImageExtensions.RawImageExtensions
 HpLib.RaycastUtil
+HpLib.ReadOnlyAttribute
 HpLib.RectExtensions.RandomRectExtensions
 HpLib.RectExtensions.RectExtensions
 HpLib.RectRingPlacer
@@ -984,6 +986,7 @@ HpLib.RendererUtil
 HpLib.ResistanceEnumStates
 HpLib.ResourceUtil
 HpLib.RuntimeIdGenerator
+HpLib.SafeAreaInfo
 HpLib.SceneLifetimeScopeProvider
 HpLib.SceneUtil
 HpLib.ScreenUnit
@@ -991,6 +994,7 @@ HpLib.ScreenUtil
 HpLib.SerializableKeyValuePair
 HpLib.SerializableValueTuple
 HpLib.SetExtensions.SetExtensions
+HpLib.SiblingPath
 HpLib.StackTraceLogTypeScope
 HpLib.StateManager.State
 HpLib.StateManager.StateBase
@@ -1064,6 +1068,7 @@ HpLib.VectorExtensions.Vector4Extensions
 HpLib.VectorUtil
 HpLib.WithIndex
 HpLib.Xorshift
+HpLib.YmdDate
 HpXmlAnime..Cat
 HpXmlAnime..Goods
 HpXmlAnime.ActionId
