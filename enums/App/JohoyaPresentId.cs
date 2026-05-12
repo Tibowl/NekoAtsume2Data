@@ -1,6 +1,6 @@
 
 // Namespace: App
-public enum JohoyaPresentId 
+internal enum JohoyaPresentId 
 {
 	// Fields
 	public int value__; // 0x0

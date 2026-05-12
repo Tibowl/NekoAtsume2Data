@@ -1,6 +1,6 @@
 
 // Namespace: App
-public enum LetterRewardId 
+internal enum LetterRewardId 
 {
 	// Fields
 	public int value__; // 0x0
