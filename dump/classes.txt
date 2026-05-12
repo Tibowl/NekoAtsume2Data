@@ -341,6 +341,7 @@ App.NekonoteScene
 App.NekonoteSelectPanel
 App.NewDataPanel
 App.NewDataPreviewPanel
+App.NewsAdButton
 App.NewsScene
 App.NiboshiToggle
 App.NormalFishView
@@ -370,7 +371,6 @@ App.OtherPlaceConfigSync
 App.OtherPlaceConfigs
 App.PageView
 App.Panel
-App.Panel2
 App.PanelStack
 App.PanelUtil
 App.PanoramaPhotoSavePanel
@@ -454,6 +454,8 @@ App.RemodelShopList
 App.RemodelShopListPanel
 App.RemodelShopPage
 App.RemoteAdData
+App.RemoteAdIconRepository
+App.RemoteAdTextureCache
 App.RemoteConfigEnvironmentId
 App.RemoteConfigUtil
 App.RemoteConfigUtil.AppAttributes
