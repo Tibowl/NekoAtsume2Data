@@ -131,6 +131,7 @@ App.FavoritesList
 App.FeelingPlacement
 App.FeelingPlacement.FeelingPanel
 App.FingerHistory
+App.FirebaseDependencyChecker
 App.FishView
 App.Flick
 App.FlyerLottery
