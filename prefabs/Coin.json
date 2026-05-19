@@ -7,13 +7,12 @@
       ]
     },
     {
-      "name": "Sprite",
-      "children": [
-        2
+      "name": "Shine",
+      "scale": [
+        0.8,
+        0.8,
+        0.8
       ]
-    },
-    {
-      "name": "Sprite"
     }
   ],
   "scene": 0,
