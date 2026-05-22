@@ -576,6 +576,18 @@
     "ActiveMonths": null
   },
   {
+    "Id": 48,
+    "IsDebug": false,
+    "Type": 0,
+    "MementoIdInt": 83,
+    "Power": 30,
+    "WeatherImpact": 60,
+    "Niboshi": 100,
+    "GomenneRate": 5,
+    "GroomingRate": 5,
+    "ActiveMonths": null
+  },
+  {
     "Id": 100,
     "IsDebug": false,
     "Type": 1,

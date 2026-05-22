@@ -30,7 +30,7 @@
     "StampCard": 1,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 3
+    "DisplayOrderInTrade": 4
   },
   {
     "Id": 104,
@@ -41,7 +41,7 @@
     "StampCard": 2,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 4
+    "DisplayOrderInTrade": 5
   },
   {
     "Id": 105,
@@ -52,7 +52,7 @@
     "StampCard": 3,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 5
+    "DisplayOrderInTrade": 6
   },
   {
     "Id": 106,

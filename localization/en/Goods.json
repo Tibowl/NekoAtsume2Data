@@ -250,6 +250,7 @@
     "GoodsName337": "Instant Camera",
     "GoodsName338": "Hishimochi Cushion",
     "GoodsName339": "Plastic Case",
+    "GoodsName340": "Paw Cushion (White)",
     "ExGoodsName1": "Yard Expansion",
     "ExGoodsName2": "Fish Exchange",
     "ExGoodsName3": "Jarashi",
@@ -505,6 +506,7 @@
     "GoodsShop337": "Retro-style camera with\nsolid performance.\nNo flash, safe for cats.",
     "GoodsShop338": "Hishimochi and cats!\nA soft, diamond-shaped cushion\ngently wraps your kitty in comfort.",
     "GoodsShop339": "A clear case to see contents\nat a glance.\nGreat for keeping things organized.",
+    "GoodsShop340": "A giant paw pad cushion made to\nmake cat lovers' dreams come true.",
     "ExGoodsShop1": "Expand your cats' play space into the\nadjacent room, which will allow you to\nplace more stuff!",
     "ExGoodsShop2": "Exchange 10 gold fish for 250 normal fish.",
     "ExGoodsShop3": "A classic item to attract cats.\nShaking it might catch their\nattention. *Used in the yard.",
@@ -760,5 +762,6 @@
     "GoodsYard337": "An analog camera that uses film.\nYou won't know how the photos\nturned out until they're developed.",
     "GoodsYard338": "A soft, squishy cushion.\nSo plush you might just sink right into it.",
     "GoodsYard339": "Adapts to any shape.\nA box where you can observe\na cat's flexibility.",
+    "GoodsYard340": "A paw-shaped cushion with\njust the right softness.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

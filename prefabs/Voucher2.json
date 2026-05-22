@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Voucher2",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Image"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

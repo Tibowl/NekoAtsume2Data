@@ -4,19 +4,23 @@
       "name": "OmiyagePopup02",
       "children": [
         1,
-        5
+        2,
+        5,
+        6
       ]
     },
     {
-      "name": "Vertical",
+      "name": "Header"
+    },
+    {
+      "name": "Voucher2",
       "children": [
-        2,
         3,
         4
       ]
     },
     {
-      "name": "Header"
+      "name": "Image"
     },
     {
       "name": "Image"
@@ -27,7 +31,7 @@
     {
       "name": "MyButton",
       "children": [
-        6
+        7
       ]
     },
     {

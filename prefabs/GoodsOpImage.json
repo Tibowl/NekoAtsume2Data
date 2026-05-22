@@ -20,13 +20,7 @@
       ]
     },
     {
-      "name": "Niboshi",
-      "children": [
-        4
-      ]
-    },
-    {
-      "name": "Text",
+      "name": "Price",
       "scale": [
         1,
         1.1999999,

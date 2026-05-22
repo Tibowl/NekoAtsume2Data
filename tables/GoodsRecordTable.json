@@ -1158,7 +1158,7 @@
     "Id": 125,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zabuton"
@@ -4437,7 +4437,7 @@
     "Id": 228,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "04tower_gim"
@@ -4844,7 +4844,7 @@
     "Id": 239,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "05tunnel_c"
@@ -8584,6 +8584,43 @@
     "OmiyageVoucher": -1,
     "IapId": -1,
     "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 340,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_pawpad"
+    ],
+    "AnimeXmls": [
+      "03cushion_pawpad"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 187,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 3,
+    "Category": 8,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 2600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 120,
+    "Gold": -1,
+    "RepairSilver": 30,
+    "StampCard": 1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 1,
     "SellableMonths": null,
     "UnlockGoods": null,
     "WarningKey": null
