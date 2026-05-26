@@ -23,9 +23,8 @@ public enum Tag
 	public const Tag MainMenu = 16;
 	public const Tag RenderTextureCamera = 17;
 	public const Tag PopupDialog = 18;
-	public const Tag FishView = 19;
-	public const Tag SealImageBuilderRig = 20;
-	public const Tag SealImageBuilderRigPool = 21;
-	public const Tag PhotoDevelopScene = 22;
-	public const Tag PhotoDevelopScenePool = 23;
+	public const Tag SealImageBuilderRig = 19;
+	public const Tag SealImageBuilderRigPool = 20;
+	public const Tag PhotoDevelopScene = 21;
+	public const Tag PhotoDevelopScenePool = 22;
 }

@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Time",
+      "name": "TimeInputField",
       "children": [
         10
       ]
@@ -521,33 +521,13 @@
     {
       "name": "Horizontal",
       "children": [
-        105,
-        107,
-        109
+        105
       ]
     },
     {
       "name": "SubmitButton",
       "children": [
         106
-      ]
-    },
-    {
-      "name": "Text (TMP)"
-    },
-    {
-      "name": "SubmitAndLoadButton",
-      "children": [
-        108
-      ]
-    },
-    {
-      "name": "Text (TMP)"
-    },
-    {
-      "name": "SubmitAndLoadButton2",
-      "children": [
-        110
       ]
     },
     {

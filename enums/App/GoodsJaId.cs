@@ -252,6 +252,7 @@ public enum GoodsJaId
 	public const GoodsJaId インスタントカメラ = 337;
 	public const GoodsJaId 菱餅クッション = 338;
 	public const GoodsJaId プラケース = 339;
+	public const GoodsJaId にくきゅうクッション = 340;
 	public const GoodsJaId おみやげテスト1 = 3000;
 	public const GoodsJaId おみやげテスト2 = 3001;
 	public const GoodsJaId おみやげテスト3 = 3002;

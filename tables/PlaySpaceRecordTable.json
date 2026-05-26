@@ -14258,6 +14258,49 @@
     "MynekoSpawnBlockFlags": 0
   },
   {
+    "Id": 3400,
+    "IsDebug": false,
+    "ItemId": 340,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 59,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
     "Id": 50000,
     "IsDebug": false,
     "ItemId": 5000,

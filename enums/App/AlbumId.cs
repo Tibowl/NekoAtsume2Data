@@ -53,6 +53,7 @@ public enum AlbumId
 	public const AlbumId Gold = 45;
 	public const AlbumId Spot = 46;
 	public const AlbumId Akapoint = 47;
+	public const AlbumId Ban = 48;
 	public const AlbumId Tatejima = 100;
 	public const AlbumId Nagagutu = 101;
 	public const AlbumId Prince = 102;

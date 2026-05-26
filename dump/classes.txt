@@ -21,6 +21,7 @@ App.AnchorDirectionExtensions
 App.AndroidUtil
 App.AppColor
 App.AppGameObjectFactory
+App.AppInput
 App.AppNgWordChecker
 App.AppSoundSettings
 App.AppTmpTextExtensions
@@ -34,6 +35,7 @@ App.AtlasIdUtil
 App.Att
 App.Att.PlayerPrefs
 App.AutoBackup
+App.AutoEnableInputAction
 App.AutoPlacement
 App.AutoResizeTextHeight
 App.AutoSaver
@@ -302,7 +304,6 @@ App.MultipleMode
 App.MyButton
 App.MyButton.State2
 App.MyIapStore
-App.MyInput
 App.MyLocaleUtil
 App.MyMessagePack
 App.MyMessagePack.FormatterResolver
@@ -446,6 +447,11 @@ App.RankingItemUtil
 App.RawImageUtil
 App.RaycastBlocker
 App.ReceiptCell
+App.RecoveryCodeChar
+App.RecoveryGrant
+App.RecoveryGrantIds
+App.RecoveryGrantIds.Money
+App.RecoveryGrantIds.Type
 App.RemodelContent
 App.RemodelCustomizeUi
 App.RemodelMainUi
@@ -466,6 +472,7 @@ App.RichOutline
 App.RtlText
 App.SafeAreaRectConverter
 App.SafeAreaResize
+App.SampleInputAction
 App.Save.AlbumData
 App.Save.AlbumSet
 App.Save.CameraPositionData
@@ -537,6 +544,7 @@ App.Save.SaveDataMyneko
 App.Save.SaveDataNekonote
 App.Save.SaveDataPurchase
 App.Save.SaveDataReward
+App.Save.SaveDataSupport
 App.Save.SaveDataTime
 App.Save.SaveDataVersionUpdater
 App.Save.SaveDataWallet
@@ -676,8 +684,11 @@ App.StrInputWindow
 App.StretchShot
 App.SubTutorialIdUtil
 App.Support
+App.SupportLogic
+App.SupportPanel
 App.SupportSetting
-App.SupportSetting.Data
+App.SupportSettingData
+App.SupportStorage
 App.SuwariUpShot
 App.SwapMode
 App.SyncGrandparentRect
@@ -902,7 +913,6 @@ HpLib.FetchResultExtensions
 HpLib.FileUtil
 HpLib.FixedTime
 HpLib.FormattableVariable
-HpLib.GameInputPincing2
 HpLib.GameObjectExtensions.ComponentExtensions
 HpLib.GameObjectExtensions.Event.ComponentExtensionsEvent
 HpLib.GameObjectExtensions.Event.GameObjectExtensionsEvent
@@ -971,6 +981,7 @@ HpLib.PersistentInt
 HpLib.PersistentJson
 HpLib.PinchInOut
 HpLib.PinchInOut2
+HpLib.PinchInput
 HpLib.Rand
 HpLib.Range1d
 HpLib.Range2d
