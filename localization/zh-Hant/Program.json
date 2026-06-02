@@ -53,7 +53,7 @@
     "GoodsBuyConfirmVoucher": "要消耗 {0} 張紀念品兌換券\n購買 {1} 嗎？",
     "OmiyagePurchaseBlocked": "目前此商品有購買限制\n詳情請參閱 說明＞外出",
     "OmiyagePopup11": "附帶【紀念品兌換券】的道具\n可兌換「紀念品道具」！\n※詳情請參閱 <color=blue>說明＞外出</color>",
-    "OmiyagePopup12": "＜內容＞\n・<color=blue>道具名稱</color>×1\n・<color=blue>紀念品兌換券</color>×3",
+    "OmiyagePopup12": "＜內容＞\n・<color=blue>{0}</color>×1\n・<color=blue>紀念品兌換券</color>×3",
     "OmiyagePopup21": "可使用2張「紀念品兌換券」\n兌換“紀念品道具”的套組！\n※詳情請參閱 <color=blue>說明＞外出</color>",
     "OmiyagePopup22": "<color=blue>紀念品兌換券</color>×2",
     "OmiyagePurchaseButton": "購買（{0}）",

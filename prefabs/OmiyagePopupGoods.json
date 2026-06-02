@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "name": "OmiyagePopupGoods",
+      "children": [
+        1,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Items",
+      "children": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Goods"
+    },
+    {
+      "name": "Plus"
+    },
+    {
+      "name": "Voucher3",
+      "children": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Image"
+    },
+    {
+      "name": "Hooter"
+    },
+    {
+      "name": "MyButton",
+      "children": [
+        11
+      ]
+    },
+    {
+      "name": "DefaultTextMeshPro"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

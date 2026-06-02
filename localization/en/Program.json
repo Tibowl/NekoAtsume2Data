@@ -53,7 +53,7 @@
     "GoodsBuyConfirmVoucher": "Enおみやげ引換券を{0}枚消費して\n{1}を\n購入しますか？",
     "OmiyagePurchaseBlocked": "En現在この商品は購入制限されています\n詳しくは　ヘルプ＞おでかけ　を\nご確認ください",
     "OmiyagePopup11": "En\"おみやげグッズ\"と引き換えできる\n「おみやげ引換券」つきグッズ！\n※詳しくは<color=blue>ヘルプ＞おでかけ</color>を\nご確認ください",
-    "OmiyagePopup12": "En＜内容＞\n・<color=blue>グッズ名</color>×１\n・<color=blue>おみやげ引換券</color>×３",
+    "OmiyagePopup12": "En＜内容＞\n・<color=blue>{0}</color>×１\n・<color=blue>おみやげ引換券</color>×３",
     "OmiyagePopup21": "En\"おみやげグッズ\"と引き換えできる\n「おみやげ引換券」２枚セット！\n※詳しくは<color=blue>ヘルプ＞おでかけ</color>を\nご確認ください",
     "OmiyagePopup22": "En＜内容＞\n・<color=blue>おみやげ引換券</color>×２",
     "OmiyagePurchaseButton": "En購入する({0})",
