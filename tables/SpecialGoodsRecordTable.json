@@ -64,16 +64,5 @@
     "IapId": -1,
     "DisplayOrderInShop": 0,
     "DisplayOrderInTrade": 0
-  },
-  {
-    "Id": 200,
-    "IsDebug": false,
-    "LocalizedItemImage": null,
-    "Silver": -1,
-    "Gold": -1,
-    "StampCard": -1,
-    "IapId": 1000,
-    "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 0
   }
 ]

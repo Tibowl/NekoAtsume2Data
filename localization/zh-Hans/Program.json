@@ -53,7 +53,7 @@
     "GoodsBuyConfirmVoucher": "要消耗 {0} 张纪念品兑换券\n来购买 {1} 吗？",
     "OmiyagePurchaseBlocked": "当前该商品有限购限制\n详情请查看 帮助＞出行",
     "OmiyagePopup11": "附带【纪念品兑换券】的道具\n可兑换“纪念品道具”！\n※详情请查看 <color=blue>帮助＞出行</color>",
-    "OmiyagePopup12": "＜内容＞\n・<color=blue>道具名称</color>×1\n・<color=blue>纪念品兑换券</color>×3",
+    "OmiyagePopup12": "＜内容＞\n・<color=blue>{0}</color>×1\n・<color=blue>纪念品兑换券</color>×3",
     "OmiyagePopup21": "可用2张「纪念品兑换券」兑换\n“纪念品道具”的套装！\n※详情请查看 <color=blue>帮助＞出行</color>",
     "OmiyagePopup22": "＜内容＞\n・<color=blue>纪念品兑换券</color>×2",
     "OmiyagePurchaseButton": "购买（{0}）",

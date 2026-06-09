@@ -2006,6 +2006,80 @@
     "WarningKey": null
   },
   {
+    "Id": 153,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bed02"
+    ],
+    "AnimeXmls": [
+      "03cushion_bed02"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 164,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 160,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 154,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bed03"
+    ],
+    "AnimeXmls": [
+      "03cushion_bed03"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 165,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 160,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 155,
     "IsDebug": false,
     "IsForceNotForSale": false,
@@ -4348,6 +4422,43 @@
     "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 240,
+    "Gold": -1,
+    "RepairSilver": 60,
+    "StampCard": -1,
+    "Coin": -1,
+    "OmiyageVoucher": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 225,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "04tower_3dan"
+    ],
+    "AnimeXmls": [
+      "04tower_3dan"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 260,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 16,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 17500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 320,
     "Gold": -1,
     "RepairSilver": 60,
     "StampCard": -1,
@@ -8592,7 +8703,7 @@
     "Id": 340,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_pawpad"
