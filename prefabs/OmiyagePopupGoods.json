@@ -5,43 +5,11 @@
       "children": [
         1,
         2,
-        9,
-        10
+        3
       ]
     },
     {
       "name": "Header"
-    },
-    {
-      "name": "Items",
-      "children": [
-        3,
-        4,
-        5
-      ]
-    },
-    {
-      "name": "Goods"
-    },
-    {
-      "name": "Plus"
-    },
-    {
-      "name": "Voucher3",
-      "children": [
-        6,
-        7,
-        8
-      ]
-    },
-    {
-      "name": "Image"
-    },
-    {
-      "name": "Image"
-    },
-    {
-      "name": "Image"
     },
     {
       "name": "Hooter"
@@ -49,7 +17,7 @@
     {
       "name": "MyButton",
       "children": [
-        11
+        4
       ]
     },
     {

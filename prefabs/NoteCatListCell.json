@@ -4,14 +4,24 @@
       "name": "NoteCatListCell",
       "children": [
         1,
-        2,
-        3,
         4,
-        5
+        5,
+        6,
+        7
       ]
     },
     {
-      "name": "NameText"
+      "name": "NameText",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "IconImage"

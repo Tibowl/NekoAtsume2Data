@@ -4,19 +4,21 @@
       "name": "LabelNameCell",
       "children": [
         1,
-        2,
-        3,
         4
       ]
     },
     {
-      "name": "IconImage"
+      "name": "NameText",
+      "children": [
+        2,
+        3
+      ]
     },
     {
-      "name": "NameText"
+      "name": "Legacy"
     },
     {
-      "name": "CountText"
+      "name": "TMP"
     },
     {
       "name": "LabelMark"

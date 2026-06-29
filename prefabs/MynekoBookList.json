@@ -4,9 +4,9 @@
       "name": "MynekoBookList",
       "children": [
         1,
-        6,
-        11,
-        16
+        9,
+        17,
+        25
       ]
     },
     {
@@ -14,12 +14,26 @@
       "children": [
         2,
         3,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "NameText",
+      "children": [
         4,
         5
       ]
     },
     {
-      "name": "NameText"
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "IconImage"
@@ -33,14 +47,28 @@
     {
       "name": "Cell2",
       "children": [
-        7,
-        8,
-        9,
-        10
+        10,
+        11,
+        14,
+        15,
+        16
       ]
     },
     {
       "name": "NameText"
+    },
+    {
+      "name": "NameText",
+      "children": [
+        12,
+        13
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "IconImage"
@@ -54,14 +82,28 @@
     {
       "name": "Cell3",
       "children": [
-        12,
-        13,
-        14,
-        15
+        18,
+        19,
+        22,
+        23,
+        24
       ]
     },
     {
       "name": "NameText"
+    },
+    {
+      "name": "NameText",
+      "children": [
+        20,
+        21
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "IconImage"
@@ -75,14 +117,28 @@
     {
       "name": "Cell4",
       "children": [
-        17,
-        18,
-        19,
-        20
+        26,
+        27,
+        30,
+        31,
+        32
       ]
     },
     {
       "name": "NameText"
+    },
+    {
+      "name": "NameText",
+      "children": [
+        28,
+        29
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "IconImage"

@@ -4,14 +4,28 @@
       "name": "LabelEditListCell",
       "children": [
         1,
-        3
+        6
       ]
     },
     {
       "name": "Button",
       "children": [
-        2
+        2,
+        5
       ]
+    },
+    {
+      "name": "NameText",
+      "children": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "NameText"

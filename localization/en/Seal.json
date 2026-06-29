@@ -47,6 +47,7 @@
     "SealDecoName1046": "Message Card",
     "SealDecoName1047": "Zen Garden",
     "SealDecoName1048": "Cloud Stitch Frame",
+    "SealDecoName1049": "Milky Way",
     "SealDecoName2001": "?Mark",
     "SealDecoName2002": "?Mark",
     "SealDecoName2003": "!Mark",
@@ -337,5 +338,14 @@
     "SealDecoName2288": "Sunny Doll",
     "SealDecoName2289": "Mustache 3",
     "SealDecoName2290": "Hat 1",
+    "SealDecoName2291": "Star 1",
+    "SealDecoName2292": "Star 2",
+    "SealDecoName2293": "Borderless Star 1",
+    "SealDecoName2294": "Borderless Star 2",
+    "SealDecoName2295": "Shooting Star",
+    "SealDecoName2296": "Origami Crane",
+    "SealDecoName2297": "Wish Paper",
+    "SealDecoName2298": "Celestial Robe 1",
+    "SealDecoName2299": "Celestial Robe 2",
     "SealDecoNameNone": "None"
 }

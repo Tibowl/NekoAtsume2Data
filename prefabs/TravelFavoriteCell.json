@@ -5,13 +5,27 @@
       "children": [
         1,
         2,
-        3,
-        4,
-        5
+        5,
+        6,
+        7,
+        8
       ]
     },
     {
       "name": "PlayerName"
+    },
+    {
+      "name": "NameText",
+      "children": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "CatIcon"
@@ -25,7 +39,7 @@
     {
       "name": "DateLabel",
       "children": [
-        6
+        9
       ]
     },
     {

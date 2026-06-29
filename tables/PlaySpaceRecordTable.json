@@ -6759,9 +6759,27 @@
     "GoodsAnimeId": null,
     "GoodsExchangeModuleId": null,
     "GoodsRequiredDamages": null,
-    "ActionNames2": null,
-    "ActionIds2": null,
-    "ActionOptions2": [],
+    "ActionNames2": [
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_nesoberi",
+      "00kihon_suwari",
+      "00kihon_suwari"
+    ],
+    "ActionIds2": [
+      0,
+      1,
+      2,
+      0,
+      1
+    ],
+    "ActionOptions2": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "ActionWeights2": null,
     "GoodsAnimeId2": null,
     "GoodsExchangeModuleId2": null,
@@ -14297,6 +14315,161 @@
     "Charm": 100,
     "Niboshi": 100,
     "RareMotionPermissions": 59,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3410,
+    "IsDebug": false,
+    "ItemId": 341,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3420,
+    "IsDebug": false,
+    "ItemId": 342,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3430,
+    "IsDebug": false,
+    "ItemId": 343,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3440,
+    "IsDebug": false,
+    "ItemId": 344,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi"
+    ],
+    "ActionIds": [
+      3
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3450,
+    "IsDebug": false,
+    "ItemId": 345,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },

@@ -4,11 +4,15 @@
       "name": "MessageWindow",
       "children": [
         1,
-        2
+        2,
+        3
       ]
     },
     {
-      "name": "Text"
+      "name": "Top"
+    },
+    {
+      "name": "Bottom"
     },
     {
       "name": "ArrowDown"

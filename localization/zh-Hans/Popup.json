@@ -1,6 +1,13 @@
 {
     "PopupVer2_15_1": "【公告】\n已修复 Ver2.15.0 中出现的\n道具「拍立得相机」的问题。\n\n● 问题详情\n即使有猫咪前来玩耍，「拍立得相机」也无法拍照的问题\n\n● 适用对象\n在 Ver2.15.0 时持有「拍立得相机」的玩家\n\n● 补偿内容\n10金鱼干\n请通过 Menu > Gifts > 「不具合致歉礼」\n\n对于给您带来的不便，我们深表歉意。",
     "DefaultSettings1": "<color=\"blue\">开始猫咪收集</color>之前\n\n在这里可以选择\n・语言\n・庭院的外观\n\n<color=\"red\">《关于庭院》</color>\n扩展<color=\"blue\">庭院</color>后\n就可以进行<color=\"blue\">庭院的模样更换</color>了\n\n在此画面未选择的<color=\"blue\">模样更换</color>\n可通过模样更换画面购买后进行更改",
+    "Omiyage1_1": "<color=\"blue\">伴手礼</color>\n已新增！\n\n伴手礼似乎在一个名为\n<color=\"blue\">Yorozuya</color>的地方出售",
+    "Omiyage1_2": "可从\nGo Out界面前往\nYorozuya",
+    "Omiyage3_1": "为庆祝新增伴手礼\n赠送70个<color=\"blue\">猫币</color>！",
+    "Omiyage3_2": "用猫币购买\n1个伴手礼吧",
+    "OmiyageTop1_1": "在这里可以购买\n某只猫出售的\n<color=\"blue\">伴手礼</color>\n\n购买伴手礼需要\n<color=\"blue\">猫币</color>\n\n猫币可以在其他人的庭院中\n找到\n快去外出收集吧\n\n※详情请查看\n<color=\"blue\">Help</color>＞<color=\"blue\">Go out</color>",
+    "OmiyageIap1_1": "这里可以使用<color=\"red\">付费货币</color>\n购买附带特典的伴手礼\n\n付费购买的伴手礼\n可享受特典\n<color=\"blue\">免费重新购买新品</color>",
+    "OmiyageIap1_2": "<color=\"red\">※注意</color>\n伴手礼内容与可用猫币购买的相同。\n\n若已通过猫币购买相同伴手礼，\n再次付费购买后将升级为附带特典的伴手礼。\n\n若持有处于“旧”或“保养”状态的相同伴手礼，\n重新付费购买后将恢复为全新状态。\n\n※详情请查看\n<color=\"blue\">帮助</color>＞<color=\"blue\">Go out</color>",
     "Start1_1": "欢迎来到<color=\"blue\">Neko Atsume</color>\n<color=\"blue\">猫咪收集</color>！",
     "Start1_2": "开始收集猫咪\n完成<color=\"blue\">猫咪手册</color>吧！",
     "Start2": "可用<color=\"blue\">道具</color>和<color=\"blue\">饲料</color>\n吸引猫咪\n先买<color=\"blue\">道具</color>吧\n\n从左上的<color=\"blue\">Menu</color>中选择<color=\"blue\">Shop</color>",

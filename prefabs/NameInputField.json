@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "name": "NameInputField",
+      "children": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "Legacy",
+      "children": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Placeholder"
+    },
+    {
+      "name": "Text (Legacy)"
+    },
+    {
+      "name": "TMP",
+      "children": [
+        5
+      ]
+    },
+    {
+      "name": "Text Area",
+      "children": [
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Placeholder"
+    },
+    {
+      "name": "Text"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

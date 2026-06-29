@@ -2683,5 +2683,35 @@
     "Id": 3400,
     "IsDebug": false,
     "Dict": {}
+  },
+  {
+    "Id": 3410,
+    "IsDebug": false,
+    "Dict": {
+      "Spring": 40,
+      "Summer": -20,
+      "Autum": -20,
+      "Winter": -20
+    }
+  },
+  {
+    "Id": 3420,
+    "IsDebug": false,
+    "Dict": {}
+  },
+  {
+    "Id": 3430,
+    "IsDebug": false,
+    "Dict": {}
+  },
+  {
+    "Id": 3440,
+    "IsDebug": false,
+    "Dict": {}
+  },
+  {
+    "Id": 3450,
+    "IsDebug": false,
+    "Dict": {}
   }
 ]

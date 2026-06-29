@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "NameText",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

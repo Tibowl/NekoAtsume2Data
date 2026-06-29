@@ -1,6 +1,13 @@
 {
     "PopupVer2_15_1": "【공지】\nVer2.15.0에서 발생한\n아이템 “인스턴트 카메라”의 문제를 수정했습니다.\n\n● 문제 내용\n고양이가 놀러 와도 “인스턴트 카메라”로 사진이 촬영되지 않는 문제\n\n● 대상\nVer2.15.0 시점에 “인스턴트 카메라”를 보유하고 있던 고객\n\n● 보상 내용\n황금 멸치 10개\nMenu > Gifts > “버그 보상”에서 수령해 주세요\n\n불편을 드려 대단히 죄송합니다.",
     "DefaultSettings1": "<color=\"blue\">네코아츠메</color>를 시작하기 전에\n\n여기에서는\n・언어\n・마당의 외형\n을 선택할 수 있어요\n\n<color=\"red\">《마당에 대해서》</color>\n<color=\"blue\">마당 확장</color> 후에,\n마당의 <color=\"blue\">꾸미기</color>가\n가능해져요\n\n이 화면에서 선택하지 않은 <color=\"blue\">꾸미기</color>는\n꾸미기 화면에서 구매함으로써\n변경할 수 있어요",
+    "Omiyage1_1": "<color=\"blue\">기념품</color>이\n추가되었다!\n\n기념품은\n<color=\"blue\">Yorozuya</color>에서\n판매하는 것 같다.",
+    "Omiyage1_2": "Go Out 화면에서\nYorozuya로\n이동할 수 있다.",
+    "Omiyage3_1": "기념품 추가 기념으로\n<color=\"blue\">키티 코인</color> 70개 선물!",
+    "Omiyage3_2": "키티 코인으로\n기념품 1개를 구매하자",
+    "OmiyageTop1_1": "이곳에서는 어떤 고양이가 파는\n<color=\"blue\">기념품</color>을\n구매할 수 있다\n\n기념품 구매에는\n<color=\"blue\">키티 코인</color>이 필요하다\n\n키티 코인은 다른 사람의\n정원에서 찾을 수 있으니\nGo Out으로 모아 보자\n\n※자세한 내용은\n<color=\"blue\">Help</color>＞<color=\"blue\">Go Out</color> 참고",
+    "OmiyageIap1_1": "이곳에서는 <color=\"red\">유료</color>로\n특전 포함 기념품을 구매할 수 있다\n\n유료 구매한 기념품은\n특전으로 <color=\"blue\">무료 재구매</color>가 가능하다",
+    "OmiyageIap1_2": "<color=\"red\">※주의</color>\n기념품 내용은 키티 코인으로 구매 가능한 기념품과 동일하다.\n이미 키티 코인으로 동일한 기념품을 구매한 경우,\n유료로 다시 구매하면 특전 포함 기념품으로 업그레이드된다.\n낡음 또는 손질 상태의 동일한 기념품을 보유한 경우,\n유료로 다시 구매하면 새 상품 상태가 된다.\n\n※자세한 내용은\n<color=\"blue\">도움말</color>＞<color=\"blue\">Go Out</color> 참고",
     "Start1_1": "어서오세요\n<color=\"blue\">Neko Atsume</color> 에!",
     "Start1_2": "고양이들을 모아서\n<color=\"blue\">고양이수첩</color> 을 완성시켜요.",
     "Start2": "고양이들은 \n놀이도구의 <color=\"blue\">물품</color>과<color=\"blue\">음식</color>\n에 끌려서 오게됩니다.\n\n우선, <color=\"blue\">물품</color> 을 사도록해요.\n왼쪽위의 <color=\"blue\">Menu</color> 에서\n<color=\"blue\">Shop</color> 을\n선택해 주세요.",

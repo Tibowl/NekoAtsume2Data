@@ -5,12 +5,26 @@
       "children": [
         1,
         2,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "NameText"
+    },
+    {
+      "name": "NameText",
+      "children": [
         3,
         4
       ]
     },
     {
-      "name": "NameText"
+      "name": "Legacy"
+    },
+    {
+      "name": "TMP"
     },
     {
       "name": "IconImage"

@@ -1,6 +1,7 @@
 App.ActionOptionsExtensions
 App.ActionOptionsUtil
 App.AdReward
+App.AddLabelSelectionItem
 App.AddressabeLabelExtensions
 App.AddressableFilerUtil
 App.AdvanceTimeLog
@@ -11,12 +12,14 @@ App.AlbumIdExtensions
 App.AlbumIdUtil
 App.AlbumLabelListPanel
 App.AlbumNameCell
+App.AlbumNameCellStyle
 App.AlbumNameList
 App.AlbumNameListPanel
 App.AlbumPhotoListPanel
 App.AlbumScene
 App.AlbumSceneArgs
 App.AlbumSceneDebugArgs
+App.AlbumSceneDebugArgsProvider
 App.AnchorDirectionExtensions
 App.AndroidUtil
 App.AppColor
@@ -24,11 +27,9 @@ App.AppGameObjectFactory
 App.AppInput
 App.AppNgWordChecker
 App.AppSoundSettings
-App.AppTmpTextExtensions
 App.AppUrl
 App.AppUtil
 App.AppVersion
-App.AppendLabelSelector
 App.AssetAddress
 App.AsyncSemaphoreLock
 App.AtlasIdUtil
@@ -98,8 +99,10 @@ App.Const.Url
 App.CropHandle
 App.CutOutDecoPanel
 App.CutOutPanel
-App.DailyCoin
+App.DailyCoinPanel
 App.DailyCoinRankUtil
+App.DailyCoinReward
+App.DailyCoinRewardParam
 App.DatabaseBuilder
 App.DateTimeFormatterForJson
 App.DebugTimeEditor
@@ -195,6 +198,7 @@ App.GoodsRepair
 App.GoodsScene
 App.GoodsSceneArgs
 App.GoodsSceneDebugArgs
+App.GoodsSceneDebugArgsProvider
 App.GoodsSlotId
 App.GoodsWarningButton
 App.GridBorder
@@ -218,7 +222,7 @@ App.HpJavaToUnityCallbackExtensions
 App.IAdData
 App.IBackKeyFsm
 App.ICropHandleDragHandler
-App.ILabelSelector
+App.ILabelSelectionItem
 App.ILeftRightArrow
 App.ILeftRightArrowExtensions
 App.IMenuIconButton
@@ -242,6 +246,8 @@ App.IWalletView
 App.IWeather
 App.IYardPlaceMode
 App.IapEnvironment
+App.IapGrantHandler
+App.IapRestore
 App.ImageExtensions.ImageExtensions
 App.ImageUtil
 App.ImmutableBuilder
@@ -251,10 +257,12 @@ App.InputFieldUtil
 App.InspectResultUtil
 App.Int32FormatterForJson
 App.InvitationWindow
+App.IosUtil
 App.JohoyaPresent
 App.KeyInvalidator
+App.LabelColorId
 App.LabelEditListCell
-App.LabelEditWindow
+App.LabelEditor
 App.LabelNameCell
 App.LabelPhotoList
 App.LabelSetting
@@ -324,6 +332,9 @@ App.MynekoBookList
 App.MynekoBookListCell
 App.MynekoCustomizeScene
 App.MynekoNoteScene
+App.MynekoNoteSceneArgs
+App.MynekoNoteSceneDebugArgs
+App.MynekoNoteSceneDebugArgsProvider
 App.MynekoParameter
 App.MynekoPartsIdUtil
 App.MynekoPartsKindUtil
@@ -336,6 +347,8 @@ App.MynekoPartsSelector
 App.MynekoPartsSlotTypeUtil
 App.MynekoPartsUtil
 App.MynekoTextureGenerator
+App.NameInputField
+App.NameText
 App.NekonoteConfirmationPanel
 App.NekonoteCourseUtil
 App.NekonoteDetailPanel
@@ -359,6 +372,7 @@ App.NoteCatListPage
 App.NoteScene
 App.NoteSceneArgs
 App.NoteSceneDebugArgs
+App.NoteSceneDebugArgsProvider
 App.NtpTime
 App.NtpTime.NtpPacket
 App.Offscreen
@@ -367,7 +381,6 @@ App.OkimonoCustomizeSlot
 App.OkimonoSelect
 App.OkimonoSelectCell
 App.OmiyagePopupGoods
-App.OmiyagePopupVoucher
 App.OmiyageTutorialProgressExtensions
 App.OptionMenu
 App.OptionMenuLayout
@@ -439,6 +452,7 @@ App.PopupLauncher
 App.PopupMyneko
 App.PopupText
 App.PopupTextScroll
+App.PopupTutorial
 App.PositionEditor
 App.PrefabId
 App.PrefabSpawner
@@ -511,9 +525,10 @@ App.Save.ISealPart
 App.Save.IapPlatformUtil
 App.Save.Inventory
 App.Save.InvitationData
-App.Save.LabelColorList
+App.Save.LabelColor
 App.Save.LabelData
 App.Save.LabelData.LabelColorComparer
+App.Save.LabelId
 App.Save.LocateStatus
 App.Save.MoneyTypeExtensions
 App.Save.MynekoTextureEffect
@@ -584,7 +599,7 @@ App.SaveResultExtensions
 App.SaveSlotController
 App.SaveSlotStatusUtil
 App.Saver
-App.SceneController
+App.SceneActivationGroup
 App.ScrollRectExtensions
 App.ScrollView
 App.ScrollbarChecker
@@ -657,6 +672,7 @@ App.ShopPurchaseDialog
 App.ShopScene
 App.ShopSceneArgs
 App.ShopSceneDebugArgs
+App.ShopSceneDebugArgsProvider
 App.ShotButtons
 App.ShotFrame
 App.ShotFrameAnime
@@ -693,7 +709,6 @@ App.StampCardPanel
 App.StampUtil
 App.StoreNekonoteState
 App.Str
-App.StrInputWindow
 App.StretchShot
 App.Support
 App.SupportLogic
@@ -728,6 +743,9 @@ App.Test.TestGameWindow
 App.Test.TestPageView
 App.TestDebugTimePanel
 App.TestToggleButton
+App.TextAlignmentExtensions
+App.TextInputValidator
+App.TextMeshProPriceExtensions
 App.TextScrollView
 App.TextScrollViewPanel
 App.TextUtil
@@ -751,6 +769,7 @@ App.TravelMainPanel
 App.TravelScene
 App.TravelSceneArgs
 App.TravelSceneDebugArgs
+App.TravelSceneDebugArgsProvider
 App.TravelSharePanel
 App.TravelStampPanel
 App.TravelTicketCell
@@ -762,6 +781,7 @@ App.TravelYardMainUi
 App.TravelYardScene
 App.TravelYardSceneArgs
 App.TravelYardSceneDebugArgs
+App.TravelYardSceneDebugArgsProvider
 App.Trigger
 App.TuningParams
 App.TuningParams.News
@@ -775,6 +795,7 @@ App.UnityServicesInitializer
 App.UnityTestScene
 App.ViewConfig
 App.ViewConfigGizmo
+App.WalkShot
 App.WalletLogUi
 App.WalletViewFrontMostFilter
 App.WallpaperCell
@@ -824,6 +845,7 @@ App.YardRepairPanel2
 App.YardScene
 App.YardSceneArgs
 App.YardSceneDebugArgs
+App.YardSceneDebugArgsProvider
 App.YardUtil
 App.YubiEffect
 App.YubiEffectWorld
@@ -833,6 +855,7 @@ HpLib.Ad.AdMobConsent
 HpLib.Ad.AdUnitId
 HpLib.AddressableCache
 HpLib.AddressableCache.AssetEntry
+HpLib.AddressableCache.AssetScope
 HpLib.AddressableCache.InstanceEntry
 HpLib.AddressableCache.LoadingEntry
 HpLib.AesConfig
@@ -879,6 +902,7 @@ HpLib.DataTransfer.TransferState
 HpLib.DateTimeExtensions.DateTimeExtensions
 HpLib.DateTimeExtensions.DateTimeOffsetExtensions
 HpLib.DeviceTime
+HpLib.DictionaryDumpExtensions.DictionaryDumpExtensions
 HpLib.DictionaryExtensions.DictionaryExtensions
 HpLib.DictionaryExtensions.ValueTupleExtensions
 HpLib.DictionaryIncrementExtensions.DictionaryIncrementExtensions
@@ -900,12 +924,14 @@ HpLib.EnumStates
 HpLib.EnumUtil
 HpLib.EnumerableExtensions.EnumerableExtensions
 HpLib.ErrorTime
+HpLib.Extra.ActionDebouncer
 HpLib.Extra.AddressableFactorySingleton
 HpLib.Extra.AddressableInitializer
 HpLib.Extra.AddressableLookup
 HpLib.Extra.AddressableSingleton
 HpLib.Extra.AddressableUtil
 HpLib.Extra.AsyncOperationHandleScope
+HpLib.Extra.CancelAndRestart
 HpLib.Extra.ComponentExtensions.ComponentExtensions
 HpLib.Extra.FileManager
 HpLib.Extra.FileUtilEx
@@ -921,6 +947,7 @@ HpLib.Extra.LocalizedStringExtensions.StringLocalizeExtensions
 HpLib.Extra.NativeCallback
 HpLib.Extra.NonPersistentAttribute
 HpLib.Extra.RxUtil
+HpLib.Extra.SingleFlight
 HpLib.Extra.SingletonInstanciator
 HpLib.Extra.SkipIfRunning
 HpLib.Extra.SkipIfRunningUtil
@@ -929,6 +956,8 @@ HpLib.Extra.UniTaskUtil
 HpLib.FetchResultExtensions
 HpLib.FileUtil
 HpLib.FixedTime
+HpLib.FlagGroupAttribute
+HpLib.FlagsEnumButtonsAttribute
 HpLib.FormattableVariable
 HpLib.GameObjectExtensions.ComponentExtensions
 HpLib.GameObjectExtensions.Event.ComponentExtensionsEvent
@@ -975,13 +1004,13 @@ HpLib.LogFilter
 HpLib.LogMinLevelSwitch
 HpLib.LoopIterator
 HpLib.MaterialExtensions.MaterialExtensions
+HpLib.MathEx
 HpLib.MemoryStats
 HpLib.MonoBehaviourExtensions.MonoBehaviourExtensions
 HpLib.MultiRegistry
 HpLib.MultiSprite
 HpLib.MyCaller
 HpLib.MyColor
-HpLib.MyMath
 HpLib.MyVector
 HpLib.NTree
 HpLib.NestedDictionary
@@ -992,6 +1021,7 @@ HpLib.ObjectDestruction
 HpLib.ObjectDestructionList
 HpLib.ObjectReflectionExtensions.ObjectReflectionExtensions
 HpLib.OneTimeAction
+HpLib.OrderedFlagsAttribute
 HpLib.OrthCameraUtil
 HpLib.OrthographicCameraFitter
 HpLib.PathUtil
@@ -1043,6 +1073,7 @@ HpLib.StringBuilderWrapper
 HpLib.StringBuilderWrapper.IndentDisposable
 HpLib.StringExtensions.StringExtensions
 HpLib.StringPathExtensions.StringPathExtensions
+HpLib.StringTagExtensions.StringTagColorExtensions
 HpLib.StringTagExtensions.StringTagExtensions
 HpLib.StringTreeBuilder
 HpLib.SysPrefabId
@@ -1056,16 +1087,16 @@ HpLib.TemporaryDisableBehaviourStack.Entry
 HpLib.TemporaryRenderTexture
 HpLib.TextAnchorExtensions.TextAnchorExtensions
 HpLib.TextExtensions.TextExtensions
-HpLib.TextExtensions.TmpTextExtensions
+HpLib.TextExtensions.TextMethProTextExtensions
 HpLib.TextureExtensions.TextureExtentions
 HpLib.TextureRegistry
 HpLib.TextureScale
 HpLib.TextureScale.ThreadData
 HpLib.TextureUtil
 HpLib.ThreadUtil
-HpLib.TimeDispAttribute
 HpLib.TimeGate
 HpLib.TimeStampMap
+HpLib.TimeStampScope
 HpLib.TimeStamps
 HpLib.Timer
 HpLib.TransformExtensions.RectTransformAnchorExtensions
@@ -1094,7 +1125,6 @@ HpLib.UnityEventExtensions.UnityEventExtensions
 HpLib.UnityLogLevelExtensions
 HpLib.UnityLogLevelScope
 HpLib.UnityLogLevelUtil
-HpLib.UnityStringExtensions.UnityStringExtensions
 HpLib.UnlimitedQueue
 HpLib.UnlimitedStack
 HpLib.Util
@@ -1154,7 +1184,6 @@ MyDebug.DebugPhotoSavePanel
 MyDebug.DebugTapEffect
 MyDebug.DebugYardExtensions.DebugYard
 MyDebug.DebugYardExtensions.DebugYardExtensions
-MyDebug.Filer
 MyDebug.GoodsAnimeAddressChecker
 MyDebug.GridButtons
 MyDebug.GridScrollLayoutParam
