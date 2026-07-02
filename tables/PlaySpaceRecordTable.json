@@ -14474,6 +14474,37 @@
     "MynekoSpawnBlockFlags": 0
   },
   {
+    "Id": 3460,
+    "IsDebug": false,
+    "ItemId": 346,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi"
+    ],
+    "ActionIds": [
+      4
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
     "Id": 50000,
     "IsDebug": false,
     "ItemId": 5000,
@@ -14540,7 +14571,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 56,
+    "RareMotionPermissions": 248,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   }

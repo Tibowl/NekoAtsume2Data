@@ -68,5 +68,12 @@
     "IsForceNotForSale": false,
     "Silver": 15000,
     "Gold": 300
+  },
+  {
+    "Id": 100,
+    "IsDebug": true,
+    "IsForceNotForSale": true,
+    "Silver": -1,
+    "Gold": -1
   }
 ]

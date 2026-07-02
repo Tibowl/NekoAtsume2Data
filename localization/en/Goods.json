@@ -256,6 +256,7 @@
     "GoodsName343": "Dango (Anko)",
     "GoodsName344": "Dango (Kinako)",
     "GoodsName345": "Matcha Bowl",
+    "GoodsName346": "Shopping Box (Lidded)",
     "ExGoodsName1": "Yard Expansion",
     "ExGoodsName2": "Fish Exchange",
     "ExGoodsName3": "Jarashi",
@@ -517,6 +518,7 @@
     "GoodsShop343": "<Dango Collection>\nA dango-shaped cushion.\nLoaded with sweet bean paste.",
     "GoodsShop344": "<Dango Collection>\nA dango-shaped cushion.\nNo worries about flying kinako.",
     "GoodsShop345": "<Complete Bonus>\nA reward for collecting\nall four Dango Collection goodies.",
+    "GoodsShop346": "An inexplicably fascinating\nlidded cardboard box. Empty of\nstuff and yet full of mystery.",
     "ExGoodsShop1": "Expand your cats' play space into the\nadjacent room, which will allow you to\nplace more stuff!",
     "ExGoodsShop2": "Exchange 10 gold fish for 250 normal fish.",
     "ExGoodsShop3": "A classic item to attract cats.\nShaking it might catch their\nattention. *Used in the yard.",
@@ -778,5 +780,6 @@
     "GoodsYard343": "A realistic dango cushion.\nMade with soft, body-hugging material.",
     "GoodsYard344": "A realistic dango cushion.\nMade with soft, body-hugging material.",
     "GoodsYard345": "A handcrafted oversized matcha bowl\nmade by a renowned pottery workshop.",
+    "GoodsYard346": "A little different in shape,\nbut just as comfy inside.",
     "Warning1": "<color=\"red\">Caution:</color>\n<color=\"red\">Do not imitate in real life</color>\n \nThe way this goodie is used\nin the game is fictional;\nattempting it in real life\nmay be dangerous for children\nand animals.\n \nPlease be mindful of your\nsurroundings during gameplay."
 }

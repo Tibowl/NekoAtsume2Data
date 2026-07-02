@@ -364,7 +364,7 @@
     "Id": 103,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "01ball_gum_ao"
@@ -4246,7 +4246,7 @@
     "Id": 221,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "12unbrella_wa"
@@ -5148,7 +5148,7 @@
     "Id": 246,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "06jarashi_kedama"
@@ -8795,6 +8795,42 @@
       343,
       344
     ],
+    "WarningKey": null
+  },
+  {
+    "Id": 346,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "02danbo_hutatsuki"
+    ],
+    "AnimeXmls": [
+      "02danbo_hutatsuki"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 119,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 260,
+    "Mood": {
+      "Data": 0
+    },
+    "DamageTable": null,
+    "Toughness": 1540,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": -1,
+    "RepairSilver": 50,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
     "WarningKey": null
   },
   {

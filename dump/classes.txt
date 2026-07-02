@@ -39,6 +39,10 @@ App.AutoBackup
 App.AutoEnableInputAction
 App.AutoPlacement
 App.AutoSaver
+App.AutoShotGoodsPlace
+App.AutoShotOtherPlace
+App.AutoShotPhotoImageParamFactory
+App.AutoShotPlacePicker
 App.AutoShotResultExtensions
 App.AutoShotUtil
 App.BackScroller
@@ -80,6 +84,7 @@ App.CharaPhotoList
 App.ClickDragEvent
 App.ClickDragEvent2
 App.ClickDragEvents
+App.CloseUpPhotoTargetPicker
 App.Coin
 App.CoinView
 App.ColliderIdUtil
@@ -128,6 +133,7 @@ App.DragMover2
 App.DragMoverUi
 App.DropdownExtensions.DropdownExtensions
 App.DropdownUtil
+App.EatPhotoTargetPicker
 App.EatShot
 App.ExternalShare
 App.FaceUpShot
@@ -220,6 +226,7 @@ App.HipUpShot
 App.HpJavaToUnityCallback
 App.HpJavaToUnityCallbackExtensions
 App.IAdData
+App.IAutoShotPlace
 App.IBackKeyFsm
 App.ICropHandleDragHandler
 App.ILabelSelectionItem
@@ -390,8 +397,10 @@ App.OtherCatAnimeEnv
 App.OtherPlaceAttributeExtensions
 App.OtherPlaceConfig
 App.OtherPlaceConfigGizmo
+App.OtherPlaceConfigGizmo.Col
 App.OtherPlaceConfigSync
 App.OtherPlaceConfigs
+App.OtherPlacePhotoTargetPicker
 App.PageView
 App.Panel
 App.PanelStack
@@ -423,7 +432,6 @@ App.PhotoList
 App.PhotoListTest
 App.PhotoPage
 App.PhotoSavePanel
-App.PhotoTargetPicker
 App.PhotoUtil
 App.PhotoUtil.ImageParam
 App.PlaceAttributeExtensions
@@ -492,6 +500,7 @@ App.RemoteConfigUtil.UserAttributes
 App.RenderTextureCamera
 App.RichOutline
 App.RtlText
+App.RunShot
 App.SafeAreaRectConverter
 App.SafeAreaResize
 App.SampleInputAction
@@ -674,6 +683,7 @@ App.ShopSceneArgs
 App.ShopSceneDebugArgs
 App.ShopSceneDebugArgsProvider
 App.ShotButtons
+App.ShotCameraParam
 App.ShotFrame
 App.ShotFrameAnime
 App.ShotOrientationButton
@@ -968,6 +978,7 @@ HpLib.GameObjectSwitcher
 HpLib.Handlers
 HpLib.Handlers2
 HpLib.HashCodeExtensions.HashCodeExtensions
+HpLib.HexColor
 HpLib.IListExtensions.IListExtensions
 HpLib.IListExtensions.IListIndexExtensions
 HpLib.IPinch
