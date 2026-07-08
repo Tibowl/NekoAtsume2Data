@@ -27,6 +27,7 @@ App.AppGameObjectFactory
 App.AppInput
 App.AppNgWordChecker
 App.AppSoundSettings
+App.AppStartUpLocaleSelector
 App.AppUrl
 App.AppUtil
 App.AppVersion
@@ -324,7 +325,6 @@ App.MyButton
 App.MyButton.State2
 App.MyIapStore
 App.MyIapStoreExtensions
-App.MyLocaleUtil
 App.MyMessagePack
 App.MyMessagePack.FormatterResolver
 App.MyMessagePack.Option
@@ -332,7 +332,6 @@ App.MyPlayerPrefsUtil
 App.MyRemoteConfig
 App.MySaveSlotPaths
 App.MyScrollRect
-App.MyStartUpLocaleSelector
 App.MyStopwatch
 App.MynekoBookDetail
 App.MynekoBookList
@@ -479,9 +478,7 @@ App.RaycastBlocker
 App.ReceiptCell
 App.RecoveryCodeChar
 App.RecoveryGrant
-App.RecoveryGrantIds
-App.RecoveryGrantIds.Money
-App.RecoveryGrantIds.Type
+App.RecoveryGrantTypeExtensions
 App.RemodelContent
 App.RemodelCustomizeUi
 App.RemodelMainUi
@@ -498,6 +495,7 @@ App.RemoteConfigUtil
 App.RemoteConfigUtil.AppAttributes
 App.RemoteConfigUtil.UserAttributes
 App.RenderTextureCamera
+App.RewardResetDate
 App.RichOutline
 App.RtlText
 App.RunShot
@@ -726,6 +724,7 @@ App.SupportPanel
 App.SupportSetting
 App.SupportSettingData
 App.SupportStorage
+App.SupportedLocaleUtil
 App.SuwariUpShot
 App.SwapMode
 App.SyncGrandparentRect
@@ -888,6 +887,7 @@ HpLib.CameraUtil
 HpLib.CanvasExtensions
 HpLib.Clipboard
 HpLib.Collection
+HpLib.CollectionExtensions.CollectionExtensions
 HpLib.ColorExtensions.Color32Extensions
 HpLib.ColorExtensions.ColorExtensions
 HpLib.Command
@@ -907,8 +907,16 @@ HpLib.DataTransfer.FireStoreManager
 HpLib.DataTransfer.FireStoreSecretConst
 HpLib.DataTransfer.FireStoreSecretConst.SecretString
 HpLib.DataTransfer.FireStoreUtil
+HpLib.DataTransfer.IFirestoreCollection
+HpLib.DataTransfer.ProductionDataTransferCollection
 HpLib.DataTransfer.StoreData
+HpLib.DataTransfer.StoreDataFileArchiveSerializer
+HpLib.DataTransfer.StoreDataPayloadCodec
+HpLib.DataTransfer.StoreDataPayloadFactory
 HpLib.DataTransfer.TransferState
+HpLib.DataTransfer.TransferStateBinarySerializer
+HpLib.DataTransfer.TransferStateData
+HpLib.DataTransfer.TransferStateStorage
 HpLib.DateTimeExtensions.DateTimeExtensions
 HpLib.DateTimeExtensions.DateTimeOffsetExtensions
 HpLib.DeviceTime
@@ -1022,6 +1030,7 @@ HpLib.MultiRegistry
 HpLib.MultiSprite
 HpLib.MyCaller
 HpLib.MyColor
+HpLib.MyColor.Hex
 HpLib.MyVector
 HpLib.NTree
 HpLib.NestedDictionary
@@ -1083,6 +1092,7 @@ HpLib.StringBuilderExtensions.StringBuilderExtensions
 HpLib.StringBuilderWrapper
 HpLib.StringBuilderWrapper.IndentDisposable
 HpLib.StringExtensions.StringExtensions
+HpLib.StringHexColorExtensions.StringHexColorExtensions
 HpLib.StringPathExtensions.StringPathExtensions
 HpLib.StringTagExtensions.StringTagColorExtensions
 HpLib.StringTagExtensions.StringTagExtensions
@@ -1138,6 +1148,7 @@ HpLib.UnityLogLevelScope
 HpLib.UnityLogLevelUtil
 HpLib.UnlimitedQueue
 HpLib.UnlimitedStack
+HpLib.UtcTicks
 HpLib.Util
 HpLib.ValueWithSave
 HpLib.VectorExtensions.Vector2Extensions

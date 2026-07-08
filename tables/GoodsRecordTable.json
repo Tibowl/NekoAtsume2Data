@@ -1232,6 +1232,42 @@
     "WarningKey": null
   },
   {
+    "Id": 127,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_zabuton_mi"
+    ],
+    "AnimeXmls": [
+      "03cushion_zabuton_mi"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 132,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 1
+    },
+    "DamageTable": null,
+    "Toughness": 1700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 120,
+    "Gold": -1,
+    "RepairSilver": 15,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 128,
     "IsDebug": false,
     "IsForceNotForSale": false,
@@ -2303,6 +2339,42 @@
     "Silver": 380,
     "Gold": -1,
     "RepairSilver": 60,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 163,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_hinyari"
+    ],
+    "AnimeXmls": [
+      "03cushion_hinyari"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 175,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 72,
+    "Mood": {
+      "Data": 9
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 130,
+    "Gold": -1,
+    "RepairSilver": -1,
     "StampCard": -1,
     "Coin": -1,
     "IapId": -1,
@@ -3613,6 +3685,42 @@
     "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 210,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 203,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "12hammock_wa"
+    ],
+    "AnimeXmls": [
+      "12hammock_wa"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 226,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 1
+    },
+    "DamageTable": null,
+    "Toughness": 1550,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 220,
     "Gold": -1,
     "RepairSilver": 35,
     "StampCard": -1,
@@ -8801,7 +8909,7 @@
     "Id": 346,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "02danbo_hutatsuki"
