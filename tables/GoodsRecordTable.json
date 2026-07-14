@@ -1235,7 +1235,7 @@
     "Id": 127,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_zabuton_mi"
@@ -1683,6 +1683,42 @@
     "Category": 8,
     "Mood": {
       "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 1600,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 100,
+    "Gold": -1,
+    "RepairSilver": 15,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 142,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_hunwari05"
+    ],
+    "AnimeXmls": [
+      "03cushion_hunwari05"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 147,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 9
     },
     "DamageTable": null,
     "Toughness": 1600,
@@ -2351,7 +2387,7 @@
     "Id": 163,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_hinyari"
@@ -2554,6 +2590,42 @@
     "UsedToughness": -1,
     "RepairPattern": 0,
     "Silver": 450,
+    "Gold": -1,
+    "RepairSilver": -1,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 169,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 1,
+    "AnimePngs": [
+      "03cushion_hinyari_l"
+    ],
+    "AnimeXmls": [
+      "03cushion_hinyari_l"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 181,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 72,
+    "Mood": {
+      "Data": 9
+    },
+    "DamageTable": null,
+    "Toughness": 0,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 390,
     "Gold": -1,
     "RepairSilver": -1,
     "StampCard": -1,
@@ -3699,7 +3771,7 @@
     "Id": 203,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "12hammock_wa"
@@ -7180,6 +7252,42 @@
     "Silver": 400,
     "Gold": -1,
     "RepairSilver": 40,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 299,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "10hachi_oke"
+    ],
+    "AnimeXmls": [
+      "10hachi_oke"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 375,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 256,
+    "Mood": {
+      "Data": 0
+    },
+    "DamageTable": null,
+    "Toughness": 2700,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 340,
+    "Gold": -1,
+    "RepairSilver": 30,
     "StampCard": -1,
     "Coin": -1,
     "IapId": -1,
