@@ -1703,7 +1703,7 @@
     "Id": 142,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "03cushion_hunwari05"
@@ -2604,7 +2604,7 @@
     "Id": 169,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 1,
     "AnimePngs": [
       "03cushion_hinyari_l"
@@ -7264,7 +7264,7 @@
     "Id": 299,
     "IsDebug": false,
     "IsForceNotForSale": false,
-    "IsNew": true,
+    "IsNew": false,
     "Attribute": 0,
     "AnimePngs": [
       "10hachi_oke"
