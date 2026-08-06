@@ -1484,6 +1484,78 @@
     "WarningKey": null
   },
   {
+    "Id": 134,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_igusa_mido"
+    ],
+    "AnimeXmls": [
+      "03cushion_igusa_mido"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 139,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 72,
+    "Mood": {
+      "Data": 1
+    },
+    "DamageTable": null,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 135,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_igusa_mura"
+    ],
+    "AnimeXmls": [
+      "03cushion_igusa_mura"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 140,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 72,
+    "Mood": {
+      "Data": 1
+    },
+    "DamageTable": null,
+    "Toughness": 1500,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 200,
+    "Gold": -1,
+    "RepairSilver": 35,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
     "Id": 136,
     "IsDebug": false,
     "IsForceNotForSale": false,
@@ -2375,6 +2447,42 @@
     "Silver": 380,
     "Gold": -1,
     "RepairSilver": 60,
+    "StampCard": -1,
+    "Coin": -1,
+    "IapId": -1,
+    "SalesRoute": 0,
+    "SellableMonths": null,
+    "UnlockGoods": null,
+    "WarningKey": null
+  },
+  {
+    "Id": 162,
+    "IsDebug": false,
+    "IsForceNotForSale": false,
+    "IsNew": true,
+    "Attribute": 0,
+    "AnimePngs": [
+      "03cushion_bis"
+    ],
+    "AnimeXmls": [
+      "03cushion_bis"
+    ],
+    "BackActionIds": null,
+    "FrontActionIds": null,
+    "DisplayOrder": 174,
+    "DisplayOrderInShopRaw": 0,
+    "DisplayOrderInTrade": 0,
+    "Category": 8,
+    "Mood": {
+      "Data": 8
+    },
+    "DamageTable": null,
+    "Toughness": 1800,
+    "UsedToughness": -1,
+    "RepairPattern": 0,
+    "Silver": 280,
+    "Gold": -1,
+    "RepairSilver": 30,
     "StampCard": -1,
     "Coin": -1,
     "IapId": -1,
