@@ -49,6 +49,7 @@
     "SealDecoName1048": "구름 스티치 테두리",
     "SealDecoName1049": "은하수",
     "SealDecoName1050": "바닷속",
+    "SealDecoName1051": "가을 산",
     "SealDecoName2001": "물음표",
     "SealDecoName2002": "물음표",
     "SealDecoName2003": "느낌표",
@@ -363,6 +364,14 @@
     "SealDecoName2312": "해면1",
     "SealDecoName2313": "해면2",
     "SealDecoName2314": "해조류",
+    "SealDecoName2315": "은행잎",
+    "SealDecoName2316": "단풍잎1",
+    "SealDecoName2317": "단풍잎2",
+    "SealDecoName2318": "단풍잎3",
+    "SealDecoName2319": "도토리",
+    "SealDecoName2320": "감",
+    "SealDecoName2321": "사과",
+    "SealDecoName2322": "억새",
     "SealDecoName2323": "피크닉 매트2",
     "SealDecoNameNone": "없음"
 }

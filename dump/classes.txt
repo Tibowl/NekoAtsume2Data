@@ -24,6 +24,7 @@ App.AnchorDirectionExtensions
 App.AndroidUtil
 App.AppColor
 App.AppGameObjectFactory
+App.AppIap
 App.AppInput
 App.AppNgWordChecker
 App.AppSoundSettings
@@ -58,6 +59,7 @@ App.BgmMenu
 App.BlackScene
 App.BlurDirectionExtensions
 App.BrokenGoodsTutorial
+App.BuildFeatures
 App.BuildSymbolString
 App.ButtonExtensions.ButtonExtensions
 App.ButtonUtil
@@ -223,8 +225,6 @@ App.HelpRecord
 App.HelpScene
 App.HelpSection
 App.HipUpShot
-App.HpJavaToUnityCallback
-App.HpJavaToUnityCallbackExtensions
 App.IAdData
 App.IAutoShotPlace
 App.IBackKeyFsm
@@ -321,8 +321,6 @@ App.MoodQuestion
 App.MultipleMode
 App.MyButton
 App.MyButton.State2
-App.MyIapStore
-App.MyIapStoreExtensions
 App.MyMessagePack
 App.MyMessagePack.FormatterResolver
 App.MyMessagePack.Option
@@ -406,7 +404,6 @@ App.PanoramaPhotoSavePanel
 App.PartsSlotIdUtil
 App.PauseLoader
 App.PauseLoaderExtensions
-App.PendingTx
 App.PhoneUtil
 App.PhotoAuthorChecker
 App.PhotoAuthorIdExtensios
@@ -463,6 +460,34 @@ App.PrefabId
 App.PrefabSpawner
 App.PressButton
 App.PurchaseCurrencyUtil
+App.Purchasing.GooglePlayIapReceiptValidator
+App.Purchasing.IIapGateway
+App.Purchasing.IIapGrantSession
+App.Purchasing.IIapReceiptValidator
+App.Purchasing.IStoreController
+App.Purchasing.IapDebugStringExtensions
+App.Purchasing.IapEntitlementCheckResult
+App.Purchasing.IapInitResult
+App.Purchasing.IapInitializationStartInfo
+App.Purchasing.IapProduct
+App.Purchasing.IapProductDefinition
+App.Purchasing.IapProductMetadata
+App.Purchasing.IapPurchase
+App.Purchasing.IapPurchaseFailure
+App.Purchasing.IapPurchaseProcessingStatus
+App.Purchasing.IapReceiptValidationResult
+App.Purchasing.IapRestoreResult
+App.Purchasing.IapSubscriptionInfo
+App.Purchasing.L
+App.Purchasing.NotRequiredIapReceiptValidator
+App.Purchasing.StoreControllerAdapter
+App.Purchasing.UnityIapEnvironment
+App.Purchasing.UnityIapGateway
+App.Purchasing.UnityIapGateway.GrantSession
+App.Purchasing.UnityIapGoogleProductDetailsParser
+App.Purchasing.UnityIapGoogleProductDetailsParser.ProductDetailsJson
+App.Purchasing.UnityIapProductTitleNormalizer
+App.Purchasing.UnityIapTypeMapper
 App.RandomPhotoDataFactory
 App.RandomPhotoImageParamFactory
 App.RandomYardPosition
@@ -798,7 +823,6 @@ App.UIUtil
 App.UiFactory
 App.UiRoot
 App.UnitySceneExtensions
-App.UnityServicesInitializer
 App.UnityTestScene
 App.ViewConfig
 App.ViewConfigGizmo
@@ -911,7 +935,7 @@ HpLib.DataTransfer.FirestoreV1Adapter
 HpLib.DataTransfer.FirestoreV1DataSource
 HpLib.DataTransfer.FirestoreV2Adapter
 HpLib.DataTransfer.FirestoreV2DataSource
-HpLib.DataTransfer.IFirestoreCollectionProvider
+HpLib.DataTransfer.IFirestoreCollectionNameProvider
 HpLib.DataTransfer.ITransferDataAdapter
 HpLib.DataTransfer.L
 HpLib.DataTransfer.LocalTransferState
@@ -1037,6 +1061,7 @@ HpLib.ListStackExtensions.ListStackExtensions
 HpLib.LogFilter
 HpLib.LogMinLevelSwitch
 HpLib.LoopIterator
+HpLib.MainThread
 HpLib.MaterialExtensions.MaterialExtensions
 HpLib.MathEx
 HpLib.MemoryStats
@@ -1081,6 +1106,7 @@ HpLib.Registry
 HpLib.RegularSingletonInstanciator
 HpLib.RenderTextureUtil
 HpLib.RendererUtil
+HpLib.ResetOnPlayModeEnterAttribute
 HpLib.ResistanceEnumStates
 HpLib.ResourceUtil
 HpLib.RuntimeIdGenerator
@@ -1129,7 +1155,6 @@ HpLib.TextureRegistry
 HpLib.TextureScale
 HpLib.TextureScale.ThreadData
 HpLib.TextureUtil
-HpLib.ThreadUtil
 HpLib.TimeGate
 HpLib.TimeStampMap
 HpLib.TimeStampScope
