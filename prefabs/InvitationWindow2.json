@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "name": "InvitationWindow2",
+      "children": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "HeaderText"
+    },
+    {
+      "name": "Preview"
+    },
+    {
+      "name": "CopyButton"
+    },
+    {
+      "name": "ShareButton"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

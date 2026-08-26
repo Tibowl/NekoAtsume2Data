@@ -2718,5 +2718,40 @@
     "Id": 3460,
     "IsDebug": false,
     "Dict": {}
+  },
+  {
+    "Id": 3470,
+    "IsDebug": false,
+    "Dict": {
+      "Summer": 40
+    }
+  },
+  {
+    "Id": 3480,
+    "IsDebug": false,
+    "Dict": {
+      "Summer": 40
+    }
+  },
+  {
+    "Id": 3490,
+    "IsDebug": false,
+    "Dict": {
+      "Summer": 40
+    }
+  },
+  {
+    "Id": 3500,
+    "IsDebug": false,
+    "Dict": {
+      "Summer": 40
+    }
+  },
+  {
+    "Id": 3510,
+    "IsDebug": false,
+    "Dict": {
+      "Summer": 40
+    }
   }
 ]

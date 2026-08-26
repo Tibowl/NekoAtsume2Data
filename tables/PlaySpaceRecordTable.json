@@ -14505,6 +14505,167 @@
     "MynekoSpawnBlockFlags": 0
   },
   {
+    "Id": 3470,
+    "IsDebug": false,
+    "ItemId": 347,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3480,
+    "IsDebug": false,
+    "ItemId": 348,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3490,
+    "IsDebug": false,
+    "ItemId": 349,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3500,
+    "IsDebug": false,
+    "ItemId": 350,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "10hachi_ueki"
+    ],
+    "ActionIds": [
+      0
+    ],
+    "ActionOptions": [
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 80,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3510,
+    "IsDebug": false,
+    "ItemId": 351,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "00kihon_suwari",
+      "00kihon_suwari",
+      "00kihon_nesoberi"
+    ],
+    "ActionIds": [
+      0,
+      1,
+      2
+    ],
+    "ActionOptions": [
+      0,
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": null,
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 2,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
     "Id": 50000,
     "IsDebug": false,
     "ItemId": 5000,

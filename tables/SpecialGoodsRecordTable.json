@@ -8,7 +8,8 @@
     "StampCard": -1,
     "IapId": -1,
     "DisplayOrderInShop": 10000,
-    "DisplayOrderInTrade": 0
+    "DisplayOrderInTrade": 0,
+    "DisplayOrderInAkindo": 0
   },
   {
     "Id": 2,
@@ -19,7 +20,8 @@
     "StampCard": -1,
     "IapId": -1,
     "DisplayOrderInShop": 80,
-    "DisplayOrderInTrade": 0
+    "DisplayOrderInTrade": 0,
+    "DisplayOrderInAkindo": 0
   },
   {
     "Id": 103,
@@ -30,7 +32,8 @@
     "StampCard": 1,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 4
+    "DisplayOrderInTrade": 4,
+    "DisplayOrderInAkindo": 0
   },
   {
     "Id": 104,
@@ -41,7 +44,8 @@
     "StampCard": 2,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 5
+    "DisplayOrderInTrade": 5,
+    "DisplayOrderInAkindo": 0
   },
   {
     "Id": 105,
@@ -52,7 +56,8 @@
     "StampCard": 3,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 6
+    "DisplayOrderInTrade": 6,
+    "DisplayOrderInAkindo": 0
   },
   {
     "Id": 106,
@@ -63,6 +68,7 @@
     "StampCard": -1,
     "IapId": -1,
     "DisplayOrderInShop": 0,
-    "DisplayOrderInTrade": 0
+    "DisplayOrderInTrade": 0,
+    "DisplayOrderInAkindo": 0
   }
 ]
