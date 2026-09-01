@@ -1160,7 +1160,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 8,
+    "RareMotionPermissions": 56,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -2168,7 +2168,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 59,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -2813,7 +2813,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 58,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -2853,7 +2853,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -2893,7 +2893,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -2933,7 +2933,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3508,7 +3508,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3588,7 +3588,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3674,7 +3674,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 58,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3717,7 +3717,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 58,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3828,7 +3828,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 58,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3871,7 +3871,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 58,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3914,7 +3914,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "RareMotionPermissions": 2,
+    "RareMotionPermissions": 18,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -3957,7 +3957,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "RareMotionPermissions": 2,
+    "RareMotionPermissions": 18,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -4000,7 +4000,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 80,
-    "RareMotionPermissions": 2,
+    "RareMotionPermissions": 18,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -5508,7 +5508,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 10,
+    "RareMotionPermissions": 58,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -6297,7 +6297,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 40,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -6377,7 +6377,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 40,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7213,7 +7213,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7305,7 +7305,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "RareMotionPermissions": 57,
+    "RareMotionPermissions": 25,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7351,7 +7351,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 70,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7443,7 +7443,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7489,7 +7489,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7569,7 +7569,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7658,7 +7658,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7738,7 +7738,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -7815,7 +7815,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -8052,7 +8052,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -8098,7 +8098,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -8144,7 +8144,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 50,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10142,7 +10142,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10301,7 +10301,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 60,
-    "RareMotionPermissions": 57,
+    "RareMotionPermissions": 25,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10344,7 +10344,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "RareMotionPermissions": 51,
+    "RareMotionPermissions": 3,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10387,7 +10387,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "RareMotionPermissions": 49,
+    "RareMotionPermissions": 1,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10430,7 +10430,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 90,
-    "RareMotionPermissions": 49,
+    "RareMotionPermissions": 1,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10507,7 +10507,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 11,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10550,7 +10550,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 100,
-    "RareMotionPermissions": 59,
+    "RareMotionPermissions": 27,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10593,7 +10593,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "RareMotionPermissions": 51,
+    "RareMotionPermissions": 19,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10636,7 +10636,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "RareMotionPermissions": 51,
+    "RareMotionPermissions": 19,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
@@ -10679,7 +10679,7 @@
     "GoodsRequiredDamages2": null,
     "Charm": 100,
     "Niboshi": 75,
-    "RareMotionPermissions": 51,
+    "RareMotionPermissions": 19,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },

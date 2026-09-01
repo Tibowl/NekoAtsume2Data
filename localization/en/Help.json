@@ -180,7 +180,7 @@
     "Help11045": "Kitty Coin",
     "Help11046": "You can find Kitty Coins\nin Yards when you Go out.\nCollected Kitty Coins can be spent\nat Yorozuya.",
     "Help11048": "Tap the glowing icons that appear\nin the Yard to collect Kitty Coins.\n* The amount collected is <color=\"blue\">random</color>.",
-    "Help11050": "Up to 3 Kitty Coin collections per day.\nYou can collect up to 70 Kitty Coins each week.\nOnce you reach 70, Kitty Coins will no longer appear\nin Yards when you Go out.\n* The daily collection limit resets at 4:00 AM every day.\n* The weekly collection limit resets at 4:00 AM every Monday.\n* You can hold up to 300 Kitty Coins.",
+    "Help11050": "Up to 3 Kitty Coin collections per day.\nYou can collect up to 70 Kitty Coins each week.\nOnce you reach 70, Kitty Coins will no longer appear\nin Yards when you Go out.\n* The daily collection limit resets at <color=\"red\">4:00 AM every day.</color>\n* The weekly collection limit resets at <color=\"red\">4:00 AM every Monday.</color>\n* You can hold up to <color=\"red\">300</color> Kitty Coins.",
     "Help11051": "Yorozuya & Souvenir Goodies",
     "Help11052": "Purchase <color=\"blue\">Souvenir Goodies</color>\nsold by a certain cat.\n* Not available from the shop screen.",
     "Help11054": "Souvenir Goodies can be purchased\nin two ways:\n- With <color=\"blue\">Kitty Coins</color>\n- With <color=\"blue\">paid currency</color> (includes a bonus)",
