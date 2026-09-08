@@ -16,10 +16,10 @@
       "name": "Preview"
     },
     {
-      "name": "CopyButton"
+      "name": "ShareButton"
     },
     {
-      "name": "ShareButton"
+      "name": "SaveButton"
     }
   ],
   "scene": 0,
