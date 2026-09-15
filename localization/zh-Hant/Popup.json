@@ -61,6 +61,8 @@
     "Nekonote13_2": "額外贈送\n<color=\"blue\">貓的擺設\n×1</color>！",
     "Nekonote14_1": "<color=\"red\">滿足方案特典！</color>",
     "Nekonote14_2": "額外贈送\n<color=\"blue\">貓的擺設\n×2</color>！",
+    "PlanBenefits1": "<color=\"red\">{0}特典！</color>",
+    "PlanBenefits2": "額外贈送\n<color=\"blue\">貓的擺設\n×{0}</color>！",
     "PopupLimitedGoods1": "<color=\"blue\">季節限定商品</color>\n已經新增！\n\n<color=\"red\">限時販售至 {0}</color>\n\n詳細請參閱 說明＞購物",
     "PopupLimitedGoodsEnd1": "<color=\"blue\">季節限定商品</color>的\n販售已結束\n\n《對應商品》",
     "PopupLimitedGoodsEnd2": "<color=\"red\">※注意※</color>\n非販售期間\n無法「重新購買」該商品\n\n詳細請參閱 說明＞購物",

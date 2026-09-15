@@ -428,10 +428,13 @@
     "CatName701": "专属猫咪",
     "CatName702": "专属猫咪",
     "CatName703": "专属猫咪",
+    "CatName704": "专属猫咪",
     "CatColor701": "魔幻",
     "CatColor702": "奇幻",
     "CatColor703": "变形",
+    "CatColor704": "变形",
     "CatPower701": "未知数",
     "CatPower702": "无法测量",
-    "CatPower703": "谜"
+    "CatPower703": "谜",
+    "CatPower704": "谜"
 }

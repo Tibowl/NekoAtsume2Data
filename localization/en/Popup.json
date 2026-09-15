@@ -61,6 +61,8 @@
     "Nekonote13_2": "Additionally,\nyou will receive a\n<color=\"blue\">Cat Ornament ×1</color> as a gift!",
     "Nekonote14_1": "<color=\"red\">Satisfactory Course Benefits!</color>",
     "Nekonote14_2": "Additionally,\nyou will receive a\n<color=\"blue\">Cat Ornament ×2</color> as a gift!",
+    "PlanBenefits1": "<color=\"red\">{0} Benefits!</color>",
+    "PlanBenefits2": "Additionally,\nyou will receive a\n<color=\"blue\">Cat Ornament ×{0}</color> as a gift!",
     "PopupLimitedGoods1": "<color=\"blue\">Seasonal limited edition goodies</color>\nhave been added!\n\nThey will be available for a \nlimited time until\n<color=\"red\">the end of {0}</color>.\n\nFor more details, \nplease check Help > Shop.",
     "PopupLimitedGoodsEnd1": "<color=\"blue\">Seasonal limited edition goodies</color>\nhave ended their sale.\n\n《Unavailable goodies》",
     "PopupLimitedGoodsEnd2": "<color=\"red\">* Caution *</color>\nOutside the sales period, you cannot\n\"repurchase\" goodies.\n\nFor more details, \nplease check Help > Shop.",

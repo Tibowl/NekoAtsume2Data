@@ -30,6 +30,9 @@ App.AlbumSceneArgs
 App.AlbumSceneDebugArgs
 App.AlbumSceneDebugArgsProvider
 App.AnchorDirectionExtensions
+App.AndroidStartupTrace
+App.AndroidStartupTrace.NullScope
+App.AndroidStartupTrace.TraceScope
 App.AndroidUtil
 App.AppColor
 App.AppGameObjectFactory
@@ -139,9 +142,9 @@ App.DeepLink
 App.DefaultToggleGroup
 App.DeleteCatResultExtensions
 App.Dialog
-App.DowngradePrecaution21
-App.DowngradePrecaution31
-App.DowngradePrecaution32
+App.DowngradeWarning
+App.DowngradeWarning.LanguageLayoutOverride
+App.DowngradeWarning.LayoutSettings
 App.DragMover
 App.DragMover2
 App.DragMoverUi
@@ -164,7 +167,7 @@ App.FoodPage
 App.FoodSettingsPanel
 App.FoodStockCell
 App.FoodStockPanel
-App.FoodStockPanel2
+App.FoodStockPanelController
 App.FoodStockWindow
 App.GameInit
 App.GameNekonoteState
@@ -345,6 +348,7 @@ App.MyStopwatch
 App.MynekoBookDetail
 App.MynekoBookList
 App.MynekoBookListCell
+App.MynekoBookListPage
 App.MynekoCustomizeScene
 App.MynekoNoteScene
 App.MynekoNoteSceneArgs
@@ -359,6 +363,9 @@ App.MynekoPartsSlotTypeUtil
 App.MynekoTextureGenerator
 App.NameInputField
 App.NameText
+App.NekonoteBenefitCatalog
+App.NekonoteBenefitChange
+App.NekonoteBenefits
 App.NekonoteConfirmationPanel
 App.NekonoteCourseUtil
 App.NekonoteDetailPanel
@@ -366,6 +373,8 @@ App.NekonoteDowngradePanel
 App.NekonoteHelpPanel
 App.NekonoteMenu
 App.NekonoteMenuButton
+App.NekonotePlanCatalog
+App.NekonotePlanCatalog.Plan
 App.NekonotePrecautionPanel
 App.NekonoteScene
 App.NekonoteSelectPanel
@@ -441,6 +450,7 @@ App.PlaceConfigSync
 App.PlaceConfigs
 App.PlaceId
 App.PlaceTypeExtensions
+App.PlanBanefits
 App.PlatformSpriteSwitcher
 App.PlaySpaceLottery
 App.PlaySpaceLottery.Args
@@ -452,7 +462,8 @@ App.PointerPressAccessor
 App.Popup
 App.PopupFlagUtil
 App.PopupLauncher
-App.PopupMyneko
+App.PopupMyneko3
+App.PopupMyneko4
 App.PopupText
 App.PopupTextScroll
 App.PopupTutorial
@@ -533,6 +544,7 @@ App.Save.CatStatus.Builder
 App.Save.CatStatusMap
 App.Save.ConsumableStatus
 App.Save.FavoriteResultExtensions
+App.Save.FoodStockRules
 App.Save.GameProgress
 App.Save.Gift
 App.Save.GiftData
@@ -606,6 +618,7 @@ App.Save.SaveDataWallet
 App.Save.SaveDataYard
 App.Save.SaveDataYardGoods
 App.Save.SavedSettings
+App.Save.SealAlbumCapacity
 App.Save.SealAlbumData
 App.Save.SealBookData
 App.Save.SealData
@@ -1177,6 +1190,7 @@ HpLib.NestedDictionaryExtensions
 HpLib.NetworkUtil
 HpLib.NgWordChecker
 HpLib.NonPersistentAttribute
+HpLib.NumberText
 HpLib.ObjectDestruction
 HpLib.ObjectDestructionList
 HpLib.ObjectReflectionExtensions.ObjectReflectionExtensions

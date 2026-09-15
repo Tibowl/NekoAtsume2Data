@@ -428,10 +428,13 @@
     "CatName701": "Myneko",
     "CatName702": "Myneko",
     "CatName703": "Myneko",
+    "CatName704": "Myneko",
     "CatColor701": "Magical",
     "CatColor702": "Fantasy",
     "CatColor703": "Transformable",
+    "CatColor704": "Transformable",
     "CatPower701": "Unknown",
     "CatPower702": "Inestimable",
-    "CatPower703": "Mysterious"
+    "CatPower703": "Mysterious",
+    "CatPower704": "Mysterious"
 }

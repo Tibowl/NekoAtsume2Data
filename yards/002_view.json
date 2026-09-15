@@ -9,6 +9,7 @@
     "m_PathID": -7769162355007093764
   },
   "m_Name": "002_view",
+  "allowedOperations": 3,
   "areas": [
     {
       "x": -5.51,

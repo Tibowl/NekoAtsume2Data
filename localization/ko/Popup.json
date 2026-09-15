@@ -61,6 +61,8 @@
     "Nekonote13_2": "추가로\n<color=\"blue\">고양이 장식품 ×1</color>을\n선물로 드려요!",
     "Nekonote14_1": "<color=\"red\">만족 코스 특전!</color>",
     "Nekonote14_2": "추가로\n<color=\"blue\">고양이 장식품 ×2</color>를\n선물로 드려요!",
+    "PlanBenefits1": "<color=\"red\">{0}특전!</color>",
+    "PlanBenefits2": "추가로\n<color=\"blue\">고양이 장식품 ×{0}</color>을\n선물로 드려요!",
     "PopupLimitedGoods1": "<color=\"blue\">시즌 한정 굿즈</color>가\n추가됐어요!\n\n<color=\"red\">{0}월 말까지</color>\n기간 한정으로 판매돼요\n\n자세한 내용은 도움말 ＞ 쇼핑을\n확인해 주세요",
     "PopupLimitedGoodsEnd1": "<color=\"blue\">시즌 한정 굿즈</color>의\n판매가 종료됐어요\n\n《획득 불가 굿즈》",
     "PopupLimitedGoodsEnd2": "<color=\"red\">※주의※</color>\n판매 기간이 지나면\n굿즈를 ‘버리기’나 ‘다시 사기’가\n불가능해요\n\n자세한 내용은 도움말 ＞ 쇼핑을\n확인해 주세요",

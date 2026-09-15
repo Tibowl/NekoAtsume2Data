@@ -12,7 +12,7 @@
       ]
     },
     {
-      "name": "PhotoContent[0]",
+      "name": "PhotoCell0",
       "children": [
         2,
         4,
@@ -27,13 +27,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -46,22 +46,22 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     },
     {
-      "name": "PhotoContent[1]",
+      "name": "PhotoCell1",
       "children": [
         13,
         15,
@@ -76,13 +76,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -95,22 +95,22 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     },
     {
-      "name": "PhotoContent[2]",
+      "name": "PhotoCell2",
       "children": [
         24,
         26,
@@ -125,13 +125,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -144,22 +144,22 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     },
     {
-      "name": "PhotoContent[3]",
+      "name": "PhotoCell3",
       "children": [
         35,
         37,
@@ -174,13 +174,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -193,22 +193,22 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     },
     {
-      "name": "PhotoContent[4]",
+      "name": "PhotoCell4",
       "children": [
         46,
         48,
@@ -223,13 +223,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -242,22 +242,22 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     },
     {
-      "name": "PhotoContent[5]",
+      "name": "PhotoCell5",
       "children": [
         57,
         59,
@@ -272,13 +272,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -291,19 +291,19 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     }
   ],
   "scene": 0,

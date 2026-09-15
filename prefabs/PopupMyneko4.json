@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "name": "PopupMyneko4",
+      "children": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Myneko1",
+      "children": [
+        3
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Label1",
+      "scale": [
+        1.6666665,
+        1.6666665,
+        1.6666665
+      ]
+    },
+    {
+      "name": "Myneko2",
+      "children": [
+        5
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Label2",
+      "scale": [
+        1.6666665,
+        1.6666665,
+        1.6666665
+      ]
+    },
+    {
+      "name": "Myneko3",
+      "children": [
+        7
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Label3",
+      "scale": [
+        1.6666665,
+        1.6666665,
+        1.6666665
+      ]
+    },
+    {
+      "name": "Myneko4",
+      "children": [
+        9
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "name": "Label4",
+      "scale": [
+        1.6666665,
+        1.6666665,
+        1.6666665
+      ]
+    },
+    {
+      "name": "Hooter",
+      "children": [
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Hooter"
+    },
+    {
+      "name": "Hooter2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

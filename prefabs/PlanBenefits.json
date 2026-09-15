@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "name": "PlanBenefits",
+      "children": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Images",
+      "children": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Image2",
+      "scale": [
+        0.8,
+        0.8,
+        1
+      ]
+    },
+    {
+      "name": "Image3",
+      "scale": [
+        0.8,
+        0.8,
+        1
+      ]
+    },
+    {
+      "name": "Image4",
+      "scale": [
+        0.8,
+        0.8,
+        1
+      ]
+    },
+    {
+      "name": "Hooter"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

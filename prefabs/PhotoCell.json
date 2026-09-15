@@ -16,13 +16,13 @@
       ]
     },
     {
-      "name": "SelectingImage"
+      "name": "SelectCursorImage"
     },
     {
       "name": "Pin"
     },
     {
-      "name": "BestShot"
+      "name": "BestShotIcon"
     },
     {
       "name": "LabelImages",
@@ -35,19 +35,19 @@
       ]
     },
     {
-      "name": "Image"
+      "name": "Image0"
     },
     {
-      "name": "Image (1)"
+      "name": "Image1"
     },
     {
-      "name": "Image (2)"
+      "name": "Image2"
     },
     {
-      "name": "Image (3)"
+      "name": "Image3"
     },
     {
-      "name": "Image (4)"
+      "name": "Image4"
     }
   ],
   "scene": 0,
