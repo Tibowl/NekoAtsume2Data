@@ -314,6 +314,8 @@
     "FoodStockPanel1": "饲料托付给帮手的话\n当饲料用完时\n帮手会帮你补充",
     "FoodStock1": "第一个",
     "FoodStock2": "第二个",
+    "FoodStock3": "第一个",
+    "FoodStock4": "第二个",
     "FoodStored": "已将饭托付给帮手",
     "FoodReturn": "由于取消了猫之手支持托付给帮手的饲料被返还\n\n【＜返还的饲料＞】\nゴハン名 （持有数 {0}→{0}）",
     "HelpPower0": "实习给帮手",

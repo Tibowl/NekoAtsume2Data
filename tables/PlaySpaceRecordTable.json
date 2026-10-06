@@ -2009,7 +2009,8 @@
       "00kihon_nesoberi",
       "00kihon_suwari",
       "00kihon_suwari",
-      "00kihon_ammonyaite"
+      "00kihon_ammonyaite",
+      "109"
     ],
     "ActionIds": [
       0,
@@ -2017,9 +2018,11 @@
       2,
       0,
       1,
-      0
+      0,
+      1
     ],
     "ActionOptions": [
+      0,
       0,
       0,
       0,
@@ -2033,7 +2036,8 @@
       3,
       3,
       3,
-      1
+      1,
+      3
     ],
     "GoodsAnimeId": null,
     "GoodsExchangeModuleId": null,

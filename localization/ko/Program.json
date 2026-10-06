@@ -314,6 +314,8 @@
     "FoodStockPanel1": "도와주는 고양이 씨게 밥을 맡기면\n밥이 떨어졌을 때\n대신 보충해 줘요",
     "FoodStock1": "첫 번째",
     "FoodStock2": "두 번째",
+    "FoodStock3": "첫 번째",
+    "FoodStock4": "두 번째",
     "FoodStored": "도와주는 고양이 씨게 밥을 맡겼어요",
     "FoodReturn": "고양이손 서포트 해지로 인해\n도와주는 고양이 씨게 맡겨두었던\n밥이 반환되었어요\n\n【＜반환된 밥＞】\nゴハン名 (소지 수량 {0} → {0})",
     "HelpPower0": "견습 도우미",

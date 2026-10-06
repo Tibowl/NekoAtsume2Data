@@ -29,8 +29,7 @@
         6,
         7,
         8,
-        9,
-        12
+        9
       ]
     },
     {
@@ -46,30 +45,7 @@
       "name": "Submit"
     },
     {
-      "name": "Stock1",
-      "children": [
-        10,
-        11
-      ]
-    },
-    {
-      "name": "Title"
-    },
-    {
-      "name": "Plus"
-    },
-    {
-      "name": "Stock2",
-      "children": [
-        13,
-        14
-      ]
-    },
-    {
-      "name": "Title"
-    },
-    {
-      "name": "Image"
+      "name": "FoodStockContent"
     }
   ],
   "scene": 0,

@@ -316,6 +316,8 @@
     "FoodStockPanel1": "If you leave snacks with\nthe Helper､ she will replenish\nit when it runs out.",
     "FoodStock1": "First",
     "FoodStock2": "Second",
+    "FoodStock3": "First",
+    "FoodStock4": "Second",
     "FoodStored": "Snack has been left\nwith the Helper.",
     "FoodReturn": "With the cancellation of\nCat's Club､ the Snack left with\nthe Helper has been returned.\n\n【＜Returned Snack＞】\nゴハン名 (Quantity {0} → {0})",
     "HelpPower0": "Trainee Helper",
