@@ -13327,7 +13327,9 @@
     "Id": 3060,
     "IsDebug": false,
     "ItemId": 306,
-    "ConflictIndices": [],
+    "ConflictIndices": [
+      1
+    ],
     "ActionNames": [
       "06jarashi_mushi"
     ],
@@ -13338,7 +13340,9 @@
       0
     ],
     "ActionWeights": null,
-    "GoodsAnimeId": null,
+    "GoodsAnimeId": [
+      1
+    ],
     "GoodsExchangeModuleId": null,
     "GoodsRequiredDamages": null,
     "ActionNames2": null,
@@ -13353,6 +13357,45 @@
     "RareMotionPermissions": 0,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3061,
+    "IsDebug": false,
+    "ItemId": 306,
+    "ConflictIndices": [
+      0
+    ],
+    "ActionNames": [
+      "06jarashi_mushi",
+      "119"
+    ],
+    "ActionIds": [
+      2,
+      1
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": [
+      1,
+      -1
+    ],
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 130,
+    "Niboshi": 100,
+    "RareMotionPermissions": 0,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 7
   },
   {
     "Id": 3070,
@@ -15588,6 +15631,43 @@
     "Charm": 100,
     "Niboshi": 100,
     "RareMotionPermissions": 2,
+    "Z": 0.0,
+    "MynekoSpawnBlockFlags": 0
+  },
+  {
+    "Id": 3520,
+    "IsDebug": false,
+    "ItemId": 352,
+    "ConflictIndices": [],
+    "ActionNames": [
+      "06jarashi_mushi",
+      "110"
+    ],
+    "ActionIds": [
+      2,
+      3
+    ],
+    "ActionOptions": [
+      0,
+      0
+    ],
+    "ActionWeights": null,
+    "GoodsAnimeId": [
+      1,
+      -1
+    ],
+    "GoodsExchangeModuleId": null,
+    "GoodsRequiredDamages": null,
+    "ActionNames2": null,
+    "ActionIds2": null,
+    "ActionOptions2": [],
+    "ActionWeights2": null,
+    "GoodsAnimeId2": null,
+    "GoodsExchangeModuleId2": null,
+    "GoodsRequiredDamages2": null,
+    "Charm": 100,
+    "Niboshi": 100,
+    "RareMotionPermissions": 0,
     "Z": 0.0,
     "MynekoSpawnBlockFlags": 0
   },
